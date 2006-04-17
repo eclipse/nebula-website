@@ -20,12 +20,13 @@
 
 	# Define your project-wide Nav bars here.
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
-	$Nav->addNavSeparator("Nebula Home", "/nebula/");
+	$Nav->addCustomNav("Nebula Home", "/nebula/","_self", 2);
 	$Nav->addNavSeparator("Widgets", "");
 	$Nav->addCustomNav("Widget 1", 			"404",	 		"_self", 2);
 	$Nav->addNavSeparator("Community", "");
 	$Nav->addCustomNav("Newsgroup", "news://news.eclipse.org/eclipse.technology.nebula","_self", 2);
-	$Nav->addCustomNav("Development/Contributors Mailing List", "https://dev.eclipse.org/mailman/listinfo/nebula-dev","_self", 2);
+	$Nav->addCustomNav("Development & Contributors Mailing List", "https://dev.eclipse.org/mailman/listinfo/nebula-dev","_self", 2);
+	$Nav->addCustomNav("How To Contribute", "404","_self", 2);
 	$Nav->addCustomNav("Bugs", 		"www.eclipse.org/bugs/", 	"_self", 2);
 
 ?>

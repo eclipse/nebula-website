@@ -33,7 +33,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Open Source Community</h2>
+		<h2>Supplemental Custom Widgets for SWT</h2>
 		<p> Eclipse is an open source community whose projects are focused on providing an extensible development platform and application frameworks for building software. Eclipse provides extensible tools and frameworks that span the software development lifecycle, including support for modeling, language development environments for Java, C/C++ and others, testing and performance, business intelligence, rich client applications and embedded development. A large, vibrant ecosystem of major technology vendors, innovative start-ups, universities and research institutions and individuals extend, complement and support the Eclipse Platform.<br /> <a href="#">more about eclipse &raquo;</a> </p>
 		<div class="homeitem">
 			<h3>Community News</h3>

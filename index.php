@@ -15,14 +15,18 @@
 	#
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Nebula Project";
-	$pageKeywords	= "Type, page, keywords, here";
-	$pageAuthor		= "Type your name here";
+	$pageKeywords	= "Nebula, SWT, Widgets, Controls";
+	$pageAuthor		= "Chris Gross";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
+	$Nav->addCustomNav("Contributing", "contributing.php");
+	$Nav->addCustomNav("Downloads", "");
+	$Nav->addCustomNav("Bugs", "http://www.eclipse.org/bugs");
+
 
 	# End: page-specific settings
 	#

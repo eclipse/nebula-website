@@ -27,6 +27,6 @@
 	$Nav->addCustomNav("Newsgroup", "news://news.eclipse.org/eclipse.technology.nebula","_self", 2);
 	$Nav->addCustomNav("Development & Contributors Mailing List", "https://dev.eclipse.org/mailman/listinfo/nebula-dev","_self", 2);
 	$Nav->addCustomNav("How To Contribute", "404","_self", 2);
-	$Nav->addCustomNav("Bugs", 		"www.eclipse.org/bugs/", 	"_self", 2);
+	$Nav->addCustomNav("Bugs", 		"http://www.eclipse.org/bugs/", 	"_self", 2);
 
 ?>

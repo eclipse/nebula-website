@@ -23,9 +23,6 @@
 	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
-	$Nav->addCustomNav("Contributing", "contributing.php");
-	$Nav->addCustomNav("Downloads", "");
-	$Nav->addCustomNav("Bugs", "http://www.eclipse.org/bugs");
 
 
 	# End: page-specific settings

@@ -46,7 +46,7 @@
 		   <h3>Widgets</h3>
 		      <ul>
 		         <li><a href="http://somesite">Widget 1</a>
-		         <p>Sample text Sample textSample text Sample textSample text Sample textSample text Sample text
+		         <BR>Sample text Sample textSample text Sample textSample text Sample textSample text Sample text
 		         </li>
 		         <li><a href="http://somesite">Widget 2</a></li>
 		      </ul>

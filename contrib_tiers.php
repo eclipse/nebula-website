@@ -38,16 +38,15 @@
 		progress, method signatures may change and features may be removed and/or added.  So in order
 		 to try to give Nebula users an indication of a widget's stability, each widget will
 		be organized into either tier 1 or tier 2.  
-
+		<p>
 		<ul>
 		<li><b>Tier 1</b>
-		<p>
-		All initial widget contributions will start at tier 1.  Tier 1 should be considered the least
-		supported of all tiers.  Widget authors may have not completed their widget yet.  Many changes
+		All initial widget contributions will start at tier 1.  At tier 1 widgets should be considered (at best) minimally
+		supported.  Widget authors may have not completed their widget yet.  Many changes
 		will likely occur while a widget is in tier 1.
 		</li>
-		<li><b>Tier 2</b>
 		<p>
+		<li><b>Tier 2</b>
 		At tier 2, widget should be mostly feature complete.  Though tier 2 widgets are still not
 		100% supported API, users can assume a smaller amount of changes will likely occur.  If an 
 		author wishes his/her widget to be included in SWT, this is the proper time to start discussing

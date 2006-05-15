@@ -40,12 +40,12 @@
 		review the follow steps on how contributions can be made to Nebula.
 		<p>
 		<b>Before starting the process, please ensure that you will be able to pass legal approval.  New committers that do 
-		not work for Eclipse Member companies will require approval of their employeer.  Contributed code must be able to 
+		not work for Eclipse Member companies will require approval of their employeer.  Contributed code must be able to be
 		licensed under the EPL.</b> 
 	
 		<ol>
 		<li><b>Get Approval</b> -  As with most open source contributions, you must first get approval.  Approval is granted
-		on the Nebula mailing list.  Post a message describing your widget as well as a link to your source code.  The Nebula 
+		on the Nebula <a href='https://dev.eclipse.org/mailman/listinfo/nebula-dev'>mailing list</a>.  Post a message describing your widget as well as a link to your source code.  The Nebula 
 		committers will review your code and your widget to determine if its a fit for Nebula.  A vote will subsequently be taken
 		on the mailing list.</li>
 		<li><b>Become a Committer</b> - If your contribution is approved, the next step is to become a formal Nebula committer.  

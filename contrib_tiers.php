@@ -40,13 +40,13 @@
 		be organized into either tier 1 or tier 2.  
 		<p>
 		<ul>
-		<li><b>Tier 1</b>
+		<li><b>Tier 1</b><BR>
 		All initial widget contributions will start at tier 1.  At tier 1 widgets should be considered (at best) minimally
 		supported.  Widget authors may have not completed their widget yet.  Many changes
 		will likely occur while a widget is in tier 1.
 		</li>
 		<p>
-		<li><b>Tier 2</b>
+		<li><b>Tier 2</b><BR>
 		At tier 2, widget should be mostly feature complete.  Though tier 2 widgets are still not
 		100% supported API, users can assume a smaller amount of changes will likely occur.  If an 
 		author wishes his/her widget to be included in SWT, this is the proper time to start discussing

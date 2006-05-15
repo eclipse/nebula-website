@@ -37,8 +37,17 @@
 		<p>The Nebula project is a source for custom SWT widgets.  Nebula is also an incubator for 
 		SWT.  Some Nebula widgets will graduate into SWT and therefore into the main Eclipse Platform.
 		<p>
-		All Nebula widgets are available on the navigation tree on the left.  Each widget page will
-		contain information as well as the download for the widget.
+		All Nebula widgets are available on the navigation tree on the left or from the table below.
+		  Each widget page will contain information as well as the download for that widget.
+
+
+		<div class="homeitem">
+		   <h3>Widgets</h3>
+		      <ul>
+		         <li><a href="http://somesite">Widget 1</a></li>
+		         <li><a href="http://somesite">Widget 2</a></li>
+		      </ul>
+		</div>
 
 		<hr class="clearer" />
 	</div>

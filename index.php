@@ -40,11 +40,14 @@
 		All Nebula widgets are available on the navigation tree on the left or from the table below.
 		  Each widget page will contain information as well as the download for that widget.
 
-
+		<p>
+		
 		<div class="homeitem">
 		   <h3>Widgets</h3>
 		      <ul>
-		         <li><a href="http://somesite">Widget 1</a></li>
+		         <li><a href="http://somesite">Widget 1</a>
+		         <p>Sample text Sample textSample text Sample textSample text Sample textSample text Sample text
+		         </li>
 		         <li><a href="http://somesite">Widget 2</a></li>
 		      </ul>
 		</div>

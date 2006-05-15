@@ -33,7 +33,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Do you have a really widget that you'd like to contribute to Nebula and potentially to SWT?
+		<p>Do you have a really cool widget that you'd like to contribute to Nebula and potentially to SWT?
 		<p>Contributing a widget to Nebula requires that you become a full committer.  The Nebula project does not
 		have full time resources to manage and support your contribution.  Instead you will become a committer with
 		full rights to update your contribution.  But first, you must get approval for your contribution.  Please 
@@ -53,7 +53,7 @@
 		Then complete the <a href='http://www.eclipse.org/legal/newcommitter.php'>new committer process</a>.</li>
 		<li><b>Contribution IP Approval</b> - Once you are a committer, you will need to have your code pass the <a href='http://www.eclipse.org/legal/EclipseLegalProcessPoster-v1.2.4.pdf'>Eclipse legal process</a>.  
 		The first step is to complete the <a href='http://www.eclipse.org/legal/ContributionQuestionnairePart1-v1.0.php'>contribution questionnaire</a>.
-		Once your contribution is approved, you are ready to upload your code into the CVS repository.</li>
+		You will receive an email from an Eclipse representative when/if your contribution is approved.  Then you're ready to upload your code into the CVS repository.</li>
 		</ol>
 
 		<hr class="clearer"/>

@@ -47,7 +47,7 @@
 		</li>
 		<p>
 		<li><b>Tier 2</b><BR>
-		At tier 2, widget should be mostly feature complete.  Though tier 2 widgets are still not
+		At tier 2, widgets should be mostly feature complete.  Though tier 2 widgets are still not
 		100% supported API, users can assume a smaller amount of changes will likely occur.  If an 
 		author wishes his/her widget to be included in SWT, this is the proper time to start discussing
 		requirements with the SWT team.  In order for a widget to graduate from Nebula into SWT, it

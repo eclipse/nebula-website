@@ -36,8 +36,12 @@
 		<h2>Grid</h2>
 		
 		<img src='grid.png'>
+		<p>
+		The Grid widget is a spreadsheet/table component that offers features not currently found in
+		the base SWT Table.  Features include column grouping, column spanning, row headers, and more.
+		<p>
 		
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_grid.zip'>download</a>
+		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_grid.zip'>Download the Grid widget</a>
 
 
 		<hr class="clearer"/>

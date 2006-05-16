@@ -45,10 +45,10 @@
 		<div class="homeitem">
 		   <h3>Widgets</h3>
 		      <ul>
-		         <li><a href="http://somesite">Widget 1</a>
-		         <BR>Sample text Sample textSample text Sample textSample text Sample textSample text Sample text
+		         <li><a href="/widgets/grid.php">Grid</a>
+		         <BR>The Grid is a table component that offers spreadsheet like features while 
+		         maintaining the traditional SWT Table-like API.
 		         </li>
-		         <li><a href="http://somesite">Widget 2</a></li>
 		      </ul>
 		</div>
 

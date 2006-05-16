@@ -35,7 +35,7 @@
 		<h1>$pageTitle</h1>
 		<h2>Grid</h2>
 		
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_grid.jar'>download</a>
+		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_grid.zip'>download</a>
 
 
 		<hr class="clearer"/>

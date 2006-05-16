@@ -22,7 +22,7 @@
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	$Nav->addCustomNav("Nebula Home", "/nebula/","_self", 2);
 	$Nav->addNavSeparator("Widgets", "");
-	$Nav->addCustomNav("Grid", 			"/nebula/widgets/grid.php",	 		"_self", 2);
+	$Nav->addCustomNav("Grid", 			"/nebula/widgets/grid/grid.php",	 		"_self", 2);
 	$Nav->addNavSeparator("Community", "");
 	$Nav->addCustomNav("Newsgroup", "news://news.eclipse.org/eclipse.technology.nebula","_self", 2);
 	$Nav->addCustomNav("Development & Contributors Mailing List", "https://dev.eclipse.org/mailman/listinfo/nebula-dev","_self", 2);

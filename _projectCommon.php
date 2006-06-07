@@ -21,6 +21,7 @@
 	# Define your project-wide Nav bars here.
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	$Nav->addCustomNav("Nebula Home", "/nebula/","_self", 2);
+	$Nav->addCustomNav("Examples Gallery","/nebula/examples.php","_self", 2);	
 	$Nav->addNavSeparator("Widgets", "");
 	$Nav->addCustomNav("Grid", 			"/nebula/widgets/grid/grid.php",	 		"_self", 2);
 	$Nav->addNavSeparator("Community", "");

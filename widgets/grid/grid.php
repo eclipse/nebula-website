@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula Widget";
+	$pageTitle 		= "Nebula Grid Widget";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls";
 	$pageAuthor		= "Chris Gross";
 	
@@ -40,6 +40,8 @@
 		The Grid widget is a spreadsheet/table component that offers features not currently found in
 		the base SWT Table.  Features include column grouping, column spanning, row headers, and more.
 		<p>
+		
+		<a href='snippets.php'>Grid Snippets</a>
 		
 		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_grid.zip'>Download the Grid widget</a>
 

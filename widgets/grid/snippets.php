@@ -35,7 +35,8 @@
 		<h1>$pageTitle</h1>
 
 		Please see the <a href="http://www.eclipse.org/swt/snippets/">SWT Snippets page</a> for information on snippets and how to run a snippet.
-
+		<p>
+		
 		<ul>
 		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/grid/GridSnippet1.java?cvsroot=Technology_Project'>A simple hierarchical grid</a></li>
 		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/grid/GridSnippet2.java?cvsroot=Technology_Project'>create an item that spans columns</a></li>

@@ -42,7 +42,7 @@
 		<p>
 		
 		<a href='snippets.php'>Grid Snippets</a>
-		<BR>
+		<p>
 		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_grid.zip'>Download the Grid widget</a>
 
 

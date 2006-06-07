@@ -36,7 +36,7 @@
 		<h2>Grid</h2>
 		
 		The Nebula examples plugin adds a view to your Eclipse installation.  This view is essentially
-		a gallery of the Nebula widgets where you play with each widget to get a sense of its
+		a gallery of the Nebula widgets where you can play with each widget to get a sense of its
 		abilities.
 		<p>
 		Simply download the zip file below, add the two plugin jars to your Eclipse plugins directory,

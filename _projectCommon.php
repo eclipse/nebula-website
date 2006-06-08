@@ -29,7 +29,7 @@
 	$Nav->addCustomNav("Development & Contributors Mailing List", "https://dev.eclipse.org/mailman/listinfo/nebula-dev","_self", 2);
 	$Nav->addCustomNav("Bugs", 		"http://bugs.eclipse.org/bugs/", 	"_self", 2);
 	$Nav->addNavSeparator("Contributing", "");
-	$Nav->addCustomNav("How to Contribute", "contrib_process.php","_self", 2);
-	$Nav->addCustomNav("Contribution Tiers", "contrib_tiers.php","_self", 2);
+	$Nav->addCustomNav("How to Contribute", "/nebula/contrib_process.php","_self", 2);
+	$Nav->addCustomNav("Contribution Tiers", "/nebula/contrib_tiers.php","_self", 2);
 
 ?>

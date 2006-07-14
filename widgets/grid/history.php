@@ -34,7 +34,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 
-		<h3>7/14/06 Update<h3>
+		<h3>7/14/06 Update</h3>
 		<ul>
 		<li>First pass of cell selection.  Use Grid.setCellSelection(true).</li>
 		<li>Some methods names changed to better reflect SWT practices.  Methods named isXXXX were renamed to getXXXX if they simply returned the property value.</li>

@@ -34,7 +34,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		
-		<h3>7/14/06 Update</h3>
+		<h3>8/14/06 Update</h3>
 		<ul>
 		<li>GridEditor layout issue resolved.  [<a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=153729'>153729</a>]</li>
 		<li>First pass of in-place tooltips.</li>

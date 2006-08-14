@@ -33,10 +33,16 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
+		
+		<h3>7/14/06 Update</h3>
+		<ul>
+		<li>GridEditor layout issue resolved.  [<a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=153729'>153729</a>]</li>
+		<li>First pass of in-place tooltips.</li>
+		</ul>
 
 		<h3>7/24/06 Update</h3>
 		<ul>
-		<li>Disposed events now fired as appropriate [<a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=151352'>151352</a>]</li>
+		<li>Disposed events now fired as appropriate.  [<a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=151352'>151352</a>]</li>
 		<li>Images are now displayed in cells.</li>
 		<li>Removed test code which cause cell 2,2 to be automatically selected at construction.</li>
 		</ul>

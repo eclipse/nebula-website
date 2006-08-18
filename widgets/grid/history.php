@@ -34,6 +34,12 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		
+		<h3>8/18/06 Update</h3>
+		<ul>
+		<li>GridItem.getBounds(int) updated to return correct bounds when item is invisible.</li>
+		<li>Removing items in certain scenarios can cause the scrollbars to have incorrect values.  [<a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=154381'>154381</a>]</li>
+		</ul>
+		
 		<h3>8/14/06 Update</h3>
 		<ul>
 		<li>GridEditor layout issue resolved.  [<a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=153729'>153729</a>]</li>

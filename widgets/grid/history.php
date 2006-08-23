@@ -34,6 +34,13 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		
+		<h3>8/23/06 Update</h3>
+		<ul>
+		<li>GridItem.setHeaderText(String) added to allow custom text for row headers.</li>
+		<li>Redraw changes to minimize XP border flickering.</li>
+		<li>Various changes to renderer contracts for row and column headers.  Row header renderers now receive the GridItem in the computeSize method.  All header renderers must now extend GridHeaderRenderer.</li>
+		</ul>
+		
 		<h3>8/18/06 Update</h3>
 		<ul>
 		<li>GridItem.getBounds(int) updated to return correct bounds when item is invisible.</li>

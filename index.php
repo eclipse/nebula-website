@@ -49,6 +49,10 @@
 		         <BR>The Grid is a table component that offers spreadsheet like features while 
 		         maintaining the traditional SWT Table-like API.
 		         </li>
+		         <li><a href="/nebula/widgets/ctabletree/ctabletree.php">CTableTree</a>
+		         <BR>The CTableTree is a table-tree component which uses dynamic custom cells while 
+		         maintaining the traditional SWT Table/Tree-like API.
+		         </li>
 		      </ul>
 		</div>
 

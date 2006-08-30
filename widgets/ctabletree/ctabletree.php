@@ -38,9 +38,11 @@
 		<img src='ctabletree.png'>
 		<p>
 		The CTableTree widget is a custom TableTree component created with two primary
-		purposes.  1. Allow items to expand and collapse independently of one another; and
-		2. Separate the creation and maintenance of Cells from the implementation of the
-		TableTree.
+		purposes.
+		<ol>
+			<li>Allow items to expand and collapse independently of one another</li>
+			<li>Separate the creation and maintenance of Cells from the implementation of the TableTree</li>
+		</ol>
 		</p>
 		<p>
 		At its heart, the CTableTree widget is simply a container for custom cells which are

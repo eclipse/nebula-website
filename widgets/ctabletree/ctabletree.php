@@ -59,13 +59,17 @@
 		NOTE: The CTableTree widget is still under active development.<br>
 		The code is made available in an
 		<font color=red><b>ALPHA</b></font> state.  Users should expect changes in future versions.
+		</p>
 		
 		<p>
 		<a href='snippets.php'>CTableTree Snippets</a>
+		</p>
 		<p>
-		<a><font color="#999999">Download the CTableTree widget - Alpha Version</font></a>
+		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_ctabletree_alpha.zip'>Download the CTableTree widget - Alpha Version</a>
+		</p>
 		<p>
-		<a><font color="#999999">Update History (like release notes)</font></a>
+		<a href='history.php'>Update History (like release notes)</a>
+		</p>
 
 
 		<hr class="clearer"/>

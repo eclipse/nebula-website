@@ -14,8 +14,8 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula CTableTree Snippets";
-	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Snippets";
+	$pageTitle 		= "Nebula CTableTree History";
+	$pageKeywords	= "Nebula, SWT, Widgets, Controls, History";
 	$pageAuthor		= "Jeremy Dowdall";
 	
 	# Add page-specific Nav bars here
@@ -36,7 +36,7 @@
 		
 		<h3>8/30/06 Update</h3>
 		<ul>
-		<li>Website up!</li>
+		<li>The initial website is up!</li>
 		</ul>
 		
 		<hr class="clearer"/>

@@ -38,12 +38,12 @@
 		<p>
 		
 		<ul>
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/CTableTreeSnippet1.java?cvsroot=Technology_Project'>A CTableTree with the Tree in the 2nd Column</a></li>
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/CTableTreeSnippet2.java?cvsroot=Technology_Project'>A CTableTree with Custom Cells</a><br>
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/CTableTreeSnippet1.java?rev=1.4&cvsroot=Technology_Project'>A CTableTree with the Tree in the 2nd Column</a></li>
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/CTableTreeSnippet2.java?rev=1.7&cvsroot=Technology_Project'>A CTableTree with Custom Cells</a><br>
 			The custom cells:
 			<ul>
-				<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/MultiLineCell.java?cvsroot=Technology_Project'>MultiLineCell - A base style cell with dynamic toggle</li>
-				<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/MultiLineTextCell.java?cvsroot=Technology_Project'>MultiLineTextCell - A TITLE style cell with SWT Text widget</li>
+				<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/MultiLineCell.java?rev=1.3&cvsroot=Technology_Project'>MultiLineCell - A base style cell with dynamic toggle</li>
+				<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/MultiLineTextCell.java?rev=1.5&cvsroot=Technology_Project'>MultiLineTextCell - A TITLE style cell with SWT Text widget</li>
 				<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/TableCell.java?cvsroot=Technology_Project'>TableCell - A DROP_DOWN style cell with a SWT Table widget</li>
 			</ul>			
 		</li>

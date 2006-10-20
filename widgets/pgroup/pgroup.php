@@ -33,7 +33,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Grid</h2>
+		<h2>PGroup</h2>
 		
 		<img src='pgroup.png'>
 		<p>

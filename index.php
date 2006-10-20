@@ -54,7 +54,7 @@
 		         maintaining the traditional SWT Table/Tree-like API.
 		         </li>
 		         <li><a href="/nebula/widgets/pgroup/pgroup.php">PGroup</a>
-		         <BR>The PGroup widget is a expandable/collapsible composite widget with attractive styling and 
+		         <BR>PGroup is a expandable/collapsible composite widget with attractive styling and 
 		an extensible design.
 		         </li>
 		      </ul>

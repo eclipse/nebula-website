@@ -2,19 +2,19 @@
 
 	#*****************************************************************************
 	#
-	# template.php
+	# contrib_tiers.php
 	#
-	# Author: 		Denis Roy
-	# Date:			2005-06-16
+	# Author: 		Chris Gross
+	# Date:			2006-05-07
 	#
-	# Description: Type your page comments here - these are not sent to the browser
+	# Description: Describes the tiers in Nebula.
 	#
 	#
 	#****************************************************************************
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula Project";
+	$pageTitle 		= "Nebula PGroup Widget";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls";
 	$pageAuthor		= "Chris Gross";
 	
@@ -33,34 +33,26 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Supplemental Custom Widgets for SWT</h2>
-		<p>The Nebula project is a source for custom SWT widgets.  Nebula is also an incubator for 
-		SWT.  Some Nebula widgets will graduate into SWT and therefore into the main Eclipse Platform.
-		<p>
-		All Nebula widgets are available on the navigation tree on the left or from the table below.
-		  Each widget page will contain information as well as the download for that widget.
-
-		<p>
+		<h2>Grid</h2>
 		
-		<div class="homeitem">
-		   <h3>Widgets</h3>
-		      <ul>
-		         <li><a href="/nebula/widgets/grid/grid.php">Grid</a>
-		         <BR>The Grid is a table component that offers spreadsheet like features while 
-		         maintaining the traditional SWT Table-like API.
-		         </li>
-		         <li><a href="/nebula/widgets/ctabletree/ctabletree.php">CTableTree</a>
-		         <BR>The CTableTree is a table-tree component which uses dynamic custom cells while 
-		         maintaining the traditional SWT Table/Tree-like API.
-		         </li>
-		         <li><a href="/nebula/widgets/pgroup/pgroup.php">PGroup</a>
-		         <BR>The PGroup widget is a expandable/collapsible composite widget with attractive styling and 
+		<img src='pgroup.png'>
+		<p>
+		The PGroup widget is a expandable/collapsible composite widget with attractive styling and 
 		an extensible design.
-		         </li>
-		      </ul>
-		</div>
 
-		<hr class="clearer" />
+		<p>
+		NOTE: The PGroup widget is still under active development.  The code is made available in an
+		<font color=red><b>ALPHA</b></font> state.  Users should expect changes in future versions.
+		
+		<p>
+		<a href='snippets.php'>PGroup Snippets</a>
+		<p>
+		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_pgroup_alpha.zip'>Download the PGroup widget - Alpha Version</a>
+		<p>
+		<a href='history.php'>Update History (like release notes)</a>
+
+
+		<hr class="clearer"/>
 	</div>
 
 

@@ -35,7 +35,7 @@
 		<h1>$pageTitle</h1>
 		<h2>PShelf</h2>
 		
-		<img src='pshelf.png'>
+		<img src='pshelf.PNG'>
 		<p>
 		The PGroup widget is a composite widget that is similar to a tab folder.  It contains items 
 		which can be selected to show their client areas.

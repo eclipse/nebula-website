@@ -37,7 +37,7 @@
 		
 		<img src='pshelf.PNG'>
 		<p>
-		The PGroup widget is a composite widget that is similar to a tab folder.  It contains items 
+		The PShelf widget is a composite widget that is similar to a tab folder.  It contains items 
 		which can be selected to show their client areas.
 
 		<p>

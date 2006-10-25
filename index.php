@@ -57,6 +57,10 @@
 		         <BR>PGroup is a expandable/collapsible composite widget with attractive styling and 
 		an extensible design.
 		         </li>
+		        <li><a href="/nebula/widgets/pshelf/pshelf.php">PShelfp</a>
+		         <BR>PShelf is a composite widget similar to a tab folder but uses an accordion-like
+		         metaphor.
+		         </li>
 		      </ul>
 		</div>
 

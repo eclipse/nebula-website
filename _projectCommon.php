@@ -34,5 +34,6 @@
 	$Nav->addNavSeparator("Contributing", "");
 	$Nav->addCustomNav("How to Contribute", "/nebula/contrib_process.php","_self", 2);
 	$Nav->addCustomNav("Contribution Tiers", "/nebula/contrib_tiers.php","_self", 2);
+	$Nav->addCustomNav("Widget Author Tips", "/nebula/author_tips.php","_self", 2);
 
 ?>

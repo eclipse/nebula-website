@@ -73,7 +73,12 @@
 		<li><b>isXXX vs getXXX.</b>  Follow the proper conventions for boolean getters.  Preface methods which
 		simply return a property value with 'get'.  Preface methods which return the status of a property
 		based on more complex logic with 'is' (ex getVisible/setVisible/isVisible).
-		</li>					
+		</li>	
+		<li><b>Don't forget to redraw.</b>  When a method changes a value that affects the visual appearance of 
+		your widget it will need to be redrawn.  Redraws can occur automatically for a variety of reasons and during 
+		testing it may not be obvious that a redraw was missing.  All methods that affect the visual appearance need
+		to end in redraw().
+		</li>							
 		<li><b>Be transparent friendly.</b>  TODO
 		</li>			
 		<li><b>Popups.</b>  TODO

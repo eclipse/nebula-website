@@ -69,8 +69,14 @@
 		</li>							
 		<li><b>Don't forget SWT.RIGHT_TO_LEFT and SWT.LEFT_TO_RIGHT.</b>  In the aforementioned checkStyle method, 
 		don't forget to accept the two BiDi styles.
-		</li>			
+		</li>	
+		<li><b>isXXX vs getXXX</b>  Follow the proper conventions for getters.  Preface methods which
+		simply return a property value with 'get'.  Preface methods which return the status of a property
+		based on more complex logic with 'is' (ex getVisible/setVisible/isVisible).
+		</li>					
 		<li><b>Be transparent friendly.</b>  TODO
+		</li>			
+		<li><b>Popups.</b>  TODO
 		</li>			
 		</ul>
 

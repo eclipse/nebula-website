@@ -62,7 +62,7 @@
 		<li><b>Dispose of items.</b>  If your widget contains items, you will need to dispose of the items
 		when the main widget is disposed.
 		</li>	
-		<li><b>checkStyle.</b>  SWT widgets are driven by style bits.  As a general guidelines, include 
+		<li><b>checkStyle.</b>  SWT widgets are driven by style bits.  As a general guideline, include 
 		a simple static method that filters those styles utilized by your widget (and call it checkStyle).  
 		This method should return the filtered style which can then be passed down to the super constructor.  
 		This will allow the getStyle method to answer correctly.
@@ -70,7 +70,7 @@
 		<li><b>Don't forget SWT.RIGHT_TO_LEFT and SWT.LEFT_TO_RIGHT.</b>  In the aforementioned checkStyle method, 
 		don't forget to accept the two BiDi styles.
 		</li>	
-		<li><b>isXXX vs getXXX.</b>  Follow the proper conventions for getters.  Preface methods which
+		<li><b>isXXX vs getXXX.</b>  Follow the proper conventions for boolean getters.  Preface methods which
 		simply return a property value with 'get'.  Preface methods which return the status of a property
 		based on more complex logic with 'is' (ex getVisible/setVisible/isVisible).
 		</li>					

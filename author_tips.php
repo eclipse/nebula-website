@@ -45,9 +45,7 @@
 		<li><b>Be wary of ScrolledComposite.</b>  ScrolledComposite can allow you to quickly and 
 		easily add scrolling to your widget but there are limitations.  Windows has a limitation on 
 		the maximum size of a control (32k pixels).  Therefore your widget will have a maximum size to its 
-		content.  Also, ScrolledComposite scrolls your content pixel-by-pixel.  Generally widgets 
-		should scroll by row or by item.  In other words, each click on the scrollbar arrow should 
-		move the top item of the widget by one.
+		content.
 		</li>
 		<li><b>Fail fast - use checkWidget.</b>  Each public method should be prefaced with a call
 		to checkWidget.

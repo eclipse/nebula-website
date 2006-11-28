@@ -27,7 +27,7 @@
 
   --> 
   <name>Supplemental Widgets for SWT (Nebula)</name>
-  <short-name>technology.nebula</short-name> 
+  <short-name>Nebula</short-name> 
 - <!-- 
      - Each Eclipse project has one or more Bugzilla products and components.
      - Some projects also have a separate web page describing how to submit

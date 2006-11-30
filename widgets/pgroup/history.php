@@ -34,9 +34,13 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 
-		<h3>10/20/06 Update</h3>
+		<h3>11/3/06 Update</h3>
 		<ul>
 		<li>Fixed PGroup jar to include all necessary classes. (doh)</li>
+		</ul>
+		
+		<h3>10/20/06 Update</h3>
+		<ul>
 		<li>Updated FormGroupStrategy drawing behavior to correctly fade to the parent's background.</li>
 		</ul>
 

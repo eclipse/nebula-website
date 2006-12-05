@@ -34,6 +34,11 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 
+		<h3>12/5/06 Update</h3>
+		<ul>
+		<li>Updated background drawing code to show parent's background (using SWT.INHERIT_DEFAULT) behind the rounded corners when the group's background color has been modified.</li>
+		</ul>
+
 		<h3>11/3/06 Update</h3>
 		<ul>
 		<li>Fixed PGroup jar to include all necessary classes. (doh)</li>

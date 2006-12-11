@@ -46,7 +46,7 @@
 		<font color=red><b>ALPHA</b></font> state.  Users should expect changes in future versions.
 		
 		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/***.zip'>Download the PShelf-based Presentation - Alpha Version</a>
+		<a href_notyet='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/***.zip'>Download the PShelf-based Presentation - Alpha Version</a>
 		<p>
 		<a href='history.php'>Update History (like release notes)</a>
 

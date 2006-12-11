@@ -34,7 +34,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		
-		<img src='shelf_presentation.png'>
+		<img src='presentation_shelf.png'>
 		<p>
 		The PShelf-based Presentation is an Eclipse presentation based on the Nebula PShelf widget.  Views 
 		are displayed using a PShelf and editors are displayed using a CTabFolder.  This presentation was 

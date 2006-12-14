@@ -57,7 +57,7 @@
 		Palm Software, Inc.</a></p>
 		
 		<p>
-		NOTE: The CompositeTable widget is still under active development.
+		Please note: The CompositeTable widget is still under active development.
 		The code is made available in a <font color=red><b>BETA</b></font> state.
 		Users should expect changes in future versions.</p>
 		<p>

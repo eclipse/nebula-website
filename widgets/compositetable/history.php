@@ -7,14 +7,14 @@
 	# Author: 		Jeremy Dowdall
 	# Date:			2006-08-30
 	#
-	# Description: Describes the history of CTabelTree.
+	# Description: Describes the history of CompositeTable.
 	#
 	#
 	#****************************************************************************
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula CTableTree History";
+	$pageTitle 		= "Nebula CompositeTable History";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls, History";
 	$pageAuthor		= "Jeremy Dowdall";
 	

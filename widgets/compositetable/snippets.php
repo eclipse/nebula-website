@@ -14,9 +14,9 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula CTableTree Snippets";
+	$pageTitle 		= "Nebula CompositeTable Snippets";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Snippets";
-	$pageAuthor		= "Jeremy Dowdall";
+	$pageAuthor		= "David Orme";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
@@ -38,15 +38,35 @@
 		<p>
 		
 		<ul>
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/CTableTreeSnippet1.java?rev=1.4&cvsroot=Technology_Project'>A CTableTree with the Tree in the 2nd Column</a></li>
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/CTableTreeSnippet2.java?rev=1.7&cvsroot=Technology_Project'>A CTableTree with Custom Cells</a><br>
-			The custom cells:
-			<ul>
-				<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/MultiLineCell.java?rev=1.3&cvsroot=Technology_Project'>MultiLineCell - A base style cell with dynamic toggle</li>
-				<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/MultiLineTextCell.java?rev=1.5&cvsroot=Technology_Project'>MultiLineTextCell - A TITLE style cell with SWT Text widget</li>
-				<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ctabletree/TableCell.java?cvsroot=Technology_Project'>TableCell - A DROP_DOWN style cell with a SWT Table widget</li>
-			</ul>			
-		</li>
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/CompositeTableSnippet0.java?root=Technology_Project&view=co'>
+		A CompositeTable displaying a header and some row controls but no data</a></li>
+
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/CompositeTableSnippet1.java?root=Technology_Project&view=co'>
+		A CompositeTable displaying first/last name pairs</a></li>
+
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/CompositeTableSnippet2.java?root=Technology_Project&view=co'>
+		A CompositeTable editing first/last name pairs</a></li>
+
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/CompositeTableSnippet3.java?root=Technology_Project&view=co'>
+		A CompositeTable editing, inserting, and deleting first/last name pairs</a></li>
+
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/CompositeTableSnippet4.java?root=Technology_Project&view=co'>
+		A CompositeTable listing first/last name pairs with behavior like SWT.FULL_SELECTION</a></li>
+
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/CompositeTableSnippet5.java?root=Technology_Project&view=co'>
+		A CompositeTable listing first/last name pairs, allowing sorting by clicking columns.</a></li>
+		
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/CompositeTableSnippet6.java?root=Technology_Project&view=co'>
+		A CompositeTable editing a name/address block</a></li>
+		
+		<!-- DayEditor, MonthEditor -->
+		
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/DayEditorSnippet0.java?root=Technology_Project&view=co'>
+		A DayEditor control (extending CompositeTable) displaying a week calendar</a></li>
+		
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/MonthCalendarSnippet.java?root=Technology_Project&view=co'>
+		A MonthCalendar control with the </a></li>
+		
 		</ul>
 
 		<hr class="clearer"/>

@@ -62,7 +62,7 @@
 		Users should expect changes in future versions.</p>
 		<p>
 		Having said this, CompositeTable is currently successfully deployed in
-		a two-and-a-quarter line mission-critical enterprise RCP application.</p>
+		a two-and-a-quarter million line mission-critical enterprise RCP application.</p>
 		
 		<p>
 		<a href='snippets.php'>CompositeTable Snippets</a>

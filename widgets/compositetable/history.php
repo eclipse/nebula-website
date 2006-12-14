@@ -34,7 +34,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		
-		<h3>8/30/06 Update</h3>
+		<h3>12/14/2006 Update</h3>
 		<ul>
 		<li>The initial website is up!</li>
 		</ul>

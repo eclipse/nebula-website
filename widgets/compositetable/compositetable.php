@@ -39,7 +39,7 @@
 		
 		<h2>CompositeTable</h2>
 		
-		<p><a href="http://www.coconut-palm-software.com/compositetable/30sec.html">
+		<p><a target="screencast" href="screencasts/30sec.html">
 		30 second introductory screencast</a></p>
 		
 		<p>

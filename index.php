@@ -56,7 +56,7 @@
 		         <li><a href="/nebula/widgets/compositetable/compositetable.php">CompositeTable</a>
 		         <BR>CompositeTable gives you total flexibility to present and edit row-oriented
 		         data however you want.  Editing in-place is CompositeTable's native user experience.
-		         CompositeTable also provides API features like two-phasse row changes that make it
+		         CompositeTable also provides API features like two-phase row changes that make it
 		         easy to map user interface semantics to database semantics.
 		         </li>
 		         <li><a href="/nebula/widgets/pgroup/pgroup.php">PGroup</a>

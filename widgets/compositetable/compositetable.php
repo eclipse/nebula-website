@@ -39,6 +39,12 @@
 		
 		<h2>CompositeTable</h2>
 		
+		<p>Sponsored by <a href="http://www.coconut-palm-software.com">Coconut
+		Palm Software, Inc.</a></p>
+		
+		<p><a href="http://www.coconut-palm-software.com/compositetable/30sec.html">
+		30 second introductory screencast</a></p>
+		
 		<p>
 		CompositeTable is a custom SWT grid control that:
 		<ol>
@@ -49,20 +55,6 @@
 			    scalability and performance.</li>
 		</ol>
 		</p>
-		<p>
-		CompositeTable is designed to solve 80% of the problems faced by RCP
-		developers creating CRUD interfaces that aren't solved by Eclipse 
-		Data Binding.</p>
-		<p>
-		It does this though two strategies:  (a) CompositeTable enables you 
-		to design your grid's row control as a custom SWT control.  Your row
-		control can be anything and can contain any other SWT control.
-		SWT controls are in an always-on, always-editing state all the time.
-		This simplifies the user's experience with the application considerably
-		while giving you great control over your application's layout.
-		(b) Providing an event model with features like two-phase commits
-		making it simple to map CompositeTable events to CRUD database semantics.
-		</p>
 
 		<p>
 		NOTE: The CompositeTable widget is still under active development.<br>
@@ -71,10 +63,10 @@
 		</p>
 		
 		<p>
-		<a href='snippets.php'>CTableTree Snippets</a>
+		<a href='snippets.php'>CompositeTable Snippets</a>
 		</p>
 		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_ctabletree_alpha.zip'>Download the CTableTree widget - Alpha Version</a>
+		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/compositetable.zip'>Download the CompositeTable widget - Beta Version</a>
 		</p>
 		<p>
 		<a href='history.php'>Update History (like release notes)</a>

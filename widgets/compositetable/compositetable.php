@@ -44,6 +44,7 @@
 			<li>Gives you control over the layout of your rows</li>
 			<li>Automatically edits in place using any SWT control</li>
 			<li>Manages CRUD operations simply and automatically</li>
+			<li>Only requests data that is visible for maximum performance</li>
 		</ol>
 		</p>
 		<p>

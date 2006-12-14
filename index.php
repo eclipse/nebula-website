@@ -53,9 +53,15 @@
 		         <BR>The CTableTree is a table-tree component which uses dynamic custom cells while 
 		         maintaining the traditional SWT Table/Tree-like API.
 		         </li>
+		         <li><a href="/nebula/widgets/compositetable/compositetable.php">CompositeTable</a>
+		         <BR>CompositeTable gives you total flexibility to present and edit row-oriented
+		         data however you want.  Editing in-place is CompositeTable's native user experience.
+		         CompositeTable also provides API features like two-phasse row changes that make it
+		         easy to map user interface semantics to database semantics.
+		         </li>
 		         <li><a href="/nebula/widgets/pgroup/pgroup.php">PGroup</a>
 		         <BR>PGroup is a expandable/collapsible composite widget with attractive styling and 
-		an extensible design.
+				 an extensible design.
 		         </li>
 		        <li><a href="/nebula/widgets/pshelf/pshelf.php">PShelf</a>
 		         <BR>PShelf is a composite widget similar to a tab folder but uses an accordion-like

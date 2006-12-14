@@ -25,6 +25,7 @@
 	$Nav->addNavSeparator("Widgets", "");
 	$Nav->addCustomNav("Grid", 			"/nebula/widgets/grid/grid.php",	 		"_self", 2);
 	$Nav->addCustomNav("CTableTree",		"/nebula/widgets/ctabletree/ctabletree.php",	 "_self", 2);
+	$Nav->addCustomNav("CompositeTable", 			"/nebula/widgets/compositetable/compositetable.php",	 		"_self", 2);
 	$Nav->addCustomNav("PGroup",		"/nebula/widgets/pgroup/pgroup.php",	 "_self", 2);
 	$Nav->addCustomNav("PShelf",		"/nebula/widgets/pshelf/pshelf.php",	 "_self", 2);
 	$Nav->addNavSeparator("Community", "");

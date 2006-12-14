@@ -32,10 +32,11 @@
 	$html = <<<EOHTML
 
 	<div id="midcolumn">
+		<h1>$pageTitle</h1>
+		
 		<img src='images/ctable-sn6.PNG' align="RIGHT">
 		<img src='images/ctable-sn3.PNG' align="RIGHT">
 		
-		<h1>$pageTitle</h1>
 		<h2>CompositeTable</h2>
 		
 		<p>

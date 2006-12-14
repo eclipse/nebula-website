@@ -66,7 +66,7 @@
 		A DayEditor control (extending CompositeTable) displaying a week calendar</a></li>
 		
 		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/MonthCalendarSnippet.java?root=Technology_Project&view=co'>
-		A MonthCalendar control with the </a></li>
+		A MonthCalendar control displaying the current month</a></li>
 		
 		</ul>
 

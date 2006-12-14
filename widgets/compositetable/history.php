@@ -16,7 +16,7 @@
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Nebula CompositeTable History";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls, History";
-	$pageAuthor		= "Jeremy Dowdall";
+	$pageAuthor		= "David Orme";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)

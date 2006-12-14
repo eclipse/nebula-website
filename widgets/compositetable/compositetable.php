@@ -70,7 +70,7 @@
 		<p>
 		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/compositetable.zip'>Download the CompositeTable widget - Beta Version</a>
 		</p><p>
-		<a href='http://www.coconut-palm-software.com/compositetable/compositetable.zip'>Download the CompositeTable widget - Beta Version (Coconut Palm Software mirror)</a>
+		<a href='http://www.coconut-palm-software.com/compositetable/compositetable.zip'>Download the CompositeTable widget - Beta Version</a> (<a href="http://www.coconut-palm-software.com">Coconut Palm Software, Inc.</a> mirror)
 		</p>
 		<p>
 		<a href='history.php'>Update History (like release notes)</a>

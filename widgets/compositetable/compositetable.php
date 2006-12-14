@@ -35,6 +35,9 @@
 		<h1>$pageTitle</h1>
 		<h2>CompositeTable</h2>
 		
+		<img src='images/ctable-sn6.PNG' align="RIGHT">
+		<img src='images/ctable-sn3.PNG'>
+		
 		<p>
 		CompositeTable is a custom SWT grid control that:
 		<ol>

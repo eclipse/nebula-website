@@ -39,9 +39,6 @@
 		
 		<h2>CompositeTable</h2>
 		
-		<p>Sponsored by <a href="http://www.coconut-palm-software.com">Coconut
-		Palm Software, Inc.</a></p>
-		
 		<p><a href="http://www.coconut-palm-software.com/compositetable/30sec.html">
 		30 second introductory screencast</a></p>
 		
@@ -56,11 +53,15 @@
 		</ol>
 		</p>
 
+		<p>Sponsored by <a href="http://www.coconut-palm-software.com">Coconut
+		Palm Software, Inc.</a></p>
+		
 		<p>
 		NOTE: The CompositeTable widget is still under active development.<br>
 		The code is made available in a
 		<font color=red><b>BETA</b></font> state.  Users should expect changes in future versions.
-		</p>
+		Having said this, CompositeTable is currently successfully deployed in
+		a two-and-a-quarter line mission-critical enterprise RCP application.</p>
 		
 		<p>
 		<a href='snippets.php'>CompositeTable Snippets</a>

@@ -60,6 +60,7 @@
 		A CompositeTable editing a name/address block</a></li>
 		
 		<!-- DayEditor, MonthEditor -->
+		<br/><br/>
 		
 		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/DayEditorSnippet0.java?root=Technology_Project&view=co'>
 		A DayEditor control (extending CompositeTable) displaying a week calendar</a></li>

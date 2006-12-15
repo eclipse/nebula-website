@@ -52,9 +52,9 @@
 			    scalability and performance.</li>
 		</ol>
 		</p>
-
+<!--
 		<p>Sponsored by <a href="http://www.coconut-palm-software.com">Coconut
-		Palm Software, Inc.</a></p>
+		Palm Software, Inc.</a></p>-->
 		
 		<p>
 		Please note: The CompositeTable widget is still under active development.

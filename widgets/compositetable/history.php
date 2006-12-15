@@ -34,6 +34,10 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		
+		<p>The CompositeTable build version is placed in the README file in
+		the distribution.  By examining the version number in your README file,
+		you can see if a bug you have encountered is fixed in future versions.</p>
+		
 		<h3>12/14/2006 Version 0.8.0</h3>
 		<ul>
 		<li>The initial website is up; initial release!</li>

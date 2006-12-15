@@ -38,16 +38,16 @@
 		the distribution.  By examining the version number in your README file,
 		you can see if a bug you have encountered is fixed in future versions.</p>
 		
-		<h3>12/14/2006 Version 0.8.0</h3>
-		<ul>
-		<li>The initial website is up; initial release!</li>
-		</ul>
-		
 		<h3>12/14/2006 Version 0.8.1</h3>
 		<ul>
 		<li>Fixed an obscure bug that could cause Platform/UI to throw an
 		assertion failed exception when used in an RCP app; fixed possible
 		WidgetDisposedException.</li>
+		</ul>
+		
+		<h3>12/14/2006 Version 0.8.0</h3>
+		<ul>
+		<li>The initial website is up; initial release!</li>
 		</ul>
 		
 		<hr class="clearer"/>

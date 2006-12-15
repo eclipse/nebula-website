@@ -34,9 +34,16 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		
-		<h3>12/14/2006 Update</h3>
+		<h3>12/14/2006 Version 0.8.0</h3>
 		<ul>
-		<li>The initial website is up!</li>
+		<li>The initial website is up; initial release!</li>
+		</ul>
+		
+		<h3>12/14/2006 Version 0.8.1</h3>
+		<ul>
+		<li>Fixed an obscure bug that could cause Platform/UI to throw an
+		assertion failed exception when used in an RCP app; fixed possible
+		WidgetDisposedException.</li>
 		</ul>
 		
 		<hr class="clearer"/>

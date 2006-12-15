@@ -40,7 +40,7 @@
 		<h2>CompositeTable</h2>
 		
 		<p><a target="screencast" href="screencasts/30sec.html">
-		30 second introductory screencast</a></p>
+		30 second introductory screencast</a><br/>(Make sure your speakers are on)</p>
 		
 		<p>
 		CompositeTable is a custom SWT grid control that:

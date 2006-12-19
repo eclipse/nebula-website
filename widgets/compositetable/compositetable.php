@@ -52,6 +52,15 @@
 			    scalability and performance.</li>
 		</ol>
 		</p>
+		
+		<h2>News:</h2>
+		<ul>
+		<li>12/19/2006 - Maintanence release.  Version 0.8.2.  See history for details.</li>
+		</ul>
+		<ul>
+		<li>12/14/2006 - Initial releases.  Version 0.8.0 and 0.8.1</li>
+		</ul>
+		
 <!--
 		<p>Sponsored by <a href="http://www.coconut-palm-software.com">Coconut
 		Palm Software, Inc.</a></p>-->

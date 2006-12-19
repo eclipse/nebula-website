@@ -38,6 +38,11 @@
 		the distribution.  By examining the version number in your README file,
 		you can see if a bug you have encountered is fixed in future versions.</p>
 		
+		<h3>12/14/2006 Version 0.8.2</h3>
+		<ul>
+		<li>Fixed bug <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=168517">168517</a>.</li>
+		</ul>
+		
 		<h3>12/14/2006 Version 0.8.1</h3>
 		<ul>
 		<li>Fixed an obscure bug that could cause Platform/UI to throw an

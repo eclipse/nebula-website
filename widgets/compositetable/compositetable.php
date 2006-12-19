@@ -53,7 +53,7 @@
 		</ol>
 		</p>
 		
-		<h2>News:</h2>
+		<h2>Project News:</h2>
 		<ul>
 		<li>12/19/2006 - Maintanence release.  Version 0.8.2.  See history for details.</li>
 		</ul>

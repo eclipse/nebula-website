@@ -49,6 +49,11 @@
 		         <BR>The Grid is a table component that offers spreadsheet like features while 
 		         maintaining the traditional SWT Table-like API.
 		         </li>
+		         <li><a href="/nebula/widgets/cdatetime/cdatetime.php">CDateTime</a>
+		         <BR>The CDateTime is a graphical and textual Date selection widget. Intended 
+				 for use in cross-platform task management applications, it attempts to provide
+				 improved usability while maintaining a native look and feel. [Carbon, GTK, Win32]
+		         </li>
 		         <li><a href="/nebula/widgets/ctabletree/ctabletree.php">CTableTree</a>
 		         <BR>The CTableTree is a table-tree component which uses dynamic custom cells while 
 		         maintaining the traditional SWT Table/Tree-like API.

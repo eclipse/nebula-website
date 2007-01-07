@@ -31,7 +31,7 @@
 		$pageContent	= file_get_contents("content/patterns.html");
 	} else if($_GET['page'] == 'reference') {
 		$pageTitle2		= "Links to Interesting Stuff";
-		$pageContent	= file_get_contents("content/reference.html");
+		$pageContent	= file_get_contents("content/links.html");
 	} else if($_GET['page'] == 'snippets') {
 		$pageTitle2		= "Example Code Snippets";
 		$pageContent	= file_get_contents("content/snippets.html");

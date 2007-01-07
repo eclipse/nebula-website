@@ -16,34 +16,36 @@
 	# Begin: page-specific settings.  Change these.
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls";
 	$pageAuthor		= "Jeremy Dowdall";
-	$pageTitle		= "Nebula CDateTime<br/>&nbsp;&nbsp;&nbsp;";
+	$pageTitle1		= "Nebula CDateTime";
 	if($_GET['page'] == 'api') {
-		$pageTitle 		= $pageTitle."Developer API";
+		$pageTitle2		= "Developer API";
 		$pageContent	= file_get_contents("content/api.html");
 	} else if($_GET['page'] == 'i18n') {
-		$pageTitle 		= $pageTitle."Internationalization";
+		$pageTitle2		= "Internationalization";
 		$pageContent	= file_get_contents("content/i18n.html");
 	} else if($_GET['page'] == 'operation') {
-		$pageTitle 		= $pageTitle."End-User Operation";
+		$pageTitle2		= "End-User Operation";
 		$pageContent	= file_get_contents("content/operation.html");
 	} else if($_GET['page'] == 'patterns') {
-		$pageTitle 		= $pageTitle."Date/Time Patterns and Formats";
+		$pageTitle2		= "Date/Time Patterns and Formats";
 		$pageContent	= file_get_contents("content/patterns.html");
 	} else if($_GET['page'] == 'reference') {
-		$pageTitle 		= $pageTitle."Links to Interesting Stuff";
+		$pageTitle2		= "Links to Interesting Stuff";
 		$pageContent	= file_get_contents("content/reference.html");
 	} else if($_GET['page'] == 'snippets') {
-		$pageTitle 		= $pageTitle."Example Code Snippets";
+		$pageTitle2		= "Example Code Snippets";
 		$pageContent	= file_get_contents("content/snippets.html");
 	} else if($_GET['page'] == 'styles') {
-		$pageTitle 		= $pageTitle."Style Settings";
+		$pageTitle2		= "Style Settings";
 		$pageContent	= file_get_contents("content/styles.html");
 	} else {
 		$showOsIcons	= true;
-		$pageTitle 		= $pageTitle."<img src='images/linux.png'><img src='images/mac.png'><img src='images/windows.png'>";
+		$pageTitle2		= "<img src='images/linux.png'><img src='images/mac.png'><img src='images/windows.png'>";
 		$pageContent	= file_get_contents("content/cdatetime.html");
 	}
 	
+	$onPageTitle	= $pageTitle1."<br/>&nbsp;&nbsp;&nbsp;".$pageTitle2;
+	$pageTitle 		= $pageTitle1.": ".$pageTitle2;
 	$menu = "<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=patterns'>Patterns</a>" .
 			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=styles'>Styles</a>" .
 			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=i18n'>I18N</a>" .
@@ -66,7 +68,7 @@
 	$html = <<<EOHTML
 		<div id="midcolumn">
 			<div style="float: right;">$menu</div>
-			<h1>$pageTitle</h1>
+			<h1>$onPageTitle</h1>
 			$pageContent
 			<hr class="clearer"/>
 		</div>

@@ -1,0 +1,39 @@
+CDateTime can take on many forms depending upon the setting of the style in its constructor.<br/>
+These styles are found in a separate file: CDT.java, simply for the convenience of typing
+3 characters rather than 9 :)<br/>
+Example: new CDateTime(parent, CDT.BORDER | CDT.SIMPLE | CDT.DATE_SHORT | CDT.TIME_SHORT);<br/>
+The best way to get a feel for these styles is to download and try the
+<a href="/nebula/examples.php">Nebula Examples plugin</a>.<br/>
+<br/>
+<table>
+	<tr style="border-bottom: solid 1px;"><td colspan="3"><big><b>General Styles</b></big></td></tr>
+	<tr><td>DROP_DOWN</td><td>-></td><td>Creates both the textual and graphical parts; the text is shown and there is a button to drop down the graphical</td></tr>
+	<tr><td>SIMPLE</td><td>-></td><td>Creates ONLY the graphical selection part; there is no text box and no button</tr>
+	<tr><td colspan="3">(Note that if neither of the above styles is set, then ONLY the textual selection part will be created; there will be no graphical part and no button)</td></tr>
+	<tr><td colspan="3"><big><b>Date and Time Styles</b></big></td></tr>
+	<tr><td colspan="3">Refer to <a href="/nebula/widgets/cdatetime/patterns.php">Date/Time Formats and Patterns</a> for details.</td></tr>
+	<tr><td>DATE_SHORT</td></tr>
+	<tr><td>DATE_MEDIUM</td></tr>
+	<tr><td>DATE_LONG</td></tr>
+	<tr><td>TIME_SHORT</td></tr>
+	<tr><td>TIME_MEDIUM</td></tr>
+	<tr><td colspan="3"><big><b>Styles relevant to the Text Area</b></big></td></tr>
+	<tr><td>BORDER</td><td>-></td><td>Creates the Text/Combo area with a border (by setting SWT.BORDER)</td></tr>
+	<tr><td>SPINNER</td><td>-></td><td>Only valid if DROP_DOWN is NOT set - create the Text Selector with an SWT Spinner widget for inc/dec of fields</td></tr>
+	<tr><td>TAB_FIELDS</td><td>-></td><td>Allows movement between fields with the Tab key</td></tr>
+	<tr><td colspan="3"><big><b>Styles relevant to the Graphics Area</b></big></td></tr>
+	<tr><td>BORDER</td><td>-></td><td>Creates the Graphical Selector with a border (by setting SWT.BORDER)</td></tr>
+	<tr><td>CLOCK_12_HOUR</td><td>-></td><td>Force the Graphical Time Selector to a 12 hour clock, regardless of the Locale or Pattern</td></tr>
+	<tr><td>CLOCK_24_HOUR</td><td>-></td><td>Force the Graphical Time Selector to a 24 hour clock, regardless of the Locale or Pattern</td></tr>
+	<tr><td>CLOCK_DISCRETE</td><td>-></td><td>Create a Discrete Time Selector, rather than an Analog one</td></tr>
+	<tr><td>COMPACT</td><td>-></td><td>Create the Compact version of the Graphical Selector</td></tr>
+	<tr><td>HORIZONTAL</td><td>-></td><td>Only valid for a Discrete Time Selector - create it horizontally rather than vertically</td></tr>
+	<tr><td>SPINNER</td><td>-></td><td>Only valid for an Analog Time Selector - Create it with an SWT Spinner widget for inc/dec of the time</td></tr>
+	<tr><td colspan="3"><big><b>Combo Styles</b></big> (Only valid when DROP_DOWN is set)</td></tr>
+	<tr><td>BUTTON_ALWAYS</td><td>-></td><td>Always show the button</td></tr>
+	<tr><td>BUTTON_AUTO</td><td>-></td><td>Only show the button when the text widget has the focus</td></tr>
+	<tr><td>BUTTON_MANUAL</td><td>-></td><td>Allow hiding and show the button programmatically</td></tr>
+	<tr><td>BUTTON_NEVER</td><td>-></td><td>Never show the button (the button will not be created)</td></tr>
+	<tr><td>BUTTON_LEFT</td><td>-></td><td>Position the button to the left of the text</td></tr>
+	<tr><td>BUTTON_RIGHT</td><td>-></td><td>(Default) Position the button to the right of the text</td></tr>
+</table>

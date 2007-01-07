@@ -43,9 +43,13 @@
 		$pageTitle2		= "<img src='images/linux.png'><img src='images/mac.png'><img src='images/windows.png'>";
 		$pageContent	= file_get_contents("content/cdatetime.html");
 	}
-	
+
 	$onPageTitle	= $pageTitle1."<br/>&nbsp;&nbsp;&nbsp;".$pageTitle2;
-	$pageTitle 		= $pageTitle1.": ".$pageTitle2;
+	if($showOsIcons) {
+		$pageTitle 		= $pageTitle1;
+	} else {
+		$pageTitle 		= $pageTitle1.": ".$pageTitle2;
+	}
 	$menu = "<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=patterns'>Patterns</a>" .
 			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=styles'>Styles</a>" .
 			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=i18n'>I18N</a>" .

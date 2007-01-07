@@ -75,12 +75,12 @@ be pointed out in the following text.
 	<p>
 		Null Values:
 		<p>
-		When the selection is set to null, the text shows a translatable string as shown above.<br/>
-		The biggest problem with a null value in a date/time selector is how go back to an actual value
-		because this cannot be done in a single user action and the value of the selection will be in
-		an undefined state.  CDateTime deals with this by simple holding on to the value of the selection
-		before it was set to null, and restores it upon any user interaction.  This way, there will be
-		value which is always valid and can be modified one field at a time; it is also the most relative
+		When the selection is set to null, the text shows a translatable string as shown below.<br/>
+		The biggest problem with a null value in a date/time selector is how go back to an actual value.
+		This is because it cannot always be done in a single user action and the value of the selection could 
+		be left in an undefined state.  CDateTime deals with this by simply holding on to the value of the 
+		selection before it was set to null, and restores it upon any user interaction.  This way, there will
+		be a value which is always valid and can be modified one field at a time; it is also the most relative
 		value to start from rather than always resetting to the current date/time.
 		</p>
 		<p align="center">
@@ -107,7 +107,7 @@ be pointed out in the following text.
 		</tr>
 	</table>
 	<p>
-	The user may navigate to dates that off-screen in sereral ways:
+	The user may navigate to dates which are off-screen in sereral ways:
 	<ol>
 		<li>Selecting Left and Right Arrows in the upper left increments/decrements the Month</li>
 		<li>Selecting the Round Button between the Arrows set the selection to the Current Date</li>
@@ -178,10 +178,14 @@ be pointed out in the following text.
 		<img src="images/CDateTime_clock_discrete.png"><br>
 		The Discrete Clock (held open for the screen-shot with <code>setHoldOpen(true)</code>)
 	</p>
+	<p align="center">
+		<img src="images/CDateTime_clock_24_discrete.png"><br>
+		The 24 Hour style (Romanian Locale) Discrete Clock
+	</p>
 	<p>
 		Full Selection:
 		<ul style="margin-left: 10px;">
-			<li>When the last unselected field button is selected</li>
+			<li>When the button for the last unselected field is selected</li>
 		</ul>
 	</p>
 </div>		

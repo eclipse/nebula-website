@@ -24,10 +24,11 @@
 	$Nav->addCustomNav("Examples Gallery","/nebula/examples.php","_self", 2);	
 	$Nav->addNavSeparator("Widgets", "");
 	$Nav->addCustomNav("Grid", 			"/nebula/widgets/grid/grid.php",	 		"_self", 2);
-	$Nav->addCustomNav("CTableTree",		"/nebula/widgets/ctabletree/ctabletree.php",	 "_self", 2);
-	$Nav->addCustomNav("CompositeTable", 			"/nebula/widgets/compositetable/compositetable.php",	 		"_self", 2);
-	$Nav->addCustomNav("PGroup",		"/nebula/widgets/pgroup/pgroup.php",	 "_self", 2);
-	$Nav->addCustomNav("PShelf",		"/nebula/widgets/pshelf/pshelf.php",	 "_self", 2);
+	$Nav->addCustomNav("CDateTime",		"/nebula/widgets/cdatetime/cdatetime.php",	"_self", 2);
+	$Nav->addCustomNav("CTableTree",	"/nebula/widgets/ctabletree/ctabletree.php","_self", 2);
+	$Nav->addCustomNav("CompositeTable","/nebula/widgets/compositetable/compositetable.php", "_self", 2);
+	$Nav->addCustomNav("PGroup",		"/nebula/widgets/pgroup/pgroup.php",	 	"_self", 2);
+	$Nav->addCustomNav("PShelf",		"/nebula/widgets/pshelf/pshelf.php",	 	"_self", 2);
 	$Nav->addNavSeparator("Community", "");
 	$Nav->addCustomNav("Newsgroup", "news://news.eclipse.org/eclipse.technology.nebula","_self", 2);
 	$Nav->addCustomNav("Development & Contributors Mailing List", "https://dev.eclipse.org/mailman/listinfo/nebula-dev","_self", 2);

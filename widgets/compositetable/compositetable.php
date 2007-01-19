@@ -55,6 +55,9 @@
 		
 		<h2>Project News:</h2>
 		<ul>
+		<li>1/19/2007 - Cleaned up API preparing for API freeze in M5.</li>
+		</ul>
+		<ul>
 		<li>12/19/2006 - Maintanence release.  Version 0.8.2.  See history for details.</li>
 		</ul>
 		<ul>

@@ -38,6 +38,11 @@
 		the distribution.  By examining the version number in your README file,
 		you can see if a bug you have encountered is fixed in future versions.</p>
 		
+		<h3>12/14/2006 Version 0.9.0</h3>
+		<ul>
+		<li><b>NOTE: API change.</b>  Cleaned up layout manager API to make resizable columns possible.</li>
+		</ul>
+		
 		<h3>12/14/2006 Version 0.8.2</h3>
 		<ul>
 		<li>Fixed bug <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=168517">168517</a>.</li>

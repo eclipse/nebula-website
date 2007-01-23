@@ -56,7 +56,8 @@
 			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=api'>API</a>" .
 			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=operation'>Operation</a>" .
 			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=reference'>Links</a>" .
-			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=snippets'>Snippets</a>";
+			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=snippets'>Snippets</a>" .
+			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_cdatetime_0.9.0.jar'>Download</a>";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)

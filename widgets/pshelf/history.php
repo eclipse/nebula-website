@@ -34,6 +34,11 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 
+		<h3>1/24/07 Update</h3>
+		<ul>
+		<li>Fixed the jar to include necessary dependencies for the RedmondShelfRenderer class.</li>
+		</ul>
+
 		<h3>10/25/06 Update</h3>
 		<ul>
 		<li>First Nebula release of PShelf.</li>

@@ -29,51 +29,57 @@ be pointed out in the following text.
 		</tr>
 	</table>
 	<p>
-	When the CDateTime gains focus, by a means other than a mouse click (such as tabbing through
+	When the CDateTime gains focus by a means other than a mouse click (such as tabbing through
 	a form), its entire text area is selected.  The intent is to allow it to be copied and has the
 	side affect that no field is actually selected, and thus the CDateTime cannot be 
 	edited.  When the CDateTime looses focus, by any means, all fields are unselected and again,
 	the CDateTime cannot be edited.  Before editing, an individual field must be selected.<br>
-	Fortunately, though, it is pretty intuitive: simply select the field to be edited by clicking
-	on it with the mouse.
-	</p>
-	<p>
-		Once the CDateTime has focus, there are also many other ways of moving between fields: 
+	<div>
+		<p>Field Selection via Mouse:</p>
 		<ul style="margin-left: 10px;">
+			<li>Select any field with a direct mouse click</li>
 			<li>Clicking the center mouse button will cycle through the fields</li>
+		</ul>	
+	</div>
+	<div>
+		<p>Field Selection via Keyboard:</p>
+		<ul style="margin-left: 10px;">
 			<li>The left and right arrow keys move one field at time</li>
 			<li>If the style TAB_FIELDS is set, then the Tab key will move to the next field (and from
 			the last field to the next widget)</li>
-			<li>Typing the first character of the next separation sequence will move to the next field.<br/>
-			For example, given the pattern "MM/dd/yy", pressing the '/' key will move to the next field.<br/>
+			<li>Typing the first character of the next separation sequence will move to the next field.<div>
+			For example, given the pattern "MM/dd/yy", pressing the '/' key will move to the next field.</div>
 			Likewise, given the pattern "MM'long separation sequence'dd'another long sequence'yy",
 			typing 'l' when on the "MM" field will move to the "dd" field, and then typing 'a' will
 			move to the last field.</li>
 			<li>If the user is entering the value of the field via the keyboard and the maximum number of
 			digits for that field have been typed, selection is automatically moved to the next field.</li>
 		</ul>
-	</p>
-	<p>
-		Once the user has navigated to a field they want to change, they again have multiple options:
+	</div>
+	<div>
+		<p>Field Editing via Mouse:</p>
 		<ul style="margin-left: 10px;">
 			<li>Scrolling with the mouse wheel will increment and decrement the field</li>
+		</ul>
+		<p>Field Editing via Keyboard:</p>
+		<ul style="margin-left: 10px;">
 			<li>The Up and Down arrow keys will increment and decrement the field</li>
 			<li>The "+" and "-" keys will increment and decrement the field</li>
 			<li>The "=" key will increment the field (i18n problem?)</li>
-			<li>Enter the numerical value directly with the keyboard<br/>
-			Note that the text of the field will convert to a 2 digit number (except for year, which will become
-			4 digits) while being edited.  This allows for consistent behavious regardless of the set pattern.</li>
+			<li>Enter the numerical value directly with the keyboard
+			<div>Note that the text of the field will convert to a 2 digit number (except for year, which will become
+			4 digits) while being edited.  This allows for consistent behavious regardless of the set pattern.</div></li>
 			<li>If the style DROP_DOWN is not set and SPINNER is, then a Spinner widget can be used to increment and decrement the field</li>
 		</ul>
-	</p>
-	<p>
-		Full Selection:
+	</div>
+	<div>
+		<p>Full Selection:</p>
 		<ul style="margin-left: 10px;">
 			<li>When the user presses the <code>ENTER</code> key (like a normal SWT Text widget)</li>
 		</ul>
-	</p>
-	<p>
-		Null Values:
+	</div>
+	<div>
+		<p>Null Values:</p>
 		<p>
 		When the selection is set to null, the text shows a translatable string as shown below.<br/>
 		The biggest problem with a null value in a date/time selector is how go back to an actual value.
@@ -83,19 +89,43 @@ be pointed out in the following text.
 		be a value which is always valid and can be modified one field at a time; it is also the most relative
 		value to start from rather than always resetting to the current date/time.
 		</p>
-		<p align="center">
+		<div align="center">
 			<img src="images/CDateTime_text_null.png"><br>
 			CDateTime displaying a null selection value
-		</p>
-	</p>
+		</div>
+	</div>
 </div>
 
+<h4>Combo Operation</h4>
+<div style="margin-left: 10px;">
+	<div>
+		<p>Opening the Drop Shell:</p>
+		<ul style="margin-left: 10px;">
+			<li>Mouse - when the drop button is clicked</li>
+			<li>Keyboard - when &lt;CTRL-SPACE&gt; key combination is typed</li>
+		</ul>
+	</div>
+	<div>
+		<p>Full Selection:</p>
+		<ul style="margin-left: 10px;">
+			<li>When a Full Selection is made on the Graphical component</li>
+			<li>When the drop button is clicked</li>
+		</ul>
+	</div>
+	<div>
+		<p>Cancellation:</p>
+		When the graphical selector is dropped, the current selection is saved.<br/>
+		While the user is editing the selection, regular selection events will be fired and
+		the textual selector will be updated to reflect these changes.  If the user closes
+		the graphcial selector in a way that does not fire a Full Selection, then this will 
+		be interpretted as a cancallation and the selection will be restored to its previous 
+		value (this will fire a regular selection so external listeners may be restored as well).
+	</div>
+</div>
 <h4>Graphical Operation</h4>
 <h4>Calendar</h4>
 <div style="margin-left: 10px;">
-	<p>
-	The user is able to select a date (year, month, and day) by selecting a day on the calendar.<br/>
-	</p>
+	<p>The user is able to select a date (year, month, and day) by selecting a day on the calendar.</p>
 	<table width='100%'>
 		<tr align='center'>
 			<td><img src="images/CDateTime_calendar.png"></td>
@@ -106,70 +136,75 @@ be pointed out in the following text.
 			<td>Compact style Calendar</td>
 		</tr>
 	</table>
-	<p>
-	The user may navigate to dates which are off-screen in sereral ways:
-	<ol>
-		<li>Selecting Left and Right Arrows in the upper left increments/decrements the Month</li>
-		<li>Selecting the Round Button between the Arrows set the selection to the Current Date</li>
-		<li>Clicking the Month Label brings up a Context Menu with all 12 months</li>
-		<li>Scrolling the mouse wheel over the Month Label increments/decrements the Month</li>
-		<li>Scrolling the mouse wheel over the Year Label increments/decrements the Year</li>
-		<li>Scrolling the mouse wheel over the Days scrolls the visible dates by 1 Week</li>
-		<li>Alt-Clicking the Days brings up a Context Menu to set selection to the Current Date</li>
-		<li>The Left and Right Arrow Keys (on the keyboard) increment/decrement the selected Day</li>
-		<li>The Up and Down Arrow Keys (on the keyboard) increment/decrement the selected Week</li>
-		<li>The Page UP and Page Down Keys scrolls the visible dates by 4 weeks</li>
-		<li>The Home and End Keys scrolls the visible dates by 52 weeks</li>
-		<li>Selecting the Year Label switches to Year Edit Mode where the year can be entered via the
-		keyboard - clicking anywhere other than on the Accept button will cancel the edit (Escape and
-		Carriage Return work as expected).
-		<p align="center">
-			<img src="images/CDateTime_header-editYear_gtk.png"><br>
-			The CDateTime Header when editing the Year via Keyboard
-		</p>
-	</ol>
-	</p>
-	<p>
-		Full Selection:
+	<div>
+		<p>Navigation via Mouse:</p>
+		<ol>
+			<li>Clicking the Left and Right Arrows in the upper left increments/decrements the Month</li>
+			<li>Clicking the Round Button between the Arrows set the selection to the Current Date</li>
+			<li>Clicking the Month Label brings up a Context Menu with all 12 months</li>
+			<li>Scrolling the mouse wheel over the Month Label increments/decrements the Month</li>
+			<li>Scrolling the mouse wheel over the Year Label increments/decrements the Year</li>
+			<li>Scrolling the mouse wheel over the Days scrolls the visible dates by 1 Week</li>
+			<li>Alt-Clicking the Days brings up a Context Menu to set selection to the Current Date</li>
+		</ol>
+		<p>Navigation via Keyboard:</p>
+		<ol>
+			<li>The Left and Right Arrow Keys (on the keyboard) increment/decrement the selected Day</li>
+			<li>The Up and Down Arrow Keys (on the keyboard) increment/decrement the selected Week</li>
+			<li>The Page UP and Page Down Keys scrolls the visible dates by 4 weeks</li>
+			<li>The Home and End Keys scrolls the visible dates by 52 weeks</li>
+			<li>Selecting the Year Label switches to Year Edit Mode where the year can be entered via the
+			keyboard - clicking anywhere other than on the Accept button will cancel the edit (Escape and
+			Carriage Return work as expected).
+			<div align="center">
+				<img src="images/CDateTime_header-editYear_gtk.png"><br>
+				The CDateTime Header when editing the Year via Keyboard
+			</div>
+		</ol>
+	</div>
+	<div>
+		<p>Full Selection via Mouse:</p>
 		<ul style="margin-left: 10px;">
 			<li>When a day button has the focus and the user presses the <code>ENTER</code> key</li>
+		</ul>
+		<p>Full Selection via Keyboard:</p>
+		<ul style="margin-left: 10px;">
 			<li>When the user clicks a day button with the primary mouse button</li>
-			<li>When the user selects the "Today" menu option (shown by alt-mouse clicking on a day button)</li>
+			<li>When the user clicks the "Today" menu option (shown by alt-mouse clicking on a day button)</li>
 			<li>When the user clicks the "Today" button with the primary mouse button</li>
 		</ul>
-	</p>
+	</div>
 </div>
 
 <h4>Analog Clock</h4>
 <div style="margin-left: 10px;">
-	<p>
-	The user is able to select a time (hour, minute, and second) by dragging the hands of the clock with the mouse.<br/>
-	</p>
-	<table width='100%'>
-		<tr align='center'>
-			<td><img src="images/CDateTime_clock_spinner.png"></td>
-			<td><img src="images/CDateTime_clock_24_compact_spinner.png"></td>
-		</tr>
-		<tr align='center'>
-			<td>Digital Readout with Spinner</td>
-			<td>Compact, 24 Hour style with Spinner</td>
-		</tr>
-	</table>
-	<p>
-	The user may also set the selection in other ways:
-	<ol>
-		<li>If the clock is of 12 Hour style, then the AM_PM field may toggled by the button on the dial</li>
-		<li>If the SPINNER style was set, then the spinner can be used to increment and decrement the time</li>
-		<li>The time can also be incremented and decremented by scrolling the mouse wheel over the dial</li>
-	</ol>
-	</p>
-	<p>
-		Full Selection:
+	<div>
+		<p>The user is able to select a time (hour, minute, and second) by dragging the hands of the clock with the mouse.</p>
+		<table width='100%'>
+			<tr align='center'>
+				<td><img src="images/CDateTime_clock_spinner.png"></td>
+				<td><img src="images/CDateTime_clock_24_compact_spinner.png"></td>
+			</tr>
+			<tr align='center'>
+				<td>Digital Readout with Spinner</td>
+				<td>Compact, 24 Hour style with Spinner</td>
+			</tr>
+		</table>
+	</div>
+	<div>
+		<p>The user may also set the selection in other ways:</p>
+		<ol>
+			<li>If the clock is of 12 Hour style, then the AM_PM field may toggled by the button on the dial</li>
+			<li>If the SPINNER style was set, then the spinner can be used to increment and decrement the time</li>
+			<li>The time can also be incremented and decremented by scrolling the mouse wheel over the dial</li>
+			<li>The time can be set current by clicking the "Now" button</li>
+		</ol>
+		<p>Full Selection:</p>
 		<ul style="margin-left: 10px;">
 			<li>When the user selects the "Now" menu option (shown by alt-mouse clicking on the clock dial)</li>
 			<li>When the user clicks the "Now" button</li>
 		</ul>
-	</p>
+	</div>
 </div>		
 
 <h4>Discrete Clock</h4>
@@ -187,29 +222,5 @@ be pointed out in the following text.
 		<ul style="margin-left: 10px;">
 			<li>When the button for the last unselected field is selected</li>
 		</ul>
-	</p>
-</div>		
-
-<h4>Combo Operation</h4>
-<div style="margin-left: 10px;">
-	When the user selects the "drop button" a the graphical selector will be dropped to allow
-	graphical editing of the date and / or time, as appropriate for its format.
-	<p>
-		Full Selection:
-		<ul style="margin-left: 10px;">
-			<li>When a Full Selection is made on the Graphical component</li>
-			<li>When the drop button is clicked</li>
-		</ul>
-	</p>
-	<p>
-		Cancellation:
-		<p>
-			When the graphical selector is dropped, the current selection is saved.<br/>
-			While the user is editing the selection, regular selection events will be fired and
-			the textual selector will be updated to reflect these changes.  If the user closes
-			the graphcial selector in a way that does not fire a Full Selection, then this will 
-			be interpretted as a cancallation and the selection will be restored to its previous 
-			value (this will fire a regular selection so external listeners may be restored as well).
-		</p>
 	</p>
 </div>

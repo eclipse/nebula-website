@@ -54,7 +54,7 @@
 		A CompositeTable listing first/last name pairs with behavior like SWT.FULL_SELECTION</a></li>
 
 		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/CompositeTableSnippet5.java?root=Technology_Project&view=co'>
-		A CompositeTable listing first/last name pairs, allowing sorting by clicking columns.</a></li>
+		A CompositeTable with movable, resizable, sortable columns and a native header.</a></li>
 		
 		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/compositetable/CompositeTableSnippet6.java?root=Technology_Project&view=co'>
 		A CompositeTable editing a name/address block</a></li>

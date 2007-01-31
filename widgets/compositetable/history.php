@@ -38,7 +38,12 @@
 		the distribution.  By examining the version number in your README file,
 		you can see if a bug you have encountered is fixed in future versions.</p>
 		
-		<h3>12/14/2006 Version 0.9.0</h3>
+		<h3>1/30/2007 Version 0.9.1</h3>
+		<ul>
+		<li>Added movable, resizable native header.</li>
+		</ul>
+		
+		<h3>1/19/2006 Version 0.9.0</h3>
 		<ul>
 		<li><b>NOTE: API change.</b>  Cleaned up layout manager API to make resizable columns possible.</li>
 		</ul>

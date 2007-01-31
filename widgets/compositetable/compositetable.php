@@ -55,6 +55,9 @@
 		
 		<h2>Project News:</h2>
 		<ul>
+		<li>1/30/2007 - Added movable, resizable native header. v0.9.1</li>
+		</ul>
+		<ul>
 		<li>1/19/2007 - Cleaned up API preparing for API freeze in M5.</li>
 		</ul>
 		<ul>

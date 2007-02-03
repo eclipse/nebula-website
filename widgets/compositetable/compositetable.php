@@ -55,6 +55,9 @@
 		
 		<h2>Project News:</h2>
 		<ul>
+		<li>2/3/2007 Fixed several redraw bugs plus bug #164419. v0.9.2</li>
+		</ul>
+		<ul>
 		<li>1/30/2007 - Added movable, resizable native header. v0.9.1</li>
 		</ul>
 		<ul>

@@ -38,6 +38,11 @@
 		the distribution.  By examining the version number in your README file,
 		you can see if a bug you have encountered is fixed in future versions.</p>
 		
+		<h3>2/5/2007 Version 0.9.2.1</h3>
+		<ul>
+		<li>Added new delete listener method; added RowDeleteAdapter; added command API</li>
+		</ul>
+		
 		<h3>2/3/2007 Version 0.9.2</h3>
 		<ul>
 		<li>Fixed several redraw bugs plus bug #164419.</li>

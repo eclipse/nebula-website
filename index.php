@@ -72,6 +72,12 @@
 		         <BR>PShelf is a composite widget similar to a tab folder but uses an accordion-like
 		         metaphor.
 		         </li>
+		         <li><a href="/nebula/widgets/gallery/gallery.php">Gallery</a>
+		         <BR>Gallery lets you display any number of items organised in groups. Several group
+		          and item renderers are available with support for dynamic item size, drop shadows,
+		          auto margins, icon and list styles. Gallery uses a SWT Tree-like API (including 
+		          MULTI and VIRTUAL styles).   
+		         </li>
 		      </ul>
 		</div>
 

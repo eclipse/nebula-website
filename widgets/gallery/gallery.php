@@ -35,7 +35,7 @@
 		<h1>$pageTitle</h1>
 		<h2>Gallery</h2>
 		
-		<img src='images/gallery.png'>	
+		<img src='images/gallery.jpg'>	
 		<p>
 		<h3>Group renderers</h3>
 	    <ul>

@@ -78,6 +78,16 @@
 		          auto margins, icon and list styles. Gallery uses a SWT Tree-like API (including 
 		          MULTI and VIRTUAL styles).   
 		         </li>
+		         <li><a href="/nebula/widgets/formattedtext/formattedtext.php">FormattedText</a>
+		         <BR>Decorator component adding input and display mask capabilities on a Text widget.
+		         Formatting is based on a public formatter API. The component is provided with standard
+		         formatters for differents types of values : DateTime, Date, Time, Number, String.
+		         </li>
+		         <li><a href="/nebula/widgets/datechooser/datechooser.php">DateChooser / DateChooserCombo</a>
+		         <BR>DateChooser is a graphical date selection widget, with a fully customizable
+		         look & feel which is consistent between the differents platforms. Supports the multi selection.<br>
+		         The combo form combines a FormattedText / DateFormatter with a drop down DateChooser popup.
+		         </li>
 		      </ul>
 		</div>
 

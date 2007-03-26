@@ -47,7 +47,7 @@
 		<p>
 		<a href='snippets.php'>Grid Snippets</a>
 		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_grid_alpha.zip'>Download the Grid widget - Alpha Version</a>
+		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.grid_1.0_ALPHA_NIGHTLY.zip'>Download the Grid widget - Nightly Build - Alpha Version</a>
 		<p>
 		<a href='history.php'>Update History (like release notes)</a>
 

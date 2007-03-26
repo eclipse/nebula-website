@@ -55,7 +55,8 @@
 		<p>
 		<a href='snippets.php'>Gallery Snippets</a>
 		<p>
-        Download from CVS (org.eclipse.nebula.widgets.gallery)
+       
+        <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.gallery_1.0_ALPHA_NIGHTLY.zip">Download Gallery nightly build</a>
 		<p>
 		<a href='history.php'>Update History (like release notes)</a>
 

@@ -47,7 +47,7 @@
 		<p>
 		<a href='snippets.php'>PGroup Snippets</a>
 		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_pgroup_alpha.zip'>Download the PGroup widget - Alpha Version</a>
+		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.pgroup_1.0_ALPHA_NIGHTLY.zip'>Download the PGroup widget - Nightly Build - Alpha Version</a>
 		<p>
 		<a href='history.php'>Update History (like release notes)</a>
 

@@ -47,10 +47,7 @@
 		<p>
 		<a href='snippets.php'>PShelf Snippets</a>
 		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_pshelf_alpha.zip'>Download the PShelf widget - Alpha Version</a>
-		<p>
-		<a href='history.php'>Update History (like release notes)</a>
-
+		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.pshelf_1.0_ALPHA_NIGHTLY.zip'>Download the PShelf widget - Nightly Build - Alpha Version</a>
 
 		<hr class="clearer"/>
 	</div>

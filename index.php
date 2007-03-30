@@ -34,16 +34,16 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<h2>Supplemental Custom Widgets for SWT</h2>
-		<p>The Nebula project is a source for custom SWT widgets.  Nebula is also an incubator for 
+		<p>The Nebula project is a source for custom SWT widgets and other UI components.  Nebula is also an incubator for 
 		SWT.  Some Nebula widgets will graduate into SWT and therefore into the main Eclipse Platform.
 		<p>
-		All Nebula widgets are available on the navigation tree on the left or from the table below.
-		  Each widget page will contain information as well as the download for that widget.
+		All Nebula components are available on the navigation tree on the left or from the table below.
+		  Each page will describe the component and also link to the component download.
 
 		<p>
 		
 		<div class="homeitem">
-		   <h3>Widgets</h3>
+		   <h3>Components</h3>
 		      <ul>
 		         <li><a href="/nebula/widgets/grid/grid.php">Grid</a>
 		         <BR>The Grid is a table component that offers spreadsheet like features while 

@@ -33,12 +33,14 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Each widget within Nebula is managed by a single committer.  The list of committers and widgets is:		
+		<p>Each component within Nebula is managed by a single committer.  The list of committers is:		
 		<p>
 		<ul>
 		<li>Chris Gross (Project Lead) - Grid, PGroup, PShelf</li>
 		<li>Jeremy Dowdall - CTableTree</li>
 		<li>David Orme - CompositeTable</li>
+		<li>Nicolas Richeton - Gallery</li>
+		<li>Eric Wuillai - FormattedText, DateChooser</li>
 		</ul>
 		<hr class="clearer"/>
 	</div>

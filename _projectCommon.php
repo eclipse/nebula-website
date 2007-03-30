@@ -22,7 +22,7 @@
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	$Nav->addCustomNav("Nebula Home", "/nebula/","_self", 2);
 	$Nav->addCustomNav("Examples Gallery","/nebula/examples.php","_self", 2);	
-	$Nav->addNavSeparator("Widgets", "");
+	$Nav->addNavSeparator("Components", "");
 	$Nav->addCustomNav("Grid", 			"/nebula/widgets/grid/grid.php",	 		"_self", 2);
 	$Nav->addCustomNav("CDateTime",		"/nebula/widgets/cdatetime/cdatetime.php",	"_self", 2);
 	$Nav->addCustomNav("CTableTree",	"/nebula/widgets/ctabletree/ctabletree.php","_self", 2);

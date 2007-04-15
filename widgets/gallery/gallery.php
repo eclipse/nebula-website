@@ -52,10 +52,10 @@
 	    
 	    <h3>Supported styles</h3>
 	    <ul>
-	    <li>SWT.MULTI : Enable multiple selections.</li>
+	    <li>SWT.MULTI : Enables multiple selections.</li>
 	    <li>SWT.V_SCROLL : Vertical scrolling. Should not be used with SWT.H_SCROLL.</li>
 	    <li>SWT.H_SCROLL : Horizontal scrolling. Should not be used with SWT.V_SCROLL.</li>
-	    <li>SWT.VIRTUAL : Switch to virtual mode, where items are created on demand.</li>
+	    <li>SWT.VIRTUAL : Virtual mode. Items are created on demand.</li>
 	    </ul>
 	    
 		<p>

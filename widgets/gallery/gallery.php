@@ -39,8 +39,8 @@
 		<p>
 		<h3>Group renderers</h3>
 	    <ul>
-	         <li>DefaultGalleryGroupRenderer : expandable groups, item grid with auto margins.</li>
-	         <li>NoGroupRenderer : item grid with auto margins</li>
+	         <li>DefaultGalleryGroupRenderer : expandable groups, item grid with auto margins. Best with SWT.V_SCROLL.</li>
+	         <li>NoGroupRenderer : item grid with auto margins.</li>
 	    </ul>
 	    
 	    <h3>Item renderers</h3>
@@ -48,17 +48,28 @@
 	         <li>DefaultGalleryItemRenderer : icon style, drop shadows and labels.</li>
 	         <li>ListItemRenderer : list style, labels and descriptions.</li>
 	    </ul>
+	    
+	    
+	    <h3>Supported styles</h3>
+	    <ul>
+	    <li>SWT.MULTI : Enable multiple selections.</li>
+	    <li>SWT.V_SCROLL : Vertical scrolling. Should not be used with SWT.H_SCROLL.</li>
+	    <li>SWT.H_SCROLL : Horizontal scrolling. Should not be used with SWT.V_SCROLL.</li>
+	    <li>SWT.VIRTUAL : Switch to virtual mode, where items are created on demand.</li>
+	    </ul>
+	    
 		<p>
 		NOTE: The Gallery widget is still under active development.  The code is made available in an
-		<font color=red><b>ALPHA</b></font> state.  Users should expect changes in future versions.
+		<font color=red><b>ALPHA</b></font> state.  Users should expect changes in future versions.</p>
 		
 		<p>
-		<a href='snippets.php'>Gallery Snippets</a>
+		<a href='snippets.php'>Gallery Snippets</a></p>
+		
 		<p>
-       
-        <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.gallery_1.0_ALPHA_NIGHTLY.zip">Download Gallery nightly build</a>
+        <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.gallery_1.0_ALPHA_NIGHTLY.zip">Download Gallery nightly build</a></p>
+
 		<p>
-		<a href='history.php'>Update History (like release notes)</a>
+		<a href='history.php'>Update History (like release notes)</a></p>
 
 
 		<hr class="clearer"/>

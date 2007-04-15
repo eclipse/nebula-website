@@ -34,6 +34,13 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		
+		<h3>4/15/07 Update</h3>
+		<ul>
+			<li>Keyboard navigation.</li>
+			<li>Horizontal mode.</li>
+			<li>Some bugs fixed.</li>
+		</ul>
+		
 		<h3>2/24/07 Update</h3>
 		<ul>
 		    <li>Fixed a major bug on Linux GTK (empty widget)</li>

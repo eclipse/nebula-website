@@ -121,7 +121,7 @@
     
 
   --> 
-  <summary paragraph-url="" /> 
+  <summary paragraph-url="/nebula/project-info/executive-summary.html" /> 
 - <!-- 
      - It is important to help new users get started with an Eclipse project
      - because most Eclipse projects are solving some difficult technical
@@ -134,7 +134,7 @@
     
 
   --> 
-  <getting-started url="" /> 
+  <getting-started url="nebula/gettingstarted.php" /> 
 - <!-- 
      - It is also important to help new contributors get started with an Eclipse project.
      - Most Eclipse projects have interesting/complex development environment

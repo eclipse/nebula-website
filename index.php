@@ -33,7 +33,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Supplemental Custom Widgets for SWT</h2>
+		<h2>Supplemental Custom Widgets for SWT (and more)</h2>
 		<p>The Nebula project is a source for custom SWT widgets and other UI components.  Nebula is also an incubator for 
 		SWT.  Some Nebula widgets will graduate into SWT and therefore into the main Eclipse Platform.
 		<p>

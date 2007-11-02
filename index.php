@@ -249,6 +249,81 @@
 				</td>
 		
 			</tr>
+			
+			<tr>
+				<td height="25px"></td>
+			</tr>
+		
+			<tr>
+				<td align="center" valign="bottom">
+				<table>
+					<tr>
+						<td align="center"><a
+							href="/nebula/widgets/collapsiblebuttons/collapsiblebuttons.php"><img
+							src="images/collapsiblebuttons.png" border="0" alt="CollapsibleButtons is a widget similar to the Microsoft Outlook button navigation bar." title="CollapsibleButtons"></a></td>
+					</tr>
+					<tr>
+						<td align="center"><b>CollapsibleButtons</b><br>
+						<small><a
+							href="/nebula/widgets/collapsiblebuttons/collapsiblebuttons.php">documentation</a>
+							<!-- 
+							- <a
+							href="/nebula/widgets/collapsiblebuttons/snippets.php">snippets</a>
+							-->
+							</small></td> 
+					</tr>
+				</table>
+				</td>
+		
+				<td align="center" valign="bottom">
+				<table>
+					<tr>
+						<td align="center"><a
+							href="/nebula/widgets/calendarcombo/calendarcombo.php"><img
+							src="images/calendarcombo.png" border="0" alt="CalendarCombo is a calendar widget for selecting dates that leaves the combo box looking like the native combo box." title="CalendarCombo"></a></td>
+					</tr>
+					<tr>
+						<td align="center"><b>CalendarCombo</b><br>
+						<small><a
+							href="/nebula/widgets/calendarcombo/calendarcombo.php">documentation</a>
+							<!--
+							- <a
+							href="/nebula/widgets/calendarcombo/snippets.php">snippets</a>
+							-->							
+							</small></td>
+					</tr>
+				</table>
+				</td>
+		
+			</tr>
+			
+			<tr>
+				<td height="25px"></td>
+			</tr>
+			
+			<tr>
+				<td align="center" valign="bottom">
+				<table>
+					<tr>
+						<td align="center"><a
+							href="/nebula/widgets/ganttchart/ganttchart.php"><img
+							src="images/ganttchart.png" border="0" alt="GanttChart is a full featured and customizable GANTT charting component." title="CollapsibleButtons"></a></td>
+					</tr>
+					<tr>
+						<td align="center"><b>GanttChart</b><br>
+						<small><a
+							href="/nebula/widgets/ganttchart/ganttchart.php">documentation</a>
+							<!-- 
+							- <a
+							href="/nebula/widgets/ganttchart/snippets.php">snippets</a>
+							-->
+							</small></td> 
+					</tr>
+				</table>
+				</td>
+				
+				<td><!-- next one here --></td>
+			</tr>
 		</table>
 
 		<hr class="clearer" />

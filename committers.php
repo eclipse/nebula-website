@@ -41,6 +41,7 @@
 		<li>David Orme - CompositeTable</li>
 		<li>Nicolas Richeton - Gallery</li>
 		<li>Eric Wuillai - FormattedText, DateChooser</li>
+		<li>Emil Crumhorn - CalendarCombo, CollapsibleButtons, GanttChart
 		</ul>
 		<hr class="clearer"/>
 	</div>

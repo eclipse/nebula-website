@@ -45,8 +45,8 @@
 		By default, the widget comes with Default implementations for everything that allows you to skin the combo according to the following:
 		<p>
 		<ul>
-		      &raquo; Outlook 2005 - Windows XP Blue Theme
-		      &raquo; Outlook 2005 - Windows XP Olive Theme
+		      &raquo; Outlook 2005 - Windows XP Blue Theme<br>
+		      &raquo; Outlook 2005 - Windows XP Olive Theme<br>
       		  &raquo; Outlook 2005 - Windows XP Silver Theme
       	</ul>
 

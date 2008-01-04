@@ -39,6 +39,7 @@
 		
 		<ul>
 		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/pgroup/PGroupSnippet1.java?cvsroot=Technology_Project'>Create a PGroup</a></li>		
+	    <li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/pgroup/PGroupSnippet2.java?cvsroot=Technology_Project'>Create a PGroup with rounded corners using parent's background</a></li>
 		</ul>
 
 		<hr class="clearer"/>

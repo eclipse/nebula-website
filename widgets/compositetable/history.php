@@ -38,6 +38,11 @@
 		the distribution.  By examining the version number in your README file,
 		you can see if a bug you have encountered is fixed in future versions.</p>
 		
+		<h3>2/26/2008 Version 0.9.4</h3>
+		<ul>
+		<li>More bug fixes from community; notably around row event handling.  Thanks!</li>
+		</ul>
+		
 		<h3>1/25/2008 Version 0.9.3</h3>
 		<ul>
 		<li>A slew of bugfixes and enhancements from the community.  Thanks!</li>

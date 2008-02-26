@@ -55,6 +55,9 @@
 		
 		<h2>Project News:</h2>
 		<ul>
+		<li>2/26/2008 - Normalized the row depart event firing; improved focus event handling. v0.9.4</li>
+		</ul>
+		<ul>
 		<li>1/25/2008 - Fixed an AIOOBE, improved control alignment, scroll wheel handling, added single row refresh API. v0.9.3</li>
 		</ul>
 		<ul>

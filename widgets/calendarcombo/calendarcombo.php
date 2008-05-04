@@ -36,7 +36,11 @@
 		<h2>CalendarCombo</h2>
 
 		<table border="0" cellspacing="2" cellpadding="0">
-			<tr><td><img src='images/calendarcombo.png'></td><td><img src='images/daterange.png'></td></tr>
+			<tr>
+				<td><img src='images/calendarcombo.png'></td>
+				<td>&nbsp;&nbsp;&nbsp;</td>
+				<td valign="top"><img src='images/daterange.png'></td>
+			</tr>
 		</table>
 		<p>
 		The Calendar Combo Widget is a combo box widget that opens a calendar when dropped down. The calendar is modelled after Microsoft Outlook's calendar widget
@@ -55,7 +59,8 @@
 		<p>
 		<b>Update!</b> The CalendarCombo now supports date range selection. Due to this the constructor API has been reworked. Another addition is the ability to set dates "prior to" and "after" which should be blocked from user selection.
 		<br><br>
-		<b>For the latest version of the code, please use the CVS repository code as nightly builds are not currently working.</b>	
+		<b>For the latest version of the code, please use the CVS repository code as nightly builds are not currently working.</b>
+		<br><br>	
 		
 		<!-- <a href='snippets.php'>CollapsibleButton Snippets</a> -->
 		<p>

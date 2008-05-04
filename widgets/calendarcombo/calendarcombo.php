@@ -35,7 +35,9 @@
 		<h1>$pageTitle</h1>
 		<h2>CalendarCombo</h2>
 
-		<img src='images/calendarcombo.png'>
+		<table border="0" cellspacing="2" cellpadding="0">
+			<tr><td><img src='images/calendarcombo.png'></td><td><img src='images/daterange.png'></td></tr>
+		</table>
 		<p>
 		The Calendar Combo Widget is a combo box widget that opens a calendar when dropped down. The calendar is modelled after Microsoft Outlook's calendar widget
 		and acts and behaves exactly the same (and it is also theme based).
@@ -51,6 +53,10 @@
       	</ul>
 
 		<p>
+		<b>Update!</b> The CalendarCombo now supports date range selection. Due to this the constructor API has been reworked. Another addition is the ability to set dates "prior to" and "after" which should be blocked from user selection.
+		<br><br>
+		<b>For the latest version of the code, please use the CVS repository code as nightly builds are not currently working.</b>	
+		
 		<!-- <a href='snippets.php'>CollapsibleButton Snippets</a> -->
 		<p>
 		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.calendarcombo_1.0_ALPHA_NIGHTLY.zip'>Download the CalendarCombo widget - Nightly Build</a>

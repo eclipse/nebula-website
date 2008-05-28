@@ -58,14 +58,17 @@
 
 		<p>
 		<b>Update!</b> The CalendarCombo now supports date range selection. Due to this the constructor API has been reworked. Another addition is the ability to set dates "prior to" and "after" which should be blocked from user selection.
-		<br><br>
-		<b>For the latest version of the code, please use the CVS repository code as nightly builds are not currently working.</b>
-		<br><br>	
-		
+		<br><br>		
 		<!-- <a href='snippets.php'>CollapsibleButton Snippets</a> -->
-		<p>
+		<p>		
+		<br><br>
+		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.calendarcombo-1.0-NIGHTLY.jar'>Download the CalendarCombo widget - Nightly Build - Jar</a><br>
+		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.calendarcombo-1.0-NIGHTLY-sources.jar'>Download the CalendarCombo widget - Nightly Build - Sources</a><br>
+		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.calendarcombo-1.0-NIGHTLY-javadoc.jar'>Download the CalendarCombo widget - Nightly Build - JavaDoc</a><br>
+		<!--<br><br>
+		<b>Nebula Nightly @ Eclipe.org</b><br>
 		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.calendarcombo_1.0_ALPHA_NIGHTLY.zip'>Download the CalendarCombo widget - Nightly Build</a>
-
+		-->
 		<hr class="clearer"/>
 	</div>
 

@@ -36,8 +36,8 @@
 		<h2>GanttChart</h2>
 		<b>Version 2.0 BETA</b> (shown using GanttSections - Silver theme)<br>
 		<img src='http://hexapixel.com/gantt/gantt_20_silver.jpg'>
-		<br>		
-		Also 2.0 BETA (shown using GanttSections - Blue theme)<br>
+		<br><br>		
+		<b>Version 2.0 BETA</b> (shown using GanttSections - Blue theme)<br>
 		<img src='http://hexapixel.com/gantt/gantt_sections.jpg'>
 		<br><br>
 		<b>Version 1.0</b><br>	

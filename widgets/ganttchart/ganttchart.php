@@ -45,6 +45,7 @@
 			<li>Color Themes (and easy to make your own).
 			<li>Loads more. See screenshots below.
 		</ul>
+		<p>
 		<b>Version 2.0 BETA</b> (shown using GanttSections - Silver theme)<br>
 		<img src='http://hexapixel.com/gantt/gantt_20_silver.jpg'>
 		<br><br>		

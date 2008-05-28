@@ -61,7 +61,7 @@
 		<br><br>		
 		<!-- <a href='snippets.php'>CollapsibleButton Snippets</a> -->
 		<p>		
-		<br><br>
+		<b>Version 1.0</b><br>
 		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.calendarcombo-1.0-NIGHTLY.jar'>Download the CalendarCombo widget - Nightly Build - Jar</a><br>
 		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.calendarcombo-1.0-NIGHTLY-sources.jar'>Download the CalendarCombo widget - Nightly Build - Sources</a><br>
 		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.calendarcombo-1.0-NIGHTLY-javadoc.jar'>Download the CalendarCombo widget - Nightly Build - JavaDoc</a><br>

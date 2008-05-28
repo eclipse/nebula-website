@@ -34,7 +34,10 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<h2>GanttChart</h2>
-
+		<b>Version 2.0 BETA</b><br>
+		<img src='http://hexapixel.com/gantt/gantt_sections.jpg'>
+		<br><br>
+		<b>Version 1.0</b><br>	
 		<img src='images/ganttchart_full.png'>
 		<p>
 		The GANTT chart is a fully customizable widget for displaying anything from a simple chart to allowing user interaction via drag and drop and resizing and well

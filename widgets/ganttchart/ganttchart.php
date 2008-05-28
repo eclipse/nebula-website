@@ -34,6 +34,17 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<h2>GanttChart</h2>
+		<p>
+		Version 2.0 is around the corner, it adds loads of new functionality along with several bug fixes and enhancements. Some new features are:<br>
+		<ul>
+			<li>Hours view (to control items down to the minute level) - which also adds 3 more zoom levels.
+			<li>GanttSections to split chart into individual sections.
+			<li>Advanced tooltips and individual tooltips for events.
+			<li>Fixed row heights / group heights.
+			<li>Language settings.
+			<li>Color Themes (and easy to make your own).
+			<li>Loads more. See screenshots below.
+		</ul>
 		<b>Version 2.0 BETA</b> (shown using GanttSections - Silver theme)<br>
 		<img src='http://hexapixel.com/gantt/gantt_20_silver.jpg'>
 		<br><br>		

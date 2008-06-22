@@ -53,9 +53,9 @@
 		<br><br>		
 		<b>Version 2.0 BETA</b> (shown using GanttSections - Blue theme)<br>
 		<img src='images/gantt_sections.jpg'>
-		<br><br>
+		<!--<br><br>
 		<b>Version 1.0</b><br>	
-		<img src='images/ganttchart_full.png'>
+		<img src='images/ganttchart_full.png'>-->
 		<p>
 		The GANTT chart is a fully customizable widget for displaying anything from a simple chart to allowing user interaction via drag and drop and resizing and well
 		as dependency interaction.

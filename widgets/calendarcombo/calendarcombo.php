@@ -59,6 +59,7 @@
 		<p>
 		<b>Update!</b> The CalendarCombo now supports date range selection. Due to this the constructor API has been reworked. Another addition is the ability to set dates "prior to" and "after" which should be blocked from user selection.
 		<br><br>		
+		<font color="red">IMPORTANT: Due to certain listeners not firing, this widget does not work correctly under GTK. It does work fine on Windows and OS X.</font>
 		<!-- <a href='snippets.php'>CollapsibleButton Snippets</a> -->
 		<p>		
 		<b>Version 1.0</b><br>

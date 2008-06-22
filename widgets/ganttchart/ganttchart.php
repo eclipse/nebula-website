@@ -68,6 +68,8 @@
 		<p>
 		<!-- <a href='snippets.php'>CollapsibleButton Snippets</a> -->
 		<p>
+		<a href='snippets.php'>Gantt 2.0 Snippets</a>		
+		<p>
 		<b>Version 2.0 - BETA</b><br>
 		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.ganttchart-2.0-NIGHTLY.jar'>Download the GanttChart widget - Nightly Build - Jar</a><br>
 		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.ganttchart-2.0-NIGHTLY-sources.jar'>Download the GanttChart widget - Nightly Build - Sources</a><br>

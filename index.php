@@ -313,10 +313,8 @@
 						<td align="center"><b>GanttChart</b><br>
 						<small><a
 							href="/nebula/widgets/ganttchart/ganttchart.php">documentation</a>
-							<!-- 
-							- <a
-							href="/nebula/widgets/ganttchart/snippets.php">snippets</a>
-							-->
+						- <a
+							href="/nebula/widgets/ganttchart/snippets.php">snippets</a>							
 							</small></td> 
 					</tr>
 				</table>

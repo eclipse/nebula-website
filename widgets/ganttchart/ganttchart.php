@@ -70,13 +70,15 @@
 		<p>
 		<a href='snippets.php'>Gantt 2.0 Snippets</a>		
 		<p>
-		<b>Version 2.0 - BETA</b><br>
+		<b>Version 2.0</b><br>
 		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.ganttchart-2.0-NIGHTLY.jar'>Download the GanttChart widget - Nightly Build - Jar</a><br>
 		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.ganttchart-2.0-NIGHTLY-sources.jar'>Download the GanttChart widget - Nightly Build - Sources</a><br>
 		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.ganttchart-2.0-NIGHTLY-javadoc.jar'>Download the GanttChart widget - Nightly Build - JavaDoc</a><br>
+		<!--
 		<p>
 		<b>Version 1.0 - STABLE</b><br>
 		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.ganttchart_1.0_ALPHA_NIGHTLY.zip'>Download the GanttChart widget - Nightly Build</a>
+		-->
 				
 		<hr class="clearer"/>
 	</div>

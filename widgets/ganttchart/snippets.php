@@ -19,10 +19,10 @@
 	$pageAuthor		= "Emil Crumhorn";
 	
 	# Add page-specific Nav bars here
-	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
+	# Format is Link text, link URL (can be http:/www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
-	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
+	# $Nav->addCustomNav("Google", "http:/www.google.com/", "_blank", 3);
 
 
 	# End: page-specific settings
@@ -34,18 +34,18 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 
-		Please see the <a href="http://www.eclipse.org/swt/snippets/">SWT Snippets page</a> for information on snippets and how to run a snippet.
+		Please see the <a href="http:/www.eclipse.org/swt/snippets/">SWT Snippets page</a> for information on snippets and how to run a snippet.
 		<p>
 		
 		<ul>
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/ConnectionExample.java?cvsroot=Technology_Project'>Connected events</a></li>
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/ScopeExample.java?cvsroot=Technology_Project'>Scope Example</a></li>
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/GanttGroupExample.java?cvsroot=Technology_Project'>Gantt Group example</a></li>
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/EventTextAlignmentExample.java?cvsroot=Technology_Project'>Event text alignment</a></li>
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/EverythingExample.java?cvsroot=Technology_Project'>A bit of everything the chart can do</a></li>
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/GanttSectionExample.java?cvsroot=Technology_Project'>Gantt Sections example</a></li>
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/LayersExample.java?cvsroot=Technology_Project'>Gantt Layers example</a></li>		
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/TreeConnectionExample.java?cvsroot=Technology_Project'>Linking the Gantt chart with a tree</a></li>
+		<li><a href='http:/dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/ConnectionExample.java?cvsroot=Technology_Project&view=co'>Connected events</a></li>
+		<li><a href='http:/dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/ScopeExample.java?cvsroot=Technology_Project&view=co'>Scope Example</a></li>
+		<li><a href='http:/dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/GanttGroupExample.java?cvsroot=Technology_Project&view=co'>Gantt Group example</a></li>
+		<li><a href='http:/dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/EventTextAlignmentExample.java?cvsroot=Technology_Project&view=co'>Event text alignment</a></li>
+		<li><a href='http:/dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/EverythingExample.java?cvsroot=Technology_Project&view=co'>A bit of everything the chart can do</a></li>
+		<li><a href='http:/dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/GanttSectionExample.java?cvsroot=Technology_Project&view=co'>Gantt Sections example</a></li>
+		<li><a href='http:/dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/LayersExample.java?cvsroot=Technology_Project&view=co'>Gantt Layers example</a></li>		
+		<li><a href='http:/dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/TreeConnectionExample.java?cvsroot=Technology_Project&view=co'>Linking the Gantt chart with a tree</a></li>
 		</ul>
 
 		<hr class="clearer"/>

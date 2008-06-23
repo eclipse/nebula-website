@@ -45,7 +45,7 @@
 		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/EverythingExample.java?cvsroot=Technology_Project&view=co'>A bit of everything the chart can do</a></li>
 		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/GanttSectionExample.java?cvsroot=Technology_Project&view=co'>Gantt Sections example</a></li>
 		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/LayersExample.java?cvsroot=Technology_Project&view=co'>Gantt Layers example</a></li>		
-		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/TreeConnectionExample.java?cvsroot=Technology_Project&view=co'>Linking the Gantt chart with a tree</a></li>
+		<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/ganttchart/TreeConnectorExample.java?cvsroot=Technology_Project&view=co'>Linking the Gantt chart with a tree</a></li>
 		</ul>
 
 		<hr class="clearer"/>

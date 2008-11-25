@@ -33,17 +33,16 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Grid</h2>
-		
+			
 		The Nebula examples plugin adds a view to your Eclipse installation.  This view is essentially
 		a gallery of the Nebula widgets where you can play with each widget to get a sense of its
 		abilities.
 		<p>
-		The latest version of this plugin can be downloaded from CVS : dev.eclipse.org/cvsroot/technology/org.eclipse.swt.nebula/org.eclipse.swt.nebula.examples
+		<b>The latest version of this plugin can be downloaded from CVS : dev.eclipse.org /cvsroot/technology/ org.eclipse.swt.nebula/org.eclipse.swt.nebula.examples</b>
 		<p>
-		or : Simply download the zip file below, add the two plugin jars to your Eclipse plugins directory,
+		or : simply download the zip file below, add the two plugin jars to your Eclipse plugins directory,
 		restart Eclipse, then (in the menu) go to Window - Show View - Other and choose the Nebula
-		Examples view from the 'Other' folder.   TEMPORARY UNAVAILABLE.
+		Examples view from the 'Other' folder.   <b>TEMPORARY UNAVAILABLE.</b>
 		
 		<!-- <p>
 		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_examples.zip'>Download the Nebula Examples plugin</a> -->

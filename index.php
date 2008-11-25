@@ -341,6 +341,7 @@
 			<div>
 				<ul>
 				<li><a href="http://wiki.eclipse.org/Nebula">Wiki</a></li>
+				<li><a href="/nebula/examples.php">Examples Gallery</a></li>
 				<li>Downloads</li>
 				<li>Roadmap</li>
 				</ul>

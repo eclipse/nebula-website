@@ -39,12 +39,14 @@
 		a gallery of the Nebula widgets where you can play with each widget to get a sense of its
 		abilities.
 		<p>
-		Simply download the zip file below, add the two plugin jars to your Eclipse plugins directory,
-		restart Eclipse, then (in the menu) go to Window - Show View - Other and choose the Nebula
-		Examples view from the 'Other' folder.
-		
+		The latest version of this plugin can be downloaded from CVS : dev.eclipse.org/cvsroot/technology/org.eclipse.swt.nebula/org.eclipse.swt.nebula.examples
 		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_examples.zip'>Download the Nebula Examples plugin</a>
+		or : Simply download the zip file below, add the two plugin jars to your Eclipse plugins directory,
+		restart Eclipse, then (in the menu) go to Window - Show View - Other and choose the Nebula
+		Examples view from the 'Other' folder.   TEMPORARY UNAVAILABLE.
+		
+		<!-- <p>
+		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_examples.zip'>Download the Nebula Examples plugin</a> -->
 
 		<p>
 		<img src='examples.png'>

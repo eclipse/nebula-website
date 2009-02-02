@@ -56,12 +56,12 @@
 		</p>
 
 		<p>
-		<a href='snippets.php'>FormattedText Snippets</a>
+			<a href='/nebula/snippets.php#FormattedText'>Snippets</a>
+		</p>
 		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.formattedtext_1.0_ALPHA_NIGHTLY.zip'>Download the FormattedText component - Alpha Version (nightly build)</a>
-		<p>
-		<a href='history.php'>Update History (like release notes)</a>
-
+			<a href='history.php'>Update History (like release notes)</a>
+		</p>
+		
 		<hr class="clearer"/>
 	</div>
 

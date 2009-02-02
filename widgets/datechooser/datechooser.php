@@ -85,12 +85,11 @@
 		<br><br>
 
 		<p>
-		<a href='snippets.php'>Snippets</a>
-		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.datechooser_1.0_ALPHA_NIGHTLY.zip'>Download the DateChooser widgets - Alpha Version (nightly build)</a>
-		<br>Important : DateChooserCombo widget depends on <a href="../formattedtext/formattedtext.php">FormattedText</a> component. So you must download and put the FormattedText library in your classpath.
+		<a href='/nebula/snippets.php#DateChooser'>Snippets</a>
+		</p>
 		<p>
 		<a href='history.php'>Update History (like release notes)</a>
+		</p>
 
 		<hr class="clearer"/>
 	</div>

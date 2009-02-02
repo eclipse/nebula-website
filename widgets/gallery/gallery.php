@@ -61,16 +61,15 @@
 		<p>
 		NOTE: The Gallery widget is still under active development.  The code is made available in an
 		<font color=red><b>ALPHA</b></font> state.  Users should expect changes in future versions.</p>
+		</p>
 		
 		<p>
-		<a href='snippets.php'>Gallery Snippets</a></p>
+			<a href='/nebula/snippets.php#Gallery'>Snippets</a></p>
+		</p>
 		
 		<p>
-        <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.gallery_1.0_ALPHA_NIGHTLY.zip">Download Gallery nightly build</a></p>
-
-		<p>
-		<a href='history.php'>Update History (like release notes)</a></p>
-
+			<a href='history.php'>Update History (like release notes)</a></p>
+		</p>
 
 		<hr class="clearer"/>
 	</div>

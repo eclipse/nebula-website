@@ -1,4 +1,4 @@
-<?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
+<?php require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
 
 	#*****************************************************************************
 	#
@@ -52,64 +52,69 @@
 			</colgroup>
 			<tr>
 				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/cdatetime/cdatetime.php"><img
-							src="images/cdatetime.png" border="0"
-							alt="The CDateTime is a graphical and textual Date selection widget." title="CDateTime"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>CDateTime</b><br>
-						<small><a
-							href="/nebula/widgets/cdatetime/cdatetime.php">documentation</a>
-						- <a
-							href="/nebula/widgets/cdatetime/cdatetime.php?page=snippets">snippets</a></small></td>
-					</tr>
-				</table>
+					<table>
+						<tr>
+							<td align="center"><a
+								href="/nebula/widgets/calendarcombo/calendarcombo.php"><img
+								src="images/calendarcombo.png" border="0" alt="CalendarCombo is a calendar widget for selecting dates that leaves the combo box looking like the native combo box." title="CalendarCombo"></a></td>
+						</tr>
+						<tr>
+							<td align="center"><b>CalendarCombo</b></td>
+						</tr>
+					</table>
 				</td>
+
 				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/compositetable/compositetable.php"><img
-							src="images/compositetable.png" border="0" alt="CompositeTable gives you total flexibility to present and edit row-oriented data however you want."
-							title="CompositeTable"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>CompositeTable</b><br>
-						<small><a
-							href="/nebula/widgets/compositetable/compositetable.php">documentation</a>
-						- <a
-							href="/nebula/widgets/compositetable/snippets.php">snippets</a></small></td>
-					</tr>
-				</table>
+					<table>
+						<tr>
+							<td align="center"><a
+								href="/nebula/widgets/cdatetime/cdatetime.php"><img
+								src="images/cdatetime.png" border="0"
+								alt="The CDateTime is a graphical and textual Date selection widget." title="CDateTime"></a></td>
+						</tr>
+						<tr>
+							<td align="center"><b>CDateTime</b></td>
+						</tr>
+					</table>
 				</td>
 			</tr>
 			<tr>
 				<td height="25px"></td>
 			</tr>
 			
-
 			<tr>
 				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/ctabletree/ctabletree.php"><img
-							src="images/ctabletree.png" border="0" alt="The CTableTree is a table-tree component which uses dynamic custom cells."
-							title="CTableTree"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>CTableTree</b><br>
-						<small><a
-							href="/nebula/widgets/ctabletree/ctabletree.php">documentation</a>
-						- <a
-							href="/nebula/widgets/ctabletree/snippets.php">snippets</a></small></td>
-					</tr>
-				</table>
+					<table>
+						<tr>
+							<td align="center"><a href="/nebula/widgets/collapsiblebuttons/collapsiblebuttons.php">
+								<img src="images/collapsiblebuttons.png" border="0" alt="CollapsibleButtons is a widget similar to the Microsoft Outlook button navigation bar." title="CollapsibleButtons"></a>
+							</td>
+						</tr>
+						<tr>
+							<td align="center"><b>CollapsibleButtons</b></td> 
+						</tr>
+					</table>
 				</td>
 		
+				<td align="center" valign="bottom">
+					<table>
+						<tr>
+							<td align="center"><a
+								href="/nebula/widgets/compositetable/compositetable.php"><img
+								src="images/compositetable.png" border="0" alt="CompositeTable gives you total flexibility to present and edit row-oriented data however you want."
+								title="CompositeTable"></a></td>
+						</tr>
+						<tr>
+							<td align="center"><b>CompositeTable</b></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="25px"></td>
+			</tr>
+
+			<tr>
 				<td align="center" valign="bottom">
 				<table>
 					<tr>
@@ -119,100 +124,86 @@
 							title="DateChooser"></a></td>
 					</tr>
 					<tr>
-						<td align="center"><b>DateChooser</b><br>
-						<small><a
-							href="/nebula/widgets/datechooser/datechooser.php">documentation</a>
-						- <a
-							href="/nebula/widgets/datechooser/snippets.php">snippets</a></small></td>
+						<td align="center"><b>DateChooser</b></td>
 					</tr>
 				</table>
+				</td>
+				<td align="center" valign="bottom">
+					<table>
+						<tr>
+							<td align="center"><a
+								href="/nebula/widgets/datechooser/datechooser.php"><img
+								src="images/datechoosercombo.png" border="0"
+								alt="DateChooserCombo combines a FormattedText / DateFormatter with a drop down DateChooser popup." title="DateChooserCombo"></a></td>
+						</tr>
+						<tr>
+							<td align="center"><b>DateChooserCombo</b></td>
+						</tr>
+					</table>
 				</td>
 			</tr>
 			<tr>
 				<td height="25px"></td>
+			</tr>
+
+			<tr>
+				<td align="center" valign="bottom">
+					<table>
+						<tr>
+							<td align="center"><a
+								href="/nebula/widgets/formattedtext/formattedtext.php"><img
+								src="images/formattedtext.png" border="0" alt="Decorator component adding input and display mask capabilities on a Text widget."
+								title="FormattedText"></a></td>
+						</tr>
+						<tr>
+							<td align="center"><b>FormattedText</b></td>
+						</tr>
+					</table>
+				</td>
+				<td align="center" valign="bottom">
+					<table>
+						<tr>
+							<td align="center"><a
+								href="/nebula/widgets/gallery/gallery.php"><img
+								src="images/gallery.png" border="0" alt="Gallery lets you display any number of items organised in groups. Several group and item renderers are available with support for dynamic item size, drop shadows, auto margins, icon and list styles." title="Gallery"></a></td>
+						</tr>
+						<tr>
+							<td align="center"><b>Gallery</b></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="25px"></td>
+			</tr>
+
+			<tr>
+				<td align="center" valign="bottom">
+					<table>
+						<tr>
+							<td align="center"><a
+								href="/nebula/widgets/grid/grid.php"><img
+								src="images/grid.png" border="0" alt="The Grid is a table component that offers spreadsheet like features." title="Grid"></a></td>
+						</tr>
+						<tr>
+							<td align="center"><b>Grid</b></td>
+						</tr>
+					</table>
+				</td>
+				<td align="center" valign="bottom">
+					<table>
+						<tr>
+							<td align="center"><a
+								href="/nebula/widgets/ganttchart/ganttchart.php"><img
+								src="images/ganttchart.png" border="0" alt="GanttChart is a full featured and customizable GANTT charting component." title="GanttChart" width=300/></a></td>
+						</tr>
+						<tr>
+							<td align="center"><b>GanttChart</b></td> 
+						</tr>
+					</table>
+				</td>
 			</tr>
 			
-
-
-			<tr>
-				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/datechooser/datechooser.php"><img
-							src="images/datechoosercombo.png" border="0"
-							alt="DateChooserCombo combines a FormattedText / DateFormatter with a drop down DateChooser popup." title="DateChooserCombo"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>DateChooserCombo</b><br>
-						<small><a
-							href="/nebula/widgets/datechooser/datechooser.php">documentation</a>
-						- <a
-							href="/nebula/widgets/datechooser/snippets.php">snippets</a></small></td>
-					</tr>
-				</table>
-				</td>
-				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/formattedtext/formattedtext.php"><img
-							src="images/formattedtext.png" border="0" alt="Decorator component adding input and display mask capabilities on a Text widget."
-							title="FormattedText"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>FormattedText</b><br>
-						<small><a
-							href="/nebula/widgets/formattedtext/formattedtext.php">documentation</a>
-						- <a
-							href="/nebula/widgets/formattedtext/snippets.php">snippets</a></small></td>
-					</tr>
-				</table>
-				</td>
-			</tr>
-			<tr>
-				<td height="25px"></td>
-			</tr>
-		
-
-			<tr>
-				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/gallery/gallery.php"><img
-							src="images/gallery.png" border="0" alt="Gallery lets you display any number of items organised in groups. Several group and item renderers are available with support for dynamic item size, drop shadows, auto margins, icon and list styles." title="Gallery"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>Gallery</b><br>
-						<small><a
-							href="/nebula/widgets/gallery/gallery.php">documentation</a>
-						- <a
-							href="/nebula/widgets/gallery/snippets.php">snippets</a></small></td>
-					</tr>
-				</table>
-				</td>
-				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/grid/grid.php"><img
-							src="images/grid.png" border="0" alt="The Grid is a table component that offers spreadsheet like features." title="Grid"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>Grid</b><br>
-						<small><a
-							href="/nebula/widgets/grid/grid.php">documentation</a>
-						- <a href="/nebula/widgets/grid/snippets.php">snippets</a></small></td>
-					</tr>
-				</table>
-				</td>
-			</tr>
-			<tr>
-				<td height="25px"></td>
-			</tr>
-
-
 			<tr>
 				<td align="center" valign="bottom">
 				<table>
@@ -222,11 +213,7 @@
 							src="images/pgroup.png" border="0" alt="PGroup is a expandable/collapsible composite widget with attractive styling and an extensible design." title="PGroup"></a></td>
 					</tr>
 					<tr>
-						<td align="center"><b>PGroup</b><br>
-						<small><a
-							href="/nebula/widgets/pgroup/pgroup.php">documentation</a>
-						- <a
-							href="/nebula/widgets/pgroup/snippets.php">snippets</a></small></td>
+						<td align="center"><b>PGroup</b></td>
 					</tr>
 				</table>
 				</td>
@@ -239,11 +226,7 @@
 							src="images/pshelf.png" border="0" alt="PShelf is a composite widget similar to a tab folder but uses an accordion-like metaphor." title="PShelf"></a></td>
 					</tr>
 					<tr>
-						<td align="center"><b>PShelf</b><br>
-						<small><a
-							href="/nebula/widgets/pshelf/pshelf.php">documentation</a>
-						- <a
-							href="/nebula/widgets/pshelf/snippets.php">snippets</a></small></td>
+						<td align="center"><b>PShelf</b></td>
 					</tr>
 				</table>
 				</td>
@@ -256,43 +239,9 @@
 		
 			<tr>
 				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/collapsiblebuttons/collapsiblebuttons.php"><img
-							src="images/collapsiblebuttons.png" border="0" alt="CollapsibleButtons is a widget similar to the Microsoft Outlook button navigation bar." title="CollapsibleButtons"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>CollapsibleButtons</b><br>
-						<small><a
-							href="/nebula/widgets/collapsiblebuttons/collapsiblebuttons.php">documentation</a>
-							<!-- 
-							- <a
-							href="/nebula/widgets/collapsiblebuttons/snippets.php">snippets</a>
-							-->
-							</small></td> 
-					</tr>
-				</table>
 				</td>
 		
 				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/calendarcombo/calendarcombo.php"><img
-							src="images/calendarcombo.png" border="0" alt="CalendarCombo is a calendar widget for selecting dates that leaves the combo box looking like the native combo box." title="CalendarCombo"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>CalendarCombo</b><br>
-						<small><a
-							href="/nebula/widgets/calendarcombo/calendarcombo.php">documentation</a>
-							<!--
-							- <a
-							href="/nebula/widgets/calendarcombo/snippets.php">snippets</a>
-							-->							
-							</small></td>
-					</tr>
-				</table>
 				</td>
 		
 			</tr>
@@ -301,27 +250,6 @@
 				<td height="25px"></td>
 			</tr>
 			
-			<tr>
-				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/ganttchart/ganttchart.php"><img
-							src="images/ganttchart.png" border="0" alt="GanttChart is a full featured and customizable GANTT charting component." title="GanttChart"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>GanttChart</b><br>
-						<small><a
-							href="/nebula/widgets/ganttchart/ganttchart.php">documentation</a>
-						- <a
-							href="/nebula/widgets/ganttchart/snippets.php">snippets</a>							
-							</small></td> 
-					</tr>
-				</table>
-				</td>
-				
-				<td><!-- next one here --></td>
-			</tr>
 		</table>
 
 		<hr class="clearer" />
@@ -330,24 +258,12 @@
 	<div id="rightcolumn">
 		<div class="sideitem">
 			<h6>Incubation</h6>
-			<div align="center"><a
-				href="http://www.eclipse.org/projects/what-is-incubation.php"><img
-				align="center" src="http://www.eclipse.org/images/egg-incubation.png"
-				border="0" alt="Incubation" /></a></div>
-		</div>
-
-		<div class="sideitem">
-			<h6>Project links</h6>
-			<div>
-				<ul>
-				<li><a href="http://wiki.eclipse.org/Nebula">Wiki</a></li>
-				<li><a href="/nebula/examples.php">Examples Gallery</a></li>
-				<li>Downloads</li>
-				<li>Roadmap</li>
-				</ul>
+			<div align="center">
+				<a href="http://www.eclipse.org/projects/what-is-incubation.php">
+					<img align="center" src="http://www.eclipse.org/images/egg-incubation.png" border="0" alt="Incubation" />
+				</a>
 			</div>
 		</div>
-
 	</div>
 
 </div>

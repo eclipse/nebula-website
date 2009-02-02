@@ -16,7 +16,7 @@
 	# Begin: page-specific settings.  Change these.
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls";
 	$pageAuthor		= "Jeremy Dowdall";
-	$pageTitle1		= "Nebula CDateTime";
+	$pageTitle1		= "Nebula CDateTime Widget";
 	if($_GET['page'] == 'api') {
 		$pageTitle2		= "Developer API";
 		$pageContent	= file_get_contents("content/api.html");
@@ -39,25 +39,16 @@
 		$pageTitle2		= "Style Settings";
 		$pageContent	= file_get_contents("content/styles.html");
 	} else {
-		$showOsIcons	= true;
-		$pageTitle2		= "<img src='images/linux.png'><img src='images/mac.png'><img src='images/windows.png'>";
 		$pageContent	= file_get_contents("content/cdatetime.html");
 	}
 
-	$onPageTitle	= $pageTitle1."<br/>&nbsp;&nbsp;&nbsp;".$pageTitle2;
-	if($showOsIcons) {
-		$pageTitle 		= $pageTitle1;
-	} else {
+	if ($pageTitle2) {
+		$onPageTitle	= $pageTitle1."<span style='font-size:16px;margin:5px 0 0 10px;color:#333'>(".$pageTitle2.")</span>";
 		$pageTitle 		= $pageTitle1.": ".$pageTitle2;
+	} else {
+		$onPageTitle	= $pageTitle1;
+		$pageTitle 		= $pageTitle1;
 	}
-	$menu = "<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=patterns'>Patterns</a>" .
-			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=styles'>Styles</a>" .
-			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=i18n'>I18N</a>" .
-			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=api'>API</a>" .
-			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=operation'>Operation</a>" .
-			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=reference'>Links</a>" .
-			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='cdatetime.php?page=snippets'>Snippets</a>" .
-			"<a style='border: #999999 solid 1px;border-top: 0px;padding-left: 3px;padding-right: 3px;' href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/nebula_cdatetime_0.9.0.jar'>Download</a>";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
@@ -72,11 +63,26 @@
 	# Paste your HTML content between the EOHTML markers!
 	$html = <<<EOHTML
 		<div id="midcolumn">
-			<div style="float: right;">$menu</div>
 			<h1>$onPageTitle</h1>
 			$pageContent
 			<hr class="clearer"/>
 		</div>
+		
+		<div id="rightcolumn">
+			<div class="sideitem">
+				<h6>CDateTime</h6>
+				<ul>
+					<li><a href='cdatetime.php?page=patterns'>Date/Time Formats and Patterns</a></li>
+					<li><a href='cdatetime.php?page=styles'>Style Settings</a></li>
+					<li><a href='cdatetime.php?page=i18n'>Internationalization (I18N)</a></li>
+					<li><a href='cdatetime.php?page=api'>Developer API</a></li>
+					<li><a href='cdatetime.php?page=operation'>End-User Operation</a></li>
+					<li><a href='cdatetime.php?page=reference'>Links - Clocks, and Calendars</a></li>
+					<li><a href='/nebula/snippets.php#CDateTime'>Snippets</a></li>
+				</ul>
+			</div>
+		</div>
+		
 EOHTML;
 
 

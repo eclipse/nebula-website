@@ -45,9 +45,7 @@
 		<font color=red><b>ALPHA</b></font> state.  Users should expect changes in future versions.
 		
 		<p>
-		<a href='snippets.php'>PGroup Snippets</a>
-		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.pgroup_1.0_ALPHA_NIGHTLY.zip'>Download the PGroup widget - Nightly Build - Alpha Version</a>
+		<a href='/nebula/snippets.php#PGroup'>Snippets</a>
 
 		<hr class="clearer"/>
 	</div>

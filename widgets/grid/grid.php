@@ -45,12 +45,9 @@
 		<font color=red><b>ALPHA</b></font> state.  Users should expect changes in future versions.
 		
 		<p>
-		<a href='snippets.php'>Grid Snippets</a>
-		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.grid_1.0_ALPHA_NIGHTLY.zip'>Download the Grid widget - Nightly Build - Alpha Version</a>
-		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.jface.gridviewer_1.0_ALPHA_NIGHTLY.zip'>Download the JFace GridViewer - Nightly Build - Alpha Version</a>
-
+			<a href='/nebula/snippets.php#Grid'>Snippets</a>
+		</p>
+		
 		<hr class="clearer"/>
 	</div>
 

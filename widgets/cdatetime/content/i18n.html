@@ -1,19 +1,21 @@
-The CDateTime makes full use of Java's Locale object throughout. Upon creation, The locale is set
-to set the system's default, but can be changed at runtime via the <code>setLocale</code> method.
 <p>
-Although most translations are provided through the java.util.SimpleDateFormat object, there a few
-cases where CDateTime must rely upon external property files in order to be translated correctly.
-Because this is a widget and not a full application, it is quite possible that multiple instances
-may created with different locales.  For this reason, the <code>Messages</code> class does not hold a
-static reference to a given properties file, but can map to multiple files as they are activated. 
+	The CDateTime makes full use of Java's Locale object throughout. Upon creation, The locale is set
+	to set the system's default, but can be changed at runtime via the <code>setLocale</code> method.
 </p>
 <p>
-Presently only English (US) is available.<br />
-If you can help by creating a translation (a very simple one!), simply file a 
-<a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Nebula&component=CDateTime">Feature Request</a>
-for [I18N] and attach your translated version of the properties file.<br />
-View the properties file: 
-<a href="http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.widgets/src/org/eclipse/swt/nebula/widgets/cdatetime/messages_en_US.properties?rev=1.4&cvsroot=Technology_Project">English (US)</a>,
+	Although most translations are provided through the java.util.SimpleDateFormat object, there a few
+	cases where CDateTime must rely upon external property files in order to be translated correctly.
+	Because this is a widget and not a full application, it is quite possible that multiple instances
+	may created with different locales.  For this reason, the <code>Messages</code> class does not hold a
+	static reference to a given properties file, but can map to multiple files as they are activated. 
+</p>
+<p>
+	Presently only English (US) is available.<br />
+	If you can help by creating a translation (a very simple one!), simply file a 
+	<a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Nebula&component=CDateTime">Feature Request</a>
+	for [I18N] and attach your translated version of the properties file.<br />
+	View the properties file: 
+	<a href="http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.widgets/src/org/eclipse/swt/nebula/widgets/cdatetime/messages_en_US.properties?rev=1.4&cvsroot=Technology_Project">English (US)</a>,
 </p>
 
 <h4>Textual</h4>

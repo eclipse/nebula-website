@@ -53,17 +53,8 @@
 		<p>
 		Please note that this widget usually fits best inside components that push it into place as it changes the actual widget size when buttons are collapsed,
 		such as the <b>SashForm</b>, <b>ViewForm</b> or a custom layout.
-		<p>
-		<!-- <a href='snippets.php'>CollapsibleButton Snippets</a> -->		
-		<p>		
-		<b>Version 1.0</b><br>
-		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.collapsiblebuttons-1.0-NIGHTLY.jar'>Download the CollapsibleButton widget - Nightly Build - Jar</a><br>
-		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.collapsiblebuttons-1.0-NIGHTLY-sources.jar'>Download the CollapsibleButton widget - Nightly Build - Sources</a><br>
-		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.collapsiblebuttons-1.0-NIGHTLY-javadoc.jar'>Download the CollapsibleButton widget - Nightly Build - JavaDoc</a><br>
-
-<!--		<p>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.collapsiblebuttons_1.0_ALPHA_NIGHTLY.zip'>Download the CollapsibleButtons widget - Nightly Build</a>
--->
+		</p>
+		
 		<hr class="clearer"/>
 	</div>
 

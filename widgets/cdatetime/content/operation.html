@@ -1,22 +1,26 @@
-<h4>Selection versus 'Full' Selection</h4>
-A java.util.Date object may encapsulate a moment in time, but specifying it may take several steps as
-a user sets each field individually.  A java.util.Calendar object is a little closer to what we are used
-to using in the real-world, and is therefore closer to how a Date is selected with the CDateTime widget.<br/>
-Consider how a user may navigate a table with the cursor: selection moves between rows and/or cells
-until it reaches the one the user wants to activate, at which point they press (for example) <code>ENTER</code>.
-Likewise, a user may navigate past severals dates/times before reaching the one they are really
-trying to select.  When the user reaches this selection, they will indicate it by what I've called
-a 'Full' selection, meaning that every field is being selected.<br/>
-Different components of the CDateTime
-widget consider a 'Full' selection differently simply because users interact with them differently.
-A 'Full' selection notifies listeners via the widgetDefaultSelected interface and their occurence will 
-be pointed out in the following text.
+<h2>Selection versus 'Full' Selection</h2>
+<p>
+	A java.util.Date object may encapsulate a moment in time, but specifying it may take several steps as
+	a user sets each field individually.  A java.util.Calendar object is a little closer to what we are used
+	to using in the real-world, and is therefore closer to how a Date is selected with the CDateTime widget.<br/>
+	Consider how a user may navigate a table with the cursor: selection moves between rows and/or cells
+	until it reaches the one the user wants to activate, at which point they press (for example) <code>ENTER</code>.
+	Likewise, a user may navigate past severals dates/times before reaching the one they are really
+	trying to select.  When the user reaches this selection, they will indicate it by what I've called
+	a 'Full' selection, meaning that every field is being selected.<br/>
+	Different components of the CDateTime
+	widget consider a 'Full' selection differently simply because users interact with them differently.
+	A 'Full' selection notifies listeners via the widgetDefaultSelected interface and their occurence will 
+	be pointed out in the following text.
+</p>
 
-<h4>Text Operation</h4>
+<h2>Text Operation</h2>
 <div style="margin-left: 10px;">
-	Depending upon the pattern, or format, set on the CDateTime widget, the textual selector allows the
-	user to select any form of date and/or time.
-	<table width='100%'>
+	<p>
+		Depending upon the pattern, or format, set on the CDateTime widget, the textual selector allows the
+		user to select any form of date and/or time.
+	</p>
+	<table width='100%' style="margin-bottom:5px">
 		<tr align='center'>
 			<td><img src="images/CDateTime_text.png"></td>
 			<td><img src="images/CDateTime_text_spinner.png"></td>
@@ -29,21 +33,21 @@ be pointed out in the following text.
 		</tr>
 	</table>
 	<p>
-	When the CDateTime gains focus by a means other than a mouse click (such as tabbing through
-	a form), its entire text area is selected.  The intent is to allow it to be copied and has the
-	side affect that no field is actually selected, and thus the CDateTime cannot be 
-	edited.  When the CDateTime looses focus, by any means, all fields are unselected and again,
-	the CDateTime cannot be edited.  Before editing, an individual field must be selected.<br>
+		When the CDateTime gains focus by a means other than a mouse click (such as tabbing through
+		a form), its entire text area is selected.  The intent is to allow it to be copied and has the
+		side affect that no field is actually selected, and thus the CDateTime cannot be 
+		edited.  When the CDateTime looses focus, by any means, all fields are unselected and again,
+		the CDateTime cannot be edited.  Before editing, an individual field must be selected.<br>
 	<div>
 		<p>Field Selection via Mouse:</p>
-		<ul style="margin-left: 10px;">
+		<ul style="margin-left: 30px;">
 			<li>Select any field with a direct mouse click</li>
 			<li>Clicking the center mouse button will cycle through the fields</li>
 		</ul>	
 	</div>
 	<div>
 		<p>Field Selection via Keyboard:</p>
-		<ul style="margin-left: 10px;">
+		<ul style="margin-left: 30px;">
 			<li>The left and right arrow keys move one field at time</li>
 			<li>If the style TAB_FIELDS is set, then the Tab key will move to the next field (and from
 			the last field to the next widget)</li>
@@ -58,11 +62,11 @@ be pointed out in the following text.
 	</div>
 	<div>
 		<p>Field Editing via Mouse:</p>
-		<ul style="margin-left: 10px;">
+		<ul style="margin-left: 30px;">
 			<li>Scrolling with the mouse wheel will increment and decrement the field</li>
 		</ul>
 		<p>Field Editing via Keyboard:</p>
-		<ul style="margin-left: 10px;">
+		<ul style="margin-left: 30px;">
 			<li>The Up and Down arrow keys will increment and decrement the field</li>
 			<li>The "+" and "-" keys will increment and decrement the field</li>
 			<li>The "=" key will increment the field (i18n problem?)</li>
@@ -74,7 +78,7 @@ be pointed out in the following text.
 	</div>
 	<div>
 		<p>Full Selection:</p>
-		<ul style="margin-left: 10px;">
+		<ul style="margin-left: 30px;">
 			<li>When the user presses the <code>ENTER</code> key (like a normal SWT Text widget)</li>
 		</ul>
 	</div>
@@ -96,18 +100,18 @@ be pointed out in the following text.
 	</div>
 </div>
 
-<h4>Combo Operation</h4>
+<h2>Combo Operation</h2>
 <div style="margin-left: 10px;">
 	<div>
 		<p>Opening the Drop Shell:</p>
-		<ul style="margin-left: 10px;">
+		<ul style="margin-left: 30px;">
 			<li>Mouse - when the drop button is clicked</li>
 			<li>Keyboard - when &lt;CTRL-SPACE&gt; key combination is typed</li>
 		</ul>
 	</div>
 	<div>
 		<p>Full Selection:</p>
-		<ul style="margin-left: 10px;">
+		<ul style="margin-left: 30px;">
 			<li>When a Full Selection is made on the Graphical component</li>
 			<li>When the drop button is clicked</li>
 		</ul>
@@ -122,8 +126,8 @@ be pointed out in the following text.
 		value (this will fire a regular selection so external listeners may be restored as well).
 	</div>
 </div>
-<h4>Graphical Operation</h4>
-<h4>Calendar</h4>
+<h2>Graphical Operation</h2>
+<h2>Calendar</h2>
 <div style="margin-left: 10px;">
 	<p>The user is able to select a date (year, month, and day) by selecting a day on the calendar.</p>
 	<table width='100%'>
@@ -164,11 +168,11 @@ be pointed out in the following text.
 	</div>
 	<div>
 		<p>Full Selection via Mouse:</p>
-		<ul style="margin-left: 10px;">
+		<ul style="margin-left: 30px;">
 			<li>When a day button has the focus and the user presses the <code>ENTER</code> key</li>
 		</ul>
 		<p>Full Selection via Keyboard:</p>
-		<ul style="margin-left: 10px;">
+		<ul style="margin-left: 30px;">
 			<li>When the user clicks a day button with the primary mouse button</li>
 			<li>When the user clicks the "Today" menu option (shown by alt-mouse clicking on a day button)</li>
 			<li>When the user clicks the "Today" button with the primary mouse button</li>
@@ -176,7 +180,7 @@ be pointed out in the following text.
 	</div>
 </div>
 
-<h4>Analog Clock</h4>
+<h2>Analog Clock</h2>
 <div style="margin-left: 10px;">
 	<div>
 		<p>The user is able to select a time (hour, minute, and second) by dragging the hands of the clock with the mouse.</p>
@@ -200,14 +204,14 @@ be pointed out in the following text.
 			<li>The time can be set current by clicking the "Now" button</li>
 		</ol>
 		<p>Full Selection:</p>
-		<ul style="margin-left: 10px;">
+		<ul style="margin-left: 30px;">
 			<li>When the user selects the "Now" menu option (shown by alt-mouse clicking on the clock dial)</li>
 			<li>When the user clicks the "Now" button</li>
 		</ul>
 	</div>
 </div>		
 
-<h4>Discrete Clock</h4>
+<h2>Discrete Clock</h2>
 <div style="margin-left: 10px;">
 	<p align="center">
 		<img src="images/CDateTime_clock_discrete.png"><br>
@@ -219,7 +223,7 @@ be pointed out in the following text.
 	</p>
 	<p>
 		Full Selection:
-		<ul style="margin-left: 10px;">
+		<ul style="margin-left: 30px;">
 			<li>When the button for the last unselected field is selected</li>
 		</ul>
 	</p>

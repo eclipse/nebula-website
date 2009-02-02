@@ -35,7 +35,6 @@
 		<h1>$pageTitle</h1>
 		<h2>GanttChart</h2>
 		<p>
-		Version 2.0 is out, it adds loads of new functionality along with several bug fixes and enhancements. Some new features are:<br>
 		<ul>
 			<li>Hours view (to control items down to the minute level) - which also adds 3 more zoom levels in that view.
 			<li>GanttSections to split chart into individual sections.
@@ -48,14 +47,11 @@
 			<li>Lots and lots more. See screenshots below.
 		</ul>
 		<p>
-		<b>Version 2.0 BETA</b> (shown using GanttSections - Silver theme)<br>
+		<b>GanttChart - BETA</b> (shown using GanttSections - Silver theme)<br>
 		<img src='images/gantt_20_silver.jpg'>
-		<br><br>		
-		<b>Version 2.0 BETA</b> (shown using GanttSections - Blue theme)<br>
+		<br><br>
+		<b>GanttChart - BETA</b> (shown using GanttSections - Blue theme)<br>
 		<img src='images/gantt_sections.jpg'>
-		<!--<br><br>
-		<b>Version 1.0</b><br>	
-		<img src='images/ganttchart_full.png'>-->
 		<p>
 		The GANTT chart is a fully customizable widget for displaying anything from a simple chart to allowing user interaction via drag and drop and resizing and well
 		as dependency interaction.
@@ -68,19 +64,8 @@
 		Basically, if you don't like something, change it!
 
 		<p>
-		<!-- <a href='snippets.php'>CollapsibleButton Snippets</a> -->
+			<a href='/nebula/snippets.php#GanttChart'>Snippets</a>		
 		<p>
-		<a href='snippets.php'>Gantt 2.0 Snippets</a>		
-		<p>
-		<b>Version 2.0</b><br>
-		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.ganttchart-2.0-NIGHTLY.jar'>Download the GanttChart widget - Nightly Build - Jar</a><br>
-		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.ganttchart-2.0-NIGHTLY-sources.jar'>Download the GanttChart widget - Nightly Build - Sources</a><br>
-		<a href='http://www.hexapixel.com/files/nightly/org.eclipse.nebula.widgets.ganttchart-2.0-NIGHTLY-javadoc.jar'>Download the GanttChart widget - Nightly Build - JavaDoc</a><br>
-		<!--
-		<p>
-		<b>Version 1.0 - STABLE</b><br>
-		<a href='http://www.eclipse.org/downloads/download.php?file=/technology/nebula/org.eclipse.nebula.widgets.ganttchart_1.0_ALPHA_NIGHTLY.zip'>Download the GanttChart widget - Nightly Build</a>
-		-->
 				
 		<hr class="clearer"/>
 	</div>

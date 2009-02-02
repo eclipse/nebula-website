@@ -2,21 +2,21 @@
 
 	#*****************************************************************************
 	#
-	# history.php
+	# examples.php
 	#
 	# Author: 		Jeremy Dowdall
-	# Date:			2006-08-30
+	# Date:			2009-02-01
 	#
-	# Description: Describes the history of CTabelTree.
+	# Description:  Nebula Download page.
 	#
 	#
 	#****************************************************************************
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula CTableTree History";
-	$pageKeywords	= "Nebula, SWT, Widgets, Controls, History";
-	$pageAuthor		= "Jeremy Dowdall";
+	$pageTitle 		= "Nebula Downloads";
+	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Downloads";
+	$pageAuthor		= "Nebula Committers";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
@@ -33,16 +33,23 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		
-		<h3>8/30/06 Update</h3>
-		<ul>
-		<li>The initial website is up!</li>
-		</ul>
+			
+		<p>There are no downloads available at this time.</p>
 		
 		<hr class="clearer"/>
 	</div>
 
-
+	<div id="rightcolumn">
+		<div class="sideitem">
+			<h6>Incubation</h6>
+			<div align="center">
+				<a href="http://www.eclipse.org/projects/what-is-incubation.php">
+					<img align="center" src="http://www.eclipse.org/images/egg-incubation.png" border="0" alt="Incubation" />
+				</a>
+			</div>
+		</div>
+	</div>
+	
 EOHTML;
 
 

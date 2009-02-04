@@ -39,8 +39,23 @@
 		SWT.  Some Nebula widgets will graduate into SWT and therefore into the main Eclipse Platform.</p>
 		
 		<p>All Nebula components are available on the navigation tree on the left or from the table below.
-		  Each page will describe the component and also link to the component download.</p>
+		  Each image links to a page that will further describe the component and its function.</p>
 
+		<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
+			<p style="font-weight: bold">
+				Please note: the downloads have been <u>temporarily</u> removed.
+			</p>
+			<p>
+				The reason for this was to bring the Nebula project into conformance with the Eclipse
+				Foundation's Incubation guidelines (read: legal stuff).  Nebula is now in compliance 
+				and we will be bringing the downloads back as quickly as possible.
+			</p>
+			<p>
+				We appreciate your patience as we go through these changes because, though inconvenient, 
+				they will help the project move forward and set it up to better serve the Eclipse community at large.
+			</p>
+		</div>
+				
 		<a name="components"></a>
 		<h3>Components :</h3>
 

@@ -47,7 +47,7 @@
 		<a name="CDateTime"></a>
 		<h2>CDateTime</h2>
 		<ul>
-			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/cdatetime/CDTSnippet01.java?root=Technology_Project&view=co'>A CDateTime with a SPINNER style</a></li>
+			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDTSnippet01.java?root=Technology_Project&view=co'>A CDateTime with a SPINNER style</a></li>
 		</ul>
 
 		<a name="CollapsibleButtons"></a>

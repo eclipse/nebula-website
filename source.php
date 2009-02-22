@@ -33,15 +33,12 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p style="margin:5px 0 15px 15px">
-			This project hosts its CVS repository at:
-		</p>
-		<p style="margin:5px 0 15px 30px">
-			:pserver:anonymous@dev.eclipse.org:/cvsroot/technology/org.eclipse.swt.nebula
-		</p>
-		<p style="margin:5px 0 15px 15px">
-			The CVS repository is browseable <a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/?root=Technology_Project">on the web</a>.
-		</p>
+		<div style="margin:5px 0 15px 15px">
+			<p>This project hosts its CVS repository at:</p>
+			<p style="margin-left:15px">:pserver:anonymous@dev.eclipse.org:/cvsroot/technology/org.eclipse.swt.nebula</p>
+			<p style="padding-top:15px">For information on using CVS at Eclipse.org, please visit the <a href="http://wiki.eclipse.org/index.php/CVS_Howto">wiki page</a></p>
+			<p>The CVS repository is also browseable <a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/?root=Technology_Project">on the web</a>.</p>
+		</div>
 		
 EOHTML;
 

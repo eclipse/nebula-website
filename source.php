@@ -5,17 +5,17 @@
 	# examples.php
 	#
 	# Author: 		Jeremy Dowdall
-	# Date:			2009-02-01
+	# Date:			2008-02-20
 	#
-	# Description:  Nebula Download page.
+	# Description:  Nebula Source Page.
 	#
 	#
 	#****************************************************************************
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula Downloads";
-	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Downloads";
+	$pageTitle 		= "Nebula Source Code";
+	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Source, Code";
 	$pageAuthor		= "Nebula Committers";
 	
 	# Add page-specific Nav bars here
@@ -33,25 +33,16 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-			
-		<p>There are no downloads available at this time.</p>
+		<p style="margin:5px 0 15px 15px">
+			This project hosts its CVS repository at:
+		</p>
+		<p style="margin:5px 0 15px 30px">
+			:pserver:anonymous@dev.eclipse.org:/cvsroot/technology/org.eclipse.swt.nebula
+		</p>
+		<p style="margin:5px 0 15px 15px">
+			The CVS repository is browseable <a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/?root=Technology_Project">on the web</a>.
+		</p>
 		
-		<p>The source code can be found in <a href="/nebula/source.php">CVS</a>.</p>
-		
-		<hr class="clearer"/>
-	</div>
-
-	<div id="rightcolumn">
-		<div class="sideitem">
-			<h6>Incubation</h6>
-			<div align="center">
-				<a href="http://www.eclipse.org/projects/what-is-incubation.php">
-					<img align="center" src="http://www.eclipse.org/images/egg-incubation.png" border="0" alt="Incubation" />
-				</a>
-			</div>
-		</div>
-	</div>
-	
 EOHTML;
 
 

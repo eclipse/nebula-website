@@ -48,7 +48,9 @@
 			<p>
 				The reason for this was to bring the Nebula project into conformance with the Eclipse
 				Foundation's Incubation guidelines (read: legal stuff).  Nebula is now in compliance 
-				and we will be bringing the downloads back as quickly as possible.
+				and we will be bringing the downloads back as quickly as possible.<br/>
+				In the mean time, the source code can be found in 
+				<a href="/nebula/source.php">CVS</a>.
 			</p>
 			<p>
 				We appreciate your patience as we go through these changes because, though inconvenient, 

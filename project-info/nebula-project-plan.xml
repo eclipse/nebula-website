@@ -48,12 +48,12 @@
 
 		<theme name="Nebula : projet reorganization">
 			<description>
-			The project is being reorganized to follow the incubation rules and improve efficiency.
+			<html:p>The project is being reorganized to follow the incubation rules and improve efficiency.</html:p>
 			</description>
 		</theme>
 
 		<theme name="Subproject : Common Widget Toolkit">
-			<description>This project is at a proposal state and aim to provide a common ground for custom widgets.</description>
+			<description><html:p>This project is at a proposal state and aim to provide a common ground for custom widgets.</html:p></description>
 		</theme>
 
 		<theme name="Widget : Gallery">
@@ -66,7 +66,7 @@
 		</theme>
 		
 		<theme name="Widget : Grid">
-			<description>...</description>
+			<description><html:p>...</html:p></description>
 			<committed bugzilla="...(recommended) bugzilla search url...">
 				...(optional alternate) html...</committed>
 			<proposed bugzilla="...(recommended) bugzilla search url...">

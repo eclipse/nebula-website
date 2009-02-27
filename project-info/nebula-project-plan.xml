@@ -3,14 +3,14 @@
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Nebula">
 	<release projectid="technology.nebula" version="1.0" />
 	<introduction>
-		<html:div>Nebula project plan : This document is work in progress and can be updated at any time. Gallery theme is up to date. </html:div>
+		<html:div>Nebula project plan : this document is work in progress and can be updated at any time. Gallery theme is up to date. </html:div>
 	</introduction>
 	<release_deliverables>
 		<html:div>Nebula is composed of several widget projects.</html:div>
 	</release_deliverables>
 	<release_milestones>
 		<preamble>
-			<html:div>This roadmap is only an example</html:div>
+			<html:div>This roadmap is only an example.</html:div>
 		</preamble>
 		<milestone date="4/10/2009" milestone="M1">
 			<html:div>Fix incubation status</html:div>
@@ -29,13 +29,13 @@
 			<html:div>1.0 release review yet to be scheduled</html:div>
 		</milestone>
 		<postamble>
-			<html:div>Since Nebula is developed by individuals, community help will be necessary to keep this roadmap real.</html:div>
+			<html:div>Since Nebula widgets are developed by individuals, community help will be necessary to keep this roadmap real.</html:div>
 		</postamble>
 	</release_milestones>
 	<target_environments>
 		<html:div>Every platform where SWT can run.</html:div>
 		<internationalization>
-			<html:div>Project uses English (en) for default resource string.  </html:div>
+			<html:div>Project uses English (en) for default resource strings.  </html:div>
 		</internationalization>
 	</target_environments>
 	<compatibility_with_previous_releases>
@@ -43,7 +43,7 @@
 	</compatibility_with_previous_releases>
 	<themes_and_priorities>
 		<preamble>
-			<html:div>Some xhtml content here. Make sure to use the prefix before the elements</html:div>
+			<html:div></html:div>
 		</preamble>
 
 		<theme name="Nebula : projet reorganization">

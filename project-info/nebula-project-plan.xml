@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Nebula">
+	<release projectid="technology.nebula" version="1.0" />
+	<introduction>
+		<html:div>Nebula project plan : This document is work in progress and can be updated at any time. Gallery theme is up to date. </html:div>
+	</introduction>
+	<release_deliverables>
+		<html:div>Nebula is composed of several widget projects.</html:div>
+	</release_deliverables>
+	<release_milestones>
+		<preamble>
+			<html:div>This roadmap is only an example</html:div>
+		</preamble>
+		<milestone date="4/10/2009" milestone="M1">
+			<html:div>Fix incubation status</html:div>
+		</milestone>
+		<milestone date="6/10/2009" milestone="M2">
+		</milestone>
+		<milestone date="8/10/2009" milestone="M3">
+		</milestone>
+		<milestone date="9/10/2009" milestone="M4">
+		</milestone>
+		<milestone date="10/10/2009" milestone="M5">
+		</milestone>
+		<milestone date="11/10/2008" milestone="1.0RC1">
+		<milestone date="12/10/2009" milestone="1.0RC2" />
+		<milestone date="01/10/2010" milestone="1.0" />
+			<html:div>1.0 release review yet to be scheduled</html:div>
+		</milestone>
+		<postamble>
+			<html:div>Since Nebula is developed by individuals, community help will be necessary to keep this roadmap real.</html:div>
+		</postamble>
+	</release_milestones>
+	<target_environments>
+		<html:div>Every platform where SWT can run.</html:div>
+		<internationalization>
+			<html:div>Project uses English (en) for default resource string.  </html:div>
+		</internationalization>
+	</target_environments>
+	<compatibility_with_previous_releases>
+		<html:div>Until the 1.0 release, API and method may change between two milestones to better comply to SWT API.</html:div>
+	</compatibility_with_previous_releases>
+	<themes_and_priorities>
+		<preamble>
+			<html:div>Some xhtml content here. Make sure to use the prefix before the elements</html:div>
+		</preamble>
+
+		<theme name="Nebula : projet reorganization">
+			<description>
+			The project is being reorganized to follow the incubation rules and improve efficiency.
+			</description>
+		</theme>
+
+		<theme name="Subproject : Common Widget Toolkit">
+			<description>This project is at a proposal state and aim to provide a common ground for custom widgets.</description>
+		</theme>
+
+		<theme name="Widget : Gallery">
+			<description>Current work focuses on a full JFace support (including Virtual style), compliance to SWT and Eclipse
+				standards and bug fixes. A few long wanted improvements like item reordering, rectangular selection and new animations are also on
+				the scope.</description> 
+			<committed bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Technology&product=Nebula&component=Gallery&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=plan&priority=P1&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0="></committed>
+			<proposed bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Technology&product=Nebula&component=Gallery&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=plan&priority=P2&priority=P3&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0="></proposed>
+			<deferred bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Technology&product=Nebula&component=Gallery&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=plan&priority=P4&priority=P5&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0="></deferred>
+		</theme>
+		
+		<theme name="Widget : Grid">
+			<description>...</description>
+			<committed bugzilla="...(recommended) bugzilla search url...">
+				...(optional alternate) html...</committed>
+			<proposed bugzilla="...(recommended) bugzilla search url...">
+				...(optional alternate) html...</proposed>
+			<deferred bugzilla="...(recommended) bugzilla search url...">
+				...(optional alternate) html...</deferred>
+		</theme>
+	</themes_and_priorities>
+	<appendix name="Project Refactoring">
+		[Project Refactoring]
+   </appendix>
+</plan>

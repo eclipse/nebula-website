@@ -47,7 +47,14 @@
 		<a name="CDateTime"></a>
 		<h2>CDateTime</h2>
 		<ul>
-			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDTSnippet01.java?root=Technology_Project&view=co'>A CDateTime with a SPINNER style</a></li>
+			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDTSnippet01.java?root=Technology_Project&view=co'>
+				Textual selector with a Spinner</a></li>
+			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDTSnippet02.java?root=Technology_Project&view=co'>
+				Drop-down Combo with Calendar and Analog Time selector (Compact style)</a></li>
+			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDTSnippet03.java?root=Technology_Project&view=co'>
+				Graphical Calendar selector</a></li>
+			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDTSnippet05.java?root=Technology_Project&view=co'>
+				Drop-down Combo with Discrete Time selector</a></li>
 		</ul>
 
 		<a name="CollapsibleButtons"></a>

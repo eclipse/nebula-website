@@ -34,7 +34,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 	
-		<h2>Gallery>
+		<h2>Gallery</h2>
 		<ul>
 			<li>Latest nighlty build : <a href="http://download.eclipse.org/technology/nebula/gallery/downloads/drops/latest/nebula-gallery-SDK-incubation.zip">nebula-gallery-SDK-incubation.zip</a></li>
 			<li>Update site (nighlty builds) : http://download.eclipse.org/technology/nebula/gallery/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>

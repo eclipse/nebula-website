@@ -40,6 +40,12 @@
 			<li>Update site (nighlty builds) : http://download.eclipse.org/technology/nebula/gallery/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
 	    </ul>
 	    
+	    <h2>CWT (unofficial)</h2>
+	    <ul>
+			<li>Latest nighlty build : <a href="http://download.eclipse.org/technology/nebula/cwt/downloads/drops/latest/nebula-cwt-SDK-incubation.zip">nebula-cwt-SDK-incubation.zip</a></li>
+			<li>Update site (nighlty builds) : http://download.eclipse.org/technology/nebula/cwt/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
+	    </ul>
+	    
 	    <h2>Other widgets</h2>	
 		<p>There are no downloads available at this time.</p>
 		

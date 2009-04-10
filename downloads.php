@@ -40,7 +40,7 @@
 			<li>Update site (nighlty builds) : http://download.eclipse.org/technology/nebula/gallery/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
 	    </ul>
 	    
-	    <h2>Gallery</h2>
+	    <h2>Grid</h2>
 		<ul>
 			<li>Latest nighlty build : <a href="http://download.eclipse.org/technology/nebula/grid/downloads/drops/latest/nebula-grid-SDK-incubation.zip">nebula-grid-SDK-incubation.zip</a></li>
 			<li>Update site (nighlty builds) : http://download.eclipse.org/technology/nebula/grid/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>

@@ -46,6 +46,12 @@
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/grid/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
 	    </ul>
 	    
+	     <h2>PGroup</h2>
+		<ul>
+			<li>Latest nightly build : <a href="http://download.eclipse.org/technology/nebula/pgroup/downloads/drops/latest/nebula-pgroup-SDK-incubation.zip">nebula-pgroup-SDK-incubation.zip</a></li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/pgroup/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
+	    </ul>
+	    
 	    <h2>PShelf</h2>
 		<ul>
 			<li>Latest nightly build : <a href="http://download.eclipse.org/technology/nebula/pshelf/downloads/drops/latest/nebula-pshelf-SDK-incubation.zip">nebula-pshelf-SDK-incubation.zip</a></li>

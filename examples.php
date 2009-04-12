@@ -34,7 +34,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 			
-		<p>There are no examples available at this time.</p>
+		<p>Get the example application from the download page.</p>
 		
 		<hr class="clearer"/>
 	</div>

@@ -43,12 +43,10 @@
 
 		<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
 			<p style="font-weight: bold">
-				Please note: the downloads have been <u>temporarily</u> removed.
+				Binary downloads and update sites are now available for some widgets. See <a href="/nebula/downloads">downloads</a> page.
 			</p>
 			<p>
-				The reason for this was to bring the Nebula project into conformance with the Eclipse
-				Foundation's Incubation guidelines (read: legal stuff).  Nebula is now in compliance 
-				and we will be bringing the downloads back as quickly as possible.<br/>
+			    We are progressively setting up the automated build process, all widgets should be available in a binary form soon.<br/>
 				In the mean time, the source code can be found in 
 				<a href="/nebula/source.php">CVS</a>.
 			</p>

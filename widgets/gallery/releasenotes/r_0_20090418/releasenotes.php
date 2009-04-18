@@ -43,7 +43,7 @@
 		
 		<h3>Components</h3>
 		<p>The Gallery plug-in includes 3 main components :
-		<table style="border: 1px solid #000;">
+		<table border-"1">
 		<tr>
 		<th>Component</th>
 		<th>Package</th>
@@ -60,15 +60,15 @@
 		</tr>
 		<tr>
 		<td>Gallery Viewer</td>
-		<td>org.eclipse.nebula.jface.galleryviwer</td>
+		<td>org.eclipse.nebula.jface.galleryviewer</td>
 		<td>Stable</td>
-		<td>Dev</td>
+		<td style="color: #FF0000;">Dev</td>
 		<td>Standard mode should be quite stable but requires a lot of testing. SWT.VIRTUAL mode is not yet implemented.</td>
 		</tr>
 		<tr>
 		<td>Nebula Animation</td>
 		<td>org.eclipse.nebula.animation</td>
-		<td>Dev</td>
+		<td style="color: #FF0000;">Dev</td>
 		<td>Stable</td>
 		<td>Will be moved to CWT at some point. Effects are working great but API fill be improved in the future.</td>
 		</tr>

@@ -43,7 +43,7 @@
 
 		<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
 			<p style="font-weight: bold">
-				Binary downloads and update sites are now available for some widgets. See <a href="/nebula/downloads">downloads</a> page.
+				Binary downloads and update sites are now available for some widgets. See <a href="/nebula/downloads.php">downloads</a> page.
 			</p>
 			<p>
 			    We are progressively setting up the automated build process, all widgets should be available in a binary form soon.<br/>

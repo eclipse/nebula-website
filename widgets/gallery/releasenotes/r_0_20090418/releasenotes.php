@@ -75,7 +75,7 @@
 		</table>
 		<p>Dev : feature not implemented, major API changes expected, ...</p>
 	
-		<h3>Features</h3>
+		<h3>New features and changes</h3>
 		<ul>
 			<li>Animations : Expanding and closing of groups is now animated. The animation code is from SAT. Expand and collapse animations can be chosen between all existing Nebula animations including Exponential, Elastic or Bounce or by any custom animation which implements IMovement. </li>
 			<li>Images and descriptions for groups : images and descriptions are now displayed for groups.

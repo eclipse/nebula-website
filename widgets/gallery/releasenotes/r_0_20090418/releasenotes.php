@@ -43,7 +43,7 @@
 		
 		<h3>Components</h3>
 		<p>The Gallery plug-in includes 3 main components :
-		<table border="1" width="100%">
+		<table border="1" width="100%" style="padding:3px; border: 1px solid #000;">
 		<tr>
 		<th>Component</th>
 		<th>Package</th>
@@ -53,27 +53,29 @@
 		</tr>
 		<tr>
 		<td>Gallery Widget</td>
-		<td>org.eclipse.nebula.widgets.gallery</td>
+		<td>o.e.nebula.widgets.gallery</td>
 		<td>Stable</td>
 		<td>Stable</td>
 		<td>Except experimental feature 'fillIfsingle'</td>
 		</tr>
 		<tr>
 		<td>Gallery Viewer</td>
-		<td>org.eclipse.nebula.jface.galleryviewer</td>
+		<td>o.e.nebula.jface.galleryviewer</td>
 		<td>Stable</td>
 		<td style="color: #FF0000;">Dev</td>
 		<td>Standard mode should be quite stable but requires a lot of testing. SWT.VIRTUAL mode is not yet implemented.</td>
 		</tr>
 		<tr>
 		<td>Nebula Animation</td>
-		<td>org.eclipse.nebula.animation</td>
+		<td>o.e.nebula.animation</td>
 		<td style="color: #FF0000;">Dev</td>
 		<td>Stable</td>
 		<td>Will be moved to CWT at some point. Effects are working great but API fill be improved in the future.</td>
 		</tr>
 		</table>
 	
+			<h3>Features</h3>
+			
 		<hr class="clearer"/>
 	</div>
 

@@ -36,7 +36,7 @@
 	
 	
 	<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
-	    Note: When using update site on some Eclipse versions (3.5M6), please uncheck 'group by categories' to make the feature appear in the update manager.</div>
+	    Note: When installing from an update site, you may have to uncheck 'group by categories' to make the feature appear in the update manager on some Eclipse versions (3.5M6).</div>
 	
 	<h2>Nebula Examples</h2>
 		<ul>

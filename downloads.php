@@ -34,42 +34,49 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 	
+	
+	<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
+			<p>
+			    Note: When using update site on some Eclipse versions (3.5M6), please uncheck 'group by categories' to make the feature appear in the update manager.
+			</p>
+	</div>
+	
 	<h2>Nebula Examples</h2>
 		<ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/examples/downloads/drops/latest/nebula-examples-ALL-incubation.zip">nebula-examples-ALL-incubation.zip</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/examples/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/examples/update-N/   </li>
 	    </ul>
 	    
 		<h2>Gallery</h2>
 		<ul>
 			<li>0.5.2 (stable) : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/gallery/downloads/drops/R_0_20090418/nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip">nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip</a></li>
-			<li>Update site (stable) : http://download.eclipse.org/technology/nebula/gallery/update/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
+			<li>Update site (stable) : http://download.eclipse.org/technology/nebula/gallery/update/   </li>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/gallery/downloads/drops/latest/nebula-gallery-ALL-incubation.zip">nebula-gallery-ALL-incubation.zip</a> - <a href="http://download.eclipse.org/technology/nebula/gallery/downloads/drops/latest/testresults/html/org.eclipse.nebula.widgets.gallery.tests_linux.gtk.html">Tests results</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/gallery/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/gallery/update-N/  </li>
 	    </ul>
 	    
 	    <h2>Grid</h2>
 		<ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/grid/downloads/drops/latest/nebula-grid-SDK-incubation.zip">nebula-grid-SDK-incubation.zip</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/grid/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/grid/update-N/ </li>
 	    </ul>
 	    
 	     <h2>PGroup</h2>
 		<ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/pgroup/downloads/drops/latest/nebula-pgroup-SDK-incubation.zip">nebula-pgroup-SDK-incubation.zip</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/pgroup/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/pgroup/update-N/  </li>
 	    </ul>
 	    
 	    <h2>PShelf</h2>
 		<ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/pshelf/downloads/drops/latest/nebula-pshelf-SDK-incubation.zip">nebula-pshelf-SDK-incubation.zip</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/pshelf/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/pshelf/update-N/</li>
 	    </ul>
 	    
 	    <h2>CWT (unofficial)</h2>
 	    <ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/cwt/downloads/drops/latest/nebula-cwt-SDK-incubation.zip">nebula-cwt-SDK-incubation.zip</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/cwt/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/cwt/update-N/  </li>
 	    </ul>
 	    
 	    <h2>Other widgets</h2>	

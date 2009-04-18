@@ -42,6 +42,8 @@
 	    
 		<h2>Gallery</h2>
 		<ul>
+			<li>0.5.2 (stable) : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/gallery/downloads/drops/R_0_20090418/nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip">nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip</a></li>
+			<li>Update site (stable) : http://download.eclipse.org/technology/nebula/gallery/update/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/gallery/downloads/drops/latest/nebula-gallery-ALL-incubation.zip">nebula-gallery-ALL-incubation.zip</a> - <a href="http://download.eclipse.org/technology/nebula/gallery/downloads/drops/latest/testresults/html/org.eclipse.nebula.widgets.gallery.tests_linux.gtk.html">Tests results</a></li>
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/gallery/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
 	    </ul>

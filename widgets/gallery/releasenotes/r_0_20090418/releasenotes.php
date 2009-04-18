@@ -43,7 +43,7 @@
 		
 		<h3>Components</h3>
 		<p>The Gallery plug-in includes 3 main components :
-		<table border-"1">
+		<table border="1" width="100%">
 		<tr>
 		<th>Component</th>
 		<th>Package</th>

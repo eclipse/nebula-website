@@ -36,7 +36,7 @@
 	
 	<h2>Nebula Examples</h2>
 		<ul>
-			<li>Latest nightly build : <a href="http://download.eclipse.org/technology/nebula/examples/downloads/drops/latest/nebula-examples-SDK-incubation.zip">nebula-examples-SDK-incubation.zip</a></li>
+			<li>Latest nightly build : <a href="http://download.eclipse.org/technology/nebula/examples/downloads/drops/latest/nebula-examples-ALL-incubation.zip">nebula-examples-ALL-incubation.zip</a></li>
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/examples/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
 	    </ul>
 	    

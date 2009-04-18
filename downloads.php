@@ -42,7 +42,7 @@
 	    
 		<h2>Gallery</h2>
 		<ul>
-			<li>Latest nightly build : <a href="http://download.eclipse.org/technology/nebula/gallery/downloads/drops/latest/nebula-gallery-SDK-incubation.zip">nebula-gallery-SDK-incubation.zip</a></li>
+			<li>Latest nightly build : <a href="http://download.eclipse.org/technology/nebula/gallery/downloads/drops/latest/nebula-gallery-ALL-incubation.zip">nebula-gallery-ALL-incubation.zip</a> - <a href="http://download.eclipse.org/technology/nebula/gallery/downloads/drops/latest/testresults/html/org.eclipse.nebula.widgets.gallery.tests_linux.gtk.html">Tests results</a></li>
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/gallery/update-N/   (Please uncheck 'group by categories' in Eclipse to make the feature appear)</li>
 	    </ul>
 	    

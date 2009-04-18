@@ -45,11 +45,11 @@
 		<p>The Gallery plug-in includes 3 main components :
 		<table border="1" width="100%" style="padding:3px; border: 1px solid #000;">
 		<tr>
-		<th>Component</th>
-		<th>Package</th>
-		<th>API</th>
-		<th>Features</th>
-		<th>Comments</th>
+		<th style="padding:3px; font-weight:bold;">Component</th>
+		<th style="padding:3px; font-weight:bold;">Package</th>
+		<th style="padding:3px; font-weight:bold;">API</th>
+		<th style="padding:3px; font-weight:bold;">Features</th>
+		<th style="padding:3px; font-weight:bold;">Comments</th>
 		</tr>
 		<tr>
 		<td>Gallery Widget</td>

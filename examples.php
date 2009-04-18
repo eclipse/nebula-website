@@ -34,7 +34,13 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 			
-		<p>Get the example application from the download page.</p>
+		<p>The Nebula project maintains an example RCP product as a demo of Nebula widgets. 
+		This demo can be used as a stand-alone application or simply as a view inside Eclipse.</p>
+		
+	<a href="images/example_cdatetime.png"><img src="images/example_cdatetime_small.png" border="0"/></a><br/>
+		
+		<p>This application can be downloaded from the <a href="downloads.php">download page</a> 
+		 (includes update site link).</p>
 		
 		<hr class="clearer"/>
 	</div>

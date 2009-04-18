@@ -37,7 +37,19 @@
 		<p>The Nebula project maintains an example RCP product as a demo of Nebula widgets. 
 		This demo can be used as a stand-alone application or simply as a view inside Eclipse.</p>
 		
-	<a href="images/example_cdatetime.png"><img src="images/example_cdatetime_small.png" border="0"/></a><br/>
+		<table border="0">
+		   <tr>
+		       <td><a href="images/example_grid.png"><img src="images/example_grid_small.png" border="0"/></a></td>
+	           <td><a href="images/example_cdatetime.png"><img src="images/example_cdatetime_small.png" border="0"/></a></td>
+		   </tr>
+		   <tr>
+               <td><a href="images/example_pshelf.png"><img src="images/example_pshelf_small.png" border="0"/></a></td>
+               <td><a href="images/example_pgroup.png"><img src="images/example_pgroup_small.png" border="0"/></a></td>
+		   </tr>
+		   <tr>
+		      <td><a href="images/example_gallery.png"><img src="images/example_gallery_small.png" border="0"/></a></td>
+		   </tr>
+		</table>     
 		
 		<p>This application can be downloaded from the <a href="downloads.php">download page</a> 
 		 (includes update site link).</p>

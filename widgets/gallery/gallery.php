@@ -36,7 +36,8 @@
 		<h2>Gallery</h2>
 		
 		<img src='images/gallery.jpg'>	
-		<p>
+		
+		<p>Gallery <p/>
 		<h3>Group renderers</h3>
 	    <ul>
 	         <li>DefaultGalleryGroupRenderer : expandable groups, item grid with auto margins. Best with SWT.V_SCROLL.</li>

@@ -34,30 +34,22 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<h2>Gallery</h2>
+		<p>This SWT widget displays images or items in a grid-like presentation. 
+		Gallery is very useful to display images in a photo viewer or files in an explorer-like view.</p>
+		
+		<h3>Features</h3>
+		<ul>
+		   <li>Tree and Table based API : Gallery is a drop-in replacement of Table and Tree (except columns which are not supported and limitation to 2 item levels).
+		   <li>Fully customizable appearance : Gallery uses pluggable renderers for Group and Item.
+		    2 items renderers and 2 group renderers are available out of the box, 
+		    but you are free to totally change item ordering and appearance. Custom paint events are also available to inject item drawing code.</li>
+		   <li>Designed for speed : SWT.VIRTUAL supported, layout and drawing supports TONS of items at full speed.</li>
+		   <li>Photo specific features : drop shadow, dynamic drawing quality</li>
+		   <li>JFace viewer : drop-in replacement for TableViewer and TreeViewer</li>
+		   <li>Animation : smooth visual effects on all platforms including Bounce and Elastic effects. Animation API can be used to animate RCP applications.</li>
+		</ul>
 		
 		<img src='images/gallery.jpg'>	
-		
-		<p>Gallery <p/>
-		<h3>Group renderers</h3>
-	    <ul>
-	         <li>DefaultGalleryGroupRenderer : expandable groups, item grid with auto margins. Best with SWT.V_SCROLL.</li>
-	         <li>NoGroupRenderer : item grid with auto margins.</li>
-	    </ul>
-	    
-	    <h3>Item renderers</h3>
-	    <ul>
-	         <li>DefaultGalleryItemRenderer : icon style, drop shadows and labels.</li>
-	         <li>ListItemRenderer : list style, labels and descriptions.</li>
-	    </ul>
-	    
-	    
-	    <h3>Supported styles</h3>
-	    <ul>
-	    <li>SWT.MULTI : Enables multiple selections.</li>
-	    <li>SWT.V_SCROLL : Vertical scrolling. Should not be used with SWT.H_SCROLL.</li>
-	    <li>SWT.H_SCROLL : Horizontal scrolling. Should not be used with SWT.V_SCROLL.</li>
-	    <li>SWT.VIRTUAL : Virtual mode. Items are created on demand.</li>
-	    </ul>
 	    
 		<p>
 		NOTE: The Gallery widget is still under active development. Users should expect changes in future versions.</p>

@@ -38,12 +38,14 @@
 	<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
 	    Note: When installing from an update site, you may have to uncheck 'group by categories' to make the feature appear in the update manager on some Eclipse versions (3.5M6).</div>
 	
+	<a name="Examples"></a>
 	<h2>Nebula Examples</h2>
 		<ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/examples/downloads/drops/latest/nebula-examples-ALL-incubation.zip">nebula-examples-ALL-incubation.zip</a></li>
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/examples/update-N/   </li>
 	    </ul>
 	    
+	    <a name="Gallery"></a>
 		<h2>Gallery</h2>
 		<ul>
 			<li>0.5.2 (stable) : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/gallery/downloads/drops/R_0_20090418/nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip">nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip</a></li>
@@ -52,24 +54,28 @@
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/gallery/update-N/  </li>
 	    </ul>
 	    
+	    <a name="Grid"></a>
 	    <h2>Grid</h2>
 		<ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/grid/downloads/drops/latest/nebula-grid-SDK-incubation.zip">nebula-grid-SDK-incubation.zip</a></li>
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/grid/update-N/ </li>
 	    </ul>
 	    
+	    <a name="PGroup"></a>
 	     <h2>PGroup</h2>
 		<ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/pgroup/downloads/drops/latest/nebula-pgroup-SDK-incubation.zip">nebula-pgroup-SDK-incubation.zip</a></li>
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/pgroup/update-N/  </li>
 	    </ul>
-	    
+	   
+	   <a name="PShelf"></a> 
 	    <h2>PShelf</h2>
 		<ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/pshelf/downloads/drops/latest/nebula-pshelf-SDK-incubation.zip">nebula-pshelf-SDK-incubation.zip</a></li>
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/pshelf/update-N/</li>
 	    </ul>
 	    
+	    <a name="CWT"></a>
 	    <h2>CWT (unofficial)</h2>
 	    <ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/cwt/downloads/drops/latest/nebula-cwt-SDK-incubation.zip">nebula-cwt-SDK-incubation.zip</a></li>

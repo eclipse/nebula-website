@@ -2,12 +2,12 @@
 
 	#*****************************************************************************
 	#
-	# history.php
+	# release-notes.php
 	#
 	# Author: 		Nicolas Richeton
-	# Date:			2007-02-20
+	# Date:			2009-04-18
 	#
-	# Description: Describes the history of Gallery.
+	# Description: Release 0.5.2 R_0_20090418
 	#
 	#
 	#****************************************************************************
@@ -35,7 +35,7 @@
 		<h1>$pageTitle</h1>
 		
 		<h3>General</h3>
-		<p>This release is the latest stable version of the Nebula Gallery widget : <b>v0.5.2</b>. This is <b>NOT</b> a 1.0 release : 
+		<p>This release is the latest stable version of the Nebula Gallery widget : <b>v0.5.2_R_0_20090418</b>. This is <b>NOT</b> a 1.0 release : 
 		the nebula project is still in its incubation phase and some features are still missing in the widget (see below). 
 		However, this version is stable enough to be included in RCP applications or plugins. </p>
 		

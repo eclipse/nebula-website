@@ -73,7 +73,7 @@
 		<td>Will be moved to CWT at some point. Effects are working great but API will be improved in the future.</td>
 		</tr>
 		</table>
-		<p>Dev : feature not implemented, major API changes expected, ...</p>
+		<p>Dev : features not fully implemented, major API changes expected, ...</p>
 	
 		<h3>New features and changes</h3>
 		<ul>
@@ -89,7 +89,7 @@ All four corners are supported, and decorators are automatically resized if ther
 <li>Virtual groups: The widget supports SWT.VIRTUAL, which create items where they are first used. But as the widget needs to know the size of every group, they are all created right await while items are still created on demand.
 
 The new lazy groups mode allows to create groups only when they get visible. Until that moment, a default value is used for every groups making the content creation even more lazy. This feature uses exactly the same code as the standard virtual mode.</li>
-<li>Always expanded : : if you don’t need to expand/collapse groups, you can use DefaultGroupRenderer#setAlwaysExpanded to remove the button in the title bar and display groups as expanded whatever their state is. With this option, the Gallery widget looks like it was on the very first versions. </li>
+<li>Always expanded : if you don't need to expand/collapse groups, you can use DefaultGroupRenderer#setAlwaysExpanded to remove the button in the title bar and display groups as expanded whatever their state is. With this option, the Gallery widget looks like it was on the very first versions. </li>
 <li>PAGE_UP, PAGE_DOWN, HOME, END keys are supported</li>
 <li>Other bug fixes.</li>
 	

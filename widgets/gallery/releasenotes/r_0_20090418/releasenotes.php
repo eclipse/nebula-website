@@ -70,26 +70,28 @@
 		<td>o.e.nebula.animation</td>
 		<td style="color: #FF0000;">Dev</td>
 		<td>Stable</td>
-		<td>Will be moved to CWT at some point. Effects are working great but API fill be improved in the future.</td>
+		<td>Will be moved to CWT at some point. Effects are working great but API will be improved in the future.</td>
 		</tr>
 		</table>
+		<p>Dev : feature not implemented, major API changes expected, ...</p>
 	
 		<h3>Features</h3>
 		<ul>
 			<li>Animations : Expanding and closing of groups is now animated. The animation code is from SAT. Expand and collapse animations can be chosen between all existing Nebula animations including Exponential, Elastic or Bounce or by any custom animation which implements IMovement. </li>
 			<li>Images and descriptions for groups : images and descriptions are now displayed for groups.
 
-Up to 3 lines of text are supported, simply by using GalleryItem#setText( int index, String text) with id=0 for the main label and id=1 or id=2 for the two descriptions lines.</li>
+            Up to 3 lines of text are supported, simply by using GalleryItem#setText( int index, String text) with id=0 for the main label and id=1 or id=2 for the two descriptions lines.</li>
 	  <li>Lower quality on user actions : Since this widget can draw easily draw more than 20 images at every redraw, the framerate can become very low with large images. This new mode reduce the quality of images (disables antialias or interpolation) when the user is resizing or scrolling the widget in order to get ultra fast redraws. </li>
-	  <li>Decorators : support for decorators has been added in the widget. This allows to scale decorators differently from the main image, and solves resize problems with transparent images (reported by Justin Dolezy, see here). Decorators can be specified using GalleryItem#setData(String id, Object value) as single images or arrays of images.
+	  <li>Decorators : support for decorators has been added in the widget. This allows to scale decorators differently from the main image, and solves resize problems with transparent images. Decorators can be specified using GalleryItem#setData(String id, Object value) as single images or arrays of images.
 
 All four corners are supported, and decorators are automatically resized if there is no enough room to draw all of them</li>
-<li>Quality settings: It’s now possible to change the quality settings for the graphic context. Previously quality was always set to the maximum (antialias = on and interpolation = high). Quality can now be reduced when needed. </li>
+<li>Quality settings: It's now possible to change the quality settings for the graphic context. Previously quality was always set to the maximum (antialias = on and interpolation = high). Quality can now be reduced when needed. </li>
 <li>Virtual groups: The widget supports SWT.VIRTUAL, which create items where they are first used. But as the widget needs to know the size of every group, they are all created right await while items are still created on demand.
 
 The new lazy groups mode allows to create groups only when they get visible. Until that moment, a default value is used for every groups making the content creation even more lazy. This feature uses exactly the same code as the standard virtual mode.</li>
 <li>Always expanded : : if you don’t need to expand/collapse groups, you can use DefaultGroupRenderer#setAlwaysExpanded to remove the button in the title bar and display groups as expanded whatever their state is. With this option, the Gallery widget looks like it was on the very first versions. </li>
 <li>PAGE_UP, PAGE_DOWN, HOME, END keys are supported</li>
+<li>Other bug fixes.</li>
 	
 		</ul>
 			

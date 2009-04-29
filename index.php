@@ -35,8 +35,8 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<h2>Supplemental Custom Widgets for SWT (and more)</h2>
-		<p>The Nebula project is a source for custom SWT widgets and other UI components.  Nebula is also an incubator for 
-		SWT.  Some Nebula widgets will graduate into SWT and therefore into the main Eclipse Platform.</p>
+		<p>Nebula is a place where different Eclipse-Projects and Independent developers collaborate on building Custom SWT widgets and reuseable
+           UI-Components useable in UI-Applications built using SWT and JFace.</p>
 		
 		<p>All Nebula components are available on the navigation tree on the left or from the table below.
 		  Each image links to a page that will further describe the component and its function.</p>

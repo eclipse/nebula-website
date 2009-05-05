@@ -45,6 +45,13 @@
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/examples/update-N/   </li>
 	    </ul>
 	    
+	    <a name="CDateTime"></a>
+		<h2>CDateTime</h2>
+		<ul>
+			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/cdatetime/downloads/drops/latest/nebula-cdatetime-ALL-incubation.zip">nebula-cdatetime-ALL-incubation.zip</a> </li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/cdatetime/update-N/  </li>
+	    </ul>
+	    
 	    <a name="Gallery"></a>
 		<h2>Gallery</h2>
 		<ul>

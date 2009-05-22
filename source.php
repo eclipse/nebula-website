@@ -38,8 +38,8 @@
 			<p style="margin-left:15px">:pserver:anonymous@dev.eclipse.org:/cvsroot/technology/org.eclipse.swt.nebula</p>
 			<p style="padding-top:15px">For information on using CVS at Eclipse.org, please visit the <a href="http://wiki.eclipse.org/index.php/CVS_Howto">wiki page</a></p>
 			<p>The CVS repository is also browseable <a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/?root=Technology_Project">on the web</a>.</p>
+			<p>For a quick start, use one of the <a href="http://wiki.eclipse.org/Nebula_Setup">Team Project Sets</a> to download all Nebula projects from CVS.</p>
 		</div>
-		
 EOHTML;
 
 

@@ -52,6 +52,13 @@
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/cdatetime/update-N/  </li>
 	    </ul>
 	    
+	    <a name="CollapsibleButtons"></a>
+		<h2>CollapsibleButtons</h2>
+		<ul>
+			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/collapsiblebuttons/downloads/drops/latest/nebula-collapsiblebuttons-ALL-incubation.zip">nebula-collapsiblebuttons-ALL-incubation.zip</a> </li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/collapsiblebuttons/update-N/  </li>
+	    </ul>
+	    
 	    <a name="Gallery"></a>
 		<h2>Gallery</h2>
 		<ul>

@@ -60,7 +60,7 @@
 		<a name="CollapsibleButtons"></a>
 		<h2>CollapsibleButtons</h2>
 		<ul>
-			<li>There are no snippets available at this time.</li>
+			<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/collapsiblebuttons/CollapsibleButtonsSnippet1.java?root=Technology_Project&view=markup">CollapsibleButtonsSnippet1</a></li>
 		</ul>
 
 		<a name="CompositeTable"></a>

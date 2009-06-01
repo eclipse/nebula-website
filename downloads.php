@@ -66,6 +66,13 @@
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/collapsiblebuttons/update-N/  </li>
 	    </ul>
 	    
+	    <a name="CompositeTable"></a>
+		<h2>CompositeTable</h2>
+		<ul>
+			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/compositetable/downloads/drops/latest/nebula-compositetable-ALL-incubation.zip">nebula-compositetable-ALL-incubation.zip</a> </li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/compositetable/update-N/  </li>
+	    </ul>
+	    
 	    <a name="Gallery"></a>
 		<h2>Gallery</h2>
 		<ul>

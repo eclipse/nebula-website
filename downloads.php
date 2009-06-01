@@ -45,6 +45,13 @@
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/examples/update-N/   </li>
 	    </ul>
 	    
+	    <a name="CalendarCombo"></a>
+		<h2>CalendarCombo</h2>
+		<ul>
+			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/calendarcombo/downloads/drops/latest/nebula-calendarcombo-ALL-incubation.zip">nebula-calendarcombo-ALL-incubation.zip</a> </li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/calendarcombo/update-N/  </li>
+	    </ul>
+	    
 	    <a name="CDateTime"></a>
 		<h2>CDateTime</h2>
 		<ul>

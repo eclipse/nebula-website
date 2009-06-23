@@ -73,6 +73,20 @@
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/compositetable/update-N/  </li>
 	    </ul>
 	    
+	     <a name="DateChooser"></a>
+		<h2>DateChooser</h2>
+		<ul>
+			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/datechooser/downloads/drops/latest/nebula-datechooser-ALL-incubation.zip">nebula-datechooser-ALL-incubation.zip</a> </li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/datechooser/update-N/  </li>
+	    </ul>
+	    
+	    <a name="FormattedText"></a>
+		<h2>FormattedText</h2>
+		<ul>
+			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/formattedtext/downloads/drops/latest/nebula-formattedtext-ALL-incubation.zip">nebula-formattedtext-ALL-incubation.zip</a> </li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/formattedtext/update-N/  </li>
+	    </ul>
+	    
 	    <a name="Gallery"></a>
 		<h2>Gallery</h2>
 		<ul>

@@ -254,6 +254,16 @@
 		
 			<tr>
 				<td align="center" valign="bottom">
+				<table>
+					<tr>
+						<td align="center"><a
+							href="/nebula/widgets/radiogroup/radiogroup.php"><img
+							src="images/radiogroup.png" border="0" alt="RadioGroup presents a group of radio buttons" title="RadioGroup"></a></td>
+					</tr>
+					<tr>
+						<td align="center"><b>RadioGroup</b></td>
+					</tr>
+				</table>
 				</td>
 		
 				<td align="center" valign="bottom">

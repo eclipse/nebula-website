@@ -2,21 +2,21 @@
 
 	#*****************************************************************************
 	#
-	# committers.php
+	# radiogroup.php
 	#
-	# Author: 		Chris Gross
-	# Date:			2006-05-07
+	# Author: 		Matthew Hall
+	# Date:			2009-07-29
 	#
-	# Description: 
+	# Description: Describes the RadioGroup control in Nebula
 	#
 	#
 	#****************************************************************************
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula Committers";
+	$pageTitle 		= "Nebula RadioGroup Widget";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls";
-	$pageAuthor		= "Chris Gross";
+	$pageAuthor		= "Matthew Hall";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
@@ -33,17 +33,21 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Each component within Nebula is managed by a single committer.  The list of committers is:		
+		<h2>Grid</h2>
+		
+		<img src='radiogroup.png'>
 		<p>
-		<ul>
-		<li>Chris Gross (Project Lead) - Grid, PGroup, PShelf</li>
-		<li>Jeremy Dowdall - CTableTree</li>
-		<li>David Orme - CompositeTable</li>
-		<li>Nicolas Richeton - Gallery</li>
-		<li>Eric Wuillai - FormattedText, DateChooser</li>
-		<li>Emil Crumhorn - CalendarCombo, CollapsibleButtons, GanttChart
-		<li>Matthew Hall - RadioGroup
-		</ul>
+		The RadioGroup widget displays a group of radio buttons.  A RadioGroupViewer viewer is also
+		available which is fully compatible with data binding.
+
+		<p>
+		NOTE: The RadioGroup widget is still under active development.  The code is made available in an
+		<font color=red><b>ALPHA</b></font> state.  Users should expect changes in future versions.
+		
+		<p>
+			<a href='/nebula/snippets.php#RadioGroup'>Snippets</a>
+		</p>
+		
 		<hr class="clearer"/>
 	</div>
 

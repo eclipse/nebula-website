@@ -2,21 +2,21 @@
 
 	#*****************************************************************************
 	#
-	# committers.php
+	# history.php
 	#
-	# Author: 		Chris Gross
-	# Date:			2006-05-07
+	# Author: 		Matthew Hall
+	# Date:			2009-07-29
 	#
-	# Description: 
+	# Description: Describes the history of RadioGroup.
 	#
 	#
 	#****************************************************************************
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula Committers";
-	$pageKeywords	= "Nebula, SWT, Widgets, Controls";
-	$pageAuthor		= "Chris Gross";
+	$pageTitle 		= "Nebula RadioGroup Update History";
+	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Snippets";
+	$pageAuthor		= "Matthew Hall";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
@@ -33,17 +33,13 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Each component within Nebula is managed by a single committer.  The list of committers is:		
-		<p>
+		
+		<h3>7/29/2009 Initial Release</h3>
 		<ul>
-		<li>Chris Gross (Project Lead) - Grid, PGroup, PShelf</li>
-		<li>Jeremy Dowdall - CTableTree</li>
-		<li>David Orme - CompositeTable</li>
-		<li>Nicolas Richeton - Gallery</li>
-		<li>Eric Wuillai - FormattedText, DateChooser</li>
-		<li>Emil Crumhorn - CalendarCombo, CollapsibleButtons, GanttChart
-		<li>Matthew Hall - RadioGroup
+		<li>RadioGroup control with RadioItem items
+		<li>RadioGroupViewer viewer support
 		</ul>
+
 		<hr class="clearer"/>
 	</div>
 

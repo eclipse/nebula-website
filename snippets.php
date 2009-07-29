@@ -143,7 +143,7 @@
 		<a name="RadioGroup"></a>
 		<h2>RadioGroup</h2>
 		<ul>
-			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/radiogroup/RadioGroupSnippet01.java?cvsroot=Technology_Project'>Set up a RadioGroupViewer with data binding</a></li>		
+			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/radiogroup/RadioGroupViewerSnippet01.java?cvsroot=Technology_Project'>Set up a RadioGroupViewer with data binding</a></li>		
 		</ul>
 
 		<hr class="clearer"/>

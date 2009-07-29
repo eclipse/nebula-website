@@ -47,6 +47,10 @@
 		<p>
 			<a href='/nebula/snippets.php#RadioGroup'>Snippets</a>
 		</p>
+
+		<p>
+			<a href='https://bugs.eclipse.org/bugs/buglist.cgi?classification=Technology&product=Nebula&component=RadioGroup&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED'>Open Bugs</a>
+		</p>
 		
 		<hr class="clearer"/>
 	</div>

@@ -120,8 +120,8 @@
 	    <a name="RadioGroup"></a>
 	    <h2>RadioGroup</h2>
 		<ul>
-		    <li>CVS : <code>:pserver:anonymous@dev.eclipse.org/cvsroot/technology/org.eclipse.swt.nebula/org.eclipse.nebula.widgets.radiogroup</code>
-		    <li>Nightly builds and update site coming soon!
+			<li>Latest nightly build : <font color='red'>Not yet available</font></li>
+			<li>Update site (nightly builds) : <font color='red'>Not yet available</li>
 			<!--
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/pshelf/downloads/drops/latest/nebula-radiogroup-SDK-incubation.zip">nebula-pshelf-SDK-incubation.zip</a></li>
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/radiogroup/update-N/</li>

@@ -90,11 +90,17 @@
 	    <a name="Gallery"></a>
 		<h2>Gallery</h2>
 		<ul>
-			<li>0.5.2 (stable) : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/gallery/downloads/drops/R_0_20090418/nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip">nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip</a> - <a href="http://www.eclipse.org/nebula/widgets/gallery/releasenotes/r_0_20090418/releasenotes.php">Notes</a></li>
-			<li>Update site (stable) : http://download.eclipse.org/technology/nebula/gallery/update/   </li>
-			<li>Nightly builds : <a href="http://download.eclipse.org/technology/nebula/gallery/downloads/drops/">Build list</a> (test results included)</li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/gallery/update-N/  </li>
-	    </ul>
+			<li>Archive</li>
+				<ul>
+					<li>0.5.2 (stable) : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/gallery/downloads/drops/R_0_20090418/nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip">nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip</a> - <a href="http://www.eclipse.org/nebula/widgets/gallery/releasenotes/r_0_20090418/releasenotes.php">Notes</a></li>
+				<li> Nightly builds : <a href="http://download.eclipse.org/technology/nebula/gallery/downloads/drops/">Build list</a> (test results included)</li>
+				</ul>
+			<li>Update site</li>
+				<ul>
+					<li>Stable : http://download.eclipse.org/technology/nebula/gallery/update/   </li>
+					<li>Nighlty : http://download.eclipse.org/technology/nebula/gallery/update-N/  </li>
+				</ul>
+		    </ul>
 	    
 	    <a name="Grid"></a>
 	    <h2>Grid</h2>

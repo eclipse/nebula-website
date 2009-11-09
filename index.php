@@ -93,6 +93,7 @@
 					</table>
 				</td>
 			</tr>
+
 			<tr>
 				<td height="25px"></td>
 			</tr>
@@ -125,6 +126,7 @@
 					</table>
 				</td>
 			</tr>
+
 			<tr>
 				<td height="25px"></td>
 			</tr>
@@ -157,6 +159,7 @@
 					</table>
 				</td>
 			</tr>
+
 			<tr>
 				<td height="25px"></td>
 			</tr>
@@ -188,6 +191,7 @@
 					</table>
 				</td>
 			</tr>
+			
 			<tr>
 				<td height="25px"></td>
 			</tr>
@@ -218,8 +222,25 @@
 					</table>
 				</td>
 			</tr>
-			
+
 			<tr>
+				<td height="25px"></td>
+			</tr>
+
+			<tr>
+				<td align="center" valign="bottom">
+				<table>
+					<tr>
+						<td align="center"><a
+							href="/nebula/widgets/paperclips/paperclips.php"><img
+							src="images/paperclips.jpg" border="0" alt="PaperClips is a simple, light weight, extensible Java printing library for SWT" title="PaperClips"></a></td>
+					</tr>
+					<tr>
+						<td align="center"><b>PGroup</b></td>
+					</tr>
+				</table>
+				</td>
+
 				<td align="center" valign="bottom">
 				<table>
 					<tr>
@@ -232,7 +253,13 @@
 					</tr>
 				</table>
 				</td>
-		
+			</tr>
+
+			<tr>
+				<td height="25px"></td>
+			</tr>
+
+			<tr>
 				<td align="center" valign="bottom">
 				<table>
 					<tr>
@@ -246,13 +273,6 @@
 				</table>
 				</td>
 		
-			</tr>
-			
-			<tr>
-				<td height="25px"></td>
-			</tr>
-		
-			<tr>
 				<td align="center" valign="bottom">
 				<table>
 					<tr>

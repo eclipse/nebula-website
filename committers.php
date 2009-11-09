@@ -42,7 +42,7 @@
 		<li>Nicolas Richeton - Gallery</li>
 		<li>Eric Wuillai - FormattedText, DateChooser</li>
 		<li>Emil Crumhorn - CalendarCombo, CollapsibleButtons, GanttChart
-		<li>Matthew Hall - RadioGroup
+		<li>Matthew Hall - PaperClips, RadioGroup
 		</ul>
 		<hr class="clearer"/>
 	</div>

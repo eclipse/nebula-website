@@ -34,7 +34,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		
-		<h3>7/29/2009 Initial Release</h3>
+		<h3>November 2009 Initial Release</h3>
 		<ul>
 		<li>PaperClips core with printing support
 		<li>PrintPreview control

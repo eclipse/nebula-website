@@ -35,11 +35,11 @@
 		<h1>$pageTitle</h1>
 		<h2>PaperClips</h2>
 		
-		<img src='paperclips.png'>
+		<img src='paperclips.jpg'>
 		
 		<p>
 		PaperClips is a simple, light weight, extensible Java printing
-		plug-in for SWT.  PaperClips hides the complexity of laying out and
+		library for SWT.  PaperClips hides the complexity of laying out and
 		rendering documents on the printer, helping you focus on what to print
 		instead of how to print it.
 		</p>

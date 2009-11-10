@@ -236,7 +236,7 @@
 							src="images/paperclips.jpg" width="320" height="240" border="0" alt="PaperClips is a simple, light weight, extensible Java printing library for SWT" title="PaperClips"></a></td>
 					</tr>
 					<tr>
-						<td align="center"><b>PGroup</b></td>
+						<td align="center"><b>PaperClips</b></td>
 					</tr>
 				</table>
 				</td>

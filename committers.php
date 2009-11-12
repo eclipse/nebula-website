@@ -43,6 +43,7 @@
 		<li>Eric Wuillai - FormattedText, DateChooser</li>
 		<li>Emil Crumhorn - CalendarCombo, CollapsibleButtons, GanttChart
 		<li>Matthew Hall - PaperClips, RadioGroup
+		<li>Marty Jones - TableCombo
 		</ul>
 		<hr class="clearer"/>
 	</div>

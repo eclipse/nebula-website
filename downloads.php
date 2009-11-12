@@ -137,6 +137,13 @@
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/radiogroup/update-N/</li>
 	    </ul>
 	    
+        <a name="TableCombo"></a>
+        <h2>TableCombo</h2>
+        <ul>
+            <li>Latest nightly build : <font color="red">Not yet available</font>
+            <li>Update site (nightly builds) : <font color="red">Not yet available</font>
+        </ul>
+	    
 	    <a name="CWT"></a>
 	    <h2>CWT (unofficial)</h2>
 	    <ul>

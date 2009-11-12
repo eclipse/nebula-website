@@ -39,6 +39,7 @@
 	$Nav->addCustomNav("PGroup",		"/nebula/widgets/pgroup/pgroup.php",	 	"_self", 2);
 	$Nav->addCustomNav("PShelf",		"/nebula/widgets/pshelf/pshelf.php",	 	"_self", 2);
 	$Nav->addCustomNav("RadioGroup",    "/nebula/widgets/radiogroup/radiogroup.php", "_self", 2);
+	$Nav->addCustomNav("TableCombo",    "/nebula/widgets/tablecombo/tablecombo.php", "_self", 2);
 	$Nav->addNavSeparator("Community", "");
         $Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/Nebula","_self", 2);
 	$Nav->addCustomNav("Newsgroup", "news://news.eclipse.org/eclipse.technology.nebula","_self", 2);

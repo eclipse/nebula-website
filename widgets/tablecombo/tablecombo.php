@@ -41,7 +41,7 @@
 			</tr>
 		</table>
 		<p>
-		The TableCombo Widget is a custom combo control that uses a table instead of a list when dropped down. The following features are supported by this widget.
+		The TableCombo widget is a custom combo control that uses a table instead of a list when dropped down. The following features are supported by this widget:
 		
         <ul class="list2">
             <li>Supports displaying multiple columns of data in the drop down portion of the combo.</li>
@@ -57,7 +57,7 @@
         The API is stable, but users should expect changes in future versions: add of
         new features, minor behavior changes.
         </p>
-        <br><br>
+        <br>
         <p>
         <a href='/nebula/snippets.php#TableCombo'>Snippets</a>
         </p>

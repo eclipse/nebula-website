@@ -295,6 +295,42 @@
 				<td height="25px"></td>
 			</tr>
 			
+            <tr>
+                <td align="center" valign="bottom">
+                <table>
+                    <tr>
+                        <td align="center"><a
+                            href="/nebula/widgets/tablecombo/tablecombo.php"><img
+                            src="images/tablecombo.png" border="0" alt="TableCombo is a composite widget similar to a CCombo but uses a table instead of a list control." title="TableCombo"></a></td>
+                    </tr>
+                    <tr>
+                        <td align="center"><b>PShelf</b></td>
+                    </tr>
+                </table>
+                </td>
+        
+                <td align="center" valign="bottom">
+                <table>
+                    <tr>
+                        <td align="center"><a
+                            href="/nebula/widgets/radiogroup/radiogroup.php"><img
+                            src="images/radiogroup.png" border="0" alt="RadioGroup presents a group of radio buttons" title="RadioGroup"></a></td>
+                    </tr>
+                    <tr>
+                        <td align="center"><b>RadioGroup</b></td>
+                    </tr>
+                </table>
+                </td>
+        
+                <td align="center" valign="bottom">
+                </td>
+        
+            </tr>
+			
+            <tr>
+                <td height="25px"></td>
+            </tr>
+			
 		</table>
 
 		<hr class="clearer" />

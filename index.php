@@ -304,22 +304,12 @@
                             src="images/tablecombo.png" border="0" alt="TableCombo is a composite widget similar to a CCombo but uses a table instead of a list control." title="TableCombo"></a></td>
                     </tr>
                     <tr>
-                        <td align="center"><b>PShelf</b></td>
+                        <td align="center"><b>TableCombo</b></td>
                     </tr>
                 </table>
                 </td>
         
                 <td align="center" valign="bottom">
-                <table>
-                    <tr>
-                        <td align="center"><a
-                            href="/nebula/widgets/radiogroup/radiogroup.php"><img
-                            src="images/radiogroup.png" border="0" alt="RadioGroup presents a group of radio buttons" title="RadioGroup"></a></td>
-                    </tr>
-                    <tr>
-                        <td align="center"><b>RadioGroup</b></td>
-                    </tr>
-                </table>
                 </td>
         
                 <td align="center" valign="bottom">

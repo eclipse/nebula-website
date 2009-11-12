@@ -41,7 +41,9 @@
 			</tr>
 		</table>
 		<p>
-		The TableCombo widget is a custom combo control that uses a table instead of a list when dropped down. The following features are supported by this widget:
+		The TableCombo widget is a custom combo control that uses a table instead of a list when dropped down. 
+		
+		The following features are supported by this widget:
 		
         <ul class="list2">
             <li>Supports displaying multiple columns of data in the drop down portion of the combo.</li>

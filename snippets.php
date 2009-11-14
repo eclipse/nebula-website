@@ -150,7 +150,7 @@
         <h2>TableCombo</h2>
         <ul>
             <li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/tablecombo/TableComboSnippet1.java?cvsroot=Technology_Project'>A example that shows the features of the TableCombo</a></li>      
-            <li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/tablecomboviewer/TableComboViewerSnippet1.java?cvsroot=Technology_Project'>A example that shows the features of the TableComboViewer</a></li>
+            <li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/tablecombo/viewer/TableComboViewerSnippet1.java?cvsroot=Technology_Project'>A example that shows the features of the TableComboViewer</a></li>
         </ul>
 
 		<hr class="clearer"/>

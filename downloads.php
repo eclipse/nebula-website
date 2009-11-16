@@ -140,8 +140,8 @@
         <a name="TableCombo"></a>
         <h2>TableCombo</h2>
         <ul>
-            <li>Latest nightly build : <font color="red">Not yet available</font>
-            <li>Update site (nightly builds) : <font color="red">Not yet available</font>
+            <li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/tablecombo/downloads/drops/latest/nebula-tablecombo-ALL-incubation.zip">nebula-tablecombo-ALL-incubation.zip</a></li>
+            <li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/tablecombo/update-N/</li>
         </ul>
 	    
 	    <a name="CWT"></a>

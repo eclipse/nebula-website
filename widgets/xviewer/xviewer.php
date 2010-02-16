@@ -26,7 +26,7 @@
 
 		<h3>$pageTitle</h3>
 		
-		<p>XViewer - Advanced TreeViewer Widget</p>
+		<p>Advanced TreeViewer Widget</p>
 
 <p>The purpose of the XViewer is to give the application developer a more advanced and dynamic TreeViewer that has the filtering and sorting the capabilities of a spreadsheet while providing the users the ability to customize their table to suit their current needs and save/restore these customizations for future use by individual or group.<br><br>
 

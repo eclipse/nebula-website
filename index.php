@@ -321,6 +321,32 @@
                 <td height="25px"></td>
             </tr>
 			
+            <tr>
+                <td align="center" valign="bottom">
+                <table>
+                    <tr>
+                        <td align="center"><a
+                            href="/nebula/widgets/xviewer/xviewer.php"><img
+                            src="images/xviewer.png" border="0" alt="The purpose of the XViewer is to give the application developer a more advanced and dynamic TreeViewer that has the filtering and sorting the capabilities of a spreadsheet while providing the users the ability to customize their table to suit their current needs and save/restore these customizations for future use by individual or group." title="XViewer"></a></td>
+                    </tr>
+                    <tr>
+                        <td align="center"><b>XViewer</b></td>
+                    </tr>
+                </table>
+                </td>
+        
+                <td align="center" valign="bottom">
+                </td>
+        
+                <td align="center" valign="bottom">
+                </td>
+        
+            </tr>
+			
+            <tr>
+                <td height="25px"></td>
+            </tr>
+			
 		</table>
 
 		<hr class="clearer" />

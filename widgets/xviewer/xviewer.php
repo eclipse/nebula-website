@@ -25,15 +25,14 @@
 	<div id="midcolumn" >
 
 		<h3>$pageTitle</h3>
-	   <b><font color="red">Documentation moved to <a href="http://wiki.eclipse.org/OSEE/Users_Guide#XViewer_-_Advanced_TreeViewer_Widget">OSEE Wiki<a></font></b><br/>
 		
 		<p>XViewer - Advanced TreeViewer Widget</p>
-
-<a href="XViewer.pdf">EclipseCon 2009 Presentation Slides</a><br><br>
 
 <p>The purpose of the XViewer is to give the application developer a more advanced and dynamic TreeViewer that has the filtering and sorting the capabilities of a spreadsheet while providing the users the ability to customize their table to suit their current needs and save/restore these customizations for future use by individual or group.<br><br>
 
 XViewer was developed and used by the <a href="http://www.eclipse.org/osee/">Eclipse OSEE Project</a>. 
+
+<a href="XViewer.pdf">EclipseCon 2009 Presentation Slides</a><br><br>
 
 <img border="1" style="align:center; width:150%; height:150%;" src="images/xviewer_main.PNG" alt="XViewer Main"/>
 

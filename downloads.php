@@ -145,7 +145,7 @@
         </ul>
 	    
         <a name="XViewer"></a>
-        <h2>TableCombo</h2>
+        <h2>XViewer</h2>
         <ul>
             <li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/xviewer/downloads/drops/latest/nebula-xviewer-ALL-incubation.zip">nebula-xviewer-ALL-incubation.zip</a></li>
             <li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/xviewer/update-N/</li>

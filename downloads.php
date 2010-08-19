@@ -49,6 +49,7 @@
 		<h2>CalendarCombo</h2>
 		<ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/calendarcombo/downloads/drops/latest/nebula-calendarcombo-ALL-incubation.zip">nebula-calendarcombo-ALL-incubation.zip</a> </li>
+			<li>Alternative latest nightly build : <a href="http://www.hexapixel.com/files/nightly/">http://www.hexapixel.com/files/nightly/</a> </li>
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/calendarcombo/update-N/  </li>
 	    </ul>
 	    
@@ -63,6 +64,7 @@
 		<h2>CollapsibleButtons</h2>
 		<ul>
 			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/collapsiblebuttons/downloads/drops/latest/nebula-collapsiblebuttons-ALL-incubation.zip">nebula-collapsiblebuttons-ALL-incubation.zip</a> </li>
+			<li>Alternative latest nightly build : <a href="http://www.hexapixel.com/files/nightly/">http://www.hexapixel.com/files/nightly/</a> </li>
 			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/collapsiblebuttons/update-N/  </li>
 	    </ul>
 	    
@@ -101,6 +103,14 @@
 					<li>Nighlty : http://download.eclipse.org/technology/nebula/gallery/update-N/  </li>
 				</ul>
 		    </ul>
+
+	    <a name="GanttChart"></a>
+		<h2>GanttChart</h2>
+		<ul>
+			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/ganttchart/downloads/drops/latest/nebula-ganttchart-ALL-incubation.zip">nebula-ganttchart-ALL-incubation.zip</a> </li>
+			<li>Alternative latest nightly build : <a href="http://www.hexapixel.com/files/nightly/">http://www.hexapixel.com/files/nightly/</a> </li>
+			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/ganttchart/update-N/  </li>
+	    </ul>
 	    
 	    <a name="Grid"></a>
 	    <h2>Grid</h2>

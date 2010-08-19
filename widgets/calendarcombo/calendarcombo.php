@@ -62,6 +62,13 @@
 		<font color="red">IMPORTANT: Due to certain listeners not firing, this widget does not work correctly under GTK. It does work fine on Windows and OS X.</font>
 		</p>
 
+		<p>
+			<a href='http://hexapixel.com/software/calendarcombo'>Additional Documentation</a>
+		</p>
+		<p>
+			<a href="http://www.hexapixel.com/files/nightly/">Download</a> </li>
+		</p>
+
 		<hr class="clearer"/>
 	</div>
 

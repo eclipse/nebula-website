@@ -55,6 +55,13 @@
 		such as the <b>SashForm</b>, <b>ViewForm</b> or a custom layout.
 		</p>
 		
+		<p>
+			<a href='http://hexapixel.com/software/collapsiblebuttonwidget'>Additional Documentation</a>
+		</p>
+		<p>
+			<a href="http://www.hexapixel.com/files/nightly/">Download</a> </li>
+		</p>
+		
 		<hr class="clearer"/>
 	</div>
 

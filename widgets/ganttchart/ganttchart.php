@@ -64,8 +64,15 @@
 		Basically, if you don't like something, change it!
 
 		<p>
-			<a href='/nebula/snippets.php#GanttChart'>Snippets</a>		
+			<a href='/nebula/snippets.php#GanttChart'>Snippets</a>
+		</p>		
 		<p>
+			<a href='http://hexapixel.com/software/ganttwidget'>Additional Documentation</a>
+		</p>
+		<p>
+			<a href="http://www.hexapixel.com/files/nightly/">Download</a> </li>
+		</p>
+		<p></p>
 				
 		<hr class="clearer"/>
 	</div>

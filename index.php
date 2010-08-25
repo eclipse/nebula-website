@@ -226,7 +226,23 @@
 			<tr>
 				<td height="25px"></td>
 			</tr>
-
+			<tr>
+			<td align="center" valign="bottom">
+				<table>
+					<tr>
+						<td align="center"><a
+							href="/nebula/widgets/oscilloscope/oscilloscope.php"><img
+							src="images/scope.gif" border="0" alt="Oscilloscope is a fun and versatile widget for monitoring critical processes." title="Oscilloscope"></a></td>
+					</tr>
+					<tr>
+						<td align="center"><b>Oscilloscope</b></td>
+					</tr>
+				</table>
+				</td>
+			
+			</tr>
+			
+			
 			<tr>
 				<td align="center" valign="bottom">
 				<table>
@@ -240,7 +256,7 @@
 					</tr>
 				</table>
 				</td>
-
+		
 				<td align="center" valign="bottom">
 				<table>
 					<tr>

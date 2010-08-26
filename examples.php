@@ -48,6 +48,7 @@
 		   </tr>
 		   <tr>
 		      <td><a href="images/example_gallery.png"><img src="images/example_gallery_small.png" border="0"/></a></td>
+		       <td><a href="images/example_oscilloscope.png"><img src="images/example_oscilloscope_small.png" border="0"/></a></td>
 		   </tr>
 		</table>     
 		

@@ -44,6 +44,7 @@
 		<li>Emil Crumhorn - CalendarCombo, CollapsibleButtons, GanttChart
 		<li>Matthew Hall - PaperClips, RadioGroup
 		<li>Marty Jones - TableCombo
+		<li>Wim Jongman - Oscilloscope
 		</ul>
 		<hr class="clearer"/>
 	</div>

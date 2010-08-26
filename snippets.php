@@ -127,6 +127,14 @@
 			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/grid/GridSnippet6.java?cvsroot=Technology_Project'>create a collapsible column group that swaps columns</a></li>		
 		</ul>
 
+		<a name="Oscilloscope"></a>
+		<h2>Oscilloscope</h2>
+		<ul>
+			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.widgets.oscilloscope.snippets/src/org/eclipse/nebula/widgets/oscilloscope/snippets/Snippet.java?view=markup&root=Technology_Project'>Shows many random scopes</a></li>		
+		    <li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.widgets.oscilloscope.snippets/src/org/eclipse/nebula/widgets/oscilloscope/snippets/Snippet1.java?view=markup&root=Technology_Project'>Show a single random scope</a></li>
+		    <li><a href='http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.widgets.oscilloscope.snippets/src/org/eclipse/nebula/widgets/oscilloscope/snippets/Snippet4.java?view=markup&root=Technology_Project'>Scope with empty stack listener</a></li>
+		</ul>
+		
 		<a name="PGroup"></a>
 		<h2>PGroup</h2>
 		<ul>

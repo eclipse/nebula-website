@@ -37,7 +37,8 @@
 	
 	<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
 	    Note: When installing from an update site, you may have to uncheck 'group by categories' to make the feature appear in the update manager on some Eclipse versions (3.5M6).</div>
-	
+	<center><h2>We are sorry but currently all Nebula-Builds are broken. You can get access to the source by directly checking it out from CVS</h2></center>
+	<!--
 	<a name="Examples"></a>
 	<h2>Nebula Examples</h2>
 		<ul>
@@ -172,7 +173,7 @@
 		<p>There are no downloads available at this time.</p>
 		
 		<p>The source code can be found in <a href="/nebula/source.php">CVS</a>.</p>
-		
+		-->
 		<hr class="clearer"/>
 	</div>
 

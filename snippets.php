@@ -162,6 +162,13 @@
             <li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/tablecombo/viewer/TableComboViewerSnippet1.java?cvsroot=Technology_Project'>A example that shows the features of the TableComboViewer</a></li>
         </ul>
 
+		<a name="XViewer"></a>
+		<h2>XViewer</h2>
+		<ul>
+			<li>XViewer examples are provided within the source code.  See <a href='http://wiki.eclipse.org/Nebula_XViewer_Getting_Started'>Getting Started</a> for more information on how to setup and run.</li>
+		</ul>
+
+
 		<hr class="clearer"/>
 	</div>
 

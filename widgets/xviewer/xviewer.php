@@ -32,9 +32,6 @@
 
 <a href="http://wiki.eclipse.org/Nebula_XViewer_Getting_Started">Getting Started</a><br><br>
 
-<a href="XViewer.pdf">EclipseCon 2009 Presentation Slides</a><br><br>
-XViewer was developed and used by the <a href="http://www.eclipse.org/osee/">Eclipse OSEE Project</a><br><br> 
-
 
 <img border="1" style="align:center; width:150%; height:150%;" src="images/xviewer_main.PNG" alt="XViewer Main"/>
 
@@ -88,6 +85,12 @@ XViewer was developed and used by the <a href="http://www.eclipse.org/osee/">Ecl
 
 <h3>HTML Report and CSV Export</h3>
 <img border="1" style="align:center; width:150%; height:150%;" src="images/xviewer_reportexport.PNG" alt="XViewer Html Reporting"/>
+		
+<h3>Supporting Links</h3>		
+<ul>
+<li><a href="XViewer.pdf">EclipseCon 2009 Presentation Slides</a></li>
+<li>XViewer was developed and used by the <a href="http://www.eclipse.org/osee/">Eclipse OSEE Project</a></li>
+</ul> 
 		
 		<p/>
 	</div>

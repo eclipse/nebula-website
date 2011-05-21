@@ -82,6 +82,8 @@
 
 	
 		</ul>
+		<h3>Download</h3>
+		<p><a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/gallery/downloads/drops/R_0_20110516/org.eclipse.nebula.widgets.gallery-0.5.4.jar">Nebula Gallery widget R_0_20110516 (0.5.4)</a>. 
 			<h3>Changelog</h3>
 			<p>See <a href="https://bugs.eclipse.org/bugs/buglist.cgi?chfieldto=20110516;query_format=advanced;chfieldfrom=2009-04-18;component=Gallery;resolution=FIXED;classification=Technology;product=Nebula">Nebula Gallery 20110516 changelog (bugzilla).</a></p>
 		<hr class="clearer"/>

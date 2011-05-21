@@ -53,21 +53,21 @@
 		</tr>
 		<tr>
 		<td>Gallery Widget</td>
-		<td>o.e.nebula.widgets.gallery</td>
+		<td>org.eclipse.nebula.widgets.gallery</td>
 		<td>Stable</td>
 		<td>Stable</td>
 		<td>Except experimental feature 'fillIfsingle'</td>
 		</tr>
 		<tr>
 		<td>Gallery Viewer</td>
-		<td>o.e.nebula.jface.galleryviewer</td>
+		<td>org.eclipse.nebula.jface.galleryviewer</td>
 		<td>Stable</td>
 		<td style="color: #FF0000;">Dev</td>
 		<td>Standard mode should be quite stable but requires a lot of testing. SWT.VIRTUAL mode is not yet implemented.</td>
 		</tr>
 		<tr>
 		<td>Nebula Animation</td>
-		<td>o.e.nebula.animation</td>
+		<td>org.eclipse.nebula.animation</td>
 		<td style="color: #FF0000;">Dev</td>
 		<td>Stable</td>
 		<td>Will be moved to CWT at some point. Effects are working great but API will be improved in the future.</td>

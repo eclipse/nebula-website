@@ -378,7 +378,7 @@
 				<table>
 					<tr>
 						<td align="center"><a
-							href="/nebula/widgets/treeviewer/treeviewer.php"><img
+							href="/nebula/widgets/treemapper/treemapper.php"><img
 							src="images/treeviewer.png" width="320px"></a></td>
 					</tr>
 					<tr>

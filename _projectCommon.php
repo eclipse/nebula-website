@@ -43,7 +43,7 @@
 		$Nav->addCustomNav("GanttChart",		"/nebula/widgets/ganttchart/ganttchart.php",	 	"_self", 2);
 		$Nav->addCustomNav("PaperClips",    "/nebula/widgets/paperclips/paperclips.php", "_self", 2);
 		$Nav->addCustomNav("RadioGroup",    "/nebula/widgets/radiogroup/radiogroup.php", "_self", 2);
-		$Nav->addCustomNav("TreeMapper",    "/nebula/widgets/radiogroup/treemapper.php", "_self", 2);
+		$Nav->addCustomNav("TreeMapper",    "/nebula/widgets/treemapper/treemapper.php", "_self", 2);
 	$Nav->addNavSeparator("Community", "");
     	$Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/Nebula","_self", 2);
 		$Nav->addCustomNav("Newsgroup", "news://news.eclipse.org/eclipse.technology.nebula","_self", 2);

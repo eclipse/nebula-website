@@ -176,37 +176,24 @@
 					</tr>
 				</table>
 				</td>
-			</tr>
-			
-			<tr>
-				<td height="25px"></td>
-			</tr>
-			
-            <tr>
-                <td align="center" valign="bottom">
+				
+				<td align="center" valign="bottom">
                 <table>
                     <tr>
                         <td align="center"><a
                             href="/nebula/widgets/tablecombo/tablecombo.php"><img
-                            src="images/tablecombo.png" border="0" alt="TableCombo is a composite widget similar to a CCombo but uses a table instead of a list control." title="TableCombo"></a></td>
+                            src="images/tablecombo.png" width="320px" border="0" alt="TableCombo is a composite widget similar to a CCombo but uses a table instead of a list control." title="TableCombo"></a></td>
                     </tr>
                     <tr>
                         <td align="center"><b>TableCombo</b></td>
                     </tr>
                 </table>
                 </td>
-        
-                <td align="center" valign="bottom">
-                </td>
-        
-                <td align="center" valign="bottom">
-                </td>
-        
-            </tr>
+			</tr>
 			
-            <tr>
-                <td height="25px"></td>
-            </tr>
+			<tr>
+				<td height="25px"></td>
+			</tr>
 			
             <tr>
                 <td align="center" valign="bottom">
@@ -379,7 +366,7 @@
 					<tr>
 						<td align="center"><a
 							href="/nebula/widgets/treemapper/treemapper.php"><img
-							src="images/treeviewer.png" width="320px"></a></td>
+							src="images/treemapper.png" width="320px"></a></td>
 					</tr>
 					<tr>
 						<td align="center"><b>TreeMapper</b></td>

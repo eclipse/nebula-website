@@ -37,143 +37,43 @@
 	
 	<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
 	    Note: When installing from an update site, you may have to uncheck 'group by categories' to make the feature appear in the update manager on some Eclipse versions (3.5M6).</div>
-	<center><h2>We are sorry but currently all Nebula-Builds are broken. You can get access to the source by directly checking it out from CVS</h2></center>
-	<!--
-	<a name="Examples"></a>
-	<h2>Nebula Examples</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/examples/downloads/drops/latest/nebula-examples-ALL-incubation.zip">nebula-examples-ALL-incubation.zip</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/examples/update-N/   </li>
-	    </ul>
-	    
-	    <a name="CalendarCombo"></a>
-		<h2>CalendarCombo</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/calendarcombo/downloads/drops/latest/nebula-calendarcombo-ALL-incubation.zip">nebula-calendarcombo-ALL-incubation.zip</a> </li>
-			<li>Alternative latest nightly build : <a href="http://www.hexapixel.com/files/nightly/">http://www.hexapixel.com/files/nightly/</a> </li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/calendarcombo/update-N/  </li>
-	    </ul>
-	    
-	    <a name="CDateTime"></a>
-		<h2>CDateTime</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/cdatetime/downloads/drops/latest/nebula-cdatetime-ALL-incubation.zip">nebula-cdatetime-ALL-incubation.zip</a> </li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/cdatetime/update-N/  </li>
-	    </ul>
-	    
-	    <a name="CollapsibleButtons"></a>
-		<h2>CollapsibleButtons</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/collapsiblebuttons/downloads/drops/latest/nebula-collapsiblebuttons-ALL-incubation.zip">nebula-collapsiblebuttons-ALL-incubation.zip</a> </li>
-			<li>Alternative latest nightly build : <a href="http://www.hexapixel.com/files/nightly/">http://www.hexapixel.com/files/nightly/</a> </li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/collapsiblebuttons/update-N/  </li>
-	    </ul>
-	    
-	    <a name="CompositeTable"></a>
-		<h2>CompositeTable</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/compositetable/downloads/drops/latest/nebula-compositetable-ALL-incubation.zip">nebula-compositetable-ALL-incubation.zip</a> </li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/compositetable/update-N/  </li>
-	    </ul>
-	    
-	     <a name="DateChooser"></a>
-		<h2>DateChooser</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/datechooser/downloads/drops/latest/nebula-datechooser-ALL-incubation.zip">nebula-datechooser-ALL-incubation.zip</a> </li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/datechooser/update-N/  </li>
-	    </ul>
-	    
-	    <a name="FormattedText"></a>
-		<h2>FormattedText</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/formattedtext/downloads/drops/latest/nebula-formattedtext-ALL-incubation.zip">nebula-formattedtext-ALL-incubation.zip</a> </li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/formattedtext/update-N/  </li>
-	    </ul>
-	    
-	    <a name="Gallery"></a>
-		<h2>Gallery</h2>
-		<ul>
-			<li><b>Files</b></li>
-				<ul>
-					<li>0.5.2 (stable) : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/gallery/downloads/drops/R_0_20090418/nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip">nebula-gallery-ALL-incubation-0.5.2_R_0_20090418.zip</a> - <a href="http://www.eclipse.org/nebula/widgets/gallery/releasenotes/r_0_20090418/releasenotes.php">Notes</a></li>
-				<li> Nightly builds : <a href="http://download.eclipse.org/technology/nebula/gallery/downloads/drops/">Build list</a> (test results included) - <a href="https://build.eclipse.org/hudson/view/Athena%20CBI/job/cbi-nebula.widgets.gallery-0.5.x-nightly/">Hudson status</a></li>
-				</ul>
-			<li><b>Update sites</b></li>
-				<ul>
-					<li>Stable : http://download.eclipse.org/technology/nebula/gallery/update/   </li>
-					<li>Nighlty : http://download.eclipse.org/technology/nebula/gallery/update-N/  </li>
-				</ul>
-		    </ul>
-
-	    <a name="GanttChart"></a>
-		<h2>GanttChart</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/ganttchart/downloads/drops/latest/nebula-ganttchart-ALL-incubation.zip">nebula-ganttchart-ALL-incubation.zip</a> </li>
-			<li>Alternative latest nightly build : <a href="http://www.hexapixel.com/files/nightly/">http://www.hexapixel.com/files/nightly/</a> </li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/ganttchart/update-N/  </li>
-	    </ul>
-	    
-	    <a name="Grid"></a>
-	    <h2>Grid</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/grid/downloads/drops/latest/nebula-grid-SDK-incubation.zip">nebula-grid-SDK-incubation.zip</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/grid/update-N/ </li>
-	    </ul>
-	    
-	    <a name="PaperClips"></a>
-	    <h2>PaperClips</h2>
-		<ul>
-			<li>Latest nightly build : <font color="red">Not yet available</font>
-			<li>Update site (nightly builds) : <font color="red">Not yet available</font>
-	    </ul>
-	    
-	    <a name="PGroup"></a>
-	     <h2>PGroup</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/pgroup/downloads/drops/latest/nebula-pgroup-SDK-incubation.zip">nebula-pgroup-SDK-incubation.zip</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/pgroup/update-N/  </li>
-	    </ul>
-	   
-	   <a name="PShelf"></a> 
-	    <h2>PShelf</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/pshelf/downloads/drops/latest/nebula-pshelf-SDK-incubation.zip">nebula-pshelf-SDK-incubation.zip</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/pshelf/update-N/</li>
-	    </ul>
-	    
-	    <a name="RadioGroup"></a>
-	    <h2>RadioGroup</h2>
-		<ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/radiogroup/downloads/drops/latest/nebula-radiogroup-ALL-incubation.zip">nebula-radiogroup-ALL-incubation.zip</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/radiogroup/update-N/</li>
-	    </ul>
-	    
-        <a name="TableCombo"></a>
-        <h2>TableCombo</h2>
-        <ul>
-            <li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/tablecombo/downloads/drops/latest/nebula-tablecombo-ALL-incubation.zip">nebula-tablecombo-ALL-incubation.zip</a></li>
-            <li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/tablecombo/update-N/</li>
-        </ul>
-	    
-        <a name="XViewer"></a>
-        <h2>XViewer</h2>
-        <ul>
-            <li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/xviewer/downloads/drops/latest/nebula-xviewer-ALL-incubation.zip">nebula-xviewer-ALL-incubation.zip</a></li>
-            <li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/xviewer/update-N/</li>
-        </ul>
-	    
-	    <a name="CWT"></a>
-	    <h2>CWT (unofficial)</h2>
-	    <ul>
-			<li>Latest nightly build : <a href="http://www.eclipse.org/downloads/download.php?file=/technology/nebula/cwt/downloads/drops/latest/nebula-cwt-SDK-incubation.zip">nebula-cwt-SDK-incubation.zip</a></li>
-			<li>Update site (nightly builds) : http://download.eclipse.org/technology/nebula/cwt/update-N/  </li>
-	    </ul>
-	    
-	    <h2>Other widgets</h2>	
-		<p>There are no downloads available at this time.</p>
-		
-		<p>The source code can be found in <a href="/nebula/source.php">CVS</a>.</p>
-		-->
+	
+	<h2>Releases</h2>
+	
+		<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
+			<p style="font-weight: bold">
+				No release is available yet. We are currently working on providing one.
+			</p>
+			<p>
+			    In the meantime, we recommand you start using the continuous integration builds. Most of them shoud
+			    be stable enough to be used in your context. Feel free to ask on forum for more details.
+			</p>
+			<p>
+				We appreciate your patience as we go through these changes because, though inconvenient, 
+				they will help the project move forward and set it up to better serve the Eclipse community at large.
+			</p>
+		</div>
+	
+	<h2>Continuous integration builds (snapshots)</h2>
+	
+	<div style="background-color: yellow; border: orange dotted 2px; padding:10px">
+		<p style="font-weight: bold">
+			These builds does not guarantee full quality for these widgets. Testing only! 
+		</p>
+		<p>
+		    You may find here the latest version of widgets, with there new feature and more recent bug fixes.
+		    However, since they are development build, they may suffer from bugs that are not present in releases.
+		</p>
+		<p>
+			Use these widgets carefully in your products. We highly recommand you to use released versions.
+		</p>
+	</div>
+	
+	<h3>Main widgets</h3>
+	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> main Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/proper/snapshots">http://download.eclipse.org/technology/nebula/proper/snapshots</a>
+	<h3>Incubation widgets</h3>
+	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> incubating Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/proper/snapshots">http://download.eclipse.org/technology/nebula/incubation/snapshots</a>
+	
 		<hr class="clearer"/>
 	</div>
 

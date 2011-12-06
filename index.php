@@ -41,21 +41,6 @@
 		<p>All Nebula components are available on the navigation tree on the left or from the table below.
 		  Each image links to a page that will further describe the component and its function.</p>
 
-		<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
-			<p style="font-weight: bold">
-				Binary downloads and update sites are now available for some widgets. See <a href="/nebula/downloads.php">downloads</a> page.
-			</p>
-			<p>
-			    We are progressively setting up the automated build process, all widgets should be available in a binary form soon.<br/>
-				In the mean time, the source code can be found in 
-				<a href="/nebula/source.php">CVS</a>.
-			</p>
-			<p>
-				We appreciate your patience as we go through these changes because, though inconvenient, 
-				they will help the project move forward and set it up to better serve the Eclipse community at large.
-			</p>
-		</div>
-				
 		<a name="mainComponents"></a>
 		<h3>Main Components :</h3>
 

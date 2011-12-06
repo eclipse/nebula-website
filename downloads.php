@@ -35,9 +35,6 @@
 		<h1>$pageTitle</h1>
 	
 	
-	<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
-	    Note: When installing from an update site, you may have to uncheck 'group by categories' to make the feature appear in the update manager on some Eclipse versions (3.5M6).</div>
-	
 	<h2>Releases</h2>
 	
 		<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
@@ -56,7 +53,7 @@
 	
 	<h2>Continuous integration builds (snapshots)</h2>
 	
-	<div style="background-color: yellow; border: orange dotted 2px; padding:10px">
+	<div style="background-color: orange; border: red dotted 2px; padding:10px">
 		<p style="font-weight: bold">
 			These builds does not guarantee full quality for these widgets. Testing only! 
 		</p>

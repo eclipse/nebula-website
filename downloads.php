@@ -68,9 +68,9 @@
 	</div>
 	
 	<h3>Main widgets</h3>
-	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> main Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/proper/snapshots">http://download.eclipse.org/technology/nebula/proper/snapshots</a>
+	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> main Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/snapshots">http://download.eclipse.org/technology/nebula/snapshots</a>
 	<h3>Incubation widgets</h3>
-	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> incubating Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/proper/snapshots">http://download.eclipse.org/technology/nebula/incubation/snapshots</a>
+	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> incubating Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshots">http://download.eclipse.org/technology/nebula/incubation/snapshots</a>
 	
 		<hr class="clearer"/>
 	</div>

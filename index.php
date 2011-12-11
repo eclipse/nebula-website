@@ -304,7 +304,6 @@
 					</table>
 				</td>
 
-			<tr>
 				<td align="center" valign="bottom">
 				<table>
 					<tr>

@@ -193,9 +193,20 @@
                     </tr>
                 </table>
                 </td>
-        
-                <td align="center" valign="bottom">
-                </td>
+                
+				<td align="center" valign="bottom">
+					<table>
+						<tr>
+							<td align="center"><a
+								href="/nebula/widgets/ganttchart/ganttchart.php"><img
+								src="images/ganttchart.png" border="0" alt="GanttChart is a full featured and customizable GANTT charting component." title="GanttChart" width=300/></a></td>
+						</tr>
+						<tr>
+							<td align="center"><b>GanttChart</b></td> 
+						</tr>
+					</table>
+				</td>        
+
         
                 <td align="center" valign="bottom">
                 </td>
@@ -292,19 +303,10 @@
 						</tr>
 					</table>
 				</td>
-				
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a
-								href="/nebula/widgets/ganttchart/ganttchart.php"><img
-								src="images/ganttchart.png" border="0" alt="GanttChart is a full featured and customizable GANTT charting component." title="GanttChart" width=300/></a></td>
-						</tr>
-						<tr>
-							<td align="center"><b>GanttChart</b></td> 
-						</tr>
-					</table>
-				</td>
+
+                <td align="center" valign="bottom">
+                </td>				
+
 			</tr>
 			
 			<tr>

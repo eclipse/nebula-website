@@ -39,10 +39,10 @@
 	
 		<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
 			<p style="font-weight: bold">
-				No release is available yet. We are currently working on providing one.
+				Dec, 2011 - No release is available yet. We are currently working on providing one.
 			</p>
 			<p>
-			    In the meantime, we recommand you start using the continuous integration builds. Most of them shoud
+			    In the meantime, we recommend you start using the continuous integration builds. Most of them should
 			    be stable enough to be used in your context. Feel free to ask on forum for more details.
 			</p>
 			<p>
@@ -55,14 +55,15 @@
 	
 	<div style="background-color: orange; border: red dotted 2px; padding:10px">
 		<p style="font-weight: bold">
-			These builds does not guarantee full quality for these widgets. Testing only! 
+			The widgets are in incubation because they are in an early state of development or because we do not have any active committers for the widget. 
+			Most widgets should be stable enough for production use. Please see the individual widget pages for more status information. 
 		</p>
 		<p>
-		    You may find here the latest version of widgets, with there new feature and more recent bug fixes.
-		    However, since they are development build, they may suffer from bugs that are not present in releases.
+		    You will find latest version of widgets, with their new feature and more recent bug fixes.
+		    However, since they are development build, they may include some bugs that are not present in releases.
 		</p>
 		<p>
-			Use these widgets carefully in your products. We highly recommand you to use released versions.
+			Test these widgets with your use case before you release them in production.
 		</p>
 	</div>
 	

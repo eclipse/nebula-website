@@ -51,7 +51,7 @@
 			</p>
 		</div>
 	
-	<h2>Continuous integration builds (snapshots)</h2>
+	<h2>Continuous integration builds (snapshot)</h2>
 	
 	<div style="background-color: orange; border: red dotted 2px; padding:10px">
 		<p style="font-weight: bold">
@@ -68,9 +68,9 @@
 	</div>
 	
 	<h3>Main widgets</h3>
-	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> main Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/snapshots">http://download.eclipse.org/technology/nebula/snapshots</a>
+	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> main Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a>
 	<h3>Incubation widgets</h3>
-	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> incubating Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshots">http://download.eclipse.org/technology/nebula/incubation/snapshots</a>
+	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> incubating Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a>
 	
 		<hr class="clearer"/>
 	</div>

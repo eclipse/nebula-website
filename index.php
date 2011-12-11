@@ -304,8 +304,20 @@
 					</table>
 				</td>
 
-                <td align="center" valign="bottom">
-                </td>				
+			<tr>
+				<td align="center" valign="bottom">
+				<table>
+					<tr>
+						<td align="center"><a
+							href="/nebula/widgets/treemapper/treemapper.php"><img
+							src="images/treemapper.png" width="320px"></a></td>
+					</tr>
+					<tr>
+						<td align="center"><b>TreeMapper</b></td>
+					</tr>
+				</table>
+				</td>
+			</tr>		
 
 			</tr>
 			
@@ -344,22 +356,6 @@
 			
 			<tr>
 				<td height="25px"></td>
-			</tr>
-			
-			
-			<tr>
-				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/treemapper/treemapper.php"><img
-							src="images/treemapper.png" width="320px"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>TreeMapper</b></td>
-					</tr>
-				</table>
-				</td>
 			</tr>
 
             <tr>

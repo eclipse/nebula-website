@@ -155,6 +155,14 @@
 			<li><a href='http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets/src/org/eclipse/swt/nebula/snippets/radiogroup/RadioGroupViewerSnippet01.java?cvsroot=Technology_Project'>Set up a RadioGroupViewer with data binding</a></li>		
 		</ul>
 
+		<a name="STW - SWT Transition Widget"></a>
+        <h2>STW - SWT Transition Widget</h2>
+        <ul>
+            <li><a href='http://dev.eclipse.org/viewcvs/viewvc.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.effects.stw.example/src/org/eclipse/nebula/effects/stw/example/TransitionTest.java?view=markup&revision=1.2&root=Technology_Project'>Perform transitions on a button</a></li>      
+            <li><a href='http://dev.eclipse.org/viewcvs/viewvc.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.effects.stw.example/src/org/eclipse/nebula/effects/stw/example/TransitionTest1.java?view=markup&revision=1.2&root=Technology_Project'>Perform transitions on tabs of a TabFolder</a></li>
+            <li><a href='http://dev.eclipse.org/viewcvs/viewvc.cgi/org.eclipse.swt.nebula/org.eclipse.nebula.effects.stw.example/src/org/eclipse/nebula/effects/stw/example/TransitionTest2.java?view=markup&revision=1.2&root=Technology_Project'>Perform transitions on images</a></li>
+        </ul>
+		
         <a name="TableCombo"></a>
         <h2>TableCombo</h2>
         <ul>

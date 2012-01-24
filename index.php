@@ -166,11 +166,11 @@
                 <table>
                     <tr>
                         <td align="center"><a
-                            href="/nebula/widgets/tablecombo/tablecombo.php"><img
-                            src="images/tablecombo.png" width="320px" border="0" alt="TableCombo is a composite widget similar to a CCombo but uses a table instead of a list control." title="TableCombo"></a></td>
+                            href="/nebula/widgets/stw/stw.php"><img
+                            src="images/stw1.gif" border="0" alt="STW - SWT Transition Widget is a widget for adding fancy transition effects." title="STW - SWT Transition Widget"></a></td>
                     </tr>
                     <tr>
-                        <td align="center"><b>TableCombo</b></td>
+                        <td align="center"><b>STW - SWT Transition Widget</b></td>
                     </tr>
                 </table>
                 </td>
@@ -181,6 +181,20 @@
 			</tr>
 			
             <tr>
+            
+            	<td align="center" valign="bottom">
+                <table>
+                    <tr>
+                        <td align="center"><a
+                            href="/nebula/widgets/tablecombo/tablecombo.php"><img
+                            src="images/tablecombo.png" width="320px" border="0" alt="TableCombo is a composite widget similar to a CCombo but uses a table instead of a list control." title="TableCombo"></a></td>
+                    </tr>
+                    <tr>
+                        <td align="center"><b>TableCombo</b></td>
+                    </tr>
+                </table>
+                </td>
+                
                 <td align="center" valign="bottom">
                 <table>
                     <tr>
@@ -193,7 +207,14 @@
                     </tr>
                 </table>
                 </td>
-                
+                      
+            </tr>
+            
+            <tr>
+				<td height="25px"></td>
+			</tr>
+
+			<tr>
 				<td align="center" valign="bottom">
 					<table>
 						<tr>
@@ -210,8 +231,8 @@
         
                 <td align="center" valign="bottom">
                 </td>
-        
-            </tr>
+			</tr>
+            
 		</table>
 			
 		<a name="incubationComponents"></a>

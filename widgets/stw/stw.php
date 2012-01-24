@@ -35,11 +35,12 @@
 		<h1>$pageTitle</h1>
 		<h2>STW - SWT Transition Widget</h2>
 		
-		<img src='stw2.gif'>
 		<p>
 			STW is a transition widget! It adds fancy effects to SWT GUI.
 			Users would enjoy wandering around views with smooth transition effects.
 		</p>
+		
+		<img src='stw2.gif'>
 		
 		<p>
 			Implemented transitions are:

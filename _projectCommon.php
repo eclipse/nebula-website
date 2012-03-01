@@ -33,7 +33,7 @@
 		$Nav->addCustomNav("Oscilloscope",    "/nebula/widgets/oscilloscope/oscilloscope.php", "_self", 2);
 		$Nav->addCustomNav("PGroup",		"/nebula/widgets/pgroup/pgroup.php",	 	"_self", 2);
 		$Nav->addCustomNav("PShelf",		"/nebula/widgets/pshelf/pshelf.php",	 	"_self", 2);
-		$Nav->addCustomNav("STW - SWT Transition Widget", "/nebula/widgets/stw/stw.php", "_self", 2);
+		$Nav->addCustomNav("Transition", "/nebula/widgets/stw/stw.php", "_self", 2);
 		$Nav->addCustomNav("TableCombo",    "/nebula/widgets/tablecombo/tablecombo.php", "_self", 2);
 		$Nav->addCustomNav("XViewer",    "/nebula/widgets/xviewer/xviewer.php", "_self", 2);
 	$Nav->addNavSeparator("Nebula Incubation", "");

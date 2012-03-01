@@ -35,56 +35,75 @@
 		<h1>$pageTitle</h1>
 	
 	
-	<h2>Releases</h2>
-	
-		<div style="background-color: #fdf; border: red dotted 2px; padding:10px">
-			<p style="font-weight: bold">
-				Dec, 2011 - No release is available yet. We are currently working on providing one.
-			</p>
-			<p>
-			    In the meantime, we recommend you start using the continuous integration builds. Most of them should
-			    be stable enough to be used in your context. Feel free to ask on forum for more details.
-			</p>
-			<p>
-				We appreciate your patience as we go through these changes because, though inconvenient, 
-				they will help the project move forward and set it up to better serve the Eclipse community at large.
-			</p>
+	<h2>Nebula Release</h2>
+
+	<div
+		style="background-color: orange; border: red dotted 2px; padding: 10px">
+		<p style="font-weight: bold">We are working towards a set of
+			widgets that are production ready, stable and maintained.</p>
+		<p>
+			This set of widgets is known as "Nebula Release". The widgets that
+			are proposed to be in "Nebula Release" are listed on the left. This
+			update site contains the latest version of the widgets.Our CI build
+			flows from check-in to publish on the Eclipse Download site. Use this
+			URL to <a
+				href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a>
+			"Nebula Release" widgets in your Eclipse Platform:
+		</p>
+		<div
+			style="background-color: #fdf; border: gray solid 1px; padding: 10px">
+			<center>
+				<p style="font-weight: bold">
+					<a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a>
+				</p>
+			</center>
 		</div>
-	
-	<h2>Continuous integration builds (snapshot)</h2>
-	
-	<div style="background-color: orange; border: red dotted 2px; padding:10px">
-		<p style="font-weight: bold">
-			The widgets are in incubation because they are in an early state of development or because we do not have any active committers for the widget. 
-			Most widgets should be stable enough for production use. Please see the individual widget pages for more status information. 
-		</p>
-		<p>
-		    You will find latest version of widgets, with their new feature and more recent bug fixes.
-		    However, since they are development build, they may include some bugs that are not present in releases.
-		</p>
-		<p>
-			Test these widgets with your use case before you release them in production.
-		</p>
 	</div>
-	
-	<h3>Main widgets</h3>
-	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> main Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a>
-	<h3>Incubation widgets</h3>
-	Use this URL to <a href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a> incubating Nebula widgets in your Eclipse Platform: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a>
-	
-		<hr class="clearer"/>
+
+	<h2>Nebula Incubation</h2>
+
+	<div
+		style="background-color: orange; border: red dotted 2px; padding: 10px">
+		<p style="font-weight: bold">The widgets are in incubation because
+			they are in an early state of development or because we do not have
+			an active committers for the widget.</p>
+		<p>
+			Some widgets are stable enough for production use. Please see the
+			individual widget pages for more status information. You will find
+			latest version of widgets, with their new feature and more recent bug
+			fixes. However, since they are development build, they may include
+			some bugs that are not present in releases. Test these widgets with
+			your use case before you release them in production. Use this URL to
+			<a
+				href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a>
+			"Nebula Release" widgets in your Eclipse Platform:
+		</p>
+		<div
+			style="background-color: #fdf; border: red dotted 2px; padding: 10px">
+			<center>
+				<p style="font-weight: bold">
+					<a
+						href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a>
+				</p>
+			</center>
+		</div>
 	</div>
+
+	<hr class="clearer" />
 
 	<div id="rightcolumn">
 		<div class="sideitem">
 			<h6>Incubation</h6>
 			<div align="center">
 				<a href="http://www.eclipse.org/projects/what-is-incubation.php">
-					<img align="center" src="http://www.eclipse.org/images/egg-incubation.png" border="0" alt="Incubation" />
+					<img align="center"
+					src="http://www.eclipse.org/images/egg-incubation.png" border="0"
+					alt="Incubation" />
 				</a>
 			</div>
 		</div>
 	</div>
+		
 	
 EOHTML;
 

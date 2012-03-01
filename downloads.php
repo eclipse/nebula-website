@@ -90,6 +90,7 @@
 	</div>
 
 	<hr class="clearer" />
+	</div>
 
 	<div id="rightcolumn">
 		<div class="sideitem">

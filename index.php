@@ -443,8 +443,7 @@
 					<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=373009">
 						<img align="center"
 						src="http://wiki.eclipse.org/images/7/7d/Bug.png" border="0"
-						alt="Report Problems with this site here" />Report problems with
-						this page here.
+						alt="Report Problems with this site here" />Report page problems here.
 					</a>
 
 				</div>

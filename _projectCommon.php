@@ -25,9 +25,8 @@
 	$Nav->addCustomNav("Snippets","/nebula/snippets.php","_self", 2);	
 	$Nav->addCustomNav("Examples","/nebula/examples.php","_self", 2);	
 	$Nav->addCustomNav("Source","/nebula/source.php","_self", 2);
-	$Nav->addNavSeparator("Main Widgets", "");
+	$Nav->addNavSeparator("Nebula Release", "");
 		$Nav->addCustomNav("CalendarCombo",		"/nebula/widgets/calendarcombo/calendarcombo.php",	 	"_self", 2);
-		$Nav->addCustomNav("CompositeTable","/nebula/widgets/compositetable/compositetable.php", "_self", 2);
 		$Nav->addCustomNav("Gallery",		"/nebula/widgets/gallery/gallery.php",	 	"_self", 2);
 		$Nav->addCustomNav("GanttChart",		"/nebula/widgets/ganttchart/ganttchart.php",	 	"_self", 2);
 		$Nav->addCustomNav("Grid", 			"/nebula/widgets/grid/grid.php",	 		"_self", 2);
@@ -37,9 +36,10 @@
 		$Nav->addCustomNav("STW - SWT Transition Widget", "/nebula/widgets/stw/stw.php", "_self", 2);
 		$Nav->addCustomNav("TableCombo",    "/nebula/widgets/tablecombo/tablecombo.php", "_self", 2);
 		$Nav->addCustomNav("XViewer",    "/nebula/widgets/xviewer/xviewer.php", "_self", 2);
-	$Nav->addNavSeparator("Incubation widgets", "");
+	$Nav->addNavSeparator("Nebula Incubation", "");
 		$Nav->addCustomNav("CDateTime",		"/nebula/widgets/cdatetime/cdatetime.php",	"_self", 2);
 		$Nav->addCustomNav("CollapsibleButtons","/nebula/widgets/collapsiblebuttons/collapsiblebuttons.php",	 	"_self", 2);
+		$Nav->addCustomNav("CompositeTable","/nebula/widgets/compositetable/compositetable.php", "_self", 2);
 		$Nav->addCustomNav("DateChooser",		"/nebula/widgets/datechooser/datechooser.php",	 	"_self", 2);
 		$Nav->addCustomNav("FormattedText",		"/nebula/widgets/formattedtext/formattedtext.php",	 	"_self", 2);
 		$Nav->addCustomNav("PaperClips",    "/nebula/widgets/paperclips/paperclips.php", "_self", 2);
@@ -47,7 +47,7 @@
 		$Nav->addCustomNav("TreeMapper",    "/nebula/widgets/treemapper/treemapper.php", "_self", 2);
 	$Nav->addNavSeparator("Community", "");
         $Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/Nebula","_self", 2);
-		$Nav->addCustomNav("Newsgroup", "news://news.eclipse.org/eclipse.technology.nebula","_self", 2);
+		$Nav->addCustomNav("Newsgroup", "http://www.eclipse.org/forums/index.php/f/64/","_self", 2);
 		$Nav->addCustomNav("Mailing List", "https://dev.eclipse.org/mailman/listinfo/nebula-dev","_self", 2);
 		$Nav->addCustomNav("Bugs", 		"http://bugs.eclipse.org/bugs/query.cgi?product=Nebula", 	"_self", 2);
 	$Nav->addNavSeparator("Contributing", "");

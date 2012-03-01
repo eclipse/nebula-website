@@ -51,7 +51,7 @@
 			"Nebula Release" widgets in your Eclipse Platform:
 		</p>
 		<div
-			style="background-color: #fdf; border: gray solid 1px; padding: 10px">
+			style="background-color: #fdf; border: red dotted 2px; padding: 10px">
 			<center>
 				<p style="font-weight: bold">
 					<a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a>
@@ -76,7 +76,7 @@
 			your use case before you release them in production. Use this URL to
 			<a
 				href="http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-129.htm">install</a>
-			"Nebula Release" widgets in your Eclipse Platform:
+			"Nebula Incubation" widgets in your Eclipse Platform:
 		</p>
 		<div
 			style="background-color: #fdf; border: red dotted 2px; padding: 10px">

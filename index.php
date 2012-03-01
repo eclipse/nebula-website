@@ -31,375 +31,429 @@
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 
-<div id="maincontent">
-	<div id="midcolumn">
-		<h1>$pageTitle</h1>
-		<h2>Supplemental Custom Widgets for SWT (and more)</h2>
-		<p>Nebula is a place where different Eclipse-Projects and Independent developers collaborate on building Custom SWT widgets and reuseable
-           UI-Components useable in UI-Applications built using SWT and JFace.</p>
-		
-		<p>All Nebula components are available on the navigation tree on the left or from the table below.
-		  Each image links to a page that will further describe the component and its function.</p>
+	<div id="maincontent">
+		<div id="midcolumn">
+			<h1>$pageTitle</h1>
+			<h2>Supplemental Custom Widgets for SWT (and more)</h2>
+			<p>Nebula is a place where different Eclipse-Projects and
+				Independent developers collaborate on building Custom SWT widgets
+				and reuseable UI-Components useable in UI-Applications built using
+				SWT and JFace.</p>
 
-		<a name="mainComponents"></a>
-		<h3>Main Components :</h3>
+			<p>All Nebula components are available on the navigation tree on
+				the left or from the table below. Each image links to a page that
+				will further describe the component and its function.</p>
 
-		<table width="100%"
-			style="margin-top: 20px;">
-			<colgroup>
-				<col width="320">
-				<col width="320">
-			</colgroup>
-			<tr>
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a
-								href="/nebula/widgets/calendarcombo/calendarcombo.php"><img
-								src="images/calendarcombo.png" border="0" alt="CalendarCombo is a calendar widget for selecting dates that leaves the combo box looking like the native combo box." title="CalendarCombo"></a></td>
-						</tr>
-						<tr>
-							<td align="center"><b>CalendarCombo</b></td>
-						</tr>
-					</table>
-				</td>
+			<a name="mainComponents"></a>
+			<h3>Nebula Release :</h3>
 
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a
-								href="/nebula/widgets/compositetable/compositetable.php"><img
-								src="images/compositetable.png" border="0" alt="CompositeTable gives you total flexibility to present and edit row-oriented data however you want."
-								title="CompositeTable"></a></td>
-						</tr>
-						<tr>
-							<td align="center"><b>CompositeTable</b></td>
-						</tr>
-					</table>
-				</td>
-				
-			</tr>
+			<table width="100%" style="margin-top: 20px;">
+				<colgroup>
+					<col width="320">
+					<col width="320">
+				</colgroup>
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/calendarcombo/calendarcombo.php"><img
+										src="images/calendarcombo.png" border="0"
+										alt="CalendarCombo is a calendar widget for selecting dates that leaves the combo box looking like the native combo box."
+										title="CalendarCombo"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CalendarCombo</b></td>
+							</tr>
+						</table>
+					</td>
 
-			<tr>
-				<td height="25px"></td>
-			</tr>
-			
-			<tr>
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a
-								href="/nebula/widgets/gallery/gallery.php"><img
-								src="images/gallery.png" border="0" alt="Gallery lets you display any number of items organised in groups. Several group and item renderers are available with support for dynamic item size, drop shadows, auto margins, icon and list styles." title="Gallery"></a></td>
-						</tr>
-						<tr>
-							<td align="center"><b>Gallery</b></td>
-						</tr>
-					</table>
-				</td>
-				
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a
-								href="/nebula/widgets/grid/grid.php"><img
-								src="images/grid.png" border="0" alt="The Grid is a table component that offers spreadsheet like features." title="Grid"></a></td>
-						</tr>
-						<tr>
-							<td align="center"><b>Grid</b></td>
-						</tr>
-					</table>
-				</td>
-			</tr>
-			
-			<tr>
-				<td height="25px"></td>
-			</tr>
-			
-			<tr>
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a
-								href="/nebula/widgets/oscilloscope/oscilloscope.php"><img
-								src="images/scope.gif" border="0" alt="Oscilloscope is a fun and versatile widget for monitoring critical processes." title="Oscilloscope"></a></td>
-						</tr>
-						<tr>
-							<td align="center"><b>Oscilloscope</b></td>
-						</tr>
-					</table>
-				</td>
-				
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a
-								href="/nebula/widgets/pgroup/pgroup.php"><img
-								src="images/pgroup.png" border="0" alt="PGroup is a expandable/collapsible composite widget with attractive styling and an extensible design." title="PGroup"></a></td>
-						</tr>
-						<tr>
-							<td align="center"><b>PGroup</b></td>
-						</tr>
-					</table>
-				</td>
-			</tr>
-			
-			<tr>
-				<td height="25px"></td>
-			</tr>
 
-			<tr>
-				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/pshelf/pshelf.php"><img
-							src="images/pshelf.png" border="0" alt="PShelf is a composite widget similar to a tab folder but uses an accordion-like metaphor." title="PShelf"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>PShelf</b></td>
-					</tr>
-				</table>
-				</td>
-				
-				<td align="center" valign="bottom">
-                <table>
-                    <tr>
-                        <td align="center"><a
-                            href="/nebula/widgets/stw/stw.php"><img
-                            src="images/stw1.gif" border="0" alt="STW - SWT Transition Widget is a widget for adding fancy transition effects." title="STW - SWT Transition Widget"></a></td>
-                    </tr>
-                    <tr>
-                        <td align="center"><b>STW - SWT Transition Widget</b></td>
-                    </tr>
-                </table>
-                </td>
-			</tr>
-			
-			<tr>
-				<td height="25px"></td>
-			</tr>
-			
-            <tr>
-            
-            	<td align="center" valign="bottom">
-                <table>
-                    <tr>
-                        <td align="center"><a
-                            href="/nebula/widgets/tablecombo/tablecombo.php"><img
-                            src="images/tablecombo.png" width="320px" border="0" alt="TableCombo is a composite widget similar to a CCombo but uses a table instead of a list control." title="TableCombo"></a></td>
-                    </tr>
-                    <tr>
-                        <td align="center"><b>TableCombo</b></td>
-                    </tr>
-                </table>
-                </td>
-                
-                <td align="center" valign="bottom">
-                <table>
-                    <tr>
-                        <td align="center"><a
-                            href="/nebula/widgets/xviewer/xviewer.php"><img
-                            src="images/xviewer.png" border="0" alt="The purpose of the XViewer is to give the application developer a more advanced and dynamic TreeViewer that has the filtering and sorting the capabilities of a spreadsheet while providing the users the ability to customize their table to suit their current needs and save/restore these customizations for future use by individual or group." title="XViewer"></a></td>
-                    </tr>
-                    <tr>
-                        <td align="center"><b>XViewer</b></td>
-                    </tr>
-                </table>
-                </td>
-                      
-            </tr>
-            
-            <tr>
-				<td height="25px"></td>
-			</tr>
 
-			<tr>
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a
-								href="/nebula/widgets/ganttchart/ganttchart.php"><img
-								src="images/ganttchart.png" border="0" alt="GanttChart is a full featured and customizable GANTT charting component." title="GanttChart" width=300/></a></td>
-						</tr>
-						<tr>
-							<td align="center"><b>GanttChart</b></td> 
-						</tr>
-					</table>
-				</td>        
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/ganttchart/ganttchart.php"><img
+										src="images/ganttchart.png" border="0"
+										alt="GanttChart is a full featured and customizable GANTT charting component."
+										title="GanttChart" width="300"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>GanttChart</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
 
-        
-                <td align="center" valign="bottom">
-                </td>
-			</tr>
-            
-		</table>
-			
-		<a name="incubationComponents"></a>
-		<h3>Incubation Components :</h3>
-		<table width="100%"
-			style="margin-top: 20px;">
-			<colgroup>
-				<col width="320">
-				<col width="320">
-			</colgroup>
-			
-			<tr>
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a href="/nebula/widgets/collapsiblebuttons/collapsiblebuttons.php">
-								<img src="images/collapsiblebuttons.png" border="0" alt="CollapsibleButtons is a widget similar to the Microsoft Outlook button navigation bar." title="CollapsibleButtons"></a>
-							</td>
-						</tr>
-						<tr>
-							<td align="center"><b>CollapsibleButtons</b></td> 
-						</tr>
-					</table>
-				</td>
-				
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a
-								href="/nebula/widgets/cdatetime/cdatetime.php"><img
-								src="images/cdatetime.png" border="0"
-								alt="The CDateTime is a graphical and textual Date selection widget." title="CDateTime"></a></td>
-						</tr>
-						<tr>
-							<td align="center"><b>CDateTime</b></td>
-						</tr>
-					</table>
-				</td>
-			</tr>
+				<tr>
+					<td height="25px"></td>
+				</tr>
 
-			<tr>
-				<td height="25px"></td>
-			</tr>
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/gallery/gallery.php"><img
+										src="images/gallery.png" border="0"
+										alt="Gallery lets you display any number of items organised in groups. Several group and item renderers are available with support for dynamic item size, drop shadows, auto margins, icon and list styles."
+										title="Gallery"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Gallery</b></td>
+							</tr>
+						</table>
+					</td>
 
-			<tr>
-				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/datechooser/datechooser.php"><img
-							src="images/datechooser.png" border="0" alt="DateChooser is a graphical date selection widget, with a fully customizable look & feel which is consistent between the differents platforms."
-							title="DateChooser"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>DateChooser</b></td>
-					</tr>
-				</table>
-				</td>
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a
-								href="/nebula/widgets/datechooser/datechooser.php"><img
-								src="images/datechoosercombo.png" border="0"
-								alt="DateChooserCombo combines a FormattedText / DateFormatter with a drop down DateChooser popup." title="DateChooserCombo"></a></td>
-						</tr>
-						<tr>
-							<td align="center"><b>DateChooserCombo</b></td>
-						</tr>
-					</table>
-				</td>
-			</tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="/nebula/widgets/grid/grid.php"><img
+										src="images/grid.png" border="0"
+										alt="The Grid is a table component that offers spreadsheet like features."
+										title="Grid"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Grid</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
 
-			<tr>
-				<td height="25px"></td>
-			</tr>
+				<tr>
+					<td height="25px"></td>
+				</tr>
 
-			<tr>
-				<td align="center" valign="bottom">
-					<table>
-						<tr>
-							<td align="center"><a
-								href="/nebula/widgets/formattedtext/formattedtext.php"><img
-								src="images/formattedtext.png" border="0" alt="Decorator component adding input and display mask capabilities on a Text widget."
-								title="FormattedText"></a></td>
-						</tr>
-						<tr>
-							<td align="center"><b>FormattedText</b></td>
-						</tr>
-					</table>
-				</td>
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/oscilloscope/oscilloscope.php"><img
+										src="images/scope.gif" border="0"
+										alt="Oscilloscope is a fun and versatile widget for monitoring critical processes."
+										title="Oscilloscope"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Oscilloscope</b></td>
+							</tr>
+						</table>
+					</td>
 
-				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/treemapper/treemapper.php"><img
-							src="images/treemapper.png" width="320px"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>TreeMapper</b></td>
-					</tr>
-				</table>
-				</td>
-			</tr>		
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/pgroup/pgroup.php"><img
+										src="images/pgroup.png" border="0"
+										alt="PGroup is a expandable/collapsible composite widget with attractive styling and an extensible design."
+										title="PGroup"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PGroup</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
 
-			</tr>
-			
-			<tr>
-				<td height="25px"></td>
-			</tr>
-			
-			
-			<tr>
-				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/paperclips/paperclips.php"><img
-							src="images/paperclips.jpg" width="320" height="240" border="0" alt="PaperClips is a simple, light weight, extensible Java printing library for SWT" title="PaperClips"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>PaperClips</b></td>
-					</tr>
-				</table>
-				</td>
-		
-				<td align="center" valign="bottom">
-				<table>
-					<tr>
-						<td align="center"><a
-							href="/nebula/widgets/radiogroup/radiogroup.php"><img
-							src="images/radiogroup.png" border="0" alt="RadioGroup presents a group of radio buttons" title="RadioGroup"></a></td>
-					</tr>
-					<tr>
-						<td align="center"><b>RadioGroup</b></td>
-					</tr>
-				</table>
-				</td>
-			</tr>
-			
-			<tr>
-				<td height="25px"></td>
-			</tr>
+				<tr>
+					<td height="25px"></td>
+				</tr>
 
-            <tr>
-                <td height="25px"></td>
-            </tr>
-			
-		</table>
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/pshelf/pshelf.php"><img
+										src="images/pshelf.png" border="0"
+										alt="PShelf is a composite widget similar to a tab folder but uses an accordion-like metaphor."
+										title="PShelf"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PShelf</b></td>
+							</tr>
+						</table>
+					</td>
 
-		<hr class="clearer" />
-	</div>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="/nebula/widgets/stw/stw.php"><img
+										src="images/stw1.gif" border="0"
+										alt="STW - SWT Transition Widget is a widget for adding fancy transition effects."
+										title="STW - SWT Transition Widget"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>STW - SWT Transition Widget</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
 
-	<div id="rightcolumn">
-		<div class="sideitem">
-			<h6>Incubation</h6>
-			<div align="center">
-				<a href="http://www.eclipse.org/projects/what-is-incubation.php">
-					<img align="center" src="http://www.eclipse.org/images/egg-incubation.png" border="0" alt="Incubation" />
-				</a>
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/tablecombo/tablecombo.php"><img
+										src="images/tablecombo.png" width="320px" border="0"
+										alt="TableCombo is a composite widget similar to a CCombo but uses a table instead of a list control."
+										title="TableCombo"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>TableCombo</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/xviewer/xviewer.php"><img
+										src="images/xviewer.png" border="0"
+										alt="The purpose of the XViewer is to give the application developer a more advanced and dynamic TreeViewer that has the filtering and sorting the capabilities of a spreadsheet while providing the users the ability to customize their table to suit their current needs and save/restore these customizations for future use by individual or group."
+										title="XViewer"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>XViewer</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+
+
+					<td align="center" valign="bottom"></td>
+				</tr>
+
+			</table>
+
+			<a name="incubationComponents"></a>
+			<h3>Incubation Components :</h3>
+			<table width="100%" style="margin-top: 20px;">
+				<colgroup>
+					<col width="320">
+					<col width="320">
+				</colgroup>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/collapsiblebuttons/collapsiblebuttons.php">
+										<img src="images/collapsiblebuttons.png" border="0"
+										alt="CollapsibleButtons is a widget similar to the Microsoft Outlook button navigation bar."
+										title="CollapsibleButtons">
+								</a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CollapsibleButtons</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/cdatetime/cdatetime.php"><img
+										src="images/cdatetime.png" border="0"
+										alt="The CDateTime is a graphical and textual Date selection widget."
+										title="CDateTime"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CDateTime</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/datechooser/datechooser.php"><img
+										src="images/datechooser.png" border="0"
+										alt="DateChooser is a graphical date selection widget, with a fully customizable look & feel which is consistent between the differents platforms."
+										title="DateChooser"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>DateChooser</b></td>
+							</tr>
+						</table>
+					</td>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/datechooser/datechooser.php"><img
+										src="images/datechoosercombo.png" border="0"
+										alt="DateChooserCombo combines a FormattedText / DateFormatter with a drop down DateChooser popup."
+										title="DateChooserCombo"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>DateChooserCombo</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/formattedtext/formattedtext.php"><img
+										src="images/formattedtext.png" border="0"
+										alt="Decorator component adding input and display mask capabilities on a Text widget."
+										title="FormattedText"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>FormattedText</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/treemapper/treemapper.php"><img
+										src="images/treemapper.png" width="320px"
+										alt="The TreeMapper widget is a widget that allows you to define mapping by simply drag and drop elements between 2 JFace TreeViewers"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>TreeMapper</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/paperclips/paperclips.php"><img
+										src="images/paperclips.jpg" width="320" height="240"
+										border="0"
+										alt="PaperClips is a simple, light weight, extensible Java printing library for SWT"
+										title="PaperClips"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PaperClips</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/radiogroup/radiogroup.php"><img
+										src="images/radiogroup.png" border="0"
+										alt="RadioGroup presents a group of radio buttons"
+										title="RadioGroup"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>RadioGroup</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/compositetable/compositetable.php"><img
+										src="images/compositetable.png" border="0"
+										alt="CompositeTable gives you total flexibility to present and edit row-oriented data however you want."
+										title="CompositeTable"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CompositeTable</b></td>
+							</tr>
+						</table>
+					</td>
+					<td align="center" valign="bottom"></td>
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+			</table>
+
+			<hr class="clearer" />
+		</div>
+
+		<div id="rightcolumn">
+			<div class="sideitem">
+				<h6>Incubation</h6>
+				<div align="center">
+					<a href="http://www.eclipse.org/projects/what-is-incubation.php">
+						<img align="center"
+						src="http://www.eclipse.org/images/egg-incubation.png" border="0"
+						alt="Incubation" />
+					</a>
+				</div>
+			</div>
+
+			<div class="sideitem">
+				<h6>Comments</h6>
+				<div align="center">
+					<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=373009">
+						<img align="center"
+						src="http://wiki.eclipse.org/images/7/7d/Bug.png" border="0"
+						alt="Report Problems with this site here" />Report problems with
+						this page here.
+					</a>
+
+				</div>
 			</div>
 		</div>
+
 	</div>
 
-</div>
-
+	
 
 EOHTML;
 

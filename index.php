@@ -449,11 +449,13 @@
 				</div>
 			</div>
 		EOHTML;
-		
-   # include the side item and close the two main divs
-    
-		<?php include("includes/sideItemsInclude.html");   ?>
-        echo "</div></div>";
+			
+			<!--#include virtual="includes/sideItemsInclude.html" -->
+			
+		</div>
+
+	</div>
+
 	
 
 

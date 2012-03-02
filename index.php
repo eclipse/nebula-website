@@ -448,14 +448,16 @@
 
 				</div>
 			</div>
-EOHTML;
+			
+			<!--#include virtual="includes/sideItemsInclude.html" -->
+			
+		</div>
 
-<?php include("includes/sideItemsInclude.html");   ?>
-echo "</div></div>";	
+	</div>
 
 	
 
-
+EOHTML;
 
 
 	# Generate the web page

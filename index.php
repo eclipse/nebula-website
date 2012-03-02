@@ -448,6 +448,9 @@
 
 				</div>
 			</div>
+			
+			<!--#include virtual="includes/sideItemsInclude.html" -->
+			
 		</div>
 
 	</div>

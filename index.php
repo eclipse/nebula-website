@@ -448,7 +448,6 @@
 
 				</div>
 			</div>
-		EOHTML;
 			
 			<!--#include virtual="includes/sideItemsInclude.html" -->
 			
@@ -458,7 +457,7 @@
 
 	
 
-
+EOHTML;
 
 
 	# Generate the web page

@@ -32,7 +32,7 @@
 	$html = <<<EOHTML
 
 	<div id="maincontent">
-			<div class="sideitem">
+		<div id="midcolumn">
 		<h6>$pageTitle</h6>
 		<div style="margin: 5px 0 15px 15px">
 			<p>We use git @:</p>

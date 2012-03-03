@@ -33,7 +33,7 @@
 
 	<div id="maincontent">
 		<div id="midcolumn">
-		<h6>$pageTitle</h6>
+		<h1>$pageTitle</h1>
 		<div style="margin: 5px 0 15px 15px">
 			<p>We use git @:</p>
 			<p style="margin-left: 15px">
@@ -61,12 +61,8 @@
 					</a>
 
 				</div>
-			
-			<!--#include virtual="includes/sideItemsInclude.html" -->
-			
+     		</div>
 		</div>
-		</div>
-
 	</div>
 EOHTML;
 

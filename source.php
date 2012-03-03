@@ -78,6 +78,7 @@
 			<!--#include virtual="includes/sideItemsInclude.html" -->
 			
 		</div>
+		</div>
 
 	</div>
 EOHTML;

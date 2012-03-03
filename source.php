@@ -31,6 +31,7 @@
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 
+	<div id="maincontent">
 		<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<div style="margin: 5px 0 15px 15px">
@@ -49,6 +50,36 @@
 					"Import Project Set..." from the context menu</a>
 			</p>
 		</div>
+	
+				<div id="rightcolumn">
+			<div class="sideitem">
+				<h6>Incubation</h6>
+				<div align="center">
+					<a href="http://www.eclipse.org/projects/what-is-incubation.php">
+						<img align="center"
+						src="http://www.eclipse.org/images/egg-incubation.png" border="0"
+						alt="Incubation" />
+					</a>
+				</div>
+			</div>
+
+			<div class="sideitem">
+				<h6>Comments</h6>
+				<div align="center">
+					<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=373009">
+						<img align="center"
+						src="http://wiki.eclipse.org/images/7/7d/Bug.png" border="0"
+						alt="Report Problems with this site here" />Report page problems here.
+					</a>
+
+				</div>
+			</div>
+			
+			<!--#include virtual="includes/sideItemsInclude.html" -->
+			
+		</div>
+
+	</div>
 EOHTML;
 
 

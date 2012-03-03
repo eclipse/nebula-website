@@ -31,15 +31,23 @@
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 
-	<div id="midcolumn">
+		<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<div style="margin:5px 0 15px 15px">
-			<p>This project hosts its CVS repository at:</p>
-			<p style="margin-left:15px">:pserver:anonymous@dev.eclipse.org:/cvsroot/technology</p>
-			<p style="margin-left:30px">The source is located under the package <strong>org.eclipse.swt.nebula</strong></p>
-			<p style="padding-top:15px">For information on using CVS at Eclipse.org, please visit the <a href="http://wiki.eclipse.org/index.php/CVS_Howto">wiki page</a></p>
-			<p>The CVS repository is also browseable <a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.swt.nebula/?root=Technology_Project">on the web</a>.</p>
-			<p>For a quick start, use one of the <a href="http://wiki.eclipse.org/Nebula_Setup">Team Project Sets</a> to download all Nebula projects from CVS.</p>
+		<div style="margin: 5px 0 15px 15px">
+			<p>We use git @:</p>
+			<p style="margin-left: 15px">
+				Eclipse: <a
+					href="http://git.eclipse.org/c/nebula/org.eclipse.nebula.git">http://git.eclipse.org/c/nebula/org.eclipse.nebula.git</a>
+			</p>
+			<p style="margin-left: 15px">
+				Github mirror: <a href="https://github.com/eclipse/nebula">https://github.com/eclipse/nebula</a>
+			</p>
+			<p style="margin-left: 15px">
+				PSF file:: <a
+					href="http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/releng/org.eclipse.nebula.feature/Nebula_All.psf">Copy
+					and paste this into a file.psf inside an eclipse project and select
+					"Import Project Set..." from the context menu</a>
+			</p>
 		</div>
 EOHTML;
 

@@ -51,18 +51,6 @@
 			</p>
 		</div>
 	
-				<div id="rightcolumn">
-			<div class="sideitem">
-				<h6>Incubation</h6>
-				<div align="center">
-					<a href="http://www.eclipse.org/projects/what-is-incubation.php">
-						<img align="center"
-						src="http://www.eclipse.org/images/egg-incubation.png" border="0"
-						alt="Incubation" />
-					</a>
-				</div>
-			</div>
-
 			<div class="sideitem">
 				<h6>Comments</h6>
 				<div align="center">
@@ -73,7 +61,6 @@
 					</a>
 
 				</div>
-			</div>
 			
 			<!--#include virtual="includes/sideItemsInclude.html" -->
 			

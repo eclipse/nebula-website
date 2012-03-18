@@ -35,7 +35,7 @@
 		<h1>$pageTitle</h1>
 	
 	
-	<h2>Nebula Release</h2>
+	<h2>Nebula Release Latest</h2>
 
 	<div
 		style="background-color: orange; border: red dotted 2px; padding: 10px">
@@ -54,13 +54,14 @@
 			style="background-color: #fdf; border: red dotted 2px; padding: 10px">
 			<center>
 				<p style="font-weight: bold">
-					<a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a>
+				P2 Update Site: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a><br/>
+				JAR download: <a href="http://build.eclipse.org/technology/nebula/nebula/">http://build.eclipse.org/technology/nebula/nebula/</a><br/>
 				</p>
 			</center>
 		</div>
 	</div>
 
-	<h2>Nebula Incubation</h2>
+	<h2>Nebula Incubation Latest</h2>
 
 	<div
 		style="background-color: orange; border: red dotted 2px; padding: 10px">

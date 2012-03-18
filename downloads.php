@@ -84,7 +84,9 @@
 			<center>
 				<p style="font-weight: bold">
 					<a
-						href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a>
+					P2 Update Site:	href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a><br/>
+					JAR download: <a href="http://build.eclipse.org/technology/nebula/incubation/">http://build.eclipse.org/technology/nebula/incubation/</a><br/>
+					
 				</p>
 			</center>
 		</div>

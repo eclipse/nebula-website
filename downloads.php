@@ -54,8 +54,7 @@
 			style="background-color: #fdf; border: red dotted 2px; padding: 10px">
 			<center>
 				<p style="font-weight: bold">
-				P2 repo: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a><br/>
-				JAR download: <a href="http://build.eclipse.org/technology/nebula/nebula/">http://build.eclipse.org/technology/nebula/nebula/</a><br/>
+				P2 repo: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a> or <a href="http://download.eclipse.org/technology/nebula/snapshot/repository.zip">get it zipped</a>
 				</p>
 			</center>
 		</div>
@@ -83,9 +82,7 @@
 			style="background-color: #fdf; border: red dotted 2px; padding: 10px">
 			<center>
 				<p style="font-weight: bold">
-					P2 repo: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a><br/>
-					JAR download: <a href="http://build.eclipse.org/technology/nebula/incubation/">http://build.eclipse.org/technology/nebula/incubation/</a><br/>
-					
+					P2 repo: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a> or <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot/repository.zip">get it zipped</a>
 				</p>
 			</center>
 		</div>

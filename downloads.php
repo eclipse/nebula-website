@@ -56,8 +56,8 @@
 				<p style="font-weight: bold">
 				<ul>
 				<li>P2 repo: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a></li> 
-				<li>P2 repo Zipped: <a href="http://download.eclipse.org/technology/nebula/snapshot/repository.zip"></a></li>
-				<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo workspace to install Eclipse Nebula Stable Widgets'><img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></li>
+				<li>P2 repo Zipped: <a href="http://download.eclipse.org/technology/nebula/snapshot/repository.zip"></a>repository.zip</li>
+				<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'>Drag to Eclipse installation to install<img src='http://marketplace.eclipse.org/misc/installbutton.png' align="bottom"/></a></li>
 				</ul>
 				</p>
 			</center>

@@ -34,8 +34,7 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 			
-		<p>The Nebula project maintains an example RCP product as a demo of Nebula widgets. 
-		This demo can be used as a stand-alone application or simply as a view inside Eclipse.</p>
+		<p>The Nebula project maintains an example view to demo all of the Nebula widgets.</p>
 		
 		<table border="0">
 		   <tr>
@@ -52,7 +51,7 @@
 		   </tr>
 		</table>     
 		
-		<p>This application can be downloaded from the <a href="downloads.php">download page</a> 
+		<p>The examples view can be downloaded from the <a href="downloads.php">download page</a> 
 		 (includes update site link).</p>
 		
 		<hr class="clearer"/>

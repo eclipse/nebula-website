@@ -35,8 +35,8 @@
 		<h1>$pageTitle</h1>
 	
 	
-	<h2>Nebula Release Latest</h2><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'> 
-	<img src='http://marketplace.eclipse.org/misc/installbutton.png'/>
+	<h2>Nebula Release Latest <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'> 
+	<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></h2>
 </a>
 
 	<div
@@ -67,8 +67,8 @@
 		</div>
 	</div>
 
-	<h2>Nebula Incubation Latest</h2><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Incubation Widgets'> 
-	<img src='http://marketplace.eclipse.org/misc/installbutton.png'/>
+	<h2>Nebula Incubation Latest <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Incubation Widgets'> 
+	<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></h2>
 </a>
 
 	<div

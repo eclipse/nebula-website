@@ -87,7 +87,10 @@
 			style="background-color: #fdf; border: red dotted 2px; padding: 10px">
 			<center>
 				<p style="font-weight: bold">
-					P2 repo: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a> or <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot/repository.zip">get it zipped</a>
+				<ul>
+				<li>P2 repo: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a></li>
+				<li>P2 repo zipped: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot/repository.zip">repository.zip</a></li>
+				<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Incubation Widgets'>Drag this link to Eclipse installation to install</a></li>
 				</p>
 			</center>
 		</div>

@@ -68,8 +68,30 @@
 						</table>
 					</td>
 
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/cdatetime/cdatetime.php"><img
+										src="images/cdatetime.png" border="0"
+										alt="The CDateTime is a graphical and textual Date selection widget."
+										title="CDateTime"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CDateTime</b></td>
+							</tr>
+						</table>
+					</td>
 
 
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+				
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -83,14 +105,8 @@
 								<td align="center"><b>GanttChart</b></td>
 							</tr>
 						</table>
-					</td>
-				</tr>
-
-				<tr>
-					<td height="25px"></td>
-				</tr>
-
-				<tr>
+					</td>				
+				
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -106,6 +122,15 @@
 						</table>
 					</td>
 
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -118,15 +143,7 @@
 								<td align="center"><b>Grid</b></td>
 							</tr>
 						</table>
-					</td>
-				</tr>
-
-				<tr>
-					<td height="25px"></td>
-				</tr>
-
-				<tr>
-				
+					</td>				
 				
 					<td align="center" valign="bottom">
 						<table>
@@ -143,6 +160,15 @@
 							</tr>
 						</table>
 					</td>
+					
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+				
 				
 					<td align="center" valign="bottom">
 						<table>
@@ -160,14 +186,6 @@
 					</td>
 
 					
-				</tr>
-
-				<tr>
-					<td height="25px"></td>
-				</tr>
-
-				<tr>
-				
 				<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -182,8 +200,15 @@
 							</tr>
 						</table>
 					</td>
-					
-					
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -199,15 +224,7 @@
 						</table>
 					</td>
 
-	
-				</tr>
-
-				<tr>
-					<td height="25px"></td>
-				</tr>
-
-				<tr>
-
+					
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -221,7 +238,15 @@
 							</tr>
 						</table>
 					</td>
-					
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -236,16 +261,7 @@
 							</tr>
 						</table>
 					</td>
-
-
-				</tr>
-
-				<tr>
-					<td height="25px"></td>
-				</tr>
-
-				<tr>
-				
+					
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -297,20 +313,7 @@
 						</table>
 					</td>
 
-					<td align="center" valign="bottom">
-						<table>
-							<tr>
-								<td align="center"><a
-									href="/nebula/widgets/cdatetime/cdatetime.php"><img
-										src="images/cdatetime.png" border="0"
-										alt="The CDateTime is a graphical and textual Date selection widget."
-										title="CDateTime"></a></td>
-							</tr>
-							<tr>
-								<td align="center"><b>CDateTime</b></td>
-							</tr>
-						</table>
-					</td>
+
 				</tr>
 
 				<tr>

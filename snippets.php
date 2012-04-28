@@ -77,7 +77,7 @@
 			<li><a href="http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/compositetable/CompositeTableSnippet5.java">A CompositeTable listing first/last name pairs, utilizing a native header control, allowing sorting by clicking columns and allowing columns to be resized by dragging in the header</a></li>
 			<li><a href="http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/compositetable/CompositeTableSnippet6.java"> A CompositeTable editing a name/address block</a></li>
 			<li><a href="http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/compositetable/DayEditorSnippet0.java">DayEditorSnippet</a></li>
-			<li><a href="http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/compositetable/MonthCalendarSnippet.java"></a>MonthCalendarSnippet</li>
+			<li><a href="http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/compositetable/MonthCalendarSnippet.java">MonthCalendarSnippet</a></li>
 			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/tree/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/compositetable'>Other Snippets</a></li>
 		</ul>
 

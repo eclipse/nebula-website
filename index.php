@@ -313,7 +313,21 @@
 						</table>
 					</td>
 
-
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/compositetable/compositetable.php"><img
+										src="images/compositetable.png" border="0"
+										alt="CompositeTable gives you total flexibility to present and edit row-oriented data however you want."
+										title="CompositeTable"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CompositeTable</b></td>
+							</tr>
+						</table>
+					</td>
+					
 				</tr>
 
 				<tr>
@@ -411,20 +425,7 @@
 					</td>
 					
 					
-					<td align="center" valign="bottom">
-						<table>
-							<tr>
-								<td align="center"><a
-									href="/nebula/widgets/compositetable/compositetable.php"><img
-										src="images/compositetable.png" border="0"
-										alt="CompositeTable gives you total flexibility to present and edit row-oriented data however you want."
-										title="CompositeTable"></a></td>
-							</tr>
-							<tr>
-								<td align="center"><b>CompositeTable</b></td>
-							</tr>
-						</table>
-					</td>
+
 
 
 					

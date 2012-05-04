@@ -38,7 +38,7 @@
 			<p>We use git @:</p>
 			<p style="margin-left: 15px">
 				Eclipse: <a
-					href="http://git.eclipse.org/c/nebula/org.eclipse.nebula.git">http://git.eclipse.org/c/nebula/org.eclipse.nebula.git</a>
+					href="https://git.eclipse.org/c/nebula/org.eclipse.nebula.git">https://git.eclipse.org/c/nebula/org.eclipse.nebula.git</a>
 			</p>
 			<p style="margin-left: 15px">
 				Github mirror: <a href="https://github.com/eclipse/nebula">https://github.com/eclipse/nebula</a>

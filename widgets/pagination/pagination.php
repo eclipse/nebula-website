@@ -58,13 +58,13 @@
 			For more explanation, documentation, etc, please read :
 			<ul>
 			  <li>
-			  	<a href='http://angelozerr.wordpress.com/2012/01/06/nebula_pagination/'>Eclipse Nebula Pagination Control</a> article.
+			  	<a href='http://angelozerr.wordpress.com/2012/01/06/nebula_pagination/'>this article</a> which introduces you the features of the Pagination Control.
 			  </li>
 			  <li>
-			    <a href='http://angelozerr.wordpress.com/2012/04/16/eclipse_spring_step9/#installNebula'></a> article which explains how to install Nebula Pagination Control with P2 or repository.zip.
+			    <a href='http://angelozerr.wordpress.com/2012/04/16/eclipse_spring_step9/#installNebula'>this article</a> which explains how to install Nebula Pagination Control with P2 or repository.zip.
 			  </li>
 			  <li>
-			    <a href='http://angelozerr.wordpress.com/2012/04/16/eclipse_spring_step9/#springdata'></a> article which explains how to use Spring Data structure Page instead of using Nebula Pagination PageResult structure.
+			    <a href='http://angelozerr.wordpress.com/2012/04/16/eclipse_spring_step9/#springdata'>this article</a> which explains how to use Spring Data structure Page instead of using Nebula Pagination PageResult structure.
 			  </li>			  
 			</ul>
 		</p>

@@ -378,16 +378,49 @@
 				<table>
 					<tr>
 						<td align="center"><a
-							href="/nebula/widgets/treeviewer/treeviewer.php"><img
-							src="images/treeviewer.png" width="320px"></a></td>
+							href="/nebula/widgets/treemapper/treemapper.php"><img
+							src="images/treemapper.png" width="320px"></a></td>
 					</tr>
 					<tr>
 						<td align="center"><b>TreeMapper</b></td>
 					</tr>
 				</table>
 				</td>
+				
+				<td align="center" valign="bottom">
+				<table>
+					<tr>
+						<td align="center"><a
+							href="/nebula/widgets/picture/picture.php"><img
+							src="images/picture.png" border="0" alt="The Picture control is a control that allows you to display an image, remove and modify it." title="Picture"></a></td>
+					</tr>
+					<tr>
+						<td align="center"><b>Picture</b></td>
+					</tr>
+				</table>
+				</td>
+								
 			</tr>
 
+			<tr>
+				<td height="25px"></td>
+			</tr>
+						
+			<tr>
+				<td align="center" valign="bottom">
+				<table>
+					<tr>
+						<td align="center"><a
+							href="/nebula/widgets/pagination/pagination.php"><img
+							src="images/pagination.png" border="0" alt="The Pagination control is a control that allows you to display data in a table with navigation page." title="Pagination"></a></td>
+					</tr>
+					<tr>
+						<td align="center"><b>Pagination</b></td>
+					</tr>
+				</table>
+				</td>			
+								
+			</tr>
             <tr>
                 <td height="25px"></td>
             </tr>

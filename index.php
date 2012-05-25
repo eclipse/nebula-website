@@ -438,10 +438,30 @@
 							</tr>
 						</table>
 					</td>
-
-
-
 					
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+										
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/pagination/pagination.php"><img
+										src="images/pagination.png" border="0"
+										alt="The Pagination control is a control that allows you to display data in a table with navigation page."
+										title="Pagination"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Pagination</b></td>
+							</tr>
+						</table>
+					</td>
+										
 				</tr>
 
 				<tr>

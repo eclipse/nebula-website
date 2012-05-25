@@ -424,7 +424,20 @@
 						</table>
 					</td>
 					
-					
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/picture/picture.php"><img
+										src="images/picture.png" border="0"
+										alt="The Picture control is a control that allows you to display an image, remove and modify it."
+										title="Picture"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Picture</b></td>
+							</tr>
+						</table>
+					</td>
 
 
 

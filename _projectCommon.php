@@ -43,6 +43,8 @@
 		$Nav->addCustomNav("CompositeTable","/nebula/widgets/compositetable/compositetable.php", "_self", 2);
 		$Nav->addCustomNav("DateChooser",		"/nebula/widgets/datechooser/datechooser.php",	 	"_self", 2);
 		$Nav->addCustomNav("FormattedText",		"/nebula/widgets/formattedtext/formattedtext.php",	 	"_self", 2);
+		$Nav->addCustomNav("Pagination",    "/nebula/widgets/pagination/pagination.php", "_self", 2);		
+		$Nav->addCustomNav("Picture",    "/nebula/widgets/picture/picture.php", "_self", 2);
 		$Nav->addCustomNav("RadioGroup",    "/nebula/widgets/radiogroup/radiogroup.php", "_self", 2);
 		$Nav->addCustomNav("TreeMapper",    "/nebula/widgets/treemapper/treemapper.php", "_self", 2);
 	$Nav->addNavSeparator("Community", "");

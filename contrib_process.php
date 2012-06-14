@@ -53,7 +53,7 @@
 		Then complete the <a href='http://www.eclipse.org/legal/newcommitter.php'>new committer process</a>.</li>
 		<li><b>Contribution IP Approval</b> - Once you are a committer, you will need to have your code pass the <a href='http://www.eclipse.org/legal/EclipseLegalProcessPoster-v1.2.4.pdf'>Eclipse legal process</a>.  
 		The first step is to complete the <a href='http://www.eclipse.org/legal/ContributionQuestionnairePart1-v1.0.php'>contribution questionnaire</a>.
-		You will receive an email from an Eclipse representative when/if your contribution is approved.  Then you're ready to upload your code into the CVS repository.</li>
+		You will receive an email from an Eclipse representative when/if your contribution is approved.  Then you're ready to upload your code into the git repository.</li>
 		</ol>
 
 		<hr class="clearer"/>

@@ -68,7 +68,7 @@ $html = <<<EOHTML
 		</p>
 		
 		<p>
-			QUICK START : Look at the <a href='/nebula/snippets.php#Oscilloscope'>Snippets</a>. Other snippets are available on <a href="/nebula/source.php">CVS</a>.
+			QUICK START : Look at the <a href='/nebula/snippets.php#Oscilloscope'>Snippets</a>. Other snippets are available on <a href="/nebula/source.php">git</a>.
 		</p>
 		
 		<p>

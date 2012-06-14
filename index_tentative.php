@@ -48,7 +48,7 @@
 			<p>
 			    We are progressively setting up the automated build process, all widgets should be available in a binary form soon.<br/>
 				In the mean time, the source code can be found in 
-				<a href="/nebula/source.php">CVS</a>.
+				<a href="/nebula/source.php">git</a>.
 			</p>
 			<p>
 				We appreciate your patience as we go through these changes because, though inconvenient, 

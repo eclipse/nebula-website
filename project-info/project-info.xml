@@ -16,8 +16,8 @@
   --> 
 - <!-- 
      - Each Eclipse project as an official name, e.g., 
-     - "AJDT - AspectJ Development Tools Project" and a foundation database 
-     - key, e.g., "technology.ajdt". These are stored in an Eclipse Foundation
+     - "Nebula - Supllemental widgets for SWT" and a foundation database 
+     - key, e.g., "technology.nebula". These are stored in an Eclipse Foundation
      - database; to change them, contact emo@eclipse.org.  Each project can
      - also have a short name to be used in HTML lists and other horizontally
      - challenged places.
@@ -26,7 +26,7 @@
     
 
   --> 
-  <name>Supplemental Widgets for SWT (Nebula)</name>
+  <name>Supplemental Widgets for SWT</name>
   <short-name>Nebula</short-name> 
 - <!-- 
      - Each Eclipse project has one or more Bugzilla products and components.
@@ -60,30 +60,29 @@
   --> 
   <team url="/nebula/committers.html"/>
 - <!-- 
-     - The source code of each Eclipse project is stored in CVS. Eclipse maintains
-     - a number of CVS repositories, thus the <cvs> element specifies which
-     - CVS repository and (if applicable) which root path stores this project's
+     - The source code of each Eclipse project is stored in git. Eclipse maintains
+     - a number of git repositories, thus the <git element specifies which
+     - git repository and (if applicable) which root path stores this project's
      - source code.
      -
      - A top-level project typically specifies only the repository:
-     -     <cvs repository="/cvsroot/tptp"/>
+     -     <git repository="/gitroot/nebula"/>
      - A sub-project includes the root path as well:
-     -     <cvs repository="/cvsroot/technology/">
-     -       <module path="org.eclipse.higgins" />
-     -     </cvs>
+     -     <git repository="/gitroot/technology/">
+     -       <module path="org.eclipse.nebula" />
+     -     </git>
 	 -
-     - Please add the relative URL to your repository, and all your CVS modules 
+     - Please add the relative URL to your repository, and all your git modules 
 	 -     
     
 
   --> 
-    <cvs repository="/cvsroot/technology/">
-    <module path="org.eclipse.swt.nebula/org.eclipse.swt.nebula.widgets" /> 
-    <module path="org.eclipse.swt.nebula/org.eclipse.swt.nebula.nebface" /> 
-    <module path="org.eclipse.swt.nebula/org.eclipse.swt.nebula.snippets" /> 
-    <module path="org.eclipse.swt.nebula/org.eclipse.swt.nebula.tests" /> 
-    <module path="org.eclipse.swt.nebula/org.eclipse.swt.nebula.examples" /> 
-  </cvs>
+    <git repository="/gitroot/nebula/">
+    <module path="widgets" /> 
+    <module path="attic" /> 
+    <module path="examples" /> 
+    <module path="releng" /> 
+  </git>
 
 - <!-- 
      - The description of an Eclipse project shows up in many places: the

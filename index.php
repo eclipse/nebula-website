@@ -33,6 +33,10 @@
 
 	<div id="maincontent">
 		<div id="midcolumn">
+		
+		<img  src="images/nebula_logo_main_600.png" border="0"
+			  alt="$pageTitle">
+		
 			<h1>$pageTitle</h1>
 			<h2>Supplemental Custom Widgets for SWT (and more)</h2>
 			<p>Nebula is a place where different Eclipse-Projects and
@@ -299,7 +303,7 @@
 							<tr>
 								<td align="center"><a
 									href="http://www.eclipse.org/nattable/">
-										<img src="http://www.eclipse.org/nattable/images/FullFeaturedScreenShot.png" width="400 height="400" border="0"
+										<img src="http://www.eclipse.org/nattable/images/FullFeaturedScreenShot.png" width="600 height="600" border="0"
 										alt="NatTable is a powerful and flexible SWT table/grid widget."
 										title="NatTable">
 								</a></td>
@@ -307,7 +311,7 @@
 
 			</table>
 			
-#####
+
 
 			<a name="incubationComponents"></a>
 			
@@ -508,8 +512,6 @@
 			</table>
 
 
-
-#####
 			<hr class="clearer" />
 		</div>
 

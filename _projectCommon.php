@@ -38,11 +38,14 @@
 		$Nav->addCustomNav("Transition", "/nebula/widgets/stw/stw.php", "_self", 2);
 		$Nav->addCustomNav("TableCombo",    "/nebula/widgets/tablecombo/tablecombo.php", "_self", 2);
 		$Nav->addCustomNav("XViewer",    "/nebula/widgets/xviewer/xviewer.php", "_self", 2);
-	$Nav->addNavSeparator("Nebula Incubation", "");
+	$Nav->addNavSeparator("Nebula NatTable", "");
+		$Nav->addCustomNav("NatTable",		"/nattable/index.php",	 	"_self", 2);
+$Nav->addNavSeparator("Nebula Incubation", "");
 		$Nav->addCustomNav("CollapsibleButtons","/nebula/widgets/collapsiblebuttons/collapsiblebuttons.php",	 	"_self", 2);
 		$Nav->addCustomNav("CompositeTable","/nebula/widgets/compositetable/compositetable.php", "_self", 2);
 		$Nav->addCustomNav("DateChooser",		"/nebula/widgets/datechooser/datechooser.php",	 	"_self", 2);
 		$Nav->addCustomNav("FormattedText",		"/nebula/widgets/formattedtext/formattedtext.php",	 	"_self", 2);
+		$Nav->addCustomNav("GeoMap",		"/nebula/widgets/geomap/geomap.php",	 	"_self", 2);
 		$Nav->addCustomNav("Pagination",    "/nebula/widgets/pagination/pagination.php", "_self", 2);		
 		$Nav->addCustomNav("Picture",    "/nebula/widgets/picture/picture.php", "_self", 2);
 		$Nav->addCustomNav("RadioGroup",    "/nebula/widgets/radiogroup/radiogroup.php", "_self", 2);

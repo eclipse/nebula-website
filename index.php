@@ -461,6 +461,21 @@
 							</tr>
 						</table>
 					</td>
+					
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/geomap/geomap.php"><img
+										src="images/example_geomap.png" border="0"
+										alt="The GeoMap is a control that allows you to display data from an openstreetmap server."
+										title="Pagination"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>GeoMap</b></td>
+							</tr>
+						</table>
+					</td>
 										
 				</tr>
 

@@ -45,7 +45,7 @@
 			<p>Nebula is a place where different Eclipse-Projects and
 				Independent developers collaborate on building Custom SWT widgets
 				and reuseable UI-Components useable in UI-Applications built using
-				SWT and JFace.</p>
+				SWT, JFace and RAP.</p>
 
 			<p>All Nebula components are available on the navigation tree on
 				the left or from the table below. Each image links to a page that

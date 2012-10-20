@@ -31,13 +31,12 @@
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 
+		<img  src="images/nebula_logo_main_600.png" border="0"
+			  alt="$pageTitle">
 	<div id="maincontent">
 		<div id="midcolumn">
 		
-		<img  src="images/nebula_logo_main_600.png" border="0"
-			  alt="$pageTitle">
 		
-			<h1>$pageTitle</h1>
 			<h2>Supplemental Custom Widgets for SWT (and more)</h2>
 			<p>Nebula is a place where different Eclipse-Projects and
 				Independent developers collaborate on building Custom SWT widgets

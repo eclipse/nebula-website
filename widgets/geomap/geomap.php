@@ -42,10 +42,10 @@
 		</table>
 		<p>
 		
-		GeoMap display tiles from Ppenstreetmap as is. This simple minimal viewer supports zoom around mouse-click center and has a simple api.
+		GeoMap display tiles from an Openstreetmap server. The widget supports zoom around mouse-click center and has a simple API. The GeoMap comes with a JFace like viewer. 
  </p>
  <p>
-  You can zoomIn around current mouse position by left double click. Left right click zooms out.
+  You can zoom in around current mouse position by left double click. Left right click zooms out.
  </p>
  
  	</div>

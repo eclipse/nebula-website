@@ -39,7 +39,7 @@
 		<img  src="images/nebula_logo_main_300.png" border="0"
 			  alt="$pageTitle" align="right">
 		
-			<h2>Supplemental Custom Widgets for SWT (and more)</h2>
+			<h2>Supplemental Custom Widgets</h2>
 			<p>Nebula is a place where different Eclipse-Projects and
 				Independent developers collaborate on building Custom SWT widgets
 				and reuseable UI-Components useable in UI-Applications built using

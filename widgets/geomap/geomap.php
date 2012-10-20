@@ -42,11 +42,12 @@
 		</table>
 		<p>
 		
-		GeoMap display tiles from openstreetmap as is. This simple minimal viewer supports zoom around mouse-click center and has a simple api.
- <p/>
- <p/>
- 
+		GeoMap display tiles from Ppenstreetmap as is. This simple minimal viewer supports zoom around mouse-click center and has a simple api.
+ </p>
+ <p>
   You can zoomIn around current mouse position by left double click. Left right click zooms out.
+ </p>
+ 
  	</div>
 
 

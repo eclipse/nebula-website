@@ -299,7 +299,7 @@
 							<tr>
 								<td align="center"><a
 									href="http://www.eclipse.org/nattable/">
-										<img src="http://www.eclipse.org/nattable/images/FullFeaturedScreenShot.png" border="0"
+										<img src="http://www.eclipse.org/nattable/images/FullFeaturedScreenShot.png" width="400 height="400" border="0"
 										alt="NatTable is a powerful and flexible SWT table/grid widget."
 										title="NatTable">
 								</a></td>

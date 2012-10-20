@@ -31,7 +31,7 @@
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 
-		<img  src="images/nebula_logo_main_600.png" border="0"
+		<img  src="images/nebula_logo_main_300.png" border="0"
 			  alt="$pageTitle">
 	<div id="maincontent">
 		<div id="midcolumn">

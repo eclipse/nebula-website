@@ -37,7 +37,7 @@
 			<h1>$pageTitle</h1>
 
 		<img  src="images/nebula_logo_main_300.png" border="0"
-			  alt="$pageTitle" align="right">
+			  alt="$pageTitle" align="left">
 		
 			<h2>Supplemental Custom Widgets</h2>
 			<p>Nebula is a place where different Eclipse-Projects and

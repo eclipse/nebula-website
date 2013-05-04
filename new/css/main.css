@@ -37,6 +37,10 @@
 	box-shadow: 3px 3px 4px #000;
 }
 
+a {
+    display: block;
+}
+
 body {
 	padding-bottom: 40px;
 	background-color: #737db9;

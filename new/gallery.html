@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -20,11 +22,12 @@
 	<link rel="stylesheet" type="text/css" href="/eclipse.org-common/themes/Nova/css/footer.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="/eclipse.org-common/themes/Nova/css/print.css" media="print" />
 
-	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/contentflow.css">
 	<link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
     <link rel="stylesheet" href="css/main.css">
     <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script> 
+    <script src="js/contentflow.js"></script>
     
 	<div class="container" >
 		<div id="promotion" style="float:left;padding: 11px 0 0 0;">
@@ -55,22 +58,36 @@
     <![endif]-->
 
 	<div class="container" >
-		<div class="hero-unit">
-    		<div style="margin-left: 200px;">
-            	<h2><font color=#F8F8F8>Nebula</font> is a place where different Eclipse projects and independent developers <font color=FFFFCC>collaborate</font> on 
-            	building custom <font color=#FFFFCC>UI-Components</font> using <font color=#FFFFCC>SWT, JFace</font> and <font color=#FFFFCC>RAP</font>.</h2>
-  			</div>
-		</div>
+		<div class="ContentFlow">
+            <div class="loadIndicator"><div class="indicator"></div></div>
+           	 <div class="flow">
+                <img class="item" src="http://eclipse.org/nebula/widgets/cdatetime/images/CDTSnippet02.png" title="CDateTime"/>
+                <img class="item" src="http://eclipse.org/nebula/widgets/gallery/images/gallery.jpg" title="Gallery"/>
+                <img class="item" src="http://eclipse.org/nebula/widgets/ganttchart/images/gantt_20_silver.jpg" title="Gantt"/>
+                <img class="item" src="http://eclipse.org/nebula/widgets/grid/grid.png" title="Grid"/>
+                <img class="item" src="http://eclipse.org/nebula/widgets/oscilloscope/images/scope.gif" title="Oscilloscope"/>
+                <img class="item" src="http://eclipse.org/nebula/widgets/paperclips/paperclips.jpg" title="Paperclips"/>
+                <img class="item" src="http://eclipse.org/nebula/widgets/pgroup/pgroup.png" title="PGroup"/>
+                <img class="item" src="http://eclipse.org/nebula/widgets/pshelf/pshelf.PNG" title="PShelf"/>
+                <img class="item" src="http://eclipse.org/nebula/widgets/stw/stw2.gif" title="Transitions"/>
+                <img class="item" src="http://eclipse.org/nebula/widgets/tablecombo/images/tablecombo.png" title="TableCombo"/>
+                <img class="item" src="http://eclipse.org/nebula/widgets/xviewer/images/xviewer_main.PNG" title="XViewer"/>
+           	 </div>
+            <div class="globalCaption"></div>
+        <div class="scrollbar"><div class="slider"><div class="position"></div></div></div>
+    </div>
 
     	<div>
-        	<div class="hero-box" onmousemove="m_in(this)" onmouseout="m_out(this)" style="background:#737db9 url('img/download.png') no-repeat bottom center;background-size: contain;">
-           	 Download
+    		<a href="index.html">
+        	<div class="hero-box" onmousemove="m_in(this)" onmouseout="m_out(this)" style="background:#737db9 url('img/nebula_logo_main_ball_250.png') no-repeat bottom center;background-size: contain;">
+           	 Home
     		</div>
-            <a href="gallery.html">
-    		<div class="hero-box" onmousemove="m_in(this)" onmouseout="m_out(this)" id="ga" style="margin-left:5%;background:#737db9 url('img/gallery1.png') no-repeat bottom center;background-size: contain;">
-	    	    Gallery
+            </a>
+            
+        	<div class="hero-box" onmousemove="m_in(this)" onmouseout="m_out(this)" id="ga" style="margin-left:5%;background:#737db9 url('img/gallery1.png') no-repeat bottom center;background-size: contain;">
+            	Gallery
    			</div>
-</a>
+           
        		<div class="hero-box" onmousemove="m_in(this)" onmouseout="m_out(this)" style="float:right;background:#737db9 url('img/info-2-512.png') no-repeat bottom center;background-size: contain;">
         		About
        		</div>

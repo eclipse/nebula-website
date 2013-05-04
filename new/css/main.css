@@ -34,6 +34,14 @@
 	color:#914893;
 }
 
+body {
+	padding-bottom: 40px;
+	background-color: #737db9;
+}
+           
+input[type="submit"]::-moz-focus-inner {border:0;}
+input[type="submit"]:focus {background:#333;}
+
 
 
 

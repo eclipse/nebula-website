@@ -10,11 +10,13 @@
   font-size: 18px;
   font-weight: 200;
   line-height: 30px;
-  color: inherit;
-  background-color: #eeeeee;
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
           border-radius: 6px;
+  color:#737db9;
+  background:#4f4c9a url('../img/nebula_logo_main_ball_250.png') no-repeat left center;
+  background-size: 250px;
+  box-shadow: 3px 3px 4px #000;
 }
 
 .hero-box {
@@ -32,6 +34,7 @@
 	float:left;
 	width:30%;
 	color:#914893;
+	box-shadow: 3px 3px 4px #000;
 }
 
 body {
@@ -40,9 +43,6 @@ body {
 	background: #737db9;
 }
            
-input[type="submit"]::-moz-focus-inner {border:0;}
-input[type="submit"]:focus {background:#333;}
-
 
 
 

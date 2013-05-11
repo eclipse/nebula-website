@@ -36,25 +36,10 @@
 		<p>Do you have a really cool widget that you'd like to contribute to Nebula and potentially to SWT?
 		<p>Contributing a widget to Nebula requires that you become a full committer.  The Nebula project does not
 		have full time resources to manage and support your contribution.  Instead you will become a committer with
-		full rights to update your contribution.  But first, you must get approval for your contribution.  Please 
-		review the follow steps on how contributions can be made to Nebula.
+		full rights to update your contribution.  But first, you must get approval for your contribution.  We have a wiki
+		page that describes the contribution process.</p>
 		<p>
-		<b>Before starting the process, please ensure that you will be able to pass legal approval.  New committers that do 
-		not work for Eclipse Member companies will require approval of their employeer.  Contributed code must be able to be
-		licensed under the EPL.</b> 
-	
-		<ol>
-		<li><b>Get Approval</b> -  As with most open source contributions, you must first get approval.  Approval is granted
-		on the Nebula <a href='https://dev.eclipse.org/mailman/listinfo/nebula-dev'>mailing list</a>.  Post a message describing your widget as well as a link to your source code.  The Nebula 
-		committers will review your code and your widget to determine if its a fit for Nebula.  A vote will subsequently be taken
-		on the mailing list.</li>
-		<li><b>Become a Committer</b> - If your contribution is approved, the next step is to become a formal Nebula committer.  
-		First you must read the <a href='http://www.eclipse.org/legal/committerguidelines.php'>committer guidelines</a>.  
-		Then complete the <a href='http://www.eclipse.org/legal/newcommitter.php'>new committer process</a>.</li>
-		<li><b>Contribution IP Approval</b> - Once you are a committer, you will need to have your code pass the <a href='http://www.eclipse.org/legal/EclipseLegalProcessPoster-v1.2.4.pdf'>Eclipse legal process</a>.  
-		The first step is to complete the <a href='http://www.eclipse.org/legal/ContributionQuestionnairePart1-v1.0.php'>contribution questionnaire</a>.
-		You will receive an email from an Eclipse representative when/if your contribution is approved.  Then you're ready to upload your code into the git repository.</li>
-		</ol>
+		<b><h2><center><a href="http://wiki.eclipse.org/Nebula/New_Contributions" target="_blank">Nebula Contribution Guide</b></center><h2> 
 
 		<hr class="clearer"/>
 	</div>

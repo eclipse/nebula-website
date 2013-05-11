@@ -39,9 +39,8 @@
 		full rights to update your contribution.  But first, you must get approval for your contribution.  We have a wiki
 		page that describes the contribution process.</p>
 		<p>
-		<b><h2><center>
-					<a href="http://wiki.eclipse.org/Nebula/New_Contributions" target="_blank">Nebula Contribution Guide</a>
-		</center></h2></b> 
+		
+		<h2 align="center"><a href="http://wiki.eclipse.org/Nebula/New_Contributions" target="_blank">Nebula Contribution Guide</a></h2> 
 	</div>
 
 EOHTML;

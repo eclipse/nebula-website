@@ -33,7 +33,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Do you have a really cool widget that you'd like to contribute to Nebula> </p>
+		<p>Do you have a really cool widget that you'd like to contribute to Nebula? </p>
 		<p>Contributing a widget to Nebula requires that you become a full committer.  The Nebula project does not
 		have full time resources to manage and support your contribution.  Instead you will become a committer with
 		full rights to update your contribution.  But first, you must get approval for your contribution.  We have a wiki

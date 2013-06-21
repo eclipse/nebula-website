@@ -60,20 +60,6 @@
 					<col width="320">
 				</colgroup>
 				<tr>
-					<td align="center" valign="bottom">
-						<table>
-							<tr>
-								<td align="center"><a
-									href="/nebula/widgets/calendarcombo/calendarcombo.php"><img
-										src="images/calendarcombo.png" border="0"
-										alt="CalendarCombo is a calendar widget for selecting dates that leaves the combo box looking like the native combo box."
-										title="CalendarCombo"></a></td>
-							</tr>
-							<tr>
-								<td align="center"><b>CalendarCombo</b></td>
-							</tr>
-						</table>
-					</td>
 
 					<td align="center" valign="bottom">
 						<table>

@@ -75,6 +75,21 @@
 							</tr>
 						</table>
 					</td>
+					
+								<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/pshelf/pshelf.php"><img
+										src="images/pshelf.png" border="0"
+										alt="PShelf is a composite widget similar to a tab folder but uses an accordion-like metaphor."
+										title="PShelf"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PShelf</b></td>
+							</tr>
+						</table>
+					</td>
 
 
 				</tr>

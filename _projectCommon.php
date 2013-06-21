@@ -26,7 +26,6 @@
 	$Nav->addCustomNav("Examples","/nebula/examples.php","_self", 2);	
 	$Nav->addCustomNav("Source","/nebula/source.php","_self", 2);
 	$Nav->addNavSeparator("Nebula Release", "");
-		$Nav->addCustomNav("CalendarCombo",		"/nebula/widgets/calendarcombo/calendarcombo.php",	 	"_self", 2);
 		$Nav->addCustomNav("CDateTime",		"/nebula/widgets/cdatetime/cdatetime.php",	"_self", 2);
 		$Nav->addCustomNav("Gallery",		"/nebula/widgets/gallery/gallery.php",	 	"_self", 2);
 		$Nav->addCustomNav("GanttChart",		"/nebula/widgets/ganttchart/ganttchart.php",	 	"_self", 2);

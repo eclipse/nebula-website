@@ -75,19 +75,8 @@
 		</p>
 		
 		<p>
-		NOTE: The Nebula PaperClips library is still under active development.
-		The code is made available in an <font color=red><b>ALPHA</b></font>
-		state.  Users should expect changes in future versions.
-		</p>
-		
-		<p>
-		NOTE TO EXISTING PAPERCLIPS USERS: We are making major API changes as
-		part of the transition from
-		<a href="http://code.google.com/p/swt-paperclips/">Google Code</a> to
-		Eclipse.org.  Existing users are encouraged to continue using
-		PaperClips 1.0.x from Google Code until the API changes are completed
-		and PaperClips 2.0 is announced at Eclipse.org.
-		</p>
+		The Nebula PaperClips library has a stable API and is used in various production
+		environments. </p>
 		
 		<p>
 			<a href='/nebula/snippets.php#PaperClips'>Snippets</a>

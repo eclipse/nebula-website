@@ -37,7 +37,7 @@
 
 		<table border="0" cellspacing="2" cellpadding="0">
 			<tr>
-				<td><img src='images/Widgets.jpg'></td>
+				<td><img src='images/Widgets.jpg' height="600"></td>
 			</tr>
 		</table>
 		<p>

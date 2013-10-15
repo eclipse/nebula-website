@@ -197,7 +197,24 @@
 			<li>XViewer examples are provided within the source code.  See <a href='http://wiki.eclipse.org/Nebula_XViewer_Getting_Started'>Getting Started</a> for more information on how to setup and run.</li>
 		</ul>
 
-
+ <a name="Visualization"></a>
+        <h2>Visualization</h2>
+        <ul>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/SimpleExample.java'>Simple XY Graph</a></li>      
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/SimpleToolbarArmedXYGraphExample.java'>Simple XY Graph Graph with toolbar</a></li>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/BarChartExample.java'>Bar Chart</a></li>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/ComprehensiveExample.java'>A comprehensive XY Graph</a></li>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/IntensityGraphExample.java'>Intensity Graph</a></li>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/GaugeExample.java'>Gauge</a></li>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/KnobExample.java'>Knob</a></li>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/MeterExample.java'>Meter</a></li>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/ProgressBarExample.java'>Progress Bar</a></li>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/ScaledSliderExample.java'>Scaled Slider</a></li>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/TankExample.java'>Tank</a></li>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/ThermometerExample.java'>Thermometer</a></li>
+            <li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/visualization/MultipleWidgetsExample.java'>Multiple widgets</a></li>
+        </ul>
+        
 		<hr class="clearer"/>
 	</div>
 

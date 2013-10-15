@@ -36,27 +36,47 @@
 		<h2>Visualization</h2>
 
 		<table border="0" cellspacing="2" cellpadding="0">
+				<tr>
+				<td><img src='images/XYGraph.png' height="300"></td>
+			</tr>
 			<tr>
-				<td><img src='images/Widgets.jpg' height="300"></td>
+				<td><img src='images/widgets.png' height="300"></td>
 			</tr>
 		</table>
 		<p>
-		SWT XYGraph is a light weight scientific and engineering widgets library for SWT or Draw2D applications. It has widgets especially for science, engineering and SCADA applications, such as XY Graph, intensity graph, meter, gauge and knob. All the widgets are implemented on Draw2D, so it can be used in both SWT and GEF applications. These widgets are originally from CSS BOY project.
-<p>
-Functions of XY Graph
+		Nebula Visualization is a light weight widgets library for data visualization in science, engineering and SCADA areas.
+		These widgets are originally from CSS BOY project.
+
+
+				<h3>Widgets</h3>
+				<p>
+				<ul>
+					<li>XY Graph</li>
+					<li>Intensity Graph</li>
+					<li>Thermometer</li>
+					<li>Tank</li>
+					<li>Progress Bar</li>
+					<li>Meter</li>
+					<li>Gauge</li>
+					<li>Knob</li>
+					<li>Scaled Slider</li>
+				</ul>
+				</p>
+			<p>
+<h3>Functions of XY Graph</h3>
 <ul>
 <li>line chart, scatter chart, bar chart, step chart, area chart...</li>
-<li>Five Zoom Types: Zoom in/out, Rubberband Zoom, Horizontal Zoom in/out, Vertical Zoom in/out</li>
+<li>Zoom in/out, Rubberband Zoom, Horizontal Zoom in/out, Vertical Zoom in/out</li>
 <li>Panning on both graph area and axes</li>
 <li>Auto Scale</li>
-<li>Annotation support. Annotations could be either free or snapped to a trace</li>
-<li>Undo/Redo support for all operations</li>
+<li>Annotation</li>
+<li>Undo/Redo</li>
 <li>Take snapshot</li>
-<li>All properties can be interactively configured, such as trace color, line width and axis color etc,.</li>
+<li>Properties configuration dialog</li>
 <li>Multiple axes support</li>
 <li>Log scale, date time format support</li>
 <li>Grouping legends by axes</li>
-<li>It is possible to implement your customized data provider based on a simple interface.</li>
+<li>Support customized data provider based on a simple interface.</li>
 <li>And more ...	</li>	
 </ul>
 </p>

@@ -41,10 +41,11 @@
 		<li>David Orme - CompositeTable</li>
 		<li>Nicolas Richeton - Gallery</li>
 		<li>Eric Wuillai - FormattedText, DateChooser</li>
-		<li>Emil Crumhorn - CalendarCombo, CollapsibleButtons, GanttChart
-		<li>Matthew Hall - PaperClips, RadioGroup
-		<li>Marty Jones - TableCombo
-		<li>Wim Jongman - Oscilloscope
+		<li>Emil Crumhorn - CalendarCombo, CollapsibleButtons, GanttChart</li>
+		<li>Matthew Hall - PaperClips, RadioGroup</li>
+		<li>Marty Jones - TableCombo</li>
+		<li>Wim Jongman - Oscilloscope</li>
+		<li>Xihui Chen - Visualizatoin</li>
 		</ul>
 		<hr class="clearer"/>
 	</div>

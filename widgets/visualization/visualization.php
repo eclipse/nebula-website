@@ -7,7 +7,7 @@
 	# Author: 	Wim Jongman / Xihui Chen
 	# Date:		2013-10-03
 	#
-	# Description: Describes the Visualization widgets.
+	# Description: Nebula Visualization is a light weight widgets library for data visualization in science, engineering and SCADA areas.
 	#
 	#****************************************************************************
 
@@ -34,18 +34,24 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<h2>Visualization</h2>
+				<p>
+		Nebula Visualization is a light weight widgets library for data visualization in science, engineering and SCADA areas.
+		These widgets are originally from <a href='http://sourceforge.net/apps/trac/cs-studio/wiki/BOY'>CSS BOY</a> project.
+		</p>
+		
+		<p>
 
 		<table border="0" cellspacing="2" cellpadding="0">
 				<tr>
-				<td><img src='images/XYGraph.png'></td>
+				<td><img src='images/XYGraph.png' width =600 ></td>
 			</tr>
 			<tr>
-				<td><img src='images/widgets.png'></td>
+				<td><br><img src='images/widgets.png' width =600 ></td>
 			</tr>
+			<tr><td><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/visualization/org.eclipse.nebula.visualization.xygraph/html/Screenshots.html'>More Screenshots...</a>
+				</td></tr>			
 		</table>
-		<p>
-		Nebula Visualization is a light weight widgets library for data visualization in science, engineering and SCADA areas.
-		These widgets are originally from CSS BOY project.
+
 
 
 				<h3>Widgets</h3>

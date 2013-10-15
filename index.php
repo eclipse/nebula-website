@@ -315,7 +315,25 @@
 
 			</table>
 			
+<a name="Visualization"></a>
+			
+			
+			<h3>Visualization :</h3>
+			<table width="100%" style="margin-top: 20px;">
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/visualization/visualization.php">
+										<img src="widgets/visualization/images/Combined.png" width="600 height="600" border="0"
+										alt="Visualization XY Graph."
+										title="Visualization">
+								</a></td>
+							</tr>							
+						</table>
 
+			</table>
 
 			<a name="incubationComponents"></a>
 			

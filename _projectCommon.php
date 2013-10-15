@@ -37,6 +37,7 @@
 		$Nav->addCustomNav("Transition", "/nebula/widgets/stw/stw.php", "_self", 2);
 		$Nav->addCustomNav("TableCombo",    "/nebula/widgets/tablecombo/tablecombo.php", "_self", 2);
 		$Nav->addCustomNav("XViewer",    "/nebula/widgets/xviewer/xviewer.php", "_self", 2);
+		$Nav->addCustomNav("Visualization",   "/nebula/widgets/visualization/visualization.php", "_self", 2);
 	$Nav->addNavSeparator("Nebula NatTable", "");
 		$Nav->addCustomNav("NatTable",		"/nattable/index.php",	 	"_self", 2);
 $Nav->addNavSeparator("Nebula Incubation", "");

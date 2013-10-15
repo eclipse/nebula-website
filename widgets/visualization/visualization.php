@@ -37,10 +37,10 @@
 
 		<table border="0" cellspacing="2" cellpadding="0">
 				<tr>
-				<td><img src='images/XYGraph.png' height="300"></td>
+				<td><img src='images/XYGraph.png'></td>
 			</tr>
 			<tr>
-				<td><img src='images/widgets.png' height="300"></td>
+				<td><img src='images/widgets.png'></td>
 			</tr>
 		</table>
 		<p>
@@ -80,9 +80,14 @@
 <li>And more ...	</li>	
 </ul>
 </p>
+		<p>
+		<a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/visualization/org.eclipse.nebula.visualization.xygraph/html/GettingStarted.html'>Getting Started</a>
+		</p>
         <p>
         <a href='/nebula/snippets.php#Visualization'>Snippets</a>
         </p>
+        
+        
 
         <hr class="clearer"/>
 	</div>

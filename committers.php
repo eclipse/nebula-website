@@ -45,7 +45,7 @@
 		<li>Matthew Hall - PaperClips, RadioGroup</li>
 		<li>Marty Jones - TableCombo</li>
 		<li>Wim Jongman - Oscilloscope</li>
-		<li>Xihui Chen - Visualizatoin</li>
+		<li>Xihui Chen - Visualization</li>
 		</ul>
 		<hr class="clearer"/>
 	</div>

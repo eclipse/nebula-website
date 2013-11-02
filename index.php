@@ -16,7 +16,7 @@
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Nebula Project";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls";
-	$pageAuthor		= "Chris Gross, Nicolas Richeton";
+	$pageAuthor		= "Chris Gross, Nicolas Richeton, Wim Jongman";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)

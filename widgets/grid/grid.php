@@ -39,10 +39,6 @@
 		<p>
 		The Grid widget is a spreadsheet/table component that offers features not currently found in
 		the base SWT Table.  Features include cell selection, column grouping, column spanning, row headers, and more.
-
-		<p>
-		NOTE: The Grid widget is still under active development.  The code is made available in an
-		<font color=red><b>ALPHA</b></font> state.  Users should expect changes in future versions.
 		
 		<p>
 			<a href='/nebula/snippets.php#Grid'>Snippets</a>

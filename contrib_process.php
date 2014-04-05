@@ -33,7 +33,7 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Thank you for contributing to the Nebula project. From fixing a bug to contributing a widget, everythinh is explained in our contribution guide.</p>
+		<p>Thank you for contributing to the Nebula project. From fixing a bug to contributing a widget, everything is explained in our <a href="http://wiki.eclipse.org/Nebula/New_Contributions" target="_blank">contribution guide.</a></p>
 		<p>We use Gerrit to accept your contributions.
 		
 		<h2 align="center"><a href="http://wiki.eclipse.org/Nebula/New_Contributions" target="_blank">Nebula Contribution Guide</a></h2> 

@@ -33,12 +33,8 @@
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>Do you have a really cool widget that you'd like to contribute to Nebula? </p>
-		<p>Contributing a widget to Nebula requires that you become a full committer.  The Nebula project does not
-		have full time resources to manage and support your contribution.  Instead you will become a committer with
-		full rights to update your contribution.  But first, you must get approval for your contribution.  We have a wiki
-		page that describes the contribution process.</p>
-		<p>
+		<p>Thank you for contributing to the Nebula project. From fixing a bug to contributing a widget, everythinh is explained in our contribution guide.</p>
+		<p>We use Gerrit to accept your contributions.
 		
 		<h2 align="center"><a href="http://wiki.eclipse.org/Nebula/New_Contributions" target="_blank">Nebula Contribution Guide</a></h2> 
 	</div>

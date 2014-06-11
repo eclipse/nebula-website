@@ -312,8 +312,8 @@
 										title="NatTable">
 								</a></td>
 							</tr>
-
-			</table>
+						</table>
+				</table>
 			
 <a name="Visualization"></a>
 			
@@ -332,7 +332,6 @@
 								</a></td>
 							</tr>							
 						</table>
-
 			</table>
 
 			<a name="incubationComponents"></a>

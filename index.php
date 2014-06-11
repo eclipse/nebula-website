@@ -33,11 +33,11 @@
 
 	<div id="maincontent">
 		<div id="midcolumn">
-		
-			<h1>$pageTitle</h1>
-
 		<img  style="float:right" src="images/nebula_logo_main_300.png" border="0"
 			  alt="$pageTitle" align="right">
+			<h1>$pageTitle</h1>
+
+		
 			  
 			  <p/>
 		

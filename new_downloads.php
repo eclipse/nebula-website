@@ -24,32 +24,27 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<br/>
-		<h2>Latest</h2> 
-		<h3>Nebula Release (12 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'> 
+		<h3>Latest</h3> 
+		<h4>Nebula Release (12 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'> 
 		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
-			<center>
-				<p style="font-weight: bold">
-					<ul>
-						<li>Update site: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a></li> 
-						<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/snapshot/repository.zip">repository.zip</a></li>
-						<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'>Drag this link to Eclipse installation to install</a></li>
-					</ul>
-				</p>
-			</center>
+			<p style="font-weight: bold">
+				<ul
+					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a></li> 						<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/snapshot/repository.zip">repository.zip</a></li>
+					<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'>Drag this link to Eclipse installation to install</a></li>
+				</ul>
+			</p>
 
-		<h3>Nebula Incubation (9 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Incubation Widgets'> 
+		<h4>Nebula Incubation (9 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Incubation Widgets'> 
 		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
-			<center>
-				<p style="font-weight: bold">
-					<ul>
-						<li>Update site: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a></li>
-						<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot/repository.zip">repository.zip</a></li>
-						<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Incubation Widgets'>Drag this link to Eclipse installation to install</a></li>
-					</ul>
-				</p>
-			</center>
+			<p style="font-weight: bold">
+				<ul>
+					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a></li>
+					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot/repository.zip">repository.zip</a></li>
+					<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Incubation Widgets'>Drag this link to Eclipse installation to install</a></li>
+				</ul>
+			</p>
 			
-# ------------------ Older downloads 
+<!-- ------------------ Older downloads  -->
 			<br/>
 			<br/>
 		<h2>Autum 2014 release. Retention period: 2 years.</h2> 

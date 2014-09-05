@@ -28,8 +28,9 @@
 		<h4>Nebula Release (12 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'> 
 		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
 			<p style="font-weight: bold">
-				<ul
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a></li> 						<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/snapshot/repository.zip">repository.zip</a></li>
+				<ul>
+					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a></li>
+					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/snapshot/repository.zip">repository.zip</a></li>
 					<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'>Drag this link to Eclipse installation to install</a></li>
 				</ul>
 			</p>
@@ -47,30 +48,22 @@
 <!-- ------------------ Older downloads  -->
 			<br/>
 			<br/>
-		<h2>Autum 2014 release. Retention period: 2 years.</h2> 
-		<h3>Nebula Release (12 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'> 
-		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
-			<center>
-				<p style="font-weight: bold">
-					<ul>
-						<li>Update site: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a></li> 
-						<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/snapshot/repository.zip">repository.zip</a></li>
-						<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'>Drag this link to Eclipse installation to install</a></li>
-					</ul>
-				</p>
-			</center>
+			<h3>Autum 2014 release. Retention period: 2 years.</h3> 
+			<h4>Nebula Release (12 Projects)</h4>
+			<p style="font-weight: bold">
+				<ul>
+					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/autumn2014</a></li> 
+					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/autumn2014/repository.zip">repository.zip</a></li>
+				</ul>
+			</p>
 
-		<h3>Nebula Incubation (9 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Incubation Widgets'> 
-		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
-			<center>
-				<p style="font-weight: bold">
-					<ul>
-						<li>Update site: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a></li>
-						<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot/repository.zip">repository.zip</a></li>
-						<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Incubation Widgets'>Drag this link to Eclipse installation to install</a></li>
-					</ul>
-				</p>
-			</center>
+			<h4>Nebula Incubation (9 Projects)</h4>
+			<p style="font-weight: bold">
+				<ul>
+					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/autumn2014</a></li>
+					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/incubation/autumn2014/repository.zip">repository.zip</a></li>
+				</ul>
+			</p>
 
 		<hr class="clearer" />
 	</div>

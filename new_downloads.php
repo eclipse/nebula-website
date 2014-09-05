@@ -25,43 +25,43 @@
 		<h1>$pageTitle</h1>
 		<br/>
 		<h3>Latest</h3> 
-		<h4>Nebula Release (12 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'> 
+		<h4>Nebula Release (12 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'> 
 		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
 			<p style="font-weight: bold">
 				<ul>
 					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a></li>
 					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/snapshot/repository.zip">repository.zip</a></li>
-					<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Stable Widgets'>Drag this link to Eclipse installation to install</a></li>
+					<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
 				</ul>
 			</p>
 
-		<h4>Nebula Incubation (9 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Incubation Widgets'> 
+		<h4>Nebula Incubation (9 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'> 
 		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
 			<p style="font-weight: bold">
 				<ul>
 					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a></li>
 					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot/repository.zip">repository.zip</a></li>
-					<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse Indigo(+) workspace to install Eclipse Nebula Incubation Widgets'>Drag this link to Eclipse installation to install</a></li>
+					<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
 				</ul>
 			</p>
 			
 <!-- ------------------ Older downloads  -->
 			<br/>
 			<br/>
-			<h3>Autum 2014 release. Retention period: 2 years.</h3> 
+			<h3>Q1/2014. Retention period: 2 years.</h3> 
 			<h4>Nebula Release (12 Projects)</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/autumn2014</a></li> 
-					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/autumn2014/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/snapshots/release/01/">http://download.eclipse.org/technology/nebula/snapshots/release/01/</a></li> 
+					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/snapshots/release/01/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
 			<h4>Nebula Incubation (9 Projects)</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/autumn2014</a></li>
-					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/incubation/autumn2014/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/snapshots/incubation/01">http://download.eclipse.org/technology/nebula/snapshots/incubation/01</a></li>
+					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/snapshots/incubation/01/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 

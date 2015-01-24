@@ -61,7 +61,7 @@
 			<h4>Nebula Release (12 Projects)</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q12015/release/">http://download.eclipse.org/technology/nebula/archives/Q32014/release/</a></li> 
+					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q12015/release/">http://download.eclipse.org/technology/nebula/archives/Q12015/release/</a></li> 
 					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/archives/Q12015/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
@@ -69,7 +69,7 @@
 			<h4>Nebula Incubation (9 Projects)</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q12015/incubation">http://download.eclipse.org/technology/nebula/archives/Q32014/incubation</a></li>
+					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q12015/incubation">http://download.eclipse.org/technology/nebula/archives/Q12015/incubation</a></li>
 					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/archives/Q12015/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>

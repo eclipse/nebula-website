@@ -39,6 +39,7 @@
 		$Nav->addCustomNav("PaperClips",    "/nebula/widgets/paperclips/paperclips.php", "_self", 2);
 		$Nav->addCustomNav("PGroup",		"/nebula/widgets/pgroup/pgroup.php",	 	"_self", 2);
 		$Nav->addCustomNav("PShelf",		"/nebula/widgets/pshelf/pshelf.php",	 	"_self", 2);
+		$Nav->addCustomNav("RichText",		"/nebula/widgets/richtext/richtext.php",	 	"_self", 2);
 		$Nav->addCustomNav("Transition", "/nebula/widgets/stw/stw.php", "_self", 2);
 		$Nav->addCustomNav("TableCombo",    "/nebula/widgets/tablecombo/tablecombo.php", "_self", 2);
 		$Nav->addCustomNav("Visualization",   "/nebula/widgets/visualization/visualization.php", "_self", 2);

@@ -303,7 +303,7 @@
 										title="RichText"></a></td>
 							</tr>
 							<tr>
-								<td align="center"><b>TableCombo</b></td>
+								<td align="center"><b>Rich Text</b></td>
 							</tr>
 						</table>
 					</td>

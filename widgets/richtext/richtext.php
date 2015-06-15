@@ -41,7 +41,8 @@
 			in Java without knowledge of the underlying Javascript. 
 			This control is useful to quickly create rich text that has to be displayed on a web page, for example 
 			if you want build a web content management system in a Eclipse RCP desktop application.
-			
+		</p>	
+		<br/>
 		<img src='images/richtext.png'>	
 		
 		<h3>Features</h3>
@@ -54,10 +55,11 @@
 		</ul>
 		
 	 		<p>
-				QUICK START : Look at the <a href='/nebula/snippets.php#RichText'>Snippets</a>. Other snippets are available on <a href="/nebula/source.php">git</a>.
+				<b>QUICK START:</b> Look at the <a href='/nebula/snippets.php#RichText'>Snippets</a>. Other snippets are available on <a href="/nebula/source.php">git</a>.
 			<br/>
-				File a bug: <a href='https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Nebula&component=RichText' target='_blank'>Click here to file a bug or feature request for Rich Text</a>
+				<b>File a bug:</b> <a href='https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Nebula&component=RichText' target='_blank'>Click here to file a bug or feature request for Rich Text</a>
 			</p>
+			<br/>
 			<p>
 		 		<img src='images/richtext2.png'>	
 			</p> 

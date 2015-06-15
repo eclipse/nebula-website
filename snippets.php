@@ -175,6 +175,13 @@
 			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/radiogroup/RadioGroupViewerSnippet01.java'>Set up a RadioGroupViewer with data binding</a></li>		
 		</ul>
 
+		<a name="RichText"></a>
+		<h2>Rich Text</h2>
+		<ul>
+			<li><a href='https://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/richtext/org.eclipse.nebula.widgets.richtext.example/src/org/eclipse/nebula/widgets/richtext/example/RichTextEditorExample.java'>Rich Text Editor</a></li>		
+			<li><a href='https://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/richtext/org.eclipse.nebula.widgets.richtext.example/src/org/eclipse/nebula/widgets/richtext/example/RichTextViewerExample.java'>Rich Text Viewer</a></li>		
+		</ul>
+
 		<a name="STW - SWT Transition Widget"></a>
         <h2>STW - SWT Transition Widget</h2>
         <ul>

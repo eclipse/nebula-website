@@ -287,6 +287,34 @@
 				
 				</tr>
 				
+								<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/richtext/richtext.php"><img
+										src="/nebula/widgets/richtext/images/richtext.png" width="320px" border="0"
+										alt="RichText is a rich editor control based on CKEditor."
+										title="RichText"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>TableCombo</b></td>
+							</tr>
+						</table>
+					</td>
+					
+					<td align="center" valign="bottom">
+
+					</td>
+				
+				</tr>
+		
+				
 				<tr>
 
 

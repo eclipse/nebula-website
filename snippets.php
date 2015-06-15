@@ -176,10 +176,11 @@
 		</ul>
 
 		<a name="RichText"></a>
-		<h2>Rich Text</h2>
+		<h2>RichText</h2>
 		<ul>
-			<li><a href='https://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/richtext/org.eclipse.nebula.widgets.richtext.example/src/org/eclipse/nebula/widgets/richtext/example/RichTextEditorExample.java'>Rich Text Editor</a></li>		
-			<li><a href='https://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/richtext/org.eclipse.nebula.widgets.richtext.example/src/org/eclipse/nebula/widgets/richtext/example/RichTextViewerExample.java'>Rich Text Viewer</a></li>		
+			<li><a href='https://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/richtext/org.eclipse.nebula.widgets.richtext.example/src/org/eclipse/nebula/widgets/richtext/example/RichTextEditorExample.java'>RichTextEditor</a></li>		
+			<li><a href='https://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/richtext/org.eclipse.nebula.widgets.richtext.example/src/org/eclipse/nebula/widgets/richtext/example/RichTextViewerExample.java'>RichTextViewer</a></li>		
+			<li><a href='https://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/richtext/org.eclipse.nebula.widgets.richtext.example/src/org/eclipse/nebula/widgets/richtext/example/JFaceViewerIntegrationExample.java'>JFace Viewer Integration</a></li>		
 		</ul>
 
 		<a name="STW - SWT Transition Widget"></a>

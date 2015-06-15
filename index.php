@@ -236,13 +236,13 @@
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="/nebula/widgets/stw/stw.php"><img
-										src="images/stw1.gif" border="0"
-										alt="STW - SWT Transition Widget is a widget for adding fancy transition effects."
-										title="STW - SWT Transition Widget"></a></td>
+								<td align="center"><a href="/nebula/widgets/richtext/richtext.php"><img
+										src="images/richtext.png" border="0"
+										alt="RichText - Embeddable rich text controls for editing and rendering HTML formatted text."
+										title="RichText"></a></td>
 							</tr>
 							<tr>
-								<td align="center"><b>STW - SWT Transition Widget</b></td>
+								<td align="center"><b>RichText</b></td>
 							</tr>
 						</table>
 					</td>
@@ -254,6 +254,20 @@
 				</tr>
 
 				<tr>
+				
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="/nebula/widgets/stw/stw.php"><img
+										src="images/stw1.gif" border="0"
+										alt="STW - SWT Transition Widget is a widget for adding fancy transition effects."
+										title="STW - SWT Transition Widget"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>STW - SWT Transition Widget</b></td>
+							</tr>
+						</table>
+					</td>
 							
 					<td align="center" valign="bottom">
 						<table>
@@ -269,7 +283,15 @@
 							</tr>
 						</table>
 					</td>
-					
+				
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -284,41 +306,13 @@
 							</tr>
 						</table>
 					</td>
-				
-				</tr>
-				
-								<tr>
-					<td height="25px"></td>
-				</tr>
-
-				<tr>
-							
-					<td align="center" valign="bottom">
-						<table>
-							<tr>
-								<td align="center"><a
-									href="/nebula/widgets/richtext/richtext.php"><img
-										src="/nebula/widgets/richtext/images/richtext.png" width="320px" border="0"
-										alt="RichText is a rich editor control based on CKEditor."
-										title="RichText"></a></td>
-							</tr>
-							<tr>
-								<td align="center"><b>Rich Text</b></td>
-							</tr>
-						</table>
-					</td>
 					
 					<td align="center" valign="bottom">
-
 					</td>
 				
 				</tr>
-		
 				
 				<tr>
-
-
-
 					<td align="center" valign="bottom"></td>
 				</tr>
 
@@ -335,7 +329,7 @@
 							<tr>
 								<td align="center"><a
 									href="http://www.eclipse.org/nattable/">
-										<img src="http://www.eclipse.org/nattable/images/FullFeaturedScreenShot.png" width="600 height="600" border="0"
+										<img src="http://www.eclipse.org/nattable/images/FeatureScreenShot.png" width="600 height="600" border="0"
 										alt="NatTable is a powerful and flexible SWT table/grid widget."
 										title="NatTable">
 								</a></td>

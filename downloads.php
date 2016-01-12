@@ -27,7 +27,7 @@
 		
 		<h2>Latest</h2>
 
-		<h4>Nebula Release (12 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'> 
+		<h4>Nebula Release (13 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'> 
 		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
 			<p style="font-weight: bold">
 				<ul>
@@ -57,7 +57,6 @@
 			and don't want to update your build scripts every day then make a local copy of 
 			a repo or choose on of these below.
 			<br/>
-			<h3>Q1/2015. Retention period: 2 years.</h3> 
 			<h3>Q4/2015. Retention period: 12 years.</h3> 
 			<h4>Nebula Release (13 Projects)</h4>
 			<p style="font-weight: bold">

@@ -47,13 +47,13 @@
 		<a name="CDateTime"></a>
 		<h2>CDateTime</h2>
 		<ul>
-			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/cdatetime/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDPSnippet01.java'>
+			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/cdatetime/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDTSnippet01.java'>
 				Textual selector with a Spinner</a></li>
-			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/cdatetime/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDPSnippet02.java'>
+			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/cdatetime/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDTSnippet02.java'>
 				Drop-down Combo with Calendar and Analog Time selector (Compact style)</a></li>
-			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/cdatetime/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDPSnippet03.java'>
+			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/cdatetime/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDTSnippet03.java'>
 				Graphical Calendar selector</a></li>
-			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/cdatetime/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDPSnippet04.java'>
+			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/cdatetime/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets/CDTSnippet04.java'>
 				Drop-down Combo with Discrete Time selector</a></li>
 			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/tree/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/cdatetime'>Other Snippets - 1</a></li>
 			<li><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/tree/widgets/cdatetime/org.eclipse.nebula.widgets.cdatetime.snippets/src/org/eclipse/nebula/widgets/cdatetime/snippets'>Other Snippets - 2</a></li>

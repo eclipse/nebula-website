@@ -102,7 +102,6 @@
 			</p>
 			<br/>
 			<br/>
-			<h3>Q3/2014. Retention period: 2 years.</h3> 
 			<h3>Q3/2014. Retention period: 12 years.</h3> 
 			<h4>Nebula Release (12 Projects)</h4>
 			<p style="font-weight: bold">

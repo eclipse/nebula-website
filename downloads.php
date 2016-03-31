@@ -51,6 +51,7 @@
 			<p style="font-weight: bold">
 				<ul>
 					<li>Snapshot repo: <a href="http://download.eclipse.org/nattable/snapshots/latest/repository">http://download.eclipse.org/nattable/snapshots/latest/repository</a></li>
+					<li>Snapshot repo zipped: <a href="http://download.eclipse.org/nattable/snapshots/latest/repository.zip">repository.zip</a></li>
 					<li>Downloads: <a href="https://eclipse.org/nattable/download.php">https://eclipse.org/nattable/download.php</a></li>
 
 				</ul>

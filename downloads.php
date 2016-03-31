@@ -28,7 +28,7 @@
 		<h2>Latest</h2>
 
 		<h4>Nebula Release (13 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'> 
-		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
+		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
 			<p style="font-weight: bold">
 				<ul>
 					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/snapshot">http://download.eclipse.org/technology/nebula/snapshot</a></li>
@@ -38,12 +38,21 @@
 			</p>
 
 		<h4>Nebula Incubation (9 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'> 
-		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
+		<img src='http://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
 			<p style="font-weight: bold">
 				<ul>
 					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot">http://download.eclipse.org/technology/nebula/incubation/snapshot</a></li>
 					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/incubation/snapshot/repository.zip">repository.zip</a></li>
 					<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
+				</ul>
+			</p>
+
+		<h4>Nebula NatTable</h4>
+			<p style="font-weight: bold">
+				<ul>
+					<li>Nattable latest snapshot repo: <a href="http://download.eclipse.org/nattable/snapshots/latest/repository">http://download.eclipse.org/nattable/snapshots/latest/repository</a></li>
+					<li>NatTable downloads: <a href="https://eclipse.org/nattable/download.php"https://eclipse.org/nattable/download.php</a></li>
+
 				</ul>
 			</p>
 			

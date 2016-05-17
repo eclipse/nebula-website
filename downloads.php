@@ -27,7 +27,7 @@
 		
 		<h2>Latest</h2>
 
-		<h4>Nebula Release (13 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'> 
+		<h4>Nebula Release (13 Widgets) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'> 
 		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
 			<p style="font-weight: bold">
 				<ul>
@@ -37,7 +37,7 @@
 				</ul>
 			</p>
 
-		<h4>Nebula Incubation (9 Projects) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'> 
+		<h4>Nebula Incubation (9 Widgets) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'> 
 		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
 			<p style="font-weight: bold">
 				<ul>

@@ -70,16 +70,16 @@
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/archives/Q22016/release/">http://archive.eclipse.org/technology/nebula/archives/Q22016/release/</a></li> 
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/archives/Q22016/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/Q22016/release/">http://archive.eclipse.org/technology/nebula/Q22016/release/</a></li> 
+					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/Q22016/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
 			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/archives/Q22016/incubation">http://archive.eclipse.org/technology/nebula/archives/Q22016/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/archives/Q22016/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/Q22016/incubation">http://archive.eclipse.org/technology/nebula/Q22016/incubation</a></li>
+					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/Q22016/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 			<br/>
@@ -90,16 +90,16 @@
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/archives/Q42015/release/">http://archive.eclipse.org/technology/nebula/archives/Q42015/release/</a></li> 
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/archives/Q42015/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/Q42015/release/">http://archive.eclipse.org/technology/nebula/Q42015/release/</a></li> 
+					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/Q42015/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
 			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/archives/Q42015/incubation">http://archive.eclipse.org/technology/nebula/archives/Q42015/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/archives/Q42015/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/Q42015/incubation">http://archive.eclipse.org/technology/nebula/Q42015/incubation</a></li>
+					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/Q42015/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 			<br/>
@@ -110,16 +110,16 @@
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/archives/Q12015/release/">http://archive.eclipse.org/technology/nebula/archives/Q12015/release/</a></li> 
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/archives/Q12015/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/Q12015/release/">http://archive.eclipse.org/technology/nebula/Q12015/release/</a></li> 
+					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/Q12015/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
 			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/archives/Q12015/incubation">http://archive.eclipse.org/technology/nebula/archives/Q12015/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/archives/Q12015/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/Q12015/incubation">http://archive.eclipse.org/technology/nebula/Q12015/incubation</a></li>
+					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/Q12015/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 			<br/>
@@ -128,16 +128,16 @@
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/archives/Q32014/release/">http://archive.eclipse.org/technology/nebula/archives/Q32014/release/</a></li> 
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/archives/Q32014/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/Q32014/release/">http://archive.eclipse.org/technology/nebula/Q32014/release/</a></li> 
+					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/Q32014/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
 			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/archives/Q32014/incubation">http://archive.eclipse.org/technology/nebula/archives/Q32014/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/archives/Q32014/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/Q32014/incubation">http://archive.eclipse.org/technology/nebula/Q32014/incubation</a></li>
+					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/Q32014/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>			
 			<br/>
@@ -146,16 +146,16 @@
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/archives/Q12014/release/">http://archive.eclipse.org/technology/nebula/archives/Q12014/release/</a></li> 
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/archives/Q12014/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/Q12014/release/">http://archive.eclipse.org/technology/nebula/Q12014/release/</a></li> 
+					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/Q12014/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
 			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/archives/Q12014/incubation">http://archive.eclipse.org/technology/nebula/archives/Q12014/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/archives/Q12014/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archive.eclipse.org/technology/nebula/Q12014/incubation">http://archive.eclipse.org/technology/nebula/Q12014/incubation</a></li>
+					<li>Update site repo zipped: <a href="http://archive.eclipse.org/technology/nebula/Q12014/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 

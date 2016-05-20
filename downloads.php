@@ -27,7 +27,7 @@
 		
 		<h2>Latest</h2>
 
-		<h4>Nebula Release (13 Widgets) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'> 
+		<h4>Nebula Stable Widgets <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'> 
 		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
 			<p style="font-weight: bold">
 				<ul>
@@ -37,7 +37,7 @@
 				</ul>
 			</p>
 
-		<h4>Nebula Incubation (9 Widgets) <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'> 
+		<h4>Nebula Incubation Widgets <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'> 
 		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
 			<p style="font-weight: bold">
 				<ul>
@@ -53,7 +53,6 @@
 					<li>Snapshot repo: <a href="http://download.eclipse.org/nattable/snapshots/latest/repository">http://download.eclipse.org/nattable/snapshots/latest/repository</a></li>
 					<li>Snapshot repo zipped: <a href="http://download.eclipse.org/nattable/snapshots/latest/repository.zip">repository.zip</a></li>
 					<li>Downloads: <a href="https://eclipse.org/nattable/download.php">https://eclipse.org/nattable/download.php</a></li>
-
 				</ul>
 			</p>
 			
@@ -67,74 +66,96 @@
 			and don't want to update your build scripts every day then make a local copy of 
 			a repo or choose on of these below.
 			<br/>
+			<h3>Q2/2016. Retention period: 12 years.</h3> 
+			<h4>Nebula Stable Widgets</h4>
+			<p style="font-weight: bold">
+				<ul>
+					<li>Update site: <a href="http://archives.eclipse.org/technology/nebula/archives/Q22016/release/">http://archives.eclipse.org/technology/nebula/archives/Q22016/release/</a></li> 
+					<li>Update site repo zipped: <a href="http://archives.eclipse.org/technology/nebula/archives/Q22016/release/repository.zip">repository.zip</a></li>
+				</ul>
+			</p>
+
+			<h4>Nebula Incubation Widgets</h4>
+			<p style="font-weight: bold">
+				<ul>
+					<li>Update site: <a href="http://archives.eclipse.org/technology/nebula/archives/Q22016/incubation">http://archives.eclipse.org/technology/nebula/archives/Q22016/incubation</a></li>
+					<li>Update site repo zipped: <a href="http://archives.eclipse.org/technology/nebula/archives/Q22016/incubation/repository.zip">repository.zip</a></li>
+				</ul>
+			</p>
+			<br/>
+			<br/>
+
+
 			<h3>Q4/2015. Retention period: 12 years.</h3> 
-			<h4>Nebula Release (13 Projects)</h4>
+			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q42015/release/">http://download.eclipse.org/technology/nebula/archives/Q42015/release/</a></li> 
-					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/archives/Q42015/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archives.eclipse.org/technology/nebula/archives/Q42015/release/">http://archives.eclipse.org/technology/nebula/archives/Q42015/release/</a></li> 
+					<li>Update site repo zipped: <a href="http://archives.eclipse.org/technology/nebula/archives/Q42015/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
-			<h4>Nebula Incubation (9 Projects)</h4>
+			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q42015/incubation">http://download.eclipse.org/technology/nebula/archives/Q42015/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/archives/Q42015/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archives.eclipse.org/technology/nebula/archives/Q42015/incubation">http://archives.eclipse.org/technology/nebula/archives/Q42015/incubation</a></li>
+					<li>Update site repo zipped: <a href="http://archives.eclipse.org/technology/nebula/archives/Q42015/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 			<br/>
 			<br/>
+
+
 			<h3>Q1/2015. Retention period: 12 years.</h3> 
-			<h4>Nebula Release (12 Projects)</h4>
+			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q12015/release/">http://download.eclipse.org/technology/nebula/archives/Q12015/release/</a></li> 
-					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/archives/Q12015/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archives.eclipse.org/technology/nebula/archives/Q12015/release/">http://archives.eclipse.org/technology/nebula/archives/Q12015/release/</a></li> 
+					<li>Update site repo zipped: <a href="http://archives.eclipse.org/technology/nebula/archives/Q12015/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
-			<h4>Nebula Incubation (9 Projects)</h4>
+			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q12015/incubation">http://download.eclipse.org/technology/nebula/archives/Q12015/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/archives/Q12015/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archives.eclipse.org/technology/nebula/archives/Q12015/incubation">http://archives.eclipse.org/technology/nebula/archives/Q12015/incubation</a></li>
+					<li>Update site repo zipped: <a href="http://archives.eclipse.org/technology/nebula/archives/Q12015/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 			<br/>
 			<br/>
 			<h3>Q3/2014. Retention period: 12 years.</h3> 
-			<h4>Nebula Release (12 Projects)</h4>
+			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q32014/release/">http://download.eclipse.org/technology/nebula/archives/Q32014/release/</a></li> 
-					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/archives/Q32014/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archives.eclipse.org/technology/nebula/archives/Q32014/release/">http://archives.eclipse.org/technology/nebula/archives/Q32014/release/</a></li> 
+					<li>Update site repo zipped: <a href="http://archives.eclipse.org/technology/nebula/archives/Q32014/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
-			<h4>Nebula Incubation (9 Projects)</h4>
+			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q32014/incubation">http://download.eclipse.org/technology/nebula/archives/Q32014/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/archives/Q32014/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archives.eclipse.org/technology/nebula/archives/Q32014/incubation">http://archives.eclipse.org/technology/nebula/archives/Q32014/incubation</a></li>
+					<li>Update site repo zipped: <a href="http://archives.eclipse.org/technology/nebula/archives/Q32014/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>			
 			<br/>
 			<br/>
 			<h3>Q1/2014. Retention period: 12 years.</h3> 
-			<h4>Nebula Release (12 Projects)</h4>
+			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q12014/release/">http://download.eclipse.org/technology/nebula/archives/Q12014/release/</a></li> 
-					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/archives/Q12014/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archives.eclipse.org/technology/nebula/archives/Q12014/release/">http://archives.eclipse.org/technology/nebula/archives/Q12014/release/</a></li> 
+					<li>Update site repo zipped: <a href="http://archives.eclipse.org/technology/nebula/archives/Q12014/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
-			<h4>Nebula Incubation (9 Projects)</h4>
+			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/technology/nebula/archives/Q12014/incubation">http://download.eclipse.org/technology/nebula/archives/Q12014/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://download.eclipse.org/technology/nebula/archives/Q12014/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="http://archives.eclipse.org/technology/nebula/archives/Q12014/incubation">http://archives.eclipse.org/technology/nebula/archives/Q12014/incubation</a></li>
+					<li>Update site repo zipped: <a href="http://archives.eclipse.org/technology/nebula/archives/Q12014/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 

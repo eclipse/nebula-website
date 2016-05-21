@@ -19,10 +19,10 @@
 	$pageAuthor		= "Chris Gross, Nicolas Richeton, Wim Jongman";
 	
 	# Add page-specific Nav bars here
-	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
+	# Format is Link text, link URL (can be https://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
-	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
+	# $Nav->addCustomNav("Google", "https://www.google.com/", "_blank", 3);
 
 
 	# End: page-specific settings
@@ -338,8 +338,8 @@
 						<table>
 							<tr>
 								<td align="center"><a
-									href="http://www.eclipse.org/nattable/">
-										<img src="http://www.eclipse.org/nattable/images/FeatureScreenShot.png" width="600 height="600" border="0"
+									href="https://www.eclipse.org/nattable/">
+										<img src="https://www.eclipse.org/nattable/images/FeatureScreenShot.png" width="600 height="600" border="0"
 										alt="NatTable is a powerful and flexible SWT table/grid widget."
 										title="NatTable">
 								</a></td>
@@ -563,9 +563,9 @@
 			<div class="sideitem">
 				<h6>Incubation</h6>
 				<div align="center">
-					<a href="http://www.eclipse.org/projects/what-is-incubation.php">
+					<a href="https://www.eclipse.org/projects/what-is-incubation.php">
 						<img align="center"
-						src="http://www.eclipse.org/images/egg-incubation.png" border="0"
+						src="https://www.eclipse.org/images/egg-incubation.png" border="0"
 						alt="Incubation" />
 					</a>
 				</div>
@@ -576,7 +576,7 @@
 				<div align="center">
 					<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=373009">
 						<img align="center"
-						src="http://wiki.eclipse.org/images/7/7d/Bug.png" border="0"
+						src="https://wiki.eclipse.org/images/7/7d/Bug.png" border="0"
 						alt="Report Problems with this site here" />Report page problems here.
 					</a>
 

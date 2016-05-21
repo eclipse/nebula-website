@@ -52,7 +52,7 @@
 				will further describe the component and its function.</p>
 
 			<a name="mainComponents"></a>
-			<h3>Nebula Release :</h3>
+			<h3>Nebula Released Widgets:</h3>
 
 			<table width="100%" style="margin-top: 20px;">
 				<colgroup>
@@ -258,6 +258,7 @@
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
+							<tr>
 								<td align="center"><a href="/nebula/widgets/stw/stw.php"><img
 										src="images/stw1.gif" border="0"
 										alt="STW - SWT Transition Widget is a widget for adding fancy transition effects."
@@ -265,6 +266,15 @@
 							</tr>
 							<tr>
 								<td align="center"><b>STW - SWT Transition Widget</b></td>
+							</tr>
+								<td align="center"><a
+									href="/nebula/widgets/geomap/geomap.php"><img
+										src="images/example_geomap.png" border="0"
+										alt="The GeoMap is a control that allows you to display data from an openstreetmap server."
+										title="Pagination"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>GeoMap</b></td>
 							</tr>
 						</table>
 					</td>
@@ -359,7 +369,7 @@
 			<a name="incubationComponents"></a>
 			
 			
-			<h3>Incubation Components :</h3>
+			<h3>Nebula Incubation Widgets :</h3>
 			<table width="100%" style="margin-top: 20px;">
 				<colgroup>
 					<col width="320">
@@ -534,16 +544,7 @@
 					
 					<td align="center" valign="bottom">
 						<table>
-							<tr>
-								<td align="center"><a
-									href="/nebula/widgets/geomap/geomap.php"><img
-										src="images/example_geomap.png" border="0"
-										alt="The GeoMap is a control that allows you to display data from an openstreetmap server."
-										title="Pagination"></a></td>
-							</tr>
-							<tr>
-								<td align="center"><b>GeoMap</b></td>
-							</tr>
+	
 						</table>
 					</td>
 										

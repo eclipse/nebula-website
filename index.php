@@ -568,7 +568,6 @@
 						src="https://wiki.eclipse.org/images/7/7d/Bug.png" border="0"
 						alt="Report Problems with this site here" />Report page problems here.
 					</a>
-
 				</div>
 			</div>
 			

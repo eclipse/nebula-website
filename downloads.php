@@ -164,12 +164,12 @@
 
 	<div id="rightcolumn">
 		<div class="sideitem">
-			<h6>Incubation</h6>
+			<h6>Comments</h6>
 			<div align="center">
-				<a href="http://www.eclipse.org/projects/what-is-incubation.php">
+				<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=373009">
 					<img align="center"
-					src="https://www.eclipse.org/images/egg-incubation.png" border="0"
-					alt="Incubation" />
+					src="https://wiki.eclipse.org/images/7/7d/Bug.png" border="0"
+					alt="Report Problems with this site here" />Report page problems here.
 				</a>
 			</div>
 		</div>

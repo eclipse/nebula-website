@@ -4,7 +4,7 @@
 
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula Releases";
+	$pageTitle 		= "Nebula Release 1.0.0";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Release";
 	$pageAuthor		= "Nebula Committers";
 	
@@ -25,9 +25,9 @@
 		<h1>$pageTitle</h1>
 		<br/>
 		
-		<h2>1.0.0</h2>
 		<p>
-		This is the first Nebula releases. It releases some 20 SWT widgets.  
+		This is the first Nebula releases. It releases 20 SWT widgets and visualization components.  
+		</p>
 
 		<h3>Downloads</a></h3>
 			<p style="font-weight: bold">
@@ -48,18 +48,16 @@
     			<td colspan="2" class="section" id="Widgets"></td>
   			</tr>
 
-  		<tr id="cdatetime">
-    		<td class="title">CDateTime. a Date and Time visualization widget.</td>
-    		<td class="content">
-  		  		You can disable the CSS-based styling of the Eclipse IDE via
-    			<b>Preferences &gt; General &gt; Appearance &gt; Enable theming</b>.
-    			This will prevent Eclipse from rendering custom colors, shades, and borders, and may result in better performance.
-    				<p>
-      				<img src="images/1.0.0/cdatetime.png" width="400"/>
-      			</p>
-			</td>
-  		</tr>
-  	</table>
+  			<tr id="cdatetime">
+    			<td class="title">CDateTime. a Date and Time visualization widget.</td>
+    			<td class="content">
+					A Date and Time selection widget that can be used in a textual, graphical, or combo mode.    				
+					<p>
+      					<img src="cdatetime.png"/>
+      				</p>
+				</td>
+  			</tr>
+  		</table>
 	
 EOHTML;
 

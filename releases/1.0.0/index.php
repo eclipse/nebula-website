@@ -38,26 +38,288 @@
 			</p>
 
 
-		<table class="news">
-  			<colgroup>
-    			<col class="title" />
-    			<col />
-  			</colgroup>
+			<table width="100%" style="margin-top: 20px;">
+				<colgroup>
+					<col width="320">
+					<col width="320">
+				</colgroup>
+				<tr>
 
-  			<tr>
-    			<td colspan="2" class="section" id="Widgets"></td>
-  			</tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/cdatetime/cdatetime.php"><img
+										src="images/cdatetime.png" border="0"
+										alt="The CDateTime is a graphical and textual Date selection widget."
+										title="CDateTime"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CDateTime</b></td>
+							</tr>
+						</table>
+					</td>
+					
+								<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/pshelf/pshelf.php"><img
+										src="images/pshelf.png" border="0"
+										alt="PShelf is a composite widget similar to a tab folder but uses an accordion-like metaphor."
+										title="PShelf"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PShelf</b></td>
+							</tr>
+						</table>
+					</td>
 
-  			<tr id="cdatetime">
-    			<td class="title">CDateTime. a Date and Time visualization widget.</td>
-    			<td class="content">
-					A Date and Time selection widget that can be used in a textual, graphical, or combo mode.    				
-					<p>
-      					<img src="cdatetime.png"/>
-      				</p>
-				</td>
-  			</tr>
-  		</table>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+				
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/ganttchart/ganttchart.php"><img
+										src="images/ganttchart.png" border="0"
+										alt="GanttChart is a full featured and customizable GANTT charting component."
+										title="GanttChart" width="300"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>GanttChart</b></td>
+							</tr>
+						</table>
+					</td>				
+				
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/gallery/gallery.php"><img
+										src="images/gallery.png" border="0"
+										alt="Gallery lets you display any number of items organised in groups. Several group and item renderers are available with support for dynamic item size, drop shadows, auto margins, icon and list styles."
+										title="Gallery"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Gallery</b></td>
+							</tr>
+						</table>
+					</td>
+
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="/nebula/widgets/grid/grid.php"><img
+										src="images/grid.png" border="0"
+										alt="The Grid is a table component that offers spreadsheet like features."
+										title="Grid"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Grid</b></td>
+							</tr>
+						</table>
+					</td>				
+				
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/paperclips/paperclips.php"><img
+										src="images/paperclips.jpg" width="320" height="240"
+										border="0"
+										alt="PaperClips is a simple, light weight, extensible Java printing library for SWT"
+										title="PaperClips"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PaperClips</b></td>
+							</tr>
+						</table>
+					</td>
+					
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+				
+				
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/oscilloscope/oscilloscope.php"><img
+										src="images/scope.gif" border="0"
+										alt="Oscilloscope is a fun and versatile widget for monitoring critical processes."
+										title="Oscilloscope"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Oscilloscope</b></td>
+							</tr>
+						</table>
+					</td>
+
+					
+				<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/pgroup/pgroup.php"><img
+										src="images/pgroup.png" border="0"
+										alt="PGroup is a expandable/collapsible composite widget with attractive styling and an extensible design."
+										title="PGroup"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PGroup</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/pshelf/pshelf.php"><img
+										src="images/pshelf.png" border="0"
+										alt="PShelf is a composite widget similar to a tab folder but uses an accordion-like metaphor."
+										title="PShelf"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PShelf</b></td>
+							</tr>
+						</table>
+					</td>
+
+					
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="/nebula/widgets/richtext/richtext.php"><img
+										src="images/richtext.png" border="0"
+										alt="RichText - Embeddable rich text controls for editing and rendering HTML formatted text."
+										title="RichText"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>RichText</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+				
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/geomap/geomap.php"><img
+										src="images/example_geomap.png" border="0"
+										alt="The GeoMap is a control that allows you to display data from an openstreetmap server."
+										title="Pagination"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>GeoMap</b></td>
+							</tr>
+						</table>
+					</td>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/tablecombo/tablecombo.php"><img
+										src="images/tablecombo.png" width="320px" border="0"
+										alt="TableCombo is a composite widget similar to a CCombo but uses a table instead of a list control."
+										title="TableCombo"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>TableCombo</b></td>
+							</tr>
+						</table>
+					</td>
+				
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/xviewer/xviewer.php"><img
+										src="images/xviewer.png" border="0"
+										alt="The purpose of the XViewer is to give the application developer a more advanced and dynamic TreeViewer that has the filtering and sorting the capabilities of a spreadsheet while providing the users the ability to customize their table to suit their current needs and save/restore these customizations for future use by individual or group."
+										title="XViewer"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>XViewer</b></td>
+							</tr>
+						</table>
+					</td>
+					
+					<td align="center" valign="bottom">
+					</td>
+				
+				</tr>
+				
+				<tr>
+					<td align="center" valign="bottom"></td>
+				</tr>
+</table>
+			
+<a name="Visualization"></a>
+			
+			
+			<h3>Visualization :</h3>
+			<table width="100%" style="margin-top: 20px;">
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/visualization/visualization.php">
+										<img src="widgets/visualization/images/Combined.png" width="600 height="600" border="0"
+										alt="Visualization XY Graph."
+										title="Visualization">
+								</a></td>
+							</tr>							
+						</table>
+			</table>
 	
 EOHTML;
 

@@ -27,11 +27,11 @@
 		
 		<h2>Releases</h2>
 			<ul>
-				<li><a href='releases/1.0.0/indx.php'>Release 1.0.0</a></li>
+				<li><a href='releases/1.0.0/index.php'>Release 1.0.0</a></li>
 				<li><a href="releases/releases.php">Click here for all releases</a></li>
 			</ul>
 		</h2>
-		</p><br/> 
+		</p>
 		
 		<h2>Latest Snapshots</h2>
 

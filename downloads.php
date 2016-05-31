@@ -25,9 +25,9 @@
 		<h1>$pageTitle</h1>
 		<br/>
 		
-		<p><b>
+		<p><h2>
 		<a href="releases/index.php">Releases</a>
-		</b></p><br/> 
+		</h2></p><br/> 
 		
 		<h2>Latest</h2>
 

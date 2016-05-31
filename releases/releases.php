@@ -4,7 +4,7 @@
 
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula Release 1.0.0";
+	$pageTitle 		= "Nebula Releases";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Release";
 	$pageAuthor		= "Nebula Committers";
 	
@@ -24,9 +24,9 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<br/>
-		
+		This page contains the links to all the Nebula release repositories.
 		<h2>
-			<p style="background-color:lightgrey;>
+			<p style="background-color:lightgrey;">
 				<ul><a href="1.0.0/index.php">Release 1.0.0 (Release date 1st June 2016)</a></ul>
 			</p>
 		</h2>

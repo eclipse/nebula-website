@@ -25,11 +25,13 @@
 		<h1>$pageTitle</h1>
 		<br/>
 		
-		<p><h2>
-		<a href="releases/releases.php">Click here for all releases</a>
-		</h2></p><br/> 
+		<h2>Releases</h2>
+			<h4><a href='releases/1.0.0/indx.php'>Release 1.0.0</a></h4>
+			<h4><a href="releases/releases.php">Click here for all releases</a></h4>
+		</h2>
+		</p><br/> 
 		
-		<h2>Latest</h2>
+		<h2>Latest Snapshots</h2>
 
 		<h4>Nebula Stable Widgets <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'> 
 		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>

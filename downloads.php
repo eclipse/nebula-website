@@ -26,7 +26,7 @@
 		<br/>
 		
 		<p><h2>
-		<a href="releases/releases.php">Releases</a>
+		<a href="releases/releases.php">Click here for all releases</a>
 		</h2></p><br/> 
 		
 		<h2>Latest</h2>

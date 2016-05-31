@@ -26,8 +26,10 @@
 		<br/>
 		
 		<h2>Releases</h2>
-			<h4><a href='releases/1.0.0/indx.php'>Release 1.0.0</a></h4>
-			<h4><a href="releases/releases.php">Click here for all releases</a></h4>
+			<ul>
+				<li><a href='releases/1.0.0/indx.php'>Release 1.0.0</a></li>
+				<li><a href="releases/releases.php">Click here for all releases</a></li>
+			</ul>
 		</h2>
 		</p><br/> 
 		

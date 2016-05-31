@@ -27,7 +27,7 @@
 		
 		<h2>
 			<p style="background-color:lightgrey;>
-				<a href="1.0.0/index.php">Release 1.0.0 (Release date 1st June 2016</a>
+				<ul><a href="1.0.0/index.php">Release 1.0.0 (Release date 1st June 2016)</a></ul>
 			</p>
 		</h2>
 	

@@ -26,7 +26,7 @@
 		<br/>
 		
 		<p><h2>
-		<a href="releases/index.php">Releases</a>
+		<a href="releases/releases.php">Releases</a>
 		</h2></p><br/> 
 		
 		<h2>Latest</h2>

@@ -25,6 +25,10 @@
 		<h1>$pageTitle</h1>
 		<br/>
 		
+		<p><b>
+		<a href="releases/index.php">Releases</a>
+		</b></p><br/> 
+		
 		<h2>Latest</h2>
 
 		<h4>Nebula Stable Widgets <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'> 

@@ -278,7 +278,7 @@
 							<tr>
 								<td align="center"><a
 									href="/nebula/widgets/stw/stw.php.php"><img
-										src="images/stw.png" width="320px" border="0"
+										src="images/stw.gif" width="320px" border="0"
 										alt="State Transition Widget."
 										title="STE - State Transition Widget"></a></td>
 							</tr>
@@ -298,7 +298,7 @@
 										title="GeoMap"></a></td>
 							</tr>
 							<tr>
-								<td align="center"><b>XViewer</b></td>
+								<td align="center"><b>Geomap</b></td>
 							</tr>
 						</table>
 					</td>		

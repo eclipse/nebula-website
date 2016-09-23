@@ -27,6 +27,7 @@
 		
 		<h2>Releases</h2>
 			<ul>
+				<li><a href='releases/1.1.0/index.php'>Release 1.1.0</a></li>
 				<li><a href='releases/1.0.0/index.php'>Release 1.0.0</a></li>
 			</ul>
 		</h2>

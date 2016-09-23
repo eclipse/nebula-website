@@ -307,6 +307,20 @@
 							</tr>
 						</table>
 					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="/nebula/widgets/stw/stw.php"><img
+										src="images/stw1.gif" border="0"
+										alt="STW - SWT Transition Widget is a widget for adding fancy transition effects."
+										title="STW - SWT Transition Widget"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>STW - SWT Transition Widget</b></td>
+							</tr>
+						</table>
+					</td>
 					
 					<td align="center" valign="bottom">
 					</td>
@@ -532,21 +546,7 @@
 							</tr>
 						</table>
 					</td>
-					
-					<td align="center" valign="bottom">
-						<table>
-							<tr>
-								<td align="center"><a href="/nebula/widgets/stw/stw.php"><img
-										src="images/stw1.gif" border="0"
-										alt="STW - SWT Transition Widget is a widget for adding fancy transition effects."
-										title="STW - SWT Transition Widget"></a></td>
-							</tr>
-							<tr>
-								<td align="center"><b>STW - SWT Transition Widget</b></td>
-							</tr>
-						</table>
-					</td>
-										
+															
 				</tr>
 
 				<tr>

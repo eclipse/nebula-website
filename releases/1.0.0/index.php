@@ -32,7 +32,7 @@
 		<h3>Downloads</a></h3>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/1.0.0/repository-nebula-1.0.0.zip">http://download.eclipse.org/nebula/releases/1.0.0</a></li>
+					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/1.0.0">http://download.eclipse.org/nebula/releases/1.0.0</a></li>
 					<li>Update site repo zipped: <a href="http://download.eclipse.org/nebula/releases/1.0.0/repository-nebula-1.0.0.zip">repository.zip</a></li>
 				</ul>
 			</p>

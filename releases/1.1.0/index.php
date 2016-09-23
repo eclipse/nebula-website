@@ -35,8 +35,7 @@
 					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/1.1.0/repository-nebula-1.1.0.zip">http://download.eclipse.org/nebula/releases/1.1.0</a></li>
 					<li>Update site repo zipped: <a href="http://download.eclipse.org/nebula/releases/1.1.0/repository-nebula-1.1.0.zip">repository.zip</a></li>
 				</ul>
-			</p>
-
+			</p>	
 
 			<table width="100%" style="margin-top: 20px;">
 				<colgroup>

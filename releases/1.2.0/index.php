@@ -26,7 +26,7 @@
 		<br/>
 		
 		<p>
-		This is the Nebula 1.2.0 releases. <a href="https://bugs.eclipse.org/bugs/buglist.cgi?order=component%2Cpriority%2Cbug_severity&product=Nebula&query_based_on=&query_format=advanced&target_milestone=1.2.0" target=blank>We resolved 23 issues in this release.</a>  
+		This is the Nebula <b>1.2.0</b> release. <a href="https://bugs.eclipse.org/bugs/buglist.cgi?order=component%2Cpriority%2Cbug_severity&product=Nebula&query_based_on=&query_format=advanced&target_milestone=1.2.0" target=blank>We resolved 23 issues in this release.</a>  
 		</p>
 
 		<h3>Downloads</a></h3>

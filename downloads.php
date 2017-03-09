@@ -24,6 +24,16 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<br/>
+
+		<h2>Latest Release (1.2.0)</h2>
+		<p style="font-weight: bold">
+				<ul>
+					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/latest">http://download.eclipse.org/nebula/releases/latest</a></li>
+					<li>Update site repo zipped: <a href="http://download.eclipse.org/nebula/releases/latest/repository-nebula-latest.zip">repository-nebula-latest.zip</a></li>
+				</ul>
+			</p>
+		</h2>
+
 		
 		<h2>Releases</h2>
 			<ul>

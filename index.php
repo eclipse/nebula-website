@@ -50,8 +50,6 @@ function checkTime(i) {
 </script>
 
 
-	<div id="clock">cuckoo</div>
-
 	<div id="maincontent">
 		<div id="midcolumn" onload="startTime()">
 		<img  style="float:right" src="images/nebula_logo_main_300.png" border="0"
@@ -73,6 +71,10 @@ function checkTime(i) {
 				will further describe the component and its function.</p>
 
 			<a name="mainComponents"></a>
+			
+				<div id="clock">cuckoo</div>
+				
+				
 			<h3>Nebula Released Widgets:</h3>
 
 			<table width="100%" style="margin-top: 20px;">

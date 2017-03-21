@@ -75,7 +75,7 @@ function checkTime(i) {
 
 			<a name="mainComponents"></a>
 			
-				<div id="clock" onload="startTime()">cuckoo</div>
+				<div id="clock">cuckoo</div>
 				
 				
 			<h3>Nebula Released Widgets:</h3>
@@ -94,6 +94,7 @@ function checkTime(i) {
 									href="/nebula/widgets/cdatetime/cdatetime.php"><img
 										src="images/cdatetime.png" border="0"
 										alt="The CDateTime is a graphical and textual Date selection widget."
+										onload="startTime()"
 										title="CDateTime"></a></td>
 							</tr>
 							<tr>

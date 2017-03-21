@@ -51,7 +51,7 @@ function checkTime(i) {
 
 
 	<div id="maincontent">
-		<div id="midcolumn" onload="startTime()">
+		<div id="midcolumn">
 		<img  style="float:right" src="images/nebula_logo_main_300.png" border="0"
 			  alt="$pageTitle" align="right">
 			<h1>$pageTitle</h1>
@@ -72,7 +72,7 @@ function checkTime(i) {
 
 			<a name="mainComponents"></a>
 			
-				<div id="clock">cuckoo</div>
+				<div id="clock" onload="startTime()">cuckoo</div>
 				
 				
 			<h3>Nebula Released Widgets:</h3>

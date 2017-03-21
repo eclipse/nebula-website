@@ -50,7 +50,7 @@ function checkTime(i) {
 </script>
 
 
-	<div id="clock"></div>
+	<div id="clock">cuckoo</div>
 
 	<div id="maincontent">
 		<div id="midcolumn" onload="startTime()">

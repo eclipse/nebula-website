@@ -363,7 +363,7 @@
 							<tr>
 								<td align="center"><a
 									href="widgets/visualization/visualization.php">
-										<img src="widgets/visualization/images/Combined.png" width="600 height="600" border="0"
+										<img src="images/visualization.png" border="0"
 										alt="Visualization XY Graph."
 										title="Visualization">
 								</a></td>

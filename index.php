@@ -30,9 +30,30 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
+	
+	<script>
+function startTime() {
+    var today = new Date();
+    var h = today.getHours();
+    var m = today.getMinutes();
+    var s = today.getSeconds();
+    m = checkTime(m);
+    s = checkTime(s);
+    document.getElementById("clock").innerHTML =
+    h + ":" + m + ":" + s;
+    var t = setTimeout(startTime, 500);
+}
+function checkTime(i) {
+    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+    return i;
+}
+</script>
+
+
+	<div id="clock"></div>
 
 	<div id="maincontent">
-		<div id="midcolumn">
+		<div id="midcolumn" onload="startTime()">
 		<img  style="float:right" src="images/nebula_logo_main_300.png" border="0"
 			  alt="$pageTitle" align="right">
 			<h1>$pageTitle</h1>

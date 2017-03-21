@@ -31,7 +31,14 @@
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 	
-	<script>
+
+
+
+	<div id="maincontent">
+		<div id="midcolumn">
+		
+		
+			<script type="text/javascript">
 function startTime() {
     var today = new Date();
     var h = today.getHours();
@@ -48,10 +55,6 @@ function checkTime(i) {
     return i;
 }
 </script>
-
-
-	<div id="maincontent">
-		<div id="midcolumn">
 		<img  style="float:right" src="images/nebula_logo_main_300.png" border="0"
 			  alt="$pageTitle" align="right">
 			<h1>$pageTitle</h1>

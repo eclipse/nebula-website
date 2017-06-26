@@ -4,7 +4,7 @@
 
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula Releases";
+	$pageTitle 		= "Nebula Release 1.3.0";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Release";
 	$pageAuthor		= "Nebula Committers";
 	
@@ -24,12 +24,18 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<br/>
-		This page contains the links to all the Nebula release repositories.
-		<h2>
-			<p style="background-color:lightgrey;">
-				<ul><a href="1.0.0/index.php">Release 1.0.0 (Release date 1st June 2016)</a></ul>
-			</p>
-		</h2>
+		
+		<p>
+		This is the Nebula <b>1.3.0</b> release. <a href="https://bugs.eclipse.org/bugs/buglist.cgi?order=component%2Cpriority%2Cbug_severity&product=Nebula&query_based_on=&query_format=advanced&target_milestone=1.3.0" target=blank>We resolved 77 issues in this release.</a>  
+		</p>
+
+		<h3>Downloads</a></h3>
+			<p style="font-weight: bold">
+				<ul>
+					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/1.3.0">http://download.eclipse.org/nebula/releases/1.3.0</a></li>
+					<li>Update site repo zipped: <a href="http://download.eclipse.org/nebula/releases/1.3.0/repository-nebula-1.3.0.zip">repository.zip</a></li>
+				</ul>
+			</p>	
 	
 EOHTML;
 

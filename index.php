@@ -443,7 +443,7 @@ function checkTime(i) {
 							<tr>
 								<td align="center"><a
 									href="https://wiki.eclipse.org/Nebula_Duallist"><img
-										src="images/opal/duallist.png" border="0"
+										src="images/opal/duallist.jpg" border="0"
 										alt="This widget allows the user to select and order some data in a a list"
 										title="DualList"></a></td>
 							</tr>

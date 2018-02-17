@@ -45,6 +45,28 @@
 		$Nav->addCustomNav("TableCombo",    "/nebula/widgets/tablecombo/tablecombo.php", "_self", 2);
 		$Nav->addCustomNav("Visualization",   "/nebula/widgets/visualization/visualization.php", "_self", 2);
 		$Nav->addCustomNav("XViewer",    "/nebula/widgets/xviewer/xviewer.php", "_self", 2);
+		
+		$Nav->addCustomNav("Breadcrumb",    "https://wiki.eclipse.org/Nebula_Breadcrumb", "_self", 2);
+		$Nav->addCustomNav("CheckboxGroup",    "https://wiki.eclipse.org/Nebula_CheckboxGroup", "_self", 2);
+		$Nav->addCustomNav("ColumnBrowser",    "https://wiki.eclipse.org/Nebula_ColumnBrowser", "_self", 2);
+		$Nav->addCustomNav("Dialog",    "https://wiki.eclipse.org/Nebula_Dialog", "_self", 2);
+		$Nav->addCustomNav("DualList",    "https://wiki.eclipse.org/Nebula_Duallist", "_self", 2);
+		$Nav->addCustomNav("Header",    "https://wiki.eclipse.org/Nebula_Header", "_self", 2);
+		$Nav->addCustomNav("HeapManager",    "https://wiki.eclipse.org/Nebula_HeapManager", "_self", 2);
+		$Nav->addCustomNav("LoginDialog",    "https://wiki.eclipse.org/Nebula_LoginDialog", "_self", 2);
+		$Nav->addCustomNav("Multichoice",    "https://wiki.eclipse.org/Nebula_Multichoice", "_self", 2);
+		$Nav->addCustomNav("Notifier",    "https://wiki.eclipse.org/Nebula_Notifier", "_self", 2);
+		$Nav->addCustomNav("PreferenceWindow",    "https://wiki.eclipse.org/Nebula_PreferenceWindow", "_self", 2);
+		$Nav->addCustomNav("PromptSupport",    "https://wiki.eclipse.org/Nebula_PromptSupport", "_self", 2);
+		$Nav->addCustomNav("PropertyTable",    "https://wiki.eclipse.org/Nebula_PropertyTable", "_self", 2);
+		$Nav->addCustomNav("RangeSlider",    "https://wiki.eclipse.org/Nebula_RangeSlider", "_self", 2);
+		$Nav->addCustomNav("RoundedToolbar",    "https://wiki.eclipse.org/Nebula_RoundedToolbar", "_self", 2);
+		$Nav->addCustomNav("StarRating",    "https://wiki.eclipse.org/Nebula_StarRating", "_self", 2);
+		$Nav->addCustomNav("TextAssist",    "https://wiki.eclipse.org/Nebula_TextAssist", "_self", 2);
+		$Nav->addCustomNav("Tip of the Day",    "https://wiki.eclipse.org/Nebula_TipOfTheDay", "_self", 2);
+		$Nav->addCustomNav("TitledSeparator",    "https://wiki.eclipse.org/Nebula_TitledSeparator", "_self", 2);
+			
+		
 	$Nav->addNavSeparator("Nebula NatTable", "");
 		$Nav->addCustomNav("NatTable",		"/nattable/index.php",	 	"_self", 2);
 $Nav->addNavSeparator("Nebula Incubation", "");

@@ -354,8 +354,364 @@ function checkTime(i) {
 				
 				</tr>
 				
+				<!-- Opal Widgets -->
+				
 				<tr>
-					<td align="center" valign="bottom"></td>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Breadcrumb"><img
+										src="images/opal/breadcrumb.png" border="0"
+										alt="The purpose of the Breadcrumb widget is to give the application developer a bread crumb like the ones present on web sites."
+										title="Breadcrumb"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Breadcrumb</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_CheckboxGroup"><img
+										src="images/opal/checkboxgroup.png" border="0"
+										alt="Checkbox group proposes a group in which elements can be easily enabled/disabled"
+										title="CheckboxGroup"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CheckboxGroup</b></td>
+							</tr>
+						</table>
+					</td>
+					
+				
+				</tr>
+				
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_ColumnBrowser"><img
+										src="images/opal/columnbrowser.png" border="0"
+										alt="The purpose of the ColumnBrowser widget is to present data in 'miller column' way."
+										title="ColumnBrowser"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>ColumnBrowser</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Dialog"><img
+										src="images/opal/dialog.png" border="0"
+										alt="This widget proposes new modern Dialog Boxes"
+										title="Dialog"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Dialog</b></td>
+							</tr>
+						</table>
+					</td>
+					
+				
+				</tr>
+				
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Duallist"><img
+										src="images/opal/duallist.png" border="0"
+										alt="This widget allows the user to select and order some data in a a list"
+										title="DualList"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>DualList</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Header"><img
+										src="images/opal/header.png" border="0"
+										alt="This widget makes easier the construction of headers in your application"
+										title="Header"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Header</b></td>
+							</tr>
+						</table>
+					</td>
+					
+				
+				</tr>
+				
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_HeapManager"><img
+										src="images/opal/heapmanager.png" border="0"
+										alt="This widget displays the state of the heap memory, and propose a button to perform a GC."
+										title="HeapManager"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>HeapManager</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_LoginDialog"><img
+										src="images/opal/login.png" border="0"
+										alt="This widget proposes a simple login/password dialog box"
+										title="Login"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>LoginDialog</b></td>
+							</tr>
+						</table>
+					</td>
+					
+				
+				</tr>
+				
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Multichoice"><img
+										src="images/opal/multichoice.png" border="0"
+										alt="This widget proposes a way to select multiple items in a list"
+										title="Multichoice"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Multichoice</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Notifier"><img
+										src="images/opal/notifier.png" border="0"
+										alt="This widget allows developers to show notifications in a 'toaster'"
+										title="Notifier"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Notifier</b></td>
+							</tr>
+						</table>
+					</td>
+					
+				</tr>
+				
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_PreferenceWindow"><img
+										src="images/opal/preferencewindow.png" border="0"
+										alt="This widget proposes a simple way to build a preference window."
+										title="PreferenceWindow"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PreferenceWindow</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_PromptSupport"><img
+										src="images/opal/promptsupport.png" border="0"
+										alt="This widget allows developers to add prompt texts on widgets"
+										title="PromptSupport"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PromptSupport</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_PropertyTable"><img
+										src="images/opal/propertytable.png" border="0"
+										alt="This widget proposes a simple way to build a table that presents a list of editable properties."
+										title="PreferenceWindow"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PreferenceWindow</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_RangeSlider"><img
+										src="images/opal/rangeslider.png" border="0"
+										alt="This widget is an enhanced slider that handle a range of values"
+										title="RangeSlider"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>RangeSlider</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_RoundedToolbar"><img
+										src="images/opal/roundedtoolbar.png" border="0"
+										alt="This widget proposes another look for toolbar (close to the Mac OSX look)."
+										title="RoundedToolbar"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>RoundedToolbar</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_StarRating"><img
+										src="images/opal/starrating.png" border="0"
+										alt="This widget proposes a simple way to rate any data"
+										title="StarRating"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>StarRating</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_TextAssist"><img
+										src="images/opal/textassist.png" border="0"
+										alt="This widget proposes a text widget with content proposal."
+										title="TextAssist"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>TextAssist</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_TipOfTheDay"><img
+										src="images/opal/totd.png" border="0"
+										alt="This widget propose a 'Tip Of the Day' dialog box"
+										title="Tip of the day"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Tip of the day</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_TitledSeparator"><img
+										src="images/opal/titledseparator.png" border="0"
+										alt="This widget proposes an enhanced separator."
+										title="TitledSeparator"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>TitledSeparator</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+					</td>
+					
 				</tr>
 
 			</table>

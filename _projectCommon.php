@@ -65,6 +65,7 @@
 		$Nav->addCustomNav("TextAssist",    "https://wiki.eclipse.org/Nebula_TextAssist", "_self", 2);
 		$Nav->addCustomNav("Tip of the Day",    "https://wiki.eclipse.org/Nebula_TipOfTheDay", "_self", 2);
 		$Nav->addCustomNav("TitledSeparator",    "https://wiki.eclipse.org/Nebula_TitledSeparator", "_self", 2);
+		$Nav->addCustomNav("Calculator",    "https://wiki.eclipse.org/Nebula_Calculator", "_self", 2);
 			
 		
 	$Nav->addNavSeparator("Nebula NatTable", "");

@@ -710,6 +710,18 @@ function checkTime(i) {
 					</td>
 
 					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Calculator"><img
+										src="images/opal/calculator.png" border="0"
+										alt="This widget proposes a calculator, that can be used in a combo."
+										title="Calculator"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Calculator</b></td>
+							</tr>
+						</table>
 					</td>
 					
 				</tr>

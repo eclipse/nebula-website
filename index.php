@@ -726,6 +726,82 @@ function checkTime(i) {
 					
 				</tr>
 
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_HorizontalSpinner"><img
+										src="images/opal/horizontalSpinner.jpg" border="0"
+										alt="This widget proposes an alternative to the spinner widget."
+										title="Horizontal Spinner"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Horizontal Spinner</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Launcher"><img
+										src="images/opal/launcher.png" border="0"
+										alt="This widget displays buttons. When ones click on a button, a fancy animation is shown"
+										title="Launcher"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Launcher</b></td>
+							</tr>
+						</table>
+					</td>
+					
+				</tr>
+				
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Panels"><img
+										src="images/opal/darkpanel.png" border="0"
+										alt="This widget proposes an effect for dialog boxes."
+										title="Panels"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Panels</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_SwitchButton"><img
+										src="images/opal/switchbutton.jpg" border="0"
+										alt="This widget proposes a switch button."
+										title="Switch Button"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Switch Button</b></td>
+							</tr>
+						</table>
+					</td>
+					
+				</tr>
+				
 			</table>
 
 			<a name="NatTable"></a>

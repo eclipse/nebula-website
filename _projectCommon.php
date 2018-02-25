@@ -44,10 +44,13 @@
 		$Nav->addCustomNav("Grid", 			"/nebula/widgets/grid/grid.php",	 		"_self", 2);
 		$Nav->addCustomNav("Header",    "https://wiki.eclipse.org/Nebula_Header", "_self", 2);
 		$Nav->addCustomNav("HeapManager",    "https://wiki.eclipse.org/Nebula_HeapManager", "_self", 2);
+		$Nav->addCustomNav("Horizontal Spinner",    "https://wiki.eclipse.org/Nebula_HorizontalSpinner", "_self", 2);
+		$Nav->addCustomNav("Launcher",    "https://wiki.eclipse.org/Nebula_Launcher", "_self", 2);
 		$Nav->addCustomNav("LoginDialog",    "https://wiki.eclipse.org/Nebula_LoginDialog", "_self", 2);
 		$Nav->addCustomNav("Multichoice",    "https://wiki.eclipse.org/Nebula_Multichoice", "_self", 2);
 		$Nav->addCustomNav("Notifier",    "https://wiki.eclipse.org/Nebula_Notifier", "_self", 2);
 		$Nav->addCustomNav("Oscilloscope",    "/nebula/widgets/oscilloscope/oscilloscope.php", "_self", 2);
+		$Nav->addCustomNav("Panels",    "https://wiki.eclipse.org/Nebula_Panels", "_self", 2);
 		$Nav->addCustomNav("PaperClips",    "/nebula/widgets/paperclips/paperclips.php", "_self", 2);
 		$Nav->addCustomNav("PreferenceWindow",    "https://wiki.eclipse.org/Nebula_PreferenceWindow", "_self", 2);
 		$Nav->addCustomNav("PromptSupport",    "https://wiki.eclipse.org/Nebula_PromptSupport", "_self", 2);
@@ -58,6 +61,7 @@
 		$Nav->addCustomNav("RichText",		"/nebula/widgets/richtext/richtext.php",	 	"_self", 2);
 		$Nav->addCustomNav("RoundedToolbar",    "https://wiki.eclipse.org/Nebula_RoundedToolbar", "_self", 2);
 		$Nav->addCustomNav("StarRating",    "https://wiki.eclipse.org/Nebula_StarRating", "_self", 2);
+		$Nav->addCustomNav("SwitchButton",    "https://wiki.eclipse.org/Nebula_SwitchButton", "_self", 2);
 		$Nav->addCustomNav("TableCombo",    "/nebula/widgets/tablecombo/tablecombo.php", "_self", 2);
 		$Nav->addCustomNav("TextAssist",    "https://wiki.eclipse.org/Nebula_TextAssist", "_self", 2);
 		$Nav->addCustomNav("Tip of the Day",    "https://wiki.eclipse.org/Nebula_TipOfTheDay", "_self", 2);

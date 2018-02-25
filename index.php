@@ -737,7 +737,7 @@ function checkTime(i) {
 							<tr>
 								<td align="center"><a
 									href="https://wiki.eclipse.org/Nebula_HorizontalSpinner"><img
-										src="images/opal/horizontalSpinner.jpg" border="0"
+										src="images/opal/horizontalSpinner.png" border="0"
 										alt="This widget proposes an alternative to the spinner widget."
 										title="Horizontal Spinner"></a></td>
 							</tr>
@@ -775,7 +775,7 @@ function checkTime(i) {
 							<tr>
 								<td align="center"><a
 									href="https://wiki.eclipse.org/Nebula_Panels"><img
-										src="images/opal/darkpanel.png" border="0"
+										src="images/opal/darkPanel.png" border="0"
 										alt="This widget proposes an effect for dialog boxes."
 										title="Panels"></a></td>
 							</tr>

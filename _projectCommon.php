@@ -53,6 +53,7 @@
 		$Nav->addCustomNav("Panels",    "https://wiki.eclipse.org/Nebula_Panels", "_self", 2);
 		$Nav->addCustomNav("PaperClips",    "/nebula/widgets/paperclips/paperclips.php", "_self", 2);
 		$Nav->addCustomNav("PreferenceWindow",    "https://wiki.eclipse.org/Nebula_PreferenceWindow", "_self", 2);
+		$Nav->addCustomNav("ProgressCircle",    "https://wiki.eclipse.org/Nebula_ProgressCircle", "_self", 2);
 		$Nav->addCustomNav("PromptSupport",    "https://wiki.eclipse.org/Nebula_PromptSupport", "_self", 2);
 		$Nav->addCustomNav("PropertyTable",    "https://wiki.eclipse.org/Nebula_PropertyTable", "_self", 2);
 		$Nav->addCustomNav("RangeSlider",    "https://wiki.eclipse.org/Nebula_RangeSlider", "_self", 2);

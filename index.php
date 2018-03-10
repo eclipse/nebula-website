@@ -801,6 +801,33 @@ function checkTime(i) {
 					</td>
 					
 				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_ProgressCircle"><img
+										src="images/progresscircle.png" border="0"
+										alt="This widget proposes a simple and light representation of a percentage value."
+										title="Panels"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>ProgressCircle</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						&nbsp;
+					</td>
+					
+				</tr>
 				
 			</table>
 

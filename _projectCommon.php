@@ -48,6 +48,7 @@
 		$Nav->addCustomNav("Launcher",    "https://wiki.eclipse.org/Nebula_Launcher", "_self", 2);
 		$Nav->addCustomNav("LoginDialog",    "https://wiki.eclipse.org/Nebula_LoginDialog", "_self", 2);
 		$Nav->addCustomNav("Multichoice",    "https://wiki.eclipse.org/Nebula_Multichoice", "_self", 2);
+		$Nav->addCustomNav("Nebula Slider",    "https://wiki.eclipse.org/Nebula_NebulaSlider", "_self", 2);
 		$Nav->addCustomNav("Notifier",    "https://wiki.eclipse.org/Nebula_Notifier", "_self", 2);
 		$Nav->addCustomNav("Oscilloscope",    "/nebula/widgets/oscilloscope/oscilloscope.php", "_self", 2);
 		$Nav->addCustomNav("Panels",    "https://wiki.eclipse.org/Nebula_Panels", "_self", 2);

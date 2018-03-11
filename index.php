@@ -824,7 +824,18 @@ function checkTime(i) {
 					</td>
 
 					<td align="center" valign="bottom">
-						&nbsp;
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_NebulaSlider"><img
+										src="images/nebulaslider.png" border="0"
+										alt="This widget proposes another look for the Slider Widget."
+										title="NebulaSlider"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>NebulaSlider</b></td>
+							</tr>
+						</table>
 					</td>
 					
 				</tr>

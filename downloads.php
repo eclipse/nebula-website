@@ -38,7 +38,8 @@
 		
 		<h2>Releases</h2>
 			<ul>
-			    <li><a href='releases/1.4.0/index.php'>Release 1.4.0</a></li>
+			    <li><a href='releases/2.0.0/index.php'>Release 2.0.0</a></li>
+			    <li><b><a href='releases/1.4.0/index.php'>Release 1.4.0</a></b></li>
 			    <li><a href='releases/1.3.0/index.php'>Release 1.3.0</a></li>
 				<li><a href='releases/1.2.0/index.php'>Release 1.2.0</a></li>
 				<li><a href='releases/1.1.0/index.php'>Release 1.1.0</a></li>

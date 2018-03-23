@@ -26,14 +26,14 @@
 		<br/>
 		<h1 style="color: red;">RELEASE NOT FINAL UNTIL MARCH 31 2018</h1>
 		<p>
-		This is the Nebula <b>2.0.0</b> release. <a href="https://bugs.eclipse.org/bugs/buglist.cgi?order=component%2Cpriority%2Cbug_severity&product=Nebula&query_based_on=&query_format=advanced&target_milestone=2.0.0" target=blank>We resolved 26 issues in this release and added 26 new widgets.</a>  
+		This is the Nebula <b>2.0.0</b> release. <a href="https://bugs.eclipse.org/bugs/buglist.cgi?order=component%2Cpriority%2Cbug_severity&product=Nebula&query_based_on=&query_format=advanced&target_milestone=2.0.0" target=blank>We resolved 51 issues in this release and added 26 new widgets.</a>  
 		</p>
 
 		<h3>Downloads</a></h3>
 			<p style="font-weight: bold">
 				<ul>
 					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/2.0.0">http://download.eclipse.org/nebula/releases/2.0.0</a></li>
-					<li>Update site repo zipped: <a href="http://download.eclipse.org/nebula/releases/2.0.0/repository-nebula-2.0.0.zip">repository.zip</a></li>
+					<li>Update site repo zipped: <a href="http://www.eclipse.org/downloads/download.php?file=/nebula/releases/2.0.0/repository-nebula-2.0.0.zip">repository.zip</a></li>
 					<li>Javadoc:  <a href="javadoc/index.html">Link to Javadoc</a></li>
 				</ul>
 			</p>	

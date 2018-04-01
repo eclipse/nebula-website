@@ -24,7 +24,6 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<br/>
-		<h1 style="color: red;">RELEASE NOT FINAL UNTIL MARCH 31 2018</h1>
 		<p>
 		This is the Nebula <b>2.0.0</b> release. <a href="https://bugs.eclipse.org/bugs/buglist.cgi?order=component%2Cpriority%2Cbug_severity&product=Nebula&query_based_on=&query_format=advanced&target_milestone=2.0.0" target=blank>We resolved 51 issues in this release and added 26 new widgets.</a>  
 		</p>

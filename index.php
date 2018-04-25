@@ -80,7 +80,7 @@ function checkTime(i) {
 				
 			<h3>Nebula Released Widgets:</h3>
 
-			<table width="100%" style="margin-top: 20px;">
+			<table width="75%" style="margin-top: 20px;">
 				<colgroup>
 					<col width="320">
 					<col width="320">

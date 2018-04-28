@@ -30,7 +30,7 @@
 				<ul>
 					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/latest">http://download.eclipse.org/nebula/releases/latest</a></li>
 					<li>Update site repo zipped: <a href="http://www.eclipse.org/downloads/download.php?file=/nebula/releases/latest/repository-nebula-latest.zip">repository-nebula-latest.zip</a></li>
-					<li>Javadoc:  <a href="releases/2.0.0/javadoc/index.html">Link to Javadoc</a></li>
+					<li>Javadoc:  <a href="releases/2.0.1/javadoc/index.html">Link to Javadoc</a></li>
 				</ul>
 			</p>
 		</h2>

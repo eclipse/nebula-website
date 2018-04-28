@@ -36,7 +36,7 @@
 					<li>Javadoc:  <a href="javadoc/index.html">Link to Javadoc</a></li>
 				</ul>
 			</p>	
-	
+	</div>
 EOHTML;
 
 	# Generate the web page

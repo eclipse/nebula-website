@@ -55,7 +55,7 @@ function checkTime(i) {
     return i;
 }
 </script>
-		<img  style="float:right" src="images/nebula_logo_main_300.png" border="0"
+		<img class="img-responsive"  style="float:right" src="images/nebula_logo_main_300.png" border="0"
 			  alt="$pageTitle" align="right">
 			<h1>$pageTitle</h1>
 
@@ -80,10 +80,10 @@ function checkTime(i) {
 				
 			<h3>Nebula Released Widgets:</h3>
 
-			<table width="75%" style="margin-top: 20px;">
+			<table width="100%" style="margin-top: 20px;">
 				<colgroup>
-					<col width="320">
-					<col width="320">
+					<col>
+					<col>
 				</colgroup>
 				<tr>
 
@@ -91,7 +91,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/cdatetime/cdatetime.php"><img
+									href="/nebula/widgets/cdatetime/cdatetime.php"><img class="img-responsive"
 										src="images/cdatetime.png" border="0"
 										alt="The CDateTime is a graphical and textual Date selection widget."
 										onload="startTime()"
@@ -107,7 +107,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/pshelf/pshelf.php"><img
+									href="/nebula/widgets/pshelf/pshelf.php"><img class="img-responsive"
 										src="images/pshelf.png" border="0"
 										alt="PShelf is a composite widget similar to a tab folder but uses an accordion-like metaphor."
 										title="PShelf"></a></td>
@@ -131,7 +131,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/ganttchart/ganttchart.php"><img
+									href="/nebula/widgets/ganttchart/ganttchart.php"><img class="img-responsive"
 										src="images/ganttchart.png" border="0"
 										alt="GanttChart is a full featured and customizable GANTT charting component."
 										title="GanttChart" width="300"></a></td>
@@ -146,7 +146,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/gallery/gallery.php"><img
+									href="/nebula/widgets/gallery/gallery.php"><img class="img-responsive"
 										src="images/gallery.png" border="0"
 										alt="Gallery lets you display any number of items organised in groups. Several group and item renderers are available with support for dynamic item size, drop shadows, auto margins, icon and list styles."
 										title="Gallery"></a></td>
@@ -169,7 +169,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="/nebula/widgets/grid/grid.php"><img
+								<td align="center"><a href="/nebula/widgets/grid/grid.php"><img class="img-responsive"
 										src="images/grid.png" border="0"
 										alt="The Grid is a table component that offers spreadsheet like features."
 										title="Grid"></a></td>
@@ -184,7 +184,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/paperclips/paperclips.php"><img
+									href="/nebula/widgets/paperclips/paperclips.php"><img class="img-responsive"
 										src="images/paperclips.jpg" width="320" height="240"
 										border="0"
 										alt="PaperClips is a simple, light weight, extensible Java printing library for SWT"
@@ -209,7 +209,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/oscilloscope/oscilloscope.php"><img
+									href="/nebula/widgets/oscilloscope/oscilloscope.php"><img class="img-responsive"
 										src="images/scope.gif" border="0"
 										alt="Oscilloscope is a fun and versatile widget for monitoring critical processes."
 										title="Oscilloscope"></a></td>
@@ -225,7 +225,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/pgroup/pgroup.php"><img
+									href="/nebula/widgets/pgroup/pgroup.php"><img class="img-responsive"
 										src="images/pgroup.png" border="0"
 										alt="PGroup is a expandable/collapsible composite widget with attractive styling and an extensible design."
 										title="PGroup"></a></td>
@@ -248,7 +248,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/pshelf/pshelf.php"><img
+									href="/nebula/widgets/pshelf/pshelf.php"><img class="img-responsive"
 										src="images/pshelf.png" border="0"
 										alt="PShelf is a composite widget similar to a tab folder but uses an accordion-like metaphor."
 										title="PShelf"></a></td>
@@ -263,7 +263,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="/nebula/widgets/richtext/richtext.php"><img
+								<td align="center"><a href="/nebula/widgets/richtext/richtext.php"><img class="img-responsive"
 										src="images/richtext.png" border="0"
 										alt="RichText - Embeddable rich text controls for editing and rendering HTML formatted text."
 										title="RichText"></a></td>
@@ -286,7 +286,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/geomap/geomap.php"><img
+									href="/nebula/widgets/geomap/geomap.php"><img class="img-responsive"
 										src="images/example_geomap.png" border="0"
 										alt="The GeoMap is a control that allows you to display data from an openstreetmap server."
 										title="Geomap"></a></td>
@@ -301,7 +301,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/tablecombo/tablecombo.php"><img
+									href="/nebula/widgets/tablecombo/tablecombo.php"><img class="img-responsive"
 										src="images/tablecombo.png" width="320px" border="0"
 										alt="TableCombo is a composite widget similar to a CCombo but uses a table instead of a list control."
 										title="TableCombo"></a></td>
@@ -324,7 +324,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/xviewer/xviewer.php"><img
+									href="/nebula/widgets/xviewer/xviewer.php"><img class="img-responsive"
 										src="images/xviewer.png" border="0"
 										alt="The purpose of the XViewer is to give the application developer a more advanced and dynamic TreeViewer that has the filtering and sorting the capabilities of a spreadsheet while providing the users the ability to customize their table to suit their current needs and save/restore these customizations for future use by individual or group."
 										title="XViewer"></a></td>
@@ -338,7 +338,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="/nebula/widgets/stw/stw.php"><img
+								<td align="center"><a href="/nebula/widgets/stw/stw.php"><img class="img-responsive"
 										src="images/stw1.gif" border="0"
 										alt="STW - SWT Transition Widget is a widget for adding fancy transition effects."
 										title="STW - SWT Transition Widget"></a></td>
@@ -366,7 +366,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_Breadcrumb"><img
+									href="https://wiki.eclipse.org/Nebula_Breadcrumb"><img class="img-responsive"
 										src="images/opal/breadcrumb.png" border="0"
 										alt="The purpose of the Breadcrumb widget is to give the application developer a bread crumb like the ones present on web sites."
 										title="Breadcrumb"></a></td>
@@ -380,7 +380,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="https://wiki.eclipse.org/Nebula_CheckboxGroup"><img
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_CheckboxGroup"><img class="img-responsive"
 										src="images/opal/checkboxgroup.png" border="0"
 										alt="Checkbox group proposes a group in which elements can be easily enabled/disabled"
 										title="CheckboxGroup"></a></td>
@@ -404,7 +404,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_ColumnBrowser"><img
+									href="https://wiki.eclipse.org/Nebula_ColumnBrowser"><img class="img-responsive"
 										src="images/opal/columnbrowser.png" border="0"
 										alt="The purpose of the ColumnBrowser widget is to present data in 'miller column' way."
 										title="ColumnBrowser"></a></td>
@@ -418,7 +418,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Dialog"><img
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Dialog"><img class="img-responsive"
 										src="images/opal/dialog.png" border="0"
 										alt="This widget proposes new modern Dialog Boxes"
 										title="Dialog"></a></td>
@@ -442,7 +442,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_Duallist"><img
+									href="https://wiki.eclipse.org/Nebula_Duallist"><img class="img-responsive"
 										src="images/opal/duallist.jpg" border="0"
 										alt="This widget allows the user to select and order some data in a a list"
 										title="DualList"></a></td>
@@ -456,7 +456,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Header"><img
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Header"><img class="img-responsive"
 										src="images/opal/header.png" border="0"
 										alt="This widget makes easier the construction of headers in your application"
 										title="Header"></a></td>
@@ -480,7 +480,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_HeapManager"><img
+									href="https://wiki.eclipse.org/Nebula_HeapManager"><img class="img-responsive"
 										src="images/opal/heapmanager.png" border="0"
 										alt="This widget displays the state of the heap memory, and propose a button to perform a GC."
 										title="HeapManager"></a></td>
@@ -494,7 +494,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="https://wiki.eclipse.org/Nebula_LoginDialog"><img
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_LoginDialog"><img class="img-responsive"
 										src="images/opal/login.png" border="0"
 										alt="This widget proposes a simple login/password dialog box"
 										title="Login"></a></td>
@@ -518,7 +518,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_Multichoice"><img
+									href="https://wiki.eclipse.org/Nebula_Multichoice"><img class="img-responsive"
 										src="images/opal/multichoice.png" border="0"
 										alt="This widget proposes a way to select multiple items in a list"
 										title="Multichoice"></a></td>
@@ -532,7 +532,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Notifier"><img
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Notifier"><img class="img-responsive"
 										src="images/opal/notifier.png" border="0"
 										alt="This widget allows developers to show notifications in a 'toaster'"
 										title="Notifier"></a></td>
@@ -555,7 +555,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_PreferenceWindow"><img
+									href="https://wiki.eclipse.org/Nebula_PreferenceWindow"><img class="img-responsive"
 										src="images/opal/preferencewindow.png" border="0"
 										alt="This widget proposes a simple way to build a preference window."
 										title="PreferenceWindow"></a></td>
@@ -569,7 +569,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="https://wiki.eclipse.org/Nebula_PromptSupport"><img
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_PromptSupport"><img class="img-responsive"
 										src="images/opal/promptsupport.png" border="0"
 										alt="This widget allows developers to add prompt texts on widgets"
 										title="PromptSupport"></a></td>
@@ -591,7 +591,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_PropertyTable"><img
+									href="https://wiki.eclipse.org/Nebula_PropertyTable"><img class="img-responsive"
 										src="images/opal/propertytable.png" border="0"
 										alt="This widget proposes a simple way to build a table that presents a list of editable properties."
 										title="PreferenceWindow"></a></td>
@@ -605,7 +605,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="https://wiki.eclipse.org/Nebula_RangeSlider"><img
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_RangeSlider"><img class="img-responsive"
 										src="images/opal/rangeslider.png" border="0"
 										alt="This widget is an enhanced slider that handle a range of values"
 										title="RangeSlider"></a></td>
@@ -626,7 +626,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_RoundedToolbar"><img
+									href="https://wiki.eclipse.org/Nebula_RoundedToolbar"><img class="img-responsive"
 										src="images/opal/roundedtoolbar.png" border="0"
 										alt="This widget proposes another look for toolbar (close to the Mac OSX look)."
 										title="RoundedToolbar"></a></td>
@@ -640,7 +640,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="https://wiki.eclipse.org/Nebula_StarRating"><img
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_StarRating"><img class="img-responsive"
 										src="images/opal/starrating.png" border="0"
 										alt="This widget proposes a simple way to rate any data"
 										title="StarRating"></a></td>
@@ -662,7 +662,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_TextAssist"><img
+									href="https://wiki.eclipse.org/Nebula_TextAssist"><img class="img-responsive"
 										src="images/opal/textassist.png" border="0"
 										alt="This widget proposes a text widget with content proposal."
 										title="TextAssist"></a></td>
@@ -676,7 +676,7 @@ function checkTime(i) {
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a href="https://wiki.eclipse.org/Nebula_TipOfTheDay"><img
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_TipOfTheDay"><img class="img-responsive"
 										src="images/opal/totd.png" border="0"
 										alt="This widget propose a 'Tip Of the Day' dialog box"
 										title="Tip of the day"></a></td>
@@ -698,7 +698,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_TitledSeparator"><img
+									href="https://wiki.eclipse.org/Nebula_TitledSeparator"><img class="img-responsive"
 										src="images/opal/titledseparator.png" border="0"
 										alt="This widget proposes an enhanced separator."
 										title="TitledSeparator"></a></td>
@@ -713,7 +713,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_Calculator"><img
+									href="https://wiki.eclipse.org/Nebula_Calculator"><img class="img-responsive"
 										src="images/opal/calculator.png" border="0"
 										alt="This widget proposes a calculator, that can be used in a combo."
 										title="Calculator"></a></td>
@@ -736,7 +736,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_HorizontalSpinner"><img
+									href="https://wiki.eclipse.org/Nebula_HorizontalSpinner"><img class="img-responsive"
 										src="images/opal/horizontalSpinner.png" border="0"
 										alt="This widget proposes an alternative to the spinner widget."
 										title="Horizontal Spinner"></a></td>
@@ -751,7 +751,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_Launcher"><img
+									href="https://wiki.eclipse.org/Nebula_Launcher"><img class="img-responsive"
 										src="images/opal/launcher.png" border="0"
 										alt="This widget displays buttons. When ones click on a button, a fancy animation is shown"
 										title="Launcher"></a></td>
@@ -774,7 +774,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_Panels"><img
+									href="https://wiki.eclipse.org/Nebula_Panels"><img class="img-responsive"
 										src="images/opal/darkPanel.png" border="0"
 										alt="This widget proposes an effect for dialog boxes."
 										title="Panels"></a></td>
@@ -789,7 +789,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_SwitchButton"><img
+									href="https://wiki.eclipse.org/Nebula_SwitchButton"><img class="img-responsive"
 										src="images/opal/switchbutton.jpg" border="0"
 										alt="This widget proposes a switch button."
 										title="Switch Button"></a></td>
@@ -812,7 +812,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_ProgressCircle"><img
+									href="https://wiki.eclipse.org/Nebula_ProgressCircle"><img class="img-responsive"
 										src="images/progresscircle.png" border="0"
 										alt="This widget proposes a simple and light representation of a percentage value."
 										title="Panels"></a></td>
@@ -827,7 +827,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_NebulaSlider"><img
+									href="https://wiki.eclipse.org/Nebula_NebulaSlider"><img class="img-responsive"
 										src="images/nebulaslider.png" border="0"
 										alt="This widget proposes another look for the Slider Widget."
 										title="NebulaSlider"></a></td>
@@ -853,7 +853,7 @@ function checkTime(i) {
 							<tr>
 								<td align="center"><a
 									href="https://www.eclipse.org/nattable/">
-										<img src="https://www.eclipse.org/nattable/images/FeatureScreenShot.png" width="600 height="600" border="0"
+										<img class="img-responsive" src="https://www.eclipse.org/nattable/images/FeatureScreenShot.png" width="600 height="600" border="0"
 										alt="NatTable is a powerful and flexible SWT table/grid widget."
 										title="NatTable">
 								</a></td>
@@ -872,7 +872,7 @@ function checkTime(i) {
 							<tr>
 								<td align="center"><a
 									href="widgets/visualization/visualization.php">
-										<img src="images/visualization.png" border="0"
+										<img class="img-responsive" src="images/visualization.png" border="0"
 										alt="Visualization XY Graph."
 										title="Visualization">
 								</a></td>
@@ -886,8 +886,8 @@ function checkTime(i) {
 			<h3>Nebula Incubation Widgets :</h3>
 			<table width="100%" style="margin-top: 20px;">
 				<colgroup>
-					<col width="320">
-					<col width="320">
+					<col>
+					<col>
 				</colgroup>
 
 				<tr>
@@ -896,7 +896,7 @@ function checkTime(i) {
 							<tr>
 								<td align="center"><a
 									href="/nebula/widgets/collapsiblebuttons/collapsiblebuttons.php">
-										<img src="images/collapsiblebuttons.png" border="0"
+										<img class="img-responsive" src="images/collapsiblebuttons.png" border="0"
 										alt="CollapsibleButtons is a widget similar to the Microsoft Outlook button navigation bar."
 										title="CollapsibleButtons">
 								</a></td>
@@ -911,7 +911,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/compositetable/compositetable.php"><img
+									href="/nebula/widgets/compositetable/compositetable.php"><img class="img-responsive"
 										src="images/compositetable.png" border="0"
 										alt="CompositeTable gives you total flexibility to present and edit row-oriented data however you want."
 										title="CompositeTable"></a></td>
@@ -933,7 +933,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/datechooser/datechooser.php"><img
+									href="/nebula/widgets/datechooser/datechooser.php"><img class="img-responsive"
 										src="images/datechooser.png" border="0"
 										alt="DateChooser is a graphical date selection widget, with a fully customizable look & feel which is consistent between the differents platforms."
 										title="DateChooser"></a></td>
@@ -947,7 +947,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/datechooser/datechooser.php"><img
+									href="/nebula/widgets/datechooser/datechooser.php"><img class="img-responsive"
 										src="images/datechoosercombo.png" border="0"
 										alt="DateChooserCombo combines a FormattedText / DateFormatter with a drop down DateChooser popup."
 										title="DateChooserCombo"></a></td>
@@ -968,7 +968,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/formattedtext/formattedtext.php"><img
+									href="/nebula/widgets/formattedtext/formattedtext.php"><img class="img-responsive"
 										src="images/formattedtext.png" border="0"
 										alt="Decorator component adding input and display mask capabilities on a Text widget."
 										title="FormattedText"></a></td>
@@ -983,7 +983,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/treemapper/treemapper.php"><img
+									href="/nebula/widgets/treemapper/treemapper.php"><img class="img-responsive"
 										src="images/treemapper.png" width="320px"
 										alt="The TreeMapper widget is a widget that allows you to define mapping by simply drag and drop elements between 2 JFace TreeViewers"></a></td>
 							</tr>
@@ -1007,7 +1007,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/radiogroup/radiogroup.php"><img
+									href="/nebula/widgets/radiogroup/radiogroup.php"><img class="img-responsive"
 										src="images/radiogroup.png" border="0"
 										alt="RadioGroup presents a group of radio buttons"
 										title="RadioGroup"></a></td>
@@ -1022,7 +1022,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/picture/picture.php"><img
+									href="/nebula/widgets/picture/picture.php"><img class="img-responsive"
 										src="images/picture.png" border="0"
 										alt="The Picture control is a control that allows you to display an image, remove and modify it."
 										title="Picture"></a></td>
@@ -1045,7 +1045,7 @@ function checkTime(i) {
 						<table>
 							<tr>
 								<td align="center"><a
-									href="/nebula/widgets/pagination/pagination.php"><img
+									href="/nebula/widgets/pagination/pagination.php"><img class="img-responsive"
 										src="images/pagination.png" border="0"
 										alt="The Pagination control is a control that allows you to display data in a table with navigation page."
 										title="Pagination"></a></td>
@@ -1067,13 +1067,13 @@ function checkTime(i) {
 			<hr class="clearer" />
 		</div>
 
-		<div id="rightcolumn">
+		<div class="col-md-24">
 
 			<div class="sideitem">
 				<h6>Comments</h6>
 				<div align="center">
 					<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=373009">
-						<img align="center"
+						<img class="img-responsive" align="center"
 						src="https://wiki.eclipse.org/images/7/7d/Bug.png" border="0"
 						alt="Report Problems with this site here" />Report page problems here.
 					</a>

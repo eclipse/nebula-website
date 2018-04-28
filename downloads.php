@@ -25,7 +25,7 @@
 		<h1>$pageTitle</h1>
 		<br/>
 
-		<h2>Latest Release (2.0.0)</h2>
+		<h2>Latest Release (2.0.1)</h2>
 		<p style="font-weight: bold">
 				<ul>
 					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/latest">http://download.eclipse.org/nebula/releases/latest</a></li>
@@ -38,7 +38,8 @@
 		
 		<h2>Releases</h2>
 			<ul>
-			    <li><b><a href='releases/2.0.0/index.php'>Release 2.0.0</a></b></li>
+			    <li><b><a href='releases/2.0.1/index.php'>Release 2.0.1</a></b></li>
+			    <li><a href='releases/2.0.0/index.php'>Release 2.0.0</a></li>
 			    <li><a href='releases/1.4.0/index.php'>Release 1.4.0</a></li>
 			    <li><a href='releases/1.3.0/index.php'>Release 1.3.0</a></li>
 				<li><a href='releases/1.2.0/index.php'>Release 1.2.0</a></li>

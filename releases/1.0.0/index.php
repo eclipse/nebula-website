@@ -305,7 +305,7 @@
 							</tr>							
 						</table>
 			</table>
-	
+		</div>
 EOHTML;
 
 	# Generate the web page

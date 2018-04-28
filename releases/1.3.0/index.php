@@ -36,7 +36,7 @@
 					<li>Update site repo zipped: <a href="http://download.eclipse.org/nebula/releases/1.3.0/repository-nebula-1.3.0.zip">repository.zip</a></li>
 				</ul>
 			</p>	
-	
+		</div>
 EOHTML;
 
 	# Generate the web page

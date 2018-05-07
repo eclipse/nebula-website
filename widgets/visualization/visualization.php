@@ -88,7 +88,7 @@
 </ul>
 </p>
 		<p>
-		<a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/visualization/org.eclipse.nebula.visualization.xygraph/html/GettingStarted.html'>Getting Started</a>
+		<a href='html/GettingStarted.html'>Getting Started</a>
 		</p>
         <p>
         <a href='/nebula/snippets.php#Visualization'>Snippets</a>

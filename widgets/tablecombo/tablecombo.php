@@ -55,12 +55,6 @@
 		</p>
 
         <p>
-        NOTE: The TableCombo widget is in an <font color="red"><b>ALPHA</b></font> state.
-        The API is stable, but users should expect changes in future versions: add of
-        new features, minor behavior changes.
-        </p>
-        <br>
-        <p>
         <a href='/nebula/snippets.php#TableCombo'>Snippets</a>
         </p>
 

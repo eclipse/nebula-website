@@ -57,19 +57,10 @@
       	</ul>
 
 		<p>
-		<b>Update!</b> The CalendarCombo now supports date range selection. Due to this the constructor API has been reworked. Another addition is the ability to set dates "prior to" and "after" which should be blocked from user selection.
 		<br><br>
-		<font color="red">IMPORTANT: Due to certain listeners not firing, this widget does not work correctly under GTK. It does work fine on Windows and OS X.</font>
+		<font color="red">IMPORTANT: Due to certain listeners not firing, this widget does not work correctly under GTK. It does work fine on Windows and OS X. <br><br>This widget is no longer maintained. Please use <a href="https://www.eclipse.org/nebula/widgets/cdatetime/cdatetime.phpCDateTime">CDateTime</a>.</br></br></font>
 		</p>
-
-		<p>
-			<a href='http://hexapixel.com/software/calendarcombo'>Additional Documentation</a>
-		</p>
-		<p>
-			<a href="http://www.hexapixel.com/files/nightly/">Download</a> </li>
-		</p>
-
-		<hr class="clearer"/>
+	<hr class="clearer"/>
 	</div>
 
 

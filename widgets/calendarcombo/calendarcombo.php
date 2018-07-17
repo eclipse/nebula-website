@@ -35,6 +35,8 @@
 		<h1>$pageTitle</h1>
 		<h2>CalendarCombo</h2>
 
+		 <br><br>This widget is no longer maintained. Please use <a href="https://www.eclipse.org/nebula/widgets/cdatetime/cdatetime.php?page=operation">CDateTime</a>.</br></br>
+
 		<table border="0" cellspacing="2" cellpadding="0">
 			<tr>
 				<td><img src='images/calendarcombo.png'></td>
@@ -58,7 +60,7 @@
 
 		<p>
 		<br><br>
-		<font color="red">IMPORTANT: Due to certain listeners not firing, this widget does not work correctly under GTK. It does work fine on Windows and OS X. <br><br>This widget is no longer maintained. Please use <a href="https://www.eclipse.org/nebula/widgets/cdatetime/cdatetime.phpCDateTime">CDateTime</a>.</br></br></font>
+		<font color="red">IMPORTANT: Due to certain listeners not firing, this widget does not work correctly under GTK. It does work fine on Windows and OS X.</font>
 		</p>
 	<hr class="clearer"/>
 	</div>

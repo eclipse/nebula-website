@@ -37,9 +37,9 @@
 	<div id="maincontent">
 		<div id="midcolumn">
 	
-		<img class="img-responsive"  style="float:right" src="images/nebula_logo_main_300.png" border="0"
-			  alt="$pageTitle" align="right">
-			<h1>$pageTitle</h1>
+		<img class="img-responsive"  style="float:left" src="images/nebula_logo_main_300.png" border="0"
+			  alt="$pageTitle" align="left">
+			<!-- h1>$pageTitle</h1 -->
 			  
 			  <p/>
 		

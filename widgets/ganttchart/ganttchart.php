@@ -47,10 +47,10 @@
 			<li>Lots and lots more. See screenshots below.
 		</ul>
 		<p>
-		<b>GanttChart - BETA</b> (shown using GanttSections - Silver theme)<br>
+		<b>GanttChart</b> (shown using GanttSections - Silver theme)<br>
 		<img src='images/gantt_20_silver.jpg'>
 		<br><br>
-		<b>GanttChart - BETA</b> (shown using GanttSections - Blue theme)<br>
+		<b>GanttChart</b> (shown using GanttSections - Blue theme)<br>
 		<img src='images/gantt_sections.jpg'>
 		<p>
 		The GANTT chart is a fully customizable widget for displaying anything from a simple chart to allowing user interaction via drag and drop and resizing and well
@@ -66,9 +66,6 @@
 		<p>
 			<a href='/nebula/snippets.php#GanttChart'>Snippets</a>
 		</p>		
-		<p>
-			<a href='http://hexapixel.com/software/ganttwidget'>Additional Documentation</a>
-		</p>
 		<p>
 			<a href="http://www.hexapixel.com/files/nightly/">Download</a> </li>
 		</p>

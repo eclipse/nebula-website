@@ -51,23 +51,16 @@
 		</ul>
 		
 		<img src='images/gallery.jpg'>	
-	    
-		<p>
-		NOTE: The Gallery widget is still under active development. Users should expect changes in future versions.</p>
-		</p>
-		
+
+        <br/>	    
 		<p>TRY IT : The best way to play with all Gallery features is to install the <a href='/nebula/examples.php'>Nebula Examples</a>.</p>
 		
-		<p>
-			DOWNLOAD : Lastest version is <a href="r_0_20110516/">Nebula Gallery r_0_20110516</a>.
-		</p>
 		
 		<p>
 			QUICK START : Look at the <a href='/nebula/snippets.php#Gallery'>Snippets</a>. Other snippets are available on <a href="/nebula/source.php">git</a>.
 		</p>
-		
 		<p>
-			JAVADOC : Javadoc is available for the latest stable version : <a href="r_0_20110516/javadoc/">Javadoc - 0.5.4_R_0_20110516</a>.
+			<a href='https://github.com/eclipse/nebula/pulls?q=label%3AGallery'>Github Issues</a>
 		</p>
 		<p>
 			<a href='https://bugs.eclipse.org/bugs/buglist.cgi?bug_file_loc=&bug_file_loc_type=allwordssubstr&bug_id=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&bugidtype=include&chfieldfrom=&chfieldto=Now&chfieldvalue=&classification=Technology&component=Gallery&email1=&email2=&emailtype1=substring&emailtype2=substring&field-1-0-0=bug_status&field-1-1-0=classification&field-1-2-0=component&field-1-3-0=product&field-1-4-0=resolution&field-1-5-0=version&field0-0-0=noop&keywords=&keywords_type=allwords&long_desc=&long_desc_type=allwordssubstr&product=Nebula&query_format=advanced&remaction=&resolution=FIXED&short_desc=&short_desc_type=allwordssubstr&status_whiteboard=&status_whiteboard_type=allwordssubstr&type-1-0-0=anyexact&type-1-1-0=anyexact&type-1-2-0=anyexact&type-1-3-0=anyexact&type-1-4-0=anyexact&type-1-5-0=anyexact&type0-0-0=noop&value-1-0-0=RESOLVED%2CVERIFIED%2CCLOSED&value-1-1-0=Technology&value-1-2-0=Gallery&value-1-3-0=Nebula&value-1-4-0=FIXED&value-1-5-0=unspecified&value0-0-0=&version=unspecified&votes=&order=bugs.delta_ts%2Cbugs.delta_ts%2Cbugs.delta_ts%2Cbugs.bug_status%2Cbugs.priority%2Cmap_assigned_to.login_name%2Cbugs.bug_id&query_based_on='>Update History (bugzilla search)</a>

@@ -40,11 +40,6 @@
 		The PShelf widget is a composite widget that is similar to a tab folder.  It contains items 
 		which can be selected to show their client areas.
 
-		<p>
-		NOTE: The PShelf widget is still under active development.  The code is made available in an
-		<font color=red><b>ALPHA</b></font> state.  Users should expect changes in future versions.
-		
-		<p>
 		<a href='/nebula/snippets.php#PShelf'>Snippets</a>
 		</p>
 		

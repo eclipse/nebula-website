@@ -39,6 +39,8 @@
 	
 		<img class="img-responsive"  style="float:left" src="images/nebula_logo_main_300.png" border="0"
 			  alt="$pageTitle" align="left">
+			 <br><br><br><br><br>
+			 
 			<!-- h1>$pageTitle</h1 -->
 			  
 			  <p/>

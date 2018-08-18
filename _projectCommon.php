@@ -20,10 +20,10 @@
 	# Define your project-wide Nav bars here.
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	$Nav->addNavSeparator("About this Project", "http://www.eclipse.org/projects/project_summary.php?projectid=technology.nebula");
+		$Nav->addCustomNav("Project Management", "http://www.eclipse.org/projects/project_summary.php?projectid=technology.nebula");
 	$Nav->addNavSeparator("Contributing", "http://wiki.eclipse.org/Nebula/New_Contributions");
 		$Nav->addCustomNav("Who is busy", "http://projects.eclipse.org/projects/technology.nebula/who");
-		$Nav->addCustomNav("How to Contribute", "/nebula/contrib_process.php","_self", 2);
-		$Nav->addCustomNav("Contribution Tiers", "/nebula/contrib_tiers.php","_self", 2);
+		$Nav->addCustomNav("Contribution Guide", "/nebula/contrib_process.php","_self", 2);
 		$Nav->addCustomNav("Widget Author Tips", "/nebula/author_tips.php","_self", 2);
 	$Nav->addNavSeparator("Project Home", "/nebula/");
 		$Nav->addCustomNav("Downloads","/nebula/downloads.php","_self", 2);	

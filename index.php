@@ -36,30 +36,10 @@
 
 	<div id="maincontent">
 		<div id="midcolumn">
-		
-		
-			<script type="text/javascript">
-function startTime() {
-    var today = new Date();
-    var h = today.getHours();
-    var m = today.getMinutes();
-    var s = today.getSeconds();
-    m = checkTime(m);
-    s = checkTime(s);
-    document.getElementById("clock").innerHTML =
-    h + ":" + m + ":" + s;
-    var t = setTimeout(startTime, 500);
-}
-function checkTime(i) {
-    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
-    return i;
-}
-</script>
+	
 		<img class="img-responsive"  style="float:right" src="images/nebula_logo_main_300.png" border="0"
 			  alt="$pageTitle" align="right">
 			<h1>$pageTitle</h1>
-
-		
 			  
 			  <p/>
 		
@@ -67,7 +47,7 @@ function checkTime(i) {
 			<p>Nebula is a place where different Eclipse-Projects and
 				Independent developers collaborate on building Custom SWT widgets
 				and reuseable UI-Components useable in UI-Applications built using
-				SWT, JFace and RAP.</p>
+				SWT and JFace.</p>
 
 			<p>All Nebula components are available on the navigation tree on
 				the left or from the table below. Each image links to a page that
@@ -75,9 +55,6 @@ function checkTime(i) {
 
 			<a name="mainComponents"></a>
 			
-				<div id="clock">cuckoo</div>
-				
-				
 			<h3>Nebula Released Widgets:</h3>
 
 			<table width="100%" style="margin-top: 20px;">

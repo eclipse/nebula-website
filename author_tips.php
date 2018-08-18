@@ -32,7 +32,15 @@
 	$html = <<<EOHTML
 
 	<div id="midcolumn">
-		<h1>$pageTitle</h1>
+
+		<h2>External Links</h2>
+		<ul>
+			<li><a href="https://www.eclipse.org/articles/Article-Writing%20Your%20Own%20Widget/Writing%20Your%20Own%20Widget.htm">Creating Your Own Widgets using SWT</a></li>
+			<li><a href="https://help.eclipse.org/photon/index.jsp?topic=%2Forg.eclipse.platform.doc.isv%2Fguide%2Fswt_widgets_custom.htm">SWT Custom Widgets</a></li>
+			<li><a href="http://www.vogella.com/tutorials/SWTCustomWidget/article.html">Developing custom widgets with SWT - Tutorial</a></li>
+		</ul>
+
+		<h2>$pageTitle</h2>
 		<p>The following is a list of various tips, tricks, guidelines and other general information
 		for developers writing custom widgets for Nebula.  This is an unorganized list which will
 		hopefully become larger and more organized over time.  Many of the items below will also help your code 

@@ -36,15 +36,11 @@
 		<div style="margin: 5px 0 15px 15px">
 			<p>We use git @:</p>
 			<p style="margin-left: 15px">
-				Eclipse: <a
-					href="https://git.eclipse.org/c/nebula/org.eclipse.nebula.git">https://git.eclipse.org/c/nebula/org.eclipse.nebula.git</a>
-			</p>
-			<p style="margin-left: 15px">
-				Github mirror: <a href="https://github.com/eclipse/nebula">https://github.com/eclipse/nebula</a>
+				Github: <a href="https://github.com/eclipse/nebula">https://github.com/eclipse/nebula</a>
 			</p>
 			<p style="margin-left: 15px">
 				PSF file: <a
-					href="http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/releng/org.eclipse.nebula.feature/Nebula_All.psf">Copy
+					href="https://github.com/eclipse/nebula/tree/master/releng/org.eclipse.nebula.feature/Nebula_All.psf">Copy
 					and paste this into a file.psf inside an eclipse project and select
 					"Import Project Set..." from the context menu</a>
 			</p>

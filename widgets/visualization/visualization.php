@@ -49,7 +49,7 @@
 				<td ><img src='images/XYGraph.png' width =500 ></td>
 			</tr>
 			
-			<tr><td><a href='http://git.eclipse.org/c/nebula/org.eclipse.nebula.git/plain/widgets/visualization/org.eclipse.nebula.visualization.xygraph/html/Screenshots.html'>More Screenshots...</a>
+			<tr><td><a href='html/Screenshots.html'>More Screenshots...</a>
 				</td></tr>			
 		</table>
 

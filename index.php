@@ -816,6 +816,39 @@
 							</tr>
 						</table>
 					</td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula/FloatingText"><img class="img-responsive"
+										src="images/floatingtext.gif" border="0"
+										alt="Instances of this class allow the user to enter and modify text with a label floating above the input area."
+										title="FloatingText"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>FloatingText</b></td>
+							</tr>
+						</table>
+					</td>
+
+  <!--					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_NebulaSlider"><img class="img-responsive"
+										src="images/nebulaslider.png" border="0"
+										alt="This widget proposes another look for the Slider Widget."
+										title="NebulaSlider"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>NebulaSlider</b></td>
+							</tr>
+						</table>
+					</td> -->
 					
 				</tr>
 				

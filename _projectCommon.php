@@ -38,6 +38,7 @@
 		$Nav->addCustomNav("ColumnBrowser",    "https://wiki.eclipse.org/Nebula_ColumnBrowser", "_self", 2);
 		$Nav->addCustomNav("Dialog",    "https://wiki.eclipse.org/Nebula_Dialog", "_self", 2);
 		$Nav->addCustomNav("DualList",    "https://wiki.eclipse.org/Nebula_Duallist", "_self", 2);
+		$Nav->addCustomNav("FloatingText",		"https://wiki.eclipse.org/Nebula/FloatingText",	 	"_self", 2);
 		$Nav->addCustomNav("Gallery",		"/nebula/widgets/gallery/gallery.php",	 	"_self", 2);
 		$Nav->addCustomNav("GanttChart",		"/nebula/widgets/ganttchart/ganttchart.php",	 	"_self", 2);
 		$Nav->addCustomNav("GeoMap",		"/nebula/widgets/geomap/geomap.php",	 	"_self", 2);
@@ -48,7 +49,9 @@
 		$Nav->addCustomNav("Launcher",    "https://wiki.eclipse.org/Nebula_Launcher", "_self", 2);
 		$Nav->addCustomNav("LoginDialog",    "https://wiki.eclipse.org/Nebula_LoginDialog", "_self", 2);
 		$Nav->addCustomNav("Multichoice",    "https://wiki.eclipse.org/Nebula_Multichoice", "_self", 2);
+		$Nav->addCustomNav("Nebula RoundedCheckbox",    "https://wiki.eclipse.org/Nebula_NebulaRoundedCheckBox", "_self", 2);
 		$Nav->addCustomNav("Nebula Slider",    "https://wiki.eclipse.org/Nebula_NebulaSlider", "_self", 2);
+		$Nav->addCustomNav("Nebula SplitButton",    "https://wiki.eclipse.org/Nebula_NebulaSplitButton", "_self", 2);
 		$Nav->addCustomNav("Notifier",    "https://wiki.eclipse.org/Nebula_Notifier", "_self", 2);
 		$Nav->addCustomNav("Oscilloscope",    "/nebula/widgets/oscilloscope/oscilloscope.php", "_self", 2);
 		$Nav->addCustomNav("Panels",    "https://wiki.eclipse.org/Nebula_Panels", "_self", 2);

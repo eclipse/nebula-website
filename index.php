@@ -818,6 +818,48 @@
 					</td>
 				</tr>
 
+			<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+							
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_NebulaSplitButton"><img class="img-responsive"
+										src="images/splitbutton.png" border="0"
+										alt="This widget proposes a button with a contextual menu."
+										title="SplitButton"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>SplitButton</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_NebulaRoundedCheckBox"><img class="img-responsive"
+										src="images/roundedcheckbox.png" border="0"
+										alt="This widget proposes another look for the checkbox Widget."
+										title="NebulaRoundedCheckbox"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>NebulaRoundedCheckbox</b></td>
+							</tr>
+						</table>
+					</td>
+					
+				</tr>	
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
 				<tr>
 							
 					<td align="center" valign="bottom">

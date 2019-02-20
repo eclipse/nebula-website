@@ -14,7 +14,7 @@
 		# Get theme from browser, or none default
 		$theme = $App->getUserPreferedTheme();
 	}
- 
+
 	$Nav->setLinkList(array());
 
 	# Define your project-wide Nav bars here.
@@ -26,9 +26,9 @@
 		$Nav->addCustomNav("Contribution Guide", "/nebula/contrib_process.php","_self", 2);
 		$Nav->addCustomNav("Widget Author Tips", "/nebula/author_tips.php","_self", 2);
 	$Nav->addNavSeparator("Project Home", "/nebula/");
-		$Nav->addCustomNav("Downloads","/nebula/downloads.php","_self", 2);	
-		$Nav->addCustomNav("Snippets","/nebula/snippets.php","_self", 2);	
-		$Nav->addCustomNav("Examples","/nebula/examples.php","_self", 2);	
+		$Nav->addCustomNav("Downloads","/nebula/downloads.php","_self", 2);
+		$Nav->addCustomNav("Snippets","/nebula/snippets.php","_self", 2);
+		$Nav->addCustomNav("Examples","/nebula/examples.php","_self", 2);
 		$Nav->addCustomNav("Source","/nebula/source.php","_self", 2);
 	$Nav->addNavSeparator("Nebula Release", "");
 	    $Nav->addCustomNav("Breadcrumb",    "https://wiki.eclipse.org/Nebula_Breadcrumb", "_self", 2);
@@ -56,6 +56,7 @@
 		$Nav->addCustomNav("Oscilloscope",    "/nebula/widgets/oscilloscope/oscilloscope.php", "_self", 2);
 		$Nav->addCustomNav("Panels",    "https://wiki.eclipse.org/Nebula_Panels", "_self", 2);
 		$Nav->addCustomNav("PaperClips",    "/nebula/widgets/paperclips/paperclips.php", "_self", 2);
+		$Nav->addCustomNav("Password revealer",    "https://wiki.eclipse.org/Nebula_PasswordRevealer", "_self", 2);
 		$Nav->addCustomNav("PreferenceWindow",    "https://wiki.eclipse.org/Nebula_PreferenceWindow", "_self", 2);
 		$Nav->addCustomNav("ProgressCircle",    "https://wiki.eclipse.org/Nebula_ProgressCircle", "_self", 2);
 		$Nav->addCustomNav("PromptSupport",    "https://wiki.eclipse.org/Nebula_PromptSupport", "_self", 2);
@@ -74,8 +75,8 @@
 		$Nav->addCustomNav("Transition", "/nebula/widgets/stw/stw.php", "_self", 2);
 		$Nav->addCustomNav("Visualization",   "/nebula/widgets/visualization/visualization.php", "_self", 2);
 		$Nav->addCustomNav("XViewer",    "/nebula/widgets/xviewer/xviewer.php", "_self", 2);
-			
-		
+
+
 	$Nav->addNavSeparator("Nebula NatTable", "");
 		$Nav->addCustomNav("NatTable",		"/nattable/index.php",	 	"_self", 2);
 $Nav->addNavSeparator("Nebula Incubation", "");
@@ -83,7 +84,7 @@ $Nav->addNavSeparator("Nebula Incubation", "");
 		$Nav->addCustomNav("CompositeTable","/nebula/widgets/compositetable/compositetable.php", "_self", 2);
 		$Nav->addCustomNav("DateChooser",		"/nebula/widgets/datechooser/datechooser.php",	 	"_self", 2);
 		$Nav->addCustomNav("FormattedText",		"/nebula/widgets/formattedtext/formattedtext.php",	 	"_self", 2);
-		$Nav->addCustomNav("Pagination",    "/nebula/widgets/pagination/pagination.php", "_self", 2);		
+		$Nav->addCustomNav("Pagination",    "/nebula/widgets/pagination/pagination.php", "_self", 2);
 		$Nav->addCustomNav("Picture",    "/nebula/widgets/picture/picture.php", "_self", 2);
 		$Nav->addCustomNav("RadioGroup",    "/nebula/widgets/radiogroup/radiogroup.php", "_self", 2);
 		$Nav->addCustomNav("TreeMapper",    "/nebula/widgets/treemapper/treemapper.php", "_self", 2);

@@ -11,13 +11,13 @@
 	#
 	#
 	#****************************************************************************
-	
+
 	#
-	# Begin: page-specific settings.  Change these. 
+	# Begin: page-specific settings.  Change these.
 	$pageTitle 		= "Nebula Project";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls";
 	$pageAuthor		= "Chris Gross, Nicolas Richeton, Wim Jongman";
-	
+
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be https://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
@@ -27,24 +27,24 @@
 
 	# End: page-specific settings
 	#
-		
-	# Paste your HTML content between the EOHTML markers!	
+
+	# Paste your HTML content between the EOHTML markers!
 	$html = <<<EOHTML
-	
+
 
     <a href="https://github.com/eclipse/nebula"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
 
 	<div id="maincontent">
 		<div id="midcolumn">
-	
+
 		<img class="img-responsive"  style="float:left" src="images/nebula_logo_main_300.png" border="0"
 			  alt="$pageTitle" align="left">
 			 <br><br><br><br><br>
-			 
+
 			<!-- h1>$pageTitle</h1 -->
-			  
+
 			  <p/>
-		
+
 			<h2>Supplemental Custom Widgets</h2>
 			<p>Nebula is a place where different Eclipse-Projects and
 				Independent developers collaborate on building Custom SWT widgets
@@ -56,7 +56,7 @@
 				will further describe the component and its function.</p>
 
 			<a name="mainComponents"></a>
-			
+
 			<h3>Nebula Released Widgets:</h3>
 
 			<table width="100%" style="margin-top: 20px;">
@@ -81,7 +81,7 @@
 							</tr>
 						</table>
 					</td>
-					
+
 								<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -105,7 +105,7 @@
 				</tr>
 
 				<tr>
-				
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -119,8 +119,8 @@
 								<td align="center"><b>GanttChart</b></td>
 							</tr>
 						</table>
-					</td>				
-				
+					</td>
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -157,8 +157,8 @@
 								<td align="center"><b>Grid</b></td>
 							</tr>
 						</table>
-					</td>				
-				
+					</td>
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -174,7 +174,7 @@
 							</tr>
 						</table>
 					</td>
-					
+
 				</tr>
 
 				<tr>
@@ -182,8 +182,8 @@
 				</tr>
 
 				<tr>
-				
-				
+
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -199,7 +199,7 @@
 						</table>
 					</td>
 
-					
+
 				<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -238,7 +238,7 @@
 						</table>
 					</td>
 
-					
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -260,7 +260,7 @@
 				</tr>
 
 				<tr>
-				
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -275,7 +275,7 @@
 							</tr>
 						</table>
 					</td>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -290,7 +290,7 @@
 							</tr>
 						</table>
 					</td>
-				
+
 				</tr>
 
 				<tr>
@@ -298,7 +298,7 @@
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -327,20 +327,20 @@
 							</tr>
 						</table>
 					</td>
-					
+
 					<td align="center" valign="bottom">
 					</td>
-				
+
 				</tr>
-				
+
 				<!-- Opal Widgets -->
-				
+
 				<tr>
 					<td height="25px"></td>
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -369,16 +369,16 @@
 							</tr>
 						</table>
 					</td>
-					
-				
+
+
 				</tr>
-				
+
 				<tr>
 					<td height="25px"></td>
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -407,16 +407,16 @@
 							</tr>
 						</table>
 					</td>
-					
-				
+
+
 				</tr>
-				
+
 				<tr>
 					<td height="25px"></td>
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -445,16 +445,16 @@
 							</tr>
 						</table>
 					</td>
-					
-				
+
+
 				</tr>
-				
+
 				<tr>
 					<td height="25px"></td>
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -483,16 +483,16 @@
 							</tr>
 						</table>
 					</td>
-					
-				
+
+
 				</tr>
-				
+
 				<tr>
 					<td height="25px"></td>
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -521,15 +521,15 @@
 							</tr>
 						</table>
 					</td>
-					
+
 				</tr>
-				
+
 				<tr>
 					<td height="25px"></td>
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -559,13 +559,13 @@
 						</table>
 					</td>
 				</tr>
-				
+
 				<tr>
 					<td height="25px"></td>
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -595,7 +595,7 @@
 						</table>
 					</td>
 				</tr>
-				
+
 				<tr>
 					<td height="25px"></td>
 				</tr>
@@ -636,7 +636,7 @@
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -666,13 +666,13 @@
 						</table>
 					</td>
 				</tr>
-				
+
 				<tr>
 					<td height="25px"></td>
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -702,7 +702,7 @@
 							</tr>
 						</table>
 					</td>
-					
+
 				</tr>
 
 				<tr>
@@ -710,7 +710,7 @@
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -740,15 +740,15 @@
 							</tr>
 						</table>
 					</td>
-					
+
 				</tr>
-				
+
 				<tr>
 					<td height="25px"></td>
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -778,7 +778,7 @@
 							</tr>
 						</table>
 					</td>
-					
+
 				</tr>
 
 				<tr>
@@ -786,7 +786,7 @@
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -823,7 +823,7 @@
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -853,15 +853,15 @@
 							</tr>
 						</table>
 					</td>
-					
-				</tr>	
+
+				</tr>
 
 				<tr>
 					<td height="25px"></td>
 				</tr>
 
 				<tr>
-							
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -877,28 +877,28 @@
 						</table>
 					</td>
 
-  <!--					<td align="center" valign="bottom">
+ 					<td align="center" valign="bottom">
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_NebulaSlider"><img class="img-responsive"
-										src="images/nebulaslider.png" border="0"
-										alt="This widget proposes another look for the Slider Widget."
-										title="NebulaSlider"></a></td>
+									href="https://wiki.eclipse.org/Nebula_PasswordRevealer"><img class="img-responsive"
+										src="images/passwordrevealer.png" border="0"
+										alt="This widget proposes a password field with and additional button to reveal the password."
+										title="Password Revealer"></a></td>
 							</tr>
 							<tr>
-								<td align="center"><b>NebulaSlider</b></td>
+								<td align="center"><b>Password Revealer</b></td>
 							</tr>
 						</table>
-					</td> -->
-					
+					</td>
+
 				</tr>
-				
+
 			</table>
 
 			<a name="NatTable"></a>
-			
-			
+
+
 			<h3>NatTable :</h3>
 			<table width="100%" style="margin-top: 20px;">
 				<tr>
@@ -914,10 +914,10 @@
 							</tr>
 						</table>
 				</table>
-			
+
 			<a name="Visualization"></a>
-			
-			
+
+
 			<h3>Visualization :</h3>
 			<table width="100%" style="margin-top: 20px;">
 				<tr>
@@ -930,13 +930,13 @@
 										alt="Visualization XY Graph."
 										title="Visualization">
 								</a></td>
-							</tr>							
+							</tr>
 						</table>
 			</table>
 
 			<a name="incubationComponents"></a>
-			
-			
+
+
 			<h3>Nebula Incubation Widgets :</h3>
 			<table width="100%" style="margin-top: 20px;">
 				<colgroup>
@@ -975,7 +975,7 @@
 							</tr>
 						</table>
 					</td>
-					
+
 				</tr>
 
 				<tr>
@@ -1055,8 +1055,8 @@
 				</tr>
 
 				<tr>
-					
-					
+
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -1071,7 +1071,7 @@
 							</tr>
 						</table>
 					</td>
-					
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -1086,7 +1086,7 @@
 							</tr>
 						</table>
 					</td>
-					
+
 				</tr>
 
 				<tr>
@@ -1094,7 +1094,7 @@
 				</tr>
 
 				<tr>
-										
+
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -1109,7 +1109,7 @@
 							</tr>
 						</table>
 					</td>
-															
+
 				</tr>
 
 				<tr>
@@ -1133,14 +1133,14 @@
 					</a>
 				</div>
 			</div>
-			
+
 			<!--#include virtual="includes/sideItemsInclude.html" -->
-			
+
 		</div>
 
 	</div>
 
-	
+
 
 EOHTML;
 

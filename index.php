@@ -861,7 +861,6 @@
 				</tr>
 
 				<tr>
-
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
@@ -891,7 +890,38 @@
 							</tr>
 						</table>
 					</td>
+				</tr>
 
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_CTreeCombo"><img class="img-responsive"
+										src="images/ctreecombo.png" border="0"
+										alt="Instances of this class allows user to select one value like a combo, but data are displayed in a tree."
+										title="CTreeCombo"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CTreeCombo</b></td>
+							</tr>
+						</table>
+					</td>
+
+ 					<td align="center" valign="bottom">
+						<!--<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_PasswordRevealer"><img class="img-responsive"
+										src="images/passwordrevealer.png" border="0"
+										alt="This widget proposes a password field with and additional button to reveal the password."
+										title="Password Revealer"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Password Revealer</b></td>
+							</tr>
+						</table>-->
+					</td>
 				</tr>
 
 			</table>

@@ -36,6 +36,7 @@
 		$Nav->addCustomNav("CDateTime",		"/nebula/widgets/cdatetime/cdatetime.php",	"_self", 2);
 		$Nav->addCustomNav("CheckboxGroup",    "https://wiki.eclipse.org/Nebula_CheckboxGroup", "_self", 2);
 		$Nav->addCustomNav("ColumnBrowser",    "https://wiki.eclipse.org/Nebula_ColumnBrowser", "_self", 2);
+		$Nav->addCustomNav("CTreeCombo",    "https://wiki.eclipse.org/Nebula_CTreeCombo", "_self", 2);
 		$Nav->addCustomNav("Dialog",    "https://wiki.eclipse.org/Nebula_Dialog", "_self", 2);
 		$Nav->addCustomNav("DualList",    "https://wiki.eclipse.org/Nebula_Duallist", "_self", 2);
 		$Nav->addCustomNav("FloatingText",		"https://wiki.eclipse.org/Nebula/FloatingText",	 	"_self", 2);

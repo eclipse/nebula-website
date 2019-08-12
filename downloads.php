@@ -25,12 +25,12 @@
 		<h1>$pageTitle</h1>
 		<br/>
 
-		<h2>Latest Release (2.1.0)</h2>
+		<h2>Latest Release (2.2.0)</h2>
 		<p style="font-weight: bold">
 				<ul>
 					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/latest">http://download.eclipse.org/nebula/releases/latest</a></li>
 					<li>Update site repo zipped: <a href="http://www.eclipse.org/downloads/download.php?file=/nebula/releases/latest/repository-nebula-latest.zip">repository-nebula-latest.zip</a></li>
-					<li>Javadoc:  <a href="releases/2.1.0/javadoc/index.html">Link to Javadoc</a></li>
+					<li>Javadoc:  <a href="releases/latest/javadoc/index.html">Link to Javadoc</a></li>
 				</ul>
 			</p>
 		</h2>
@@ -38,10 +38,11 @@
 		
 		<h2>Releases</h2>
 			<ul>
-			    <li><b><a href='releases/2.1.0/index.php'>Release 2.1.0</a></b></li>
-			    <li><a href='releases/2.0.1/index.php'>Release 2.0.1</a></li>
-			    <li><a href='releases/2.0.0/index.php'>Release 2.0.0</a></li>
-			    <li><a href='releases/1.4.0/index.php'>Release 1.4.0</a></li>
+			    <li><b><a href='releases/2.2.0/index.php'>Release 2.2.0</a></b> <a href='releases/2.2.0/javadoc/index.html'>(javadoc)</a></li>
+			    <li><a href='releases/2.1.0/index.php'>Release 2.1.0</a> <a href='releases/2.1.0/javadoc/index.html'>(javadoc)</a></li>
+			    <li><a href='releases/2.0.1/index.php'>Release 2.0.1</a> <a href='releases/2.0.1/javadoc/index.html'>(javadoc)</a></li>
+			    <li><a href='releases/2.0.0/index.php'>Release 2.0.0</a> <a href='releases/2.0.0/javadoc/index.html'>(javadoc)</a></li>
+			    <li><a href='releases/1.4.0/index.php'>Release 1.4.0</a> <a href='releases/1.4.0/javadoc/index.html'>(javadoc)</a></li>
 			    <li><a href='releases/1.3.0/index.php'>Release 1.3.0</a></li>
 				<li><a href='releases/1.2.0/index.php'>Release 1.2.0</a></li>
 				<li><a href='releases/1.1.0/index.php'>Release 1.1.0</a></li>

@@ -34,6 +34,7 @@
 					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/2.2.0">http://download.eclipse.org/nebula/releases/2.2.0</a></li>
 					<li>Update site repo zipped: <a href="http://www.eclipse.org/downloads/download.php?file=/nebula/releases/2.2.0/repository-nebula-2.2.0.zip">repository.zip</a></li>
 					<li>Javadoc:  <a href="javadoc/index.html">Link to Javadoc</a></li>
+					<li>New and Noteworthy:  <a href="https://wiki.eclipse.org/Nebula/Releases/2.2.0/NaN">Link to N&N</a></li>
 				</ul>
 			</p>	
 	</div>

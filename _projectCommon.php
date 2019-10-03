@@ -31,6 +31,7 @@
 		$Nav->addCustomNav("Examples","/nebula/examples.php","_self", 2);
 		$Nav->addCustomNav("Source","/nebula/source.php","_self", 2);
 	$Nav->addNavSeparator("Nebula Release", "");
+	    $Nav->addCustomNav("BadgedLabel",    "https://wiki.eclipse.org/Nebula_Badged_Label", "_self", 2);
 	    $Nav->addCustomNav("Breadcrumb",    "https://wiki.eclipse.org/Nebula_Breadcrumb", "_self", 2);
 		$Nav->addCustomNav("Calculator",    "https://wiki.eclipse.org/Nebula_Calculator", "_self", 2);
 		$Nav->addCustomNav("CDateTime",		"/nebula/widgets/cdatetime/cdatetime.php",	"_self", 2);

@@ -909,7 +909,7 @@
 					</td>
 
  					<td align="center" valign="bottom">
-						<<table>
+						<table>
 							<tr>
 								<td align="center"><a
 									href="https://wiki.eclipse.org/Nebula_Badged_Label"><img class="img-responsive"

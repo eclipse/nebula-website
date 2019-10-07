@@ -49,6 +49,7 @@
 		$Nav->addCustomNav("HeapManager",    "https://wiki.eclipse.org/Nebula_HeapManager", "_self", 2);
 		$Nav->addCustomNav("Horizontal Spinner",    "https://wiki.eclipse.org/Nebula_HorizontalSpinner", "_self", 2);
 		$Nav->addCustomNav("Launcher",    "https://wiki.eclipse.org/Nebula_Launcher", "_self", 2);
+		$Nav->addCustomNav("LED",    "https://wiki.eclipse.org/Nebula_LED", "_self", 2);
 		$Nav->addCustomNav("LoginDialog",    "https://wiki.eclipse.org/Nebula_LoginDialog", "_self", 2);
 		$Nav->addCustomNav("Multichoice",    "https://wiki.eclipse.org/Nebula_Multichoice", "_self", 2);
 		$Nav->addCustomNav("Nebula RoundedCheckbox",    "https://wiki.eclipse.org/Nebula_NebulaRoundedCheckBox", "_self", 2);

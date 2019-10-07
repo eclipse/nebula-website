@@ -924,6 +924,38 @@
 					</td>
 				</tr>
 
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_LED"><img class="img-responsive"
+										src="images/ledwidget.png" border="0"
+										alt="Instances of this class allows user to display a character like on a LED display."
+										title="LED Display"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>LED Display</b></td>
+							</tr>
+						</table>
+					</td>
+
+ 					<td align="center" valign="bottom">
+						<!--<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Badged_Label"><img class="img-responsive"
+										src="images/badgedlabel.png" border="0"
+										alt="This widget proposes a label that can be decorated with a badge."
+										title="Badged Label"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Badged Label</b></td>
+							</tr>
+						</table>-->
+					</td>
+				</tr>
+
 			</table>
 
 			<a name="NatTable"></a>

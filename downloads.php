@@ -38,8 +38,8 @@
 		
 		<h2>Releases</h2>
 			<ul>
+			    <li><a href='releases/2.3.0/index.php'>Upcoming Release 2.3.0</a> <a href='releases/2.3.0/javadoc/index.html'>(javadoc)</a></li>
 			    <li><b><a href='releases/2.2.0/index.php'>Release 2.2.0</a></b> <a href='releases/2.2.0/javadoc/index.html'>(javadoc)</a></li>
-			    <li><a href='releases/2.1.0/index.php'>Release 2.1.0</a> <a href='releases/2.1.0/javadoc/index.html'>(javadoc)</a></li>
 			    <li><a href='releases/2.0.1/index.php'>Release 2.0.1</a> <a href='releases/2.0.1/javadoc/index.html'>(javadoc)</a></li>
 			    <li><a href='releases/2.0.0/index.php'>Release 2.0.0</a> <a href='releases/2.0.0/javadoc/index.html'>(javadoc)</a></li>
 			    <li><a href='releases/1.4.0/index.php'>Release 1.4.0</a> <a href='releases/1.4.0/javadoc/index.html'>(javadoc)</a></li>

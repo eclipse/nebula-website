@@ -13,6 +13,7 @@ org.eclipse.nebula.jface.cdatetime
 org.eclipse.nebula.jface.galleryviewer
 org.eclipse.nebula.jface.gridviewer
 org.eclipse.nebula.jface.gridviewer.internal
+org.eclipse.nebula.jface.pshelfviewer
 org.eclipse.nebula.jface.tablecomboviewer
 org.eclipse.nebula.jface.viewer.radiogroup
 org.eclipse.nebula.paperclips.core
@@ -42,6 +43,7 @@ org.eclipse.nebula.visualization.xygraph.figures
 org.eclipse.nebula.visualization.xygraph.linearscale
 org.eclipse.nebula.visualization.xygraph.styleprovider
 org.eclipse.nebula.visualization.xygraph.util
+org.eclipse.nebula.widgets.badgedlabel
 org.eclipse.nebula.widgets.bidilayout
 org.eclipse.nebula.widgets.calendarcombo
 org.eclipse.nebula.widgets.cdatetime
@@ -53,6 +55,7 @@ org.eclipse.nebula.widgets.compositetable.internal
 org.eclipse.nebula.widgets.compositetable.month
 org.eclipse.nebula.widgets.compositetable.month.internal
 org.eclipse.nebula.widgets.compositetable.timeeditor
+org.eclipse.nebula.widgets.compositetable.viewers
 org.eclipse.nebula.widgets.ctree
 org.eclipse.nebula.widgets.datechooser
 org.eclipse.nebula.widgets.floatingtext
@@ -72,6 +75,8 @@ org.eclipse.nebula.widgets.geomap.internal.geomapbrowser
 org.eclipse.nebula.widgets.geomap.jface
 org.eclipse.nebula.widgets.grid
 org.eclipse.nebula.widgets.grid.internal
+org.eclipse.nebula.widgets.grid.internal.win7
+org.eclipse.nebula.widgets.led
 org.eclipse.nebula.widgets.opal.breadcrumb
 org.eclipse.nebula.widgets.opal.calculator
 org.eclipse.nebula.widgets.opal.checkboxgroup
@@ -110,7 +115,6 @@ org.eclipse.nebula.widgets.pagination.table
 org.eclipse.nebula.widgets.pagination.table.forms
 org.eclipse.nebula.widgets.pagination.tree
 org.eclipse.nebula.widgets.pagination.tree.forms
-org.eclipse.nebula.widgets.passwordrevealer
 org.eclipse.nebula.widgets.pgroup
 org.eclipse.nebula.widgets.pgroup.internal
 org.eclipse.nebula.widgets.picture
@@ -126,7 +130,6 @@ org.eclipse.nebula.widgets.richtext
 org.eclipse.nebula.widgets.richtext.painter
 org.eclipse.nebula.widgets.richtext.painter.instructions
 org.eclipse.nebula.widgets.richtext.toolbar
-org.eclipse.nebula.widgets.roundedcheckbox
 org.eclipse.nebula.widgets.splitbutton
 org.eclipse.nebula.widgets.tablecombo
 org.eclipse.nebula.widgets.treemapper

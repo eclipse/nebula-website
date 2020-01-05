@@ -70,6 +70,7 @@
 		$Nav->addCustomNav("RichText",		"/nebula/widgets/richtext/richtext.php",	 	"_self", 2);
 		$Nav->addCustomNav("RoundedToolbar",    "https://wiki.eclipse.org/Nebula_RoundedToolbar", "_self", 2);
 		$Nav->addCustomNav("StarRating",    "https://wiki.eclipse.org/Nebula_StarRating", "_self", 2);
+		$Nav->addCustomNav("Stepbar",    "https://wiki.eclipse.org/Nebula_Stepbar", "_self", 2);
 		$Nav->addCustomNav("SwitchButton",    "https://wiki.eclipse.org/Nebula_SwitchButton", "_self", 2);
 		$Nav->addCustomNav("TableCombo",    "/nebula/widgets/tablecombo/tablecombo.php", "_self", 2);
 		$Nav->addCustomNav("TextAssist",    "https://wiki.eclipse.org/Nebula_TextAssist", "_self", 2);

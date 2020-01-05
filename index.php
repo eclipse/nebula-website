@@ -941,18 +941,18 @@
 					</td>
 
  					<td align="center" valign="bottom">
-						<!--<table>
+						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_Badged_Label"><img class="img-responsive"
-										src="images/badgedlabel.png" border="0"
-										alt="This widget proposes a label that can be decorated with a badge."
-										title="Badged Label"></a></td>
+									href="https://wiki.eclipse.org/Nebula_Stepbar"><img class="img-responsive"
+										src="images/stepbar.png" border="0"
+										alt="This widget proposes a progress with different steps."
+										title="Stepbar"></a></td>
 							</tr>
 							<tr>
-								<td align="center"><b>Badged Label</b></td>
+								<td align="center"><b>Step bar</b></td>
 							</tr>
-						</table>-->
+						</table>
 					</td>
 				</tr>
 

@@ -956,6 +956,38 @@
 					</td>
 				</tr>
 
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Chips"><img class="img-responsive"
+										src="images/chips.png" border="0"
+										alt="Instances of this class allows user to display a rounded-shaped button."
+										title="Chips"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Chips</b></td>
+							</tr>
+						</table>
+					</td>
+
+ 					<td align="center" valign="bottom">
+						<!--<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Stepbar"><img class="img-responsive"
+										src="images/stepbar.png" border="0"
+										alt="This widget proposes a progress with different steps."
+										title="Stepbar"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Step bar</b></td>
+							</tr>
+						</table>-->
+					</td>
+				</tr>
+
 			</table>
 
 			<a name="NatTable"></a>

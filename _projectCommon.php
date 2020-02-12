@@ -34,6 +34,7 @@
 	    $Nav->addCustomNav("BadgedLabel",    "https://wiki.eclipse.org/Nebula_Badged_Label", "_self", 2);
 	    $Nav->addCustomNav("Breadcrumb",    "https://wiki.eclipse.org/Nebula_Breadcrumb", "_self", 2);
 		$Nav->addCustomNav("Calculator",    "https://wiki.eclipse.org/Nebula_Calculator", "_self", 2);
+		$Nav->addCustomNav("Carousel",    "https://wiki.eclipse.org/Nebula_Carousel", "_self", 2);
 		$Nav->addCustomNav("CDateTime",		"/nebula/widgets/cdatetime/cdatetime.php",	"_self", 2);
 		$Nav->addCustomNav("CheckboxGroup",    "https://wiki.eclipse.org/Nebula_CheckboxGroup", "_self", 2);
 		$Nav->addCustomNav("Chips",    "https://wiki.eclipse.org/Nebula_Chips", "_self", 2);

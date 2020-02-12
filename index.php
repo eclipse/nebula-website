@@ -973,18 +973,18 @@
 					</td>
 
  					<td align="center" valign="bottom">
-						<!--<table>
+						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_Stepbar"><img class="img-responsive"
-										src="images/stepbar.png" border="0"
-										alt="This widget proposes a progress with different steps."
-										title="Stepbar"></a></td>
+									href="https://wiki.eclipse.org/Nebula_Carousel"><img class="img-responsive"
+										src="images/carousel.png" border="0"
+										alt="This widget shows a list of images."
+										title="Carousel"></a></td>
 							</tr>
 							<tr>
-								<td align="center"><b>Step bar</b></td>
+								<td align="center"><b>Carousel</b></td>
 							</tr>
-						</table>-->
+						</table>
 					</td>
 				</tr>
 

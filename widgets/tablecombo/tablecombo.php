@@ -55,6 +55,10 @@
 		</p>
 
         <p>
+        If you use e4, you can also using CSS theming : <a href='https://wiki.eclipse.org/Nebula_CSS_TableCombo'>https://wiki.eclipse.org/Nebula_CSS_TableCombo</a>
+        </p>
+
+        <p>
         <a href='/nebula/snippets.php#TableCombo'>Snippets</a>
         </p>
 

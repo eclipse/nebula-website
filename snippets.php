@@ -199,6 +199,14 @@
             <li><a href='https://raw.githubusercontent.com/eclipse/nebula/master/examples/org.eclipse.nebula.snippets/src/org/eclipse/nebula/snippets/tablecombo/viewer/TableComboViewerSnippet1.java'>An example that shows the features of the TableComboViewer</a></li>
         </ul>
 
+        <a name="Timeline"></a>
+        <h2>Timeline</h2>
+        <ul>
+            <li><a href='https://raw.githubusercontent.com/eclipse/nebula/master/widgets/timeline/org.eclipse.nebula.widgets.timeline.snippets/src/org/eclipse/nebula/widgets/timeline/snippets/TimelineUsingEMFModel.java'>JFace viewer using provided model classes for events and data binding.</a></li>      
+            <li><a href='https://raw.githubusercontent.com/eclipse/nebula/master/widgets/timeline/org.eclipse.nebula.widgets.timeline.snippets/src/org/eclipse/nebula/widgets/timeline/snippets/TimelineUsingContentProvider.java'>JFace viewer using custom ContentProvider/LabelProvider.</a></li>
+            <li><a href='https://raw.githubusercontent.com/eclipse/nebula/master/widgets/timeline/org.eclipse.nebula.widgets.timeline.snippets/src/org/eclipse/nebula/widgets/timeline/snippets/TimelineProgrammatic.java'>Programmatic access to the Composite directly without JFace layer.</a></li>
+        </ul>
+
 		<a name="XViewer"></a>
 		<h2>XViewer</h2>
 		<ul>

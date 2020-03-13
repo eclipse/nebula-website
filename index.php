@@ -82,7 +82,7 @@
 						</table>
 					</td>
 
-								<td align="center" valign="bottom">
+					<td align="center" valign="bottom">
 						<table>
 							<tr>
 								<td align="center"><a
@@ -226,22 +226,6 @@
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a
-									href="/nebula/widgets/pshelf/pshelf.php"><img class="img-responsive"
-										src="images/pshelf.png" border="0"
-										alt="PShelf is a composite widget similar to a tab folder but uses an accordion-like metaphor."
-										title="PShelf"></a></td>
-							</tr>
-							<tr>
-								<td align="center"><b>PShelf</b></td>
-							</tr>
-						</table>
-					</td>
-
-
-					<td align="center" valign="bottom">
-						<table>
-							<tr>
 								<td align="center"><a href="/nebula/widgets/richtext/richtext.php"><img class="img-responsive"
 										src="images/richtext.png" border="0"
 										alt="RichText - Embeddable rich text controls for editing and rendering HTML formatted text."
@@ -252,7 +236,7 @@
 							</tr>
 						</table>
 					</td>
-
+					<td align="center" valign="bottom">&nbsp;</td>
 				</tr>
 
 				<tr>
@@ -573,7 +557,7 @@
 									href="https://wiki.eclipse.org/Nebula_PropertyTable"><img class="img-responsive"
 										src="images/opal/propertytable.png" border="0"
 										alt="This widget proposes a simple way to build a table that presents a list of editable properties."
-										title="PreferenceWindow"></a></td>
+										title="PropertyTable"></a></td>
 							</tr>
 							<tr>
 								<td align="center"><b>PreferenceWindow</b></td>

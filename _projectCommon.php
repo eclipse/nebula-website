@@ -43,6 +43,7 @@
 		$Nav->addCustomNav("Dialog",    "https://wiki.eclipse.org/Nebula_Dialog", "_self", 2);
 		$Nav->addCustomNav("DualList",    "https://wiki.eclipse.org/Nebula_Duallist", "_self", 2);
 		$Nav->addCustomNav("FloatingText",		"https://wiki.eclipse.org/Nebula/FloatingText",	 	"_self", 2);
+		$Nav->addCustomNav("FontAwesome",		"https://wiki.eclipse.org/Nebula_FontAwesome",	 	"_self", 2);
 		$Nav->addCustomNav("Gallery",		"/nebula/widgets/gallery/gallery.php",	 	"_self", 2);
 		$Nav->addCustomNav("GanttChart",		"/nebula/widgets/ganttchart/ganttchart.php",	 	"_self", 2);
 		$Nav->addCustomNav("GeoMap",		"/nebula/widgets/geomap/geomap.php",	 	"_self", 2);

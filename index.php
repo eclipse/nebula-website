@@ -972,6 +972,38 @@
 					</td>
 				</tr>
 
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_FontAwesome"><img class="img-responsive"
+										src="images/fontawesome.png" border="0"
+										alt="Utility class to use FontAwesome in SWT Widgets."
+										title="Font Awesome"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Nebula Font Awesome</b></td>
+							</tr>
+						</table>
+					</td>
+
+ 					<td align="center" valign="bottom">
+						<!--<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Carousel"><img class="img-responsive"
+										src="images/carousel.png" border="0"
+										alt="This widget shows a list of images."
+										title="Carousel"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Carousel</b></td>
+							</tr>
+						</table>-->
+					</td>
+				</tr>
+
 			</table>
 
 			<a name="NatTable"></a>

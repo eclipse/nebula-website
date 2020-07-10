@@ -4,7 +4,7 @@
 
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula Release 2.4.0";
+	$pageTitle 		= "Nebula Release 2.4.1";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Release";
 	$pageAuthor		= "Nebula Committers";
 	

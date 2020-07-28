@@ -95,6 +95,7 @@ $Nav->addNavSeparator("Nebula Incubation", "");
 		$Nav->addCustomNav("Pagination",    "/nebula/widgets/pagination/pagination.php", "_self", 2);
 		$Nav->addCustomNav("Picture",    "/nebula/widgets/picture/picture.php", "_self", 2);
 		$Nav->addCustomNav("RadioGroup",    "/nebula/widgets/radiogroup/radiogroup.php", "_self", 2);
+		$Nav->addCustomNav("Timeline",    "/nebula/widgets/timeline/timeline.php", "_self", 2);
 		$Nav->addCustomNav("TreeMapper",    "/nebula/widgets/treemapper/treemapper.php", "_self", 2);
 	$Nav->addNavSeparator("Community", "");
         $Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/Nebula","_self", 2);

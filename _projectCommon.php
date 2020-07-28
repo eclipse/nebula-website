@@ -71,6 +71,7 @@
 		$Nav->addCustomNav("PGroup",		"/nebula/widgets/pgroup/pgroup.php",	 	"_self", 2);
 		$Nav->addCustomNav("PShelf",		"/nebula/widgets/pshelf/pshelf.php",	 	"_self", 2);
 		$Nav->addCustomNav("RichText",		"/nebula/widgets/richtext/richtext.php",	 	"_self", 2);
+		$Nav->addCustomNav("RoundedSwitch",    "https://wiki.eclipse.org/Nebula_RoundedSwitch", "_self", 2);
 		$Nav->addCustomNav("RoundedToolbar",    "https://wiki.eclipse.org/Nebula_RoundedToolbar", "_self", 2);
 		$Nav->addCustomNav("StarRating",    "https://wiki.eclipse.org/Nebula_StarRating", "_self", 2);
 		$Nav->addCustomNav("Stepbar",    "https://wiki.eclipse.org/Nebula_Stepbar", "_self", 2);

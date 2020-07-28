@@ -989,18 +989,18 @@
 					</td>
 
  					<td align="center" valign="bottom">
-						<!--<table>
+						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_Carousel"><img class="img-responsive"
-										src="images/carousel.png" border="0"
-										alt="This widget shows a list of images."
-										title="Carousel"></a></td>
+									href="https://wiki.eclipse.org/Nebula_RoundedSwitch"><img class="img-responsive"
+										src="images/roundedswitch.png" border="0"
+										alt="This widget is a switch checkbox."
+										title="Rounded Switch"></a></td>
 							</tr>
 							<tr>
-								<td align="center"><b>Carousel</b></td>
+								<td align="center"><b>Rounded Switch</b></td>
 							</tr>
-						</table>-->
+						</table>
 					</td>
 				</tr>
 

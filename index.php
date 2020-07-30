@@ -1225,7 +1225,7 @@
 							<tr>
 								<td align="center"><a
 									href="/nebula/widgets/timeline/timeline.php"><img class="img-responsive"
-										src="timeline/timeline.png" border="0" width="250"
+										src="/nebula/widgets/timeline/timeline.png" border="0" width="250"
 										alt="The Timeline Picture control allows to display events on a time axis."
 										title="Timeline"></a></td>
 							</tr>

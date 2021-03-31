@@ -840,40 +840,7 @@
 
 				</tr>
 				
-				<tr>
 
-					<td align="center" valign="bottom">
-						<table>
-							<tr>
-								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_SegmentedBar"><img class="img-responsive"
-										src="images/segmentedbar.png" border="0"
-										alt="This widget proposes a bar with different segments"
-										title="Segmented bar"></a></td>
-							</tr>
-							<tr>
-								<td align="center"><b>SegmentedBar</b></td>
-							</tr>
-						</table>
-					</td>
-
-					<td align="center" valign="bottom">
-						<!--<table>
-							<tr>
-								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_NebulaRoundedCheckBox"><img class="img-responsive"
-										src="images/roundedcheckbox.png" border="0"
-										alt="This widget proposes another look for the checkbox Widget."
-										title="NebulaRoundedCheckbox"></a></td>
-							</tr>
-							<tr>
-								<td align="center"><b>NebulaRoundedCheckbox</b></td>
-							</tr>
-						</table>-->
-						&nbsp;
-					</td>
-
-				</tr>
 				
 
 				<tr>
@@ -1038,6 +1005,41 @@
 							</tr>
 						</table>
 					</td>
+				</tr>
+				
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_SegmentedBar"><img class="img-responsive"
+										src="images/segmentedbar.png" border="0"
+										alt="This widget proposes a bar with different segments"
+										title="Segmented bar"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>SegmentedBar</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<!--<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_NebulaRoundedCheckBox"><img class="img-responsive"
+										src="images/roundedcheckbox.png" border="0"
+										alt="This widget proposes another look for the checkbox Widget."
+										title="NebulaRoundedCheckbox"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>NebulaRoundedCheckbox</b></td>
+							</tr>
+						</table>-->
+						&nbsp;
+					</td>
+
 				</tr>
 
 			</table>

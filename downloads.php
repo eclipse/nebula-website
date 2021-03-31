@@ -3,11 +3,11 @@
 	# Description:  Nebula Download page.
 
 	#
-	# Begin: page-specific settings.  Change these. 
+	# Begin: page-specific settings.  Change these.
 	$pageTitle 		= "Nebula Downloads";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Downloads";
 	$pageAuthor		= "Nebula Committers";
-	
+
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
@@ -17,15 +17,15 @@
 
 	# End: page-specific settings
 	#
-		
-	# Paste your HTML content between the EOHTML markers!	
+
+	# Paste your HTML content between the EOHTML markers!
 	$html = <<<EOHTML
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<br/>
 
-		<h2>Latest Release (2.3.0)</h2>
+		<h2>Latest Release (2.4.3)</h2>
 		<p style="font-weight: bold">
 				<ul>
 					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/latest">http://download.eclipse.org/nebula/releases/latest</a></li>
@@ -35,10 +35,14 @@
 			</p>
 		</h2>
 
-		
+
 		<h2>Releases</h2>
 			<ul>
-			    <li><b><a href='releases/2.3.0/index.php'>Upcoming Release 2.3.0</a></b> <a href='releases/2.3.0/javadoc/index.html'>(javadoc)</a></li>
+			    <li><b><a href='releases/2.4.3/index.php'>Release 2.4.3</a></b> <a href='releases/2.4.3/javadoc/index.html'>(javadoc)</a></li>
+			    <li><a href='releases/2.4.2/index.php'>Release 2.4.2</a> <a href='releases/2.4.2/javadoc/index.html'>(javadoc)</a></li>
+			    <li><a href='releases/2.4.1/index.php'>Release 2.4.1</a></li>
+			    <li><a href='releases/2.4.0/index.php'>Release 2.4.0</a></li>
+			    <li><a href='releases/2.3.0/index.php'>Release 2.3.0</a></li>
 			    <li><a href='releases/2.2.0/index.php'>Release 2.2.0</a></li>
 			    <li><a href='releases/2.0.1/index.php'>Release 2.0.1</a></li>
 			    <li><a href='releases/2.0.0/index.php'>Release 2.0.0</a></li>
@@ -50,10 +54,10 @@
 			</ul>
 		</h2>
 		</p>
-		
+
 		<h2>Latest Snapshots</h2>
 
-		<h4>Nebula Stable Widgets <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'> 
+		<h4>Nebula Stable Widgets <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'>
 		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
 			<p style="font-weight: bold">
 				<ul>
@@ -63,7 +67,7 @@
 				</ul>
 			</p>
 
-		<h4>Nebula Incubation Widgets <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'> 
+		<h4>Nebula Incubation Widgets <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'>
 		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
 			<p style="font-weight: bold">
 				<ul>
@@ -81,22 +85,22 @@
 					<li>Downloads: <a href="https://eclipse.org/nattable/download.php">https://eclipse.org/nattable/download.php</a></li>
 				</ul>
 			</p>
-			
+
 <!-- ------------------ Older downloads  -->
 			<br/>
 			<br/>
 			<h2>Archives</h2>
 			This section contains archived repositories so that release engineers do not have to
-			change their builds so often. Please note that you don't have to depend on a 
+			change their builds so often. Please note that you don't have to depend on a
 			specific build qualifier in your target definition or feature. If you still want to do that
-			and don't want to update your build scripts every day then make a local copy of 
+			and don't want to update your build scripts every day then make a local copy of
 			a repo or choose on of these below.
 			<br/>
-			<h3>Q2/2016. Retention period: 12 years.</h3> 
+			<h3>Q2/2016. Retention period: 12 years.</h3>
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q22016/release/">http://archive.eclipse.org/nebula/Q22016/release/</a></li> 
+					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q22016/release/">http://archive.eclipse.org/nebula/Q22016/release/</a></li>
 					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q22016/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
@@ -112,11 +116,11 @@
 			<br/>
 
 
-			<h3>Q4/2015. Retention period: 12 years.</h3> 
+			<h3>Q4/2015. Retention period: 12 years.</h3>
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q42015/release/">http://archive.eclipse.org/nebula/Q42015/release/</a></li> 
+					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q42015/release/">http://archive.eclipse.org/nebula/Q42015/release/</a></li>
 					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q42015/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
@@ -132,11 +136,11 @@
 			<br/>
 
 
-			<h3>Q1/2015. Retention period: 12 years.</h3> 
+			<h3>Q1/2015. Retention period: 12 years.</h3>
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q12015/release/">http://archive.eclipse.org/nebula/Q12015/release/</a></li> 
+					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q12015/release/">http://archive.eclipse.org/nebula/Q12015/release/</a></li>
 					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q12015/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
@@ -150,11 +154,11 @@
 			</p>
 			<br/>
 			<br/>
-			<h3>Q3/2014. Retention period: 12 years.</h3> 
+			<h3>Q3/2014. Retention period: 12 years.</h3>
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q32014/release/">http://archive.eclipse.org/nebula/Q32014/release/</a></li> 
+					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q32014/release/">http://archive.eclipse.org/nebula/Q32014/release/</a></li>
 					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q32014/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
@@ -165,14 +169,14 @@
 					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q32014/incubation">http://archive.eclipse.org/nebula/Q32014/incubation</a></li>
 					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q32014/incubation/repository.zip">repository.zip</a></li>
 				</ul>
-			</p>			
+			</p>
 			<br/>
 			<br/>
-			<h3>Q1/2014. Retention period: 12 years.</h3> 
+			<h3>Q1/2014. Retention period: 12 years.</h3>
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q12014/release/">http://archive.eclipse.org/nebula/Q12014/release/</a></li> 
+					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q12014/release/">http://archive.eclipse.org/nebula/Q12014/release/</a></li>
 					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q12014/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
@@ -200,8 +204,8 @@
 			</div>
 		</div>
 	</div>
-		
-	
+
+
 EOHTML;
 
 

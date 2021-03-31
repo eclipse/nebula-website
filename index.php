@@ -82,7 +82,7 @@
 						</table>
 					</td>
 
-								<td align="center" valign="bottom">
+					<td align="center" valign="bottom">
 						<table>
 							<tr>
 								<td align="center"><a
@@ -226,22 +226,6 @@
 					<td align="center" valign="bottom">
 						<table>
 							<tr>
-								<td align="center"><a
-									href="/nebula/widgets/pshelf/pshelf.php"><img class="img-responsive"
-										src="images/pshelf.png" border="0"
-										alt="PShelf is a composite widget similar to a tab folder but uses an accordion-like metaphor."
-										title="PShelf"></a></td>
-							</tr>
-							<tr>
-								<td align="center"><b>PShelf</b></td>
-							</tr>
-						</table>
-					</td>
-
-
-					<td align="center" valign="bottom">
-						<table>
-							<tr>
 								<td align="center"><a href="/nebula/widgets/richtext/richtext.php"><img class="img-responsive"
 										src="images/richtext.png" border="0"
 										alt="RichText - Embeddable rich text controls for editing and rendering HTML formatted text."
@@ -252,7 +236,7 @@
 							</tr>
 						</table>
 					</td>
-
+					<td align="center" valign="bottom">&nbsp;</td>
 				</tr>
 
 				<tr>
@@ -573,7 +557,7 @@
 									href="https://wiki.eclipse.org/Nebula_PropertyTable"><img class="img-responsive"
 										src="images/opal/propertytable.png" border="0"
 										alt="This widget proposes a simple way to build a table that presents a list of editable properties."
-										title="PreferenceWindow"></a></td>
+										title="PropertyTable"></a></td>
 							</tr>
 							<tr>
 								<td align="center"><b>PreferenceWindow</b></td>
@@ -992,6 +976,70 @@
 					</td>
 				</tr>
 
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Chips"><img class="img-responsive"
+										src="images/chips.png" border="0"
+										alt="Instances of this class allows user to display a rounded-shaped button."
+										title="Chips"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Chips</b></td>
+							</tr>
+						</table>
+					</td>
+
+ 					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Carousel"><img class="img-responsive"
+										src="images/carousel.png" border="0"
+										alt="This widget shows a list of images."
+										title="Carousel"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Carousel</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_FontAwesome"><img class="img-responsive"
+										src="images/fontawesome.png" border="0"
+										alt="Utility class to use FontAwesome in SWT Widgets."
+										title="Font Awesome"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Nebula Font Awesome</b></td>
+							</tr>
+						</table>
+					</td>
+
+ 					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_RoundedSwitch"><img class="img-responsive"
+										src="images/roundedswitch.png" border="0"
+										alt="This widget is a switch checkbox."
+										title="Rounded Switch"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Rounded Switch</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
 			</table>
 
 			<a name="NatTable"></a>
@@ -1204,6 +1252,21 @@
 							</tr>
 							<tr>
 								<td align="center"><b>Pagination</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="/nebula/widgets/timeline/timeline.php"><img class="img-responsive"
+										src="/nebula/widgets/timeline/timeline.png" border="0" width="250"
+										alt="The Timeline Picture control allows to display events on a time axis."
+										title="Timeline"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Timeline</b></td>
 							</tr>
 						</table>
 					</td>

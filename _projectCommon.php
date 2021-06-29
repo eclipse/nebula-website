@@ -101,6 +101,6 @@ $Nav->addNavSeparator("Nebula Incubation", "");
         $Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/Nebula","_self", 2);
 		$Nav->addCustomNav("Newsgroup", "http://www.eclipse.org/forums/index.php/f/64/","_self", 2);
 		$Nav->addCustomNav("Mailing List", "https://dev.eclipse.org/mailman/listinfo/nebula-dev","_self", 2);
-		$Nav->addCustomNav("Bugs", 		"http://bugs.eclipse.org/bugs/query.cgi?product=Nebula", 	"_self", 2);
+		$Nav->addCustomNav("Bugs", 		"https://github.com/eclipse/nebula/issues/new", 	"_self", 2);
 
 ?>

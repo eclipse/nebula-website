@@ -1289,7 +1289,7 @@
 			<div class="sideitem">
 				<h6>Comments</h6>
 				<div align="center">
-					<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=373009">
+					<a href="https://github.com/eclipse/nebula/issues/354">
 						<img class="img-responsive" align="center"
 						src="https://wiki.eclipse.org/images/7/7d/Bug.png" border="0"
 						alt="Report Problems with this site here" />Report page problems here.

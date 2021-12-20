@@ -25,6 +25,14 @@
 		<h1>$pageTitle</h1>
 		<br/>
 
+		<h2>Next Release (2.6.0)</h2>
+		<p style="font-weight: bold">
+				<ul>
+					<li><b>Next release will be released on February 1st 2022</b></li>
+				</ul>
+			</p>
+		</h2>
+
 		<h2>Latest Release (2.5.0)</h2>
 		<p style="font-weight: bold">
 				<ul>
@@ -197,7 +205,7 @@
 		<div class="sideitem">
 			<h6>Comments</h6>
 			<div align="center">
-				<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=373009">
+				<a href="https://github.com/eclipse/nebula/issues/new">
 					<img align="center"
 					src="https://wiki.eclipse.org/images/7/7d/Bug.png" border="0"
 					alt="Report Problems with this site here" />Report page problems here.

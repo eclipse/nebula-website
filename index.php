@@ -1014,12 +1014,12 @@
 							<tr>
 								<td align="center"><a
 									href="https://wiki.eclipse.org/Nebula_SegmentedBar"><img class="img-responsive"
-										src="images/tiles.png" border="0"
-										alt="This widget proposes to display data as tiles"
-										title="Tiles"></a></td>
+										src="images/segmentedbar.png" border="0"
+										alt="This widget proposes a bar with different segments"
+										title="Segmented bar"></a></td>
 							</tr>
 							<tr>
-								<td align="center"><b>Tiles</b></td>
+								<td align="center"><b>SegmentedBar</b></td>
 							</tr>
 						</table>
 					</td>
@@ -1028,13 +1028,13 @@
 						<table>
 							<tr>
 								<td align="center"><a
-									href="https://wiki.eclipse.org/Nebula_tiles"><img class="img-responsive"
-										src="images/roundedcheckbox.png" border="0"
-										alt="This widget proposes another look for the checkbox Widget."
-										title="NebulaRoundedCheckbox"></a></td>
+									href="https://wiki.eclipse.org/Nebula_Tiles"><img class="img-responsive"
+										src="images/tiles.png" border="0"
+										alt="This widget proposes to display data as tiles"
+										title="Tiles"></a></td>
 							</tr>
 							<tr>
-								<td align="center"><b>NebulaRoundedCheckbox</b></td>
+								<td align="center"><b>Tiles</b></td>
 							</tr>
 						</table>
 						&nbsp;

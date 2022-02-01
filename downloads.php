@@ -25,19 +25,19 @@
 		<h1>$pageTitle</h1>
 		<br/>
 
-		<h2>Next Release (2.6.0)</h2>
+		<h2>Next Release (2.7.0)</h2>
 		<p style="font-weight: bold">
 				<ul>
-					<li><b>Next release will be released on February 1st 2022</b></li>
+					<li><b>Next release will be released on July 1st 2022</b></li>
 				</ul>
 			</p>
 		</h2>
 
-		<h2>Latest Release (2.5.0)</h2>
+		<h2>Latest Release (2.6.0)</h2>
 		<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/nebula/releases/latest">http://download.eclipse.org/nebula/releases/latest</a></li>
-					<li>Update site repo zipped: <a href="http://www.eclipse.org/downloads/download.php?file=/nebula/releases/latest/repository-nebula-latest.zip">repository-nebula-latest.zip</a></li>
+					<li>Update site: <a href="https://download.eclipse.org/nebula/releases/latest">http://download.eclipse.org/nebula/releases/latest</a></li>
+					<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/releases/latest/repository-nebula-latest.zip">repository-nebula-latest.zip</a></li>
 					<li>Javadoc:  <a href="releases/latest/javadoc/index.html">Link to Javadoc</a></li>
 				</ul>
 			</p>

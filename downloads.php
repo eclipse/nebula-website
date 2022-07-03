@@ -25,15 +25,16 @@
 		<h1>$pageTitle</h1>
 		<br/>
 
-		<h2>Next Release (2.7.0)</h2>
+		<h2>Next Release (3.0.0)</h2>
 		<p style="font-weight: bold">
 				<ul>
-					<li><b>Next release will be released on July 1st 2022</b></li>
+					<li><b>Next release will be released on December 26th 2022</b></li>
 				</ul>
 			</p>
 		</h2>
 
-		<h2>Latest Release (2.6.0)</h2>
+		<h2>Latest Release (2.7.0)</h2>
+		<b>Please notice that this release is the last one that runs with Java 8</b><br/>
 		<p style="font-weight: bold">
 				<ul>
 					<li>Update site: <a href="https://download.eclipse.org/nebula/releases/latest">http://download.eclipse.org/nebula/releases/latest</a></li>
@@ -46,6 +47,7 @@
 
 		<h2>Releases</h2>
 			<ul>
+				<li><b><a href='releases/2.5.0/index.php'>Release 2.6.0</a></b> <a href='releases/2.6.0/javadoc/index.html'>(javadoc)</a></li>
 				<li><b><a href='releases/2.5.0/index.php'>Release 2.5.0</a></b> <a href='releases/2.5.0/javadoc/index.html'>(javadoc)</a></li>
 			    <li><b><a href='releases/2.4.3/index.php'>Release 2.4.3</a></b> <a href='releases/2.4.3/javadoc/index.html'>(javadoc)</a></li>
 			    <li><a href='releases/2.4.2/index.php'>Release 2.4.2</a> <a href='releases/2.4.2/javadoc/index.html'>(javadoc)</a></li>

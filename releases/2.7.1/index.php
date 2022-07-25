@@ -4,7 +4,7 @@
 
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Nebula Release 2.7.0";
+	$pageTitle 		= "Nebula Release 2.7.1";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Release";
 	$pageAuthor		= "Nebula Committers";
 	
@@ -25,16 +25,16 @@
 		<h1>$pageTitle</h1>
 		<br/>
 		<p>
-		This is the Nebula <b>2.7.0</b> release. <a href="https://github.com/eclipse/nebula/milestone/4?closed=1" target=blank>Resolved Issues</a>  
+		This is the Nebula <b>2.7.1</b> release. <a href="https://github.com/eclipse/nebula/milestone/4?closed=1" target=blank>Resolved Issues</a>  
 		</p>
 
 		<h3>Downloads</a></h3>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="https://download.eclipse.org/nebula/releases/2.7.0">https://download.eclipse.org/nebula/releases/2.7.0</a></li>
-					<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/releases/2.7.0/repository-nebula-2.7.0.zip">repository.zip</a></li>
+					<li>Update site: <a href="https://download.eclipse.org/nebula/releases/2.7.1">https://download.eclipse.org/nebula/releases/2.7.1</a></li>
+					<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/releases/2.7.1/repository-nebula-2.7.1.zip">repository.zip</a></li>
 					<li>Javadoc:  <a href="javadoc/index.html">Link to Javadoc</a></li>
-					<li>New and Noteworthy:  <a href="https://wiki.eclipse.org/Nebula/Releases/2.7.0/NaN">Link to N&N</a></li>
+					<li>New and Noteworthy:  <a href="https://wiki.eclipse.org/Nebula/Releases/2.7.1/NaN">Link to N&N</a></li>
 				</ul>
 			</p>	
 	</div>

@@ -3,7 +3,7 @@
 	# Description:  Nebula Download page.
 
 	#
-	# Begin: page-specific settings.  Change these.
+	# Begin: page-specific settings.  Change these
 	$pageTitle 		= "Nebula Downloads";
 	$pageKeywords	= "Nebula, SWT, Widgets, Controls, Downloads";
 	$pageAuthor		= "Nebula Committers";

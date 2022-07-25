@@ -18,7 +18,7 @@
 	# End: page-specific settings
 	#
 		
-	# Paste your HTML content between the EOHTML markers!	
+	# Paste your HTML content between the EOHTML markers.	
 	$html = <<<EOHTML
 
 	<div class="col-md-24">

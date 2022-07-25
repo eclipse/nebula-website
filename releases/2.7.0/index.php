@@ -25,7 +25,7 @@
 		<h1>$pageTitle</h1>
 		<br/>
 		<p>
-		This is the Nebula <b>2.7.0</b> release. <a href="https://github.com/eclipse/nebula/milestone/4?closed=1" target=blank>Resolved Issues</a>  
+		This is the Nebula <b>2.7.0</b> release. <a href="https://github.com/eclipse/nebula/milestone/5?closed=1" target=blank>Resolved Issues</a>  
 		</p>
 
 		<h3>Downloads</a></h3>

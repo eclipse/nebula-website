@@ -33,7 +33,7 @@
 			</p>
 		</h2>
 
-		<h2>Latest Release (2.7.1)</h2>
+		<h2>Latest Release (2.7.2)</h2>
 		<b>Please notice that this release is the last one that runs with Java 8</b><br/>
 		<p style="font-weight: bold">
 				<ul>

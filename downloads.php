@@ -9,10 +9,10 @@
 	$pageAuthor		= "Nebula Committers";
 
 	# Add page-specific Nav bars here
-	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
+	# Format is Link text, link URL (can be https://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
-	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
+	# $Nav->addCustomNav("Google", "https://www.google.com/", "_blank", 3);
 
 
 	# End: page-specific settings
@@ -37,7 +37,7 @@
 		<b>Please notice that this release is the last one that runs with Java 8</b><br/>
 		<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="https://download.eclipse.org/nebula/releases/latest">http://download.eclipse.org/nebula/releases/latest</a></li>
+					<li>Update site: <a href="https://download.eclipse.org/nebula/releases/latest">https://download.eclipse.org/nebula/releases/latest</a></li>
 					<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/releases/latest/repository-nebula-latest.zip">repository-nebula-latest.zip</a></li>
 					<li>Javadoc:  <a href="releases/latest/javadoc/index.html">Link to Javadoc</a></li>
 				</ul>
@@ -47,10 +47,11 @@
 
 		<h2>Releases</h2>
 			<ul>
-				<li><b><a href='releases/2.7.1/index.php'>Release 2.7.1</a></b> <a href='releases/2.7.1/javadoc/index.html'>(javadoc)</a></li>
-				<li><a href='releases/2.7.0/index.php'>Release 2.7.0</a> <a href='releases/2.7.0/javadoc/index.html'>(javadoc)</a></li>
-				<li><a href='releases/2.6.0/index.php'>Release 2.6.0</a> <a href='releases/2.6.0/javadoc/index.html'>(javadoc)</a></li>
-				<li><a href='releases/2.5.0/index.php'>Release 2.5.0</a> <a href='releases/2.5.0/javadoc/index.html'>(javadoc)</a></li>
+			    <li><b><a href='releases/2.7.2/index.php'>Release 2.7.2</a></b> <a href='releases/2.7.2/javadoc/index.html'>(javadoc)</a></li>
+			    <li><a href='releases/2.7.1/index.php'>Release 2.7.1</a> <a href='releases/2.7.1/javadoc/index.html'>(javadoc)</a></li>
+			    <li><a href='releases/2.7.0/index.php'>Release 2.7.0</a> <a href='releases/2.7.0/javadoc/index.html'>(javadoc)</a></li>
+			    <li><a href='releases/2.6.0/index.php'>Release 2.6.0</a> <a href='releases/2.6.0/javadoc/index.html'>(javadoc)</a></li>
+			    <li><a href='releases/2.5.0/index.php'>Release 2.5.0</a> <a href='releases/2.5.0/javadoc/index.html'>(javadoc)</a></li>
 			    <li><a href='releases/2.4.3/index.php'>Release 2.4.3</a> <a href='releases/2.4.3/javadoc/index.html'>(javadoc)</a></li>
 			    <li><a href='releases/2.4.2/index.php'>Release 2.4.2</a> <a href='releases/2.4.2/javadoc/index.html'>(javadoc)</a></li>
 			    <li><a href='releases/2.4.1/index.php'>Release 2.4.1</a></li>
@@ -61,40 +62,51 @@
 			    <li><a href='releases/2.0.0/index.php'>Release 2.0.0</a></li>
 			    <li><a href='releases/1.4.0/index.php'>Release 1.4.0</a></li>
 			    <li><a href='releases/1.3.0/index.php'>Release 1.3.0</a></li>
-				<li><a href='releases/1.2.0/index.php'>Release 1.2.0</a></li>
-				<li><a href='releases/1.1.0/index.php'>Release 1.1.0</a></li>
-				<li><a href='releases/1.0.0/index.php'>Release 1.0.0</a></li>
+			    <li><a href='releases/1.2.0/index.php'>Release 1.2.0</a></li>
+			    <li><a href='releases/1.1.0/index.php'>Release 1.1.0</a></li>
+			    <li><a href='releases/1.0.0/index.php'>Release 1.0.0</a></li>
 			</ul>
 		</h2>
 		</p>
 
 		<h2>Latest Snapshots</h2>
 
-		<h4>Nebula Stable Widgets <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'>
+		<h4>Nebula Stable Widgets <a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'>
 		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
+		This repository changes on every push to master
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/nebula/snapshot">http://download.eclipse.org/nebula/snapshot</a></li>
-					<li>Update site repo zipped: <a href="http://www.eclipse.org/downloads/download.php?file=/nebula/snapshot/repository.zip">repository.zip</a></li>
-					<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
+					<li>Update site: <a href="https://download.eclipse.org/nebula/snapshot">https://download.eclipse.org/nebula/snapshot</a></li>
+					<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/snapshot/repository.zip">repository.zip</a></li>
+					<li><a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
 				</ul>
 			</p>
 
-		<h4>Nebula Incubation Widgets <a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'>
+		<h4>Nebula Incubation Widgets Snapshots <a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'>
 		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
+		This repository changes on every push to master
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://download.eclipse.org/nebula/incubation/snapshot">http://download.eclipse.org/nebula/incubation/snapshot</a></li>
-					<li>Update site repo zipped: <a href="http://www.eclipse.org/downloads/download.php?file=/nebula/incubation/snapshot/repository.zip">repository.zip</a></li>
-					<li><a href='http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
+					<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/latest">https://download.eclipse.org/nebula/incubation/latest</a></li>
+					<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository.zip">repository.zip</a></li>
+					<li><a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
+				</ul>
+			</p>
+
+		<h4>Nebula Incubation Widgets Latest</h4>
+		This repository only changes when the main Nebula widgets are released.
+			<p style="font-weight: bold">
+				<ul>
+					<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/snapshot">https://download.eclipse.org/nebula/incubation/snapshot</a></li>
+					<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository-nebula-incubation-latest.zip">repository-nebula-incubation-latest.zip</a></li>
 				</ul>
 			</p>
 
 		<h4>Nebula NatTable</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Snapshot repo: <a href="http://download.eclipse.org/nattable/snapshots/latest/repository">http://download.eclipse.org/nattable/snapshots/latest/repository</a></li>
-					<li>Snapshot repo zipped: <a href="http://www.eclipse.org/downloads/download.php?file=/nattable/snapshots/latest/repository.zip">repository.zip</a></li>
+					<li>Snapshot repo: <a href="https://download.eclipse.org/nattable/snapshots/latest/repository">https://download.eclipse.org/nattable/snapshots/latest/repository</a></li>
+					<li>Snapshot repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nattable/snapshots/latest/repository.zip">repository.zip</a></li>
 					<li>Downloads: <a href="https://eclipse.org/nattable/download.php">https://eclipse.org/nattable/download.php</a></li>
 				</ul>
 			</p>
@@ -113,16 +125,16 @@
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q22016/release/">http://archive.eclipse.org/nebula/Q22016/release/</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q22016/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="https://archive.eclipse.org/nebula/Q22016/release/">https://archive.eclipse.org/nebula/Q22016/release/</a></li>
+					<li>Update site repo zipped: <a href="https://archive.eclipse.org/nebula/Q22016/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
 			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q22016/incubation">http://archive.eclipse.org/nebula/Q22016/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q22016/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="https://archive.eclipse.org/nebula/Q22016/incubation">https://archive.eclipse.org/nebula/Q22016/incubation</a></li>
+					<li>Update site repo zipped: <a href="https://archive.eclipse.org/nebula/Q22016/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 			<br/>
@@ -133,16 +145,16 @@
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q42015/release/">http://archive.eclipse.org/nebula/Q42015/release/</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q42015/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="https://archive.eclipse.org/nebula/Q42015/release/">https://archive.eclipse.org/nebula/Q42015/release/</a></li>
+					<li>Update site repo zipped: <a href="https://archive.eclipse.org/nebula/Q42015/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
 			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q42015/incubation">http://archive.eclipse.org/nebula/Q42015/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q42015/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="https://archive.eclipse.org/nebula/Q42015/incubation">https://archive.eclipse.org/nebula/Q42015/incubation</a></li>
+					<li>Update site repo zipped: <a href="https://archive.eclipse.org/nebula/Q42015/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 			<br/>
@@ -153,16 +165,16 @@
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q12015/release/">http://archive.eclipse.org/nebula/Q12015/release/</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q12015/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="https://archive.eclipse.org/nebula/Q12015/release/">https://archive.eclipse.org/nebula/Q12015/release/</a></li>
+					<li>Update site repo zipped: <a href="https://archive.eclipse.org/nebula/Q12015/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
 			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q12015/incubation">http://archive.eclipse.org/nebula/Q12015/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q12015/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="https://archive.eclipse.org/nebula/Q12015/incubation">https://archive.eclipse.org/nebula/Q12015/incubation</a></li>
+					<li>Update site repo zipped: <a href="https://archive.eclipse.org/nebula/Q12015/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 			<br/>
@@ -171,16 +183,16 @@
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q32014/release/">http://archive.eclipse.org/nebula/Q32014/release/</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q32014/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="https://archive.eclipse.org/nebula/Q32014/release/">https://archive.eclipse.org/nebula/Q32014/release/</a></li>
+					<li>Update site repo zipped: <a href="https://archive.eclipse.org/nebula/Q32014/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
 			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q32014/incubation">http://archive.eclipse.org/nebula/Q32014/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q32014/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="https://archive.eclipse.org/nebula/Q32014/incubation">https://archive.eclipse.org/nebula/Q32014/incubation</a></li>
+					<li>Update site repo zipped: <a href="https://archive.eclipse.org/nebula/Q32014/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 			<br/>
@@ -189,16 +201,16 @@
 			<h4>Nebula Stable Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q12014/release/">http://archive.eclipse.org/nebula/Q12014/release/</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q12014/release/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="https://archive.eclipse.org/nebula/Q12014/release/">https://archive.eclipse.org/nebula/Q12014/release/</a></li>
+					<li>Update site repo zipped: <a href="https://archive.eclipse.org/nebula/Q12014/release/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 
 			<h4>Nebula Incubation Widgets</h4>
 			<p style="font-weight: bold">
 				<ul>
-					<li>Update site: <a href="http://archive.eclipse.org/nebula/Q12014/incubation">http://archive.eclipse.org/nebula/Q12014/incubation</a></li>
-					<li>Update site repo zipped: <a href="http://archive.eclipse.org/nebula/Q12014/incubation/repository.zip">repository.zip</a></li>
+					<li>Update site: <a href="https://archive.eclipse.org/nebula/Q12014/incubation">https://archive.eclipse.org/nebula/Q12014/incubation</a></li>
+					<li>Update site repo zipped: <a href="https://archive.eclipse.org/nebula/Q12014/incubation/repository.zip">repository.zip</a></li>
 				</ul>
 			</p>
 

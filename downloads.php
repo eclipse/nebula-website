@@ -36,73 +36,58 @@
 		<h2>Latest Release (2.7.2)</h2>
 		<b>Please notice that this release is the last one that runs with Java 8</b><br/>
 		<p style="font-weight: bold">
-				<ul>
-					<li>Update site: <a href="https://download.eclipse.org/nebula/releases/latest">https://download.eclipse.org/nebula/releases/latest</a></li>
-					<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/releases/latest/repository-nebula-latest.zip">repository-nebula-latest.zip</a></li>
-					<li>Javadoc:  <a href="releases/latest/javadoc/index.html">Link to Javadoc</a></li>
-				</ul>
-			</p>
-		</h2>
+			<ul>
+				<li>Update site: <a href="https://download.eclipse.org/nebula/releases/latest">https://download.eclipse.org/nebula/releases/latest</a></li>
+				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/releases/latest/repository-nebula-latest.zip">repository-nebula-latest.zip</a></li>
+				<li>Javadoc:  <a href="releases/latest/javadoc/index.html">Link to Javadoc</a></li>
+			</ul>
+		</p>
+
 
 
 		<h2>Releases</h2>
+		<p style="font-weight: bold">
 			<ul>
 			    <li><b><a href='releases/2.7.2/index.php'>Release 2.7.2</a></b> <a href='releases/2.7.2/javadoc/index.html'>(javadoc)</a></li>
-			    <li><a href='releases/2.7.1/index.php'>Release 2.7.1</a> <a href='releases/2.7.1/javadoc/index.html'>(javadoc)</a></li>
-			    <li><a href='releases/2.7.0/index.php'>Release 2.7.0</a> <a href='releases/2.7.0/javadoc/index.html'>(javadoc)</a></li>
-			    <li><a href='releases/2.6.0/index.php'>Release 2.6.0</a> <a href='releases/2.6.0/javadoc/index.html'>(javadoc)</a></li>
-			    <li><a href='releases/2.5.0/index.php'>Release 2.5.0</a> <a href='releases/2.5.0/javadoc/index.html'>(javadoc)</a></li>
-			    <li><a href='releases/2.4.3/index.php'>Release 2.4.3</a> <a href='releases/2.4.3/javadoc/index.html'>(javadoc)</a></li>
-			    <li><a href='releases/2.4.2/index.php'>Release 2.4.2</a> <a href='releases/2.4.2/javadoc/index.html'>(javadoc)</a></li>
-			    <li><a href='releases/2.4.1/index.php'>Release 2.4.1</a></li>
-			    <li><a href='releases/2.4.0/index.php'>Release 2.4.0</a></li>
-			    <li><a href='releases/2.3.0/index.php'>Release 2.3.0</a></li>
-			    <li><a href='releases/2.2.0/index.php'>Release 2.2.0</a></li>
-			    <li><a href='releases/2.0.1/index.php'>Release 2.0.1</a></li>
-			    <li><a href='releases/2.0.0/index.php'>Release 2.0.0</a></li>
-			    <li><a href='releases/1.4.0/index.php'>Release 1.4.0</a></li>
-			    <li><a href='releases/1.3.0/index.php'>Release 1.3.0</a></li>
-			    <li><a href='releases/1.2.0/index.php'>Release 1.2.0</a></li>
-			    <li><a href='releases/1.1.0/index.php'>Release 1.1.0</a></li>
-			    <li><a href='releases/1.0.0/index.php'>Release 1.0.0</a></li>
+			    <li><a href='https://download.eclipse.org/nebula/releases'>Old Releases</a></li>
 			</ul>
-		</h2>
 		</p>
+
+		<h3>Nebula Incubation Widgets Latest</h3>
+		This repository only changes when the main Nebula widgets are released.
+		<p style="font-weight: bold">
+			<ul>
+				<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/snapshot">https://download.eclipse.org/nebula/incubation/snapshot</a></li>
+				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository-nebula-incubation-latest.zip">repository-nebula-incubation-latest.zip</a></li>
+			</ul>
+		</p>
+
 
 		<h2>Latest Snapshots</h2>
 
-		<h4>Nebula Stable Widgets <a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'>
-		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
+		<h3>Nebula Stable Widgets <a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'>
+		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
 		This repository changes on every push to master
-			<p style="font-weight: bold">
-				<ul>
-					<li>Update site: <a href="https://download.eclipse.org/nebula/snapshot">https://download.eclipse.org/nebula/snapshot</a></li>
-					<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/snapshot/repository.zip">repository.zip</a></li>
-					<li><a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
-				</ul>
-			</p>
+		<p style="font-weight: bold">
+			<ul>
+				<li>Update site: <a href="https://download.eclipse.org/nebula/snapshot">https://download.eclipse.org/nebula/snapshot</a></li>
+				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/snapshot/repository.zip">repository.zip</a></li>
+				<li><a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229894' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
+			</ul>
+		</p>
 
-		<h4>Nebula Incubation Widgets Snapshots <a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'>
-		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h4>
+		<h3>Nebula Incubation Widgets Snapshots <a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running to install these Widgets'>
+		<img src='https://marketplace.eclipse.org/misc/installbutton.png'/></a></h3>
 		This repository changes on every push to master
-			<p style="font-weight: bold">
-				<ul>
-					<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/latest">https://download.eclipse.org/nebula/incubation/latest</a></li>
-					<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository.zip">repository.zip</a></li>
-					<li><a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
-				</ul>
-			</p>
+		<p style="font-weight: bold">
+			<ul>
+				<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/latest">https://download.eclipse.org/nebula/incubation/latest</a></li>
+				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository.zip">repository.zip</a></li>
+				<li><a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
+			</ul>
+		</p>
 
-		<h4>Nebula Incubation Widgets Latest</h4>
-		This repository only changes when the main Nebula widgets are released.
-			<p style="font-weight: bold">
-				<ul>
-					<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/snapshot">https://download.eclipse.org/nebula/incubation/snapshot</a></li>
-					<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository-nebula-incubation-latest.zip">repository-nebula-incubation-latest.zip</a></li>
-				</ul>
-			</p>
-
-		<h4>Nebula NatTable</h4>
+		<h3>Nebula NatTable</h3>
 			<p style="font-weight: bold">
 				<ul>
 					<li>Snapshot repo: <a href="https://download.eclipse.org/nattable/snapshots/latest/repository">https://download.eclipse.org/nattable/snapshots/latest/repository</a></li>

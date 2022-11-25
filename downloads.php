@@ -59,7 +59,7 @@
 		<p style="font-weight: bold">
 			<ul>
 				<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/latest">https://download.eclipse.org/nebula/incubation/latest</a></li>
-				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository.zip">repository.zip</a></li>
+				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository-nebula-incubation-latest.zip">repository-nebula-incubation-latest.zip</a></li>
 			</ul>
 		</p>
 
@@ -83,7 +83,7 @@
 		<p style="font-weight: bold">
 			<ul>
 				<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/snapshot">https://download.eclipse.org/nebula/incubation/snapshot</a></li>
-				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository-nebula-incubation-latest.zip">repository-nebula-incubation-latest.zip</a></li>
+				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/snapshot/repository.zip">repository.zip</a></li>
 				<li><a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
 			</ul>
 		</p>

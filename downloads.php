@@ -50,6 +50,7 @@
 			<ul>
 			    <li><b><a href='releases/2.7.2/index.php'>Release 2.7.2</a></b> <a href='releases/2.7.2/javadoc/index.html'>(javadoc)</a></li>
 			    <li><a href='https://download.eclipse.org/nebula/releases'>Old Releases</a></li>
+			    <li><a href='https://archive.eclipse.org/nebula/releases/'>Archived Releases</a></li>
 			</ul>
 		</p>
 
@@ -57,8 +58,8 @@
 		This repository only changes when the main Nebula widgets are released.
 		<p style="font-weight: bold">
 			<ul>
-				<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/snapshot">https://download.eclipse.org/nebula/incubation/snapshot</a></li>
-				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository-nebula-incubation-latest.zip">repository-nebula-incubation-latest.zip</a></li>
+				<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/latest">https://download.eclipse.org/nebula/incubation/latest</a></li>
+				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository.zip">repository.zip</a></li>
 			</ul>
 		</p>
 
@@ -81,8 +82,8 @@
 		This repository changes on every push to master
 		<p style="font-weight: bold">
 			<ul>
-				<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/latest">https://download.eclipse.org/nebula/incubation/latest</a></li>
-				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository.zip">repository.zip</a></li>
+				<li>Update site: <a href="https://download.eclipse.org/nebula/incubation/snapshot">https://download.eclipse.org/nebula/incubation/snapshot</a></li>
+				<li>Update site repo zipped: <a href="https://www.eclipse.org/downloads/download.php?file=/nebula/incubation/latest/repository-nebula-incubation-latest.zip">repository-nebula-incubation-latest.zip</a></li>
 				<li><a href='https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=229909' title='Drag and drop into a running Eclipse to install these Widgets'>Drop this link into Eclipse to install</a></li>
 			</ul>
 		</p>

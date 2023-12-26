@@ -25,16 +25,15 @@
 		<h1>$pageTitle</h1>
 		<br/>
 
-		<h2>Next Release (3.1.0)</h2>
+		<h2>Next Release (3.1.1)</h2>
 		<p style="font-weight: bold">
 				<ul>
-					<li><b>Next release will be released on June 30th 2023</b></li>
+					<li><b>Next release will be released on February 1st 2024</b></li>
 				</ul>
 			</p>
 		</h2>
 
-		<h2>Latest Release (3.0.0)</h2>
-		<b>Please notice that this release runs with Java 11+</b><br/>
+		<h2>Latest Release (3.1.0)</h2>
 		<p style="font-weight: bold">
 			<ul>
 				<li>Update site: <a href="https://download.eclipse.org/nebula/releases/latest">https://download.eclipse.org/nebula/releases/latest</a></li>

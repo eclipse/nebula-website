@@ -83,6 +83,7 @@
 		$Nav->addCustomNav("Tip of the Day",    "https://wiki.eclipse.org/Nebula_TipOfTheDay", "_self", 2);
 		$Nav->addCustomNav("TitledSeparator",    "https://wiki.eclipse.org/Nebula_TitledSeparator", "_self", 2);
 		$Nav->addCustomNav("Transition", "/nebula/widgets/stw/stw.php", "_self", 2);
+		$Nav->addCustomNav("TreeMapper",    "/nebula/widgets/treemapper/treemapper.php", "_self", 2);
 		$Nav->addCustomNav("Visualization",   "/nebula/widgets/visualization/visualization.php", "_self", 2);
 		$Nav->addCustomNav("XViewer",    "/nebula/widgets/xviewer/xviewer.php", "_self", 2);
 
@@ -98,7 +99,6 @@ $Nav->addNavSeparator("Nebula Incubation", "");
 		$Nav->addCustomNav("Picture",    "/nebula/widgets/picture/picture.php", "_self", 2);
 		$Nav->addCustomNav("RadioGroup",    "/nebula/widgets/radiogroup/radiogroup.php", "_self", 2);
 		$Nav->addCustomNav("Timeline",    "/nebula/widgets/timeline/timeline.php", "_self", 2);
-		$Nav->addCustomNav("TreeMapper",    "/nebula/widgets/treemapper/treemapper.php", "_self", 2);
 	$Nav->addNavSeparator("Community", "");
         $Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/Nebula","_self", 2);
 		$Nav->addCustomNav("Newsgroup", "http://www.eclipse.org/forums/index.php/f/64/","_self", 2);

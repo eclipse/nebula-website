@@ -53,16 +53,6 @@
 		</ul>
 		</p>
 
-        <p>
-        NOTE: The TreeMapper widget is in an <font color="red"><b>ALPHA</b></font> state.
-        The API is not stable yet, sers should expect changes in future versions: add of
-        new features, behavior changes.
-        </p>
-        <br>
-        <p>
-        <a href='/nebula/snippets.php#TableCombo'>Snippets</a>
-        </p>
-
         <hr class="clearer"/>
 	</div>
 

@@ -1198,19 +1198,7 @@
 						</table>
 					</td>
 
-					<td align="center" valign="bottom">
-						<table>
-							<tr>
-								<td align="center"><a
-									href="/nebula/widgets/treemapper/treemapper.php"><img class="img-responsive"
-										src="images/treemapper.png" width="320px"
-										alt="The TreeMapper widget is a widget that allows you to define mapping by simply drag and drop elements between 2 JFace TreeViewers"></a></td>
-							</tr>
-							<tr>
-								<td align="center"><b>TreeMapper</b></td>
-							</tr>
-						</table>
-					</td>
+					<td align="center" valign="bottom">&nbsp;</td>
 				</tr>
 
 				</tr>

@@ -1,7 +1,7 @@
 /*!
 
 JSZipUtils - A collection of cross-browser utilities to go along with JSZip.
-<http://stuk.github.io/jszip-utils>
+<https://stuk.github.io/jszip-utils>
 
 (c) 2014 Stuart Knightley, David Duponchel
 Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.
@@ -59,10 +59,10 @@ JSZipUtils.getBinaryContent = function(path, callback) {
      * (for binary data, its content is different from responseText).
      * In IE 10, the 'charset=x-user-defined' trick doesn't work, only the
      * responseType will work :
-     * http://msdn.microsoft.com/en-us/library/ie/hh673569%28v=vs.85%29.aspx#Binary_Object_upload_and_download
+     * https://msdn.microsoft.com/en-us/library/ie/hh673569%28v=vs.85%29.aspx#Binary_Object_upload_and_download
      *
      * I'd like to use jQuery to avoid this XHR madness, but it doesn't support
-     * the responseType attribute : http://bugs.jquery.com/ticket/11461
+     * the responseType attribute : https://bugs.jquery.com/ticket/11461
      */
     try {
 

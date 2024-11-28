@@ -1,7 +1,7 @@
 /*!
 
 JSZipUtils - A collection of cross-browser utilities to go along with JSZip.
-<http://stuk.github.io/jszip-utils>
+<https://stuk.github.io/jszip-utils>
 
 (c) 2014 Stuart Knightley, David Duponchel
 Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip-utils/master/LICENSE.markdown.
@@ -12,7 +12,7 @@ var global=typeof self !== "undefined" ? self : typeof window !== "undefined" ? 
 /* global IEBinaryToArray_ByteStr, IEBinaryToArray_ByteStr_Last */
 "use strict";
 
-// Adapted from http://stackoverflow.com/questions/1095102/how-do-i-load-binary-image-data-using-javascript-and-xmlhttprequest
+// Adapted from https://stackoverflow.com/questions/1095102/how-do-i-load-binary-image-data-using-javascript-and-xmlhttprequest
 var IEBinaryToArray_ByteStr_Script =
     "<!-- IEBinaryToArray_ByteStr -->\r\n"+
     "<script type='text/vbscript'>\r\n"+

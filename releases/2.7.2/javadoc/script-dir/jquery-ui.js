@@ -1,5 +1,5 @@
 /*! jQuery UI - v1.12.1 - 2018-12-06
-* http://jqueryui.com
+* https://jqueryui.com
 * Includes: widget.js, position.js, keycode.js, unique-id.js, widgets/autocomplete.js, widgets/menu.js
 * Copyright jQuery Foundation and other contributors; Licensed MIT */
 
@@ -22,18 +22,18 @@ var version = $.ui.version = "1.12.1";
 
 /*!
  * jQuery UI Widget 1.12.1
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 //>>label: Widget
 //>>group: Core
 //>>description: Provides a factory for creating stateful widgets with a common API.
-//>>docs: http://api.jqueryui.com/jQuery.widget/
-//>>demos: http://jqueryui.com/widget/
+//>>docs: https://api.jqueryui.com/jQuery.widget/
+//>>demos: https://jqueryui.com/widget/
 
 
 
@@ -52,7 +52,7 @@ $.cleanData = ( function( orig ) {
 					$( elem ).triggerHandler( "remove" );
 				}
 
-			// Http://bugs.jquery.com/ticket/8235
+			// https://bugs.jquery.com/ticket/8235
 			} catch ( e ) {}
 		}
 		orig( elems );
@@ -745,20 +745,20 @@ var widget = $.widget;
 
 /*!
  * jQuery UI Position 1.12.1
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  *
- * http://api.jqueryui.com/position/
+ * https://api.jqueryui.com/position/
  */
 
 //>>label: Position
 //>>group: Core
 //>>description: Positions elements relative to other elements.
-//>>docs: http://api.jqueryui.com/position/
-//>>demos: http://jqueryui.com/position/
+//>>docs: https://api.jqueryui.com/position/
+//>>demos: https://jqueryui.com/position/
 
 
 ( function() {
@@ -1233,17 +1233,17 @@ var position = $.ui.position;
 
 /*!
  * jQuery UI Keycode 1.12.1
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 //>>label: Keycode
 //>>group: Core
 //>>description: Provide keycodes as keynames
-//>>docs: http://api.jqueryui.com/jQuery.ui.keyCode/
+//>>docs: https://api.jqueryui.com/jQuery.ui.keyCode/
 
 
 var keycode = $.ui.keyCode = {
@@ -1268,17 +1268,17 @@ var keycode = $.ui.keyCode = {
 
 /*!
  * jQuery UI Unique ID 1.12.1
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 //>>label: uniqueId
 //>>group: Core
 //>>description: Functions to generate and remove uniqueId's
-//>>docs: http://api.jqueryui.com/uniqueId/
+//>>docs: https://api.jqueryui.com/uniqueId/
 
 
 
@@ -1337,18 +1337,18 @@ var safeActiveElement = $.ui.safeActiveElement = function( document ) {
 
 /*!
  * jQuery UI Menu 1.12.1
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 //>>label: Menu
 //>>group: Widgets
 //>>description: Creates nestable menus.
-//>>docs: http://api.jqueryui.com/menu/
-//>>demos: http://jqueryui.com/menu/
+//>>docs: https://api.jqueryui.com/menu/
+//>>demos: https://jqueryui.com/menu/
 //>>css.structure: ../../themes/base/core.css
 //>>css.structure: ../../themes/base/menu.css
 //>>css.theme: ../../themes/base/theme.css
@@ -1992,18 +1992,18 @@ var widgetsMenu = $.widget( "ui.menu", {
 
 /*!
  * jQuery UI Autocomplete 1.12.1
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  */
 
 //>>label: Autocomplete
 //>>group: Widgets
 //>>description: Lists suggested words as the user is typing.
-//>>docs: http://api.jqueryui.com/autocomplete/
-//>>demos: http://jqueryui.com/autocomplete/
+//>>docs: https://api.jqueryui.com/autocomplete/
+//>>demos: https://jqueryui.com/autocomplete/
 //>>css.structure: ../../themes/base/core.css
 //>>css.structure: ../../themes/base/autocomplete.css
 //>>css.theme: ../../themes/base/theme.css

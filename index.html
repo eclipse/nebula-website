@@ -1,113 +1,1883 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-
-<html>
+<html lang="en">
+  
+<!-- Mirrored from eclipse.dev/nebula/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Nov 2024 14:41:30 GMT -->
 <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Nebula</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width">
-
-	<meta name="keywords" content="eclipse, project, nebula" />
-	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-	<link rel="stylesheet" type="text/css" href="/eclipse.org-common/yui/2.6.0/build/menu/assets/skins/sam/menu.css" media="screen" />
-	<link rel="stylesheet" type="text/css" href="/eclipse.org-common/themes/Nova/css/layout.css" media="screen" />
-	<link rel="stylesheet" type="text/css" href="/eclipse.org-common/themes/Nova/css/header.css" media="screen" />
-	<link rel="stylesheet" type="text/css" href="/eclipse.org-common/themes/Nova/css/footer.css" media="screen" />
-	<link rel="stylesheet" type="text/css" href="/eclipse.org-common/themes/Nova/css/print.css" media="print" />
-
-	<link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
-    <link rel="stylesheet" href="css/main.css">
-    <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script> 
-    
-	<div class="container" >
-		<div id="promotion" style="float:left;padding: 11px 0 0 0;">
-			<a href="http://www.eclipsecon.org/france2013/registration/">
-				<img src="/home/promotions/france2013/register-now-b.png" alt="EclipseCon France 2013"/>
-			</a>
-		</div>
-		
-		<div id="otherSites" style="float:right;padding: 0 0 20px 0;background: #737db9;">
-			<div id="sites">
-				<ul id="sitesUL">
-					<li><a href='http://marketplace.eclipse.org'><img alt="Eclipse Marketplace" src="http://dev.eclipse.org/custom_icons/marketplace.png"/>&nbsp;<span>Eclipse Marketplace</span></a></li>
-					<li><a href='http://www.youtube.com/user/EclipseFdn' target="_blank"><img alt="Eclipse YouTube Channel" src="http://dev.eclipse.org/custom_icons/audio-input-microphone-bw.png"/>&nbsp;<span>Eclipse YouTube Channel</span></a></li>
-					<li><a href='https://bugs.eclipse.org/bugs/'><img alt="Bugzilla" src="http://dev.eclipse.org/custom_icons/system-search-bw.png"/>&nbsp;<span>Bugzilla</span></a></li>
-					<li><a href='http://www.eclipse.org/forums/'><img alt="Forums" src="http://dev.eclipse.org/large_icons/apps/internet-group-chat.png"/>&nbsp;<span>Eclipse Forums</span></a></li>
-					<li><a href='http://www.planeteclipse.org/'><img alt="Planet Eclipse" src="http://dev.eclipse.org/large_icons/devices/audio-card.png"/>&nbsp;<span>Planet Eclipse</span></a></li>
-					<li><a href='http://wiki.eclipse.org/'><img alt="Eclipse Wiki" src="http://dev.eclipse.org/custom_icons/accessories-text-editor-bw.png"/>&nbsp;<span>Eclipse Wiki</span></a></li>
-					<li><a href='http://portal.eclipse.org'><img alt="MyFoundation Portal" src="http://dev.eclipse.org/custom_icons/preferences-system-network-proxy-bw.png"/><span>My Foundation Portal</span></a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</head>
-<body>
-
-<div class="container" >
-	<div class="hero-unit">
-    	<div style="margin-left: 200px;">
-            	<h2><font color=#F8F8F8>Nebula</font> is a place where different Eclipse projects and independent developers <font color=FFFFCC>collaborate</font> on 
-            	building custom <font color=#FFFFCC>UI-Components</font> using <font color=#FFFFCC>SWT, JFace</font> and <font color=#FFFFCC>RAP</font>.</h2>
-  		</div>
-	</div>
-
-        <!-- Example row of columns -->
-        <div>
-            <div class="hero-box" onmousemove="m_in(this)" onmouseout="m_out(this)" style="background:#452b86 url('img/download.png') no-repeat bottom center;background-size: contain;">
-                Download
-            </div>
-            
-            <div class="hero-box" onmousemove="m_in(this)" onmouseout="m_out(this)" id="ga" style="margin-left:5%;background:#452b86 url('img/gallery1.png') no-repeat bottom center;background-size: contain;">
-                <h3>Gallery</h3>
-           	</div>
-           
-           	<div class="hero-box" onmousemove="m_in(this)" onmouseout="m_out(this)" style="float:right;background:#452b86 url('img/info-2-512.png') no-repeat bottom center;background-size: contain;">
-            	About
-           	</div>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'../../www.googletagmanager.com/gtm5445.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+<!-- End Google Tag Manager -->        <meta name="author" content="Chris Gross, Nicolas Richeton, Wim Jongman"/>
+        <meta name="keywords" content="Nebula, SWT, Widgets, Controls"/>
+    <link rel="shortcut icon" href="https://eclipse.dev/eclipse.org-common/themes/solstice/public/images/favicon.ico"/>
+    <title>Nebula Project | The Eclipse Foundation</title>
+    <link rel="preconnect stylesheet" href="../eclipse.org-common/themes/solstice/public/stylesheets/eclipse-ide.min9a70.css?v0.0.272"/>
+<meta name="description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
+<meta property="og:description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
+<meta property="og:image" content="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-200x200.png"/>
+<meta property="og:title" content="Nebula Project | The Eclipse Foundation"/>
+<meta property="og:image:width" content="200"/>
+<meta property="og:image:height" content="200"/>
+<meta itemprop="name" content="Nebula Project | The Eclipse Foundation"/>
+<meta itemprop="description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
+<meta itemprop="image" content="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-400x400.png"/>
+<meta name="twitter:site" content="@EclipseFdn"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Nebula Project | The Eclipse Foundation"/>
+<meta name="twitter:url" content="https://eclipse.dev/nebula/"/>
+<meta name="twitter:description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
+<meta name="twitter:image" content="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-400x400.png"/>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="preconnect stylesheet" type="text/css"/>
+    <script> var eclipse_org_common = {"settings":{"cookies_class":{"name":"eclipse_settings","enabled":1}}}</script>  </head>
+  <body id="body_solstice">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    <a class="sr-only" href="#content">Skip to main content</a>
+    <header class="header-wrapper" id="header-wrapper">
+      <div class="clearfix toolbar-container-wrapper">
+      <div class="container">
+        <div class="text-right toolbar-row row hidden-print">
+          <div class="col-md-24 row-toolbar-col">
+            <ul class="list-inline">
+              <li><a class="toolbar-link" href="https://accounts.eclipse.org/user/login/?takemeback=http%3A%2F%2Fwww.eclipse.org%2Fnebula%2F"><i class="fa fa-sign-in"></i> Log in</a></li>
+              <li><a class="toolbar-link toolbar-manage-cookies dropdown-toggle"><i class="fa fa-wrench"></i> Manage Cookies</a></li>
+            </ul>
+          </div>
+          
         </div>
+      </div>
+    </div>  <div class="container">
+    <div class="row" id="header-row">
+            <div class="col-sm-5 col-md-4" id="header-left">
+        <div class="wrapper-logo-default"><a href="http://www.eclipse.org/"><img class="logo-eclipse-default hidden-xs" alt="Eclipse.org logo" width="160" src="https://eclipse.dev/eclipse.org-common/themes/solstice/public/images/logo/eclipse-ide/eclipse_logo_white.svg"/></a></div>
+      </div>            <div class="col-sm-19 col-md-20 margin-top-10" id="main-menu-wrapper">
+      <div class="float-right hidden-xs" id="btn-call-for-action"><a href="https://www.eclipse.org/sponsor/" class="btn btn-huge btn-info"><i class="fa fa-star"></i> Sponsor</a></div>    <div class="navbar yamm float-sm-right" id="main-menu">
+    <div class="navbar-collapse collapse" id="navbar-main-menu">
+      <ul class="nav navbar-nav">
+        <li><a href="http://www.eclipse.org/projects/" target="_self">Projects</a></li><li><a href="http://www.eclipse.org/org/workinggroups/" target="_self">Working Groups</a></li><li><a href="http://www.eclipse.org/membership/" target="_self">Members</a></li>                  <li class="dropdown visible-xs"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Community <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="http://marketplace.eclipse.org/">Marketplace</a></li><li><a href="http://events.eclipse.org/">Events</a></li><li><a href="http://www.planeteclipse.org/">Planet Eclipse</a></li><li><a href="http://www.eclipse.org/community/eclipse_newsletter/">Newsletter</a></li><li><a href="https://www.youtube.com/user/EclipseFdn">Videos</a></li><li><a href="https://blogs.eclipse.org/">Blogs</a></li></ul></li><li class="dropdown visible-xs"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Participate <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="https://bugs.eclipse.org/bugs/">Report a Bug</a></li><li><a href="http://www.eclipse.org/forums/">Forums</a></li><li><a href="http://www.eclipse.org/mail/">Mailing Lists</a></li><li><a href="https://wiki.eclipse.org/">Wiki</a></li><li><a href="https://wiki.eclipse.org/IRC">IRC</a></li><li><a href="https://www.eclipse.org/org/research/">Research</a></li></ul></li><li class="dropdown visible-xs"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Eclipse IDE <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="http://www.eclipse.org/downloads">Download</a></li><li><a href="http://www.eclipse.org/eclipseide">Learn More</a></li><li><a href="https://help.eclipse.org/">Documentation</a></li><li><a href="http://www.eclipse.org/getting_started">Getting Started / Support</a></li><li><a href="http://www.eclipse.org/contribute/">How to Contribute</a></li><li><a href="http://www.eclipse.org/ide/">IDE and Tools</a></li><li><a href="https://www.eclipse.org/forums/index.php/f/89/">Newcomer Forum</a></li></ul></li>          <!-- More -->
+          <li class="dropdown eclipse-more hidden-xs">
+            <a data-toggle="dropdown" class="dropdown-toggle" role="button">More<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li>
+                <!-- Content container to add padding -->
+                <div class="yamm-content">
+                  <div class="row">
+                    <ul class="col-sm-8 list-unstyled"><li><p><strong>Community</strong></p></li><li><a href="http://marketplace.eclipse.org/">Marketplace</a></li><li><a href="http://events.eclipse.org/">Events</a></li><li><a href="http://www.planeteclipse.org/">Planet Eclipse</a></li><li><a href="http://www.eclipse.org/community/eclipse_newsletter/">Newsletter</a></li><li><a href="https://www.youtube.com/user/EclipseFdn">Videos</a></li><li><a href="https://blogs.eclipse.org/">Blogs</a></li></ul><ul class="col-sm-8 list-unstyled"><li><p><strong>Participate</strong></p></li><li><a href="https://bugs.eclipse.org/bugs/">Report a Bug</a></li><li><a href="http://www.eclipse.org/forums/">Forums</a></li><li><a href="http://www.eclipse.org/mail/">Mailing Lists</a></li><li><a href="https://wiki.eclipse.org/">Wiki</a></li><li><a href="https://wiki.eclipse.org/IRC">IRC</a></li><li><a href="https://www.eclipse.org/org/research/">Research</a></li></ul><ul class="col-sm-8 list-unstyled"><li><p><strong>Eclipse IDE</strong></p></li><li><a href="http://www.eclipse.org/downloads">Download</a></li><li><a href="http://www.eclipse.org/eclipseide">Learn More</a></li><li><a href="https://help.eclipse.org/">Documentation</a></li><li><a href="http://www.eclipse.org/getting_started">Getting Started / Support</a></li><li><a href="http://www.eclipse.org/contribute/">How to Contribute</a></li><li><a href="http://www.eclipse.org/ide/">IDE and Tools</a></li><li><a href="https://www.eclipse.org/forums/index.php/f/89/">Newcomer Forum</a></li></ul>                  </div>
+                </div>
+              </li>
+            </ul>
+          </li>
+                                <li class="dropdown eclipse-more main-menu-search">
+        <a data-toggle="dropdown" class="dropdown-toggle" role="button" aria-label="Open Google Search menu"><i class="fa fa-search"></i> <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+          <li>
+            <!-- Content container to add padding -->
+            <div class="yamm-content">
+              <div class="row">
+                <div class="col-sm-24">
+                  <p>Search</p>
+                      <form action="https://www.eclipse.org/home/search" method="get">
+      <div class="form-group">
+        <input class="form-control margin-bottom-10" type="textfield" name="q" placeholder="Search">
+        <input class="btn btn-primary" type="submit" value="Submit">
+      </div>
+    </form>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </li>        
+      </ul>
+    </div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-main-menu">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      </button>
+      <div class="wrapper-logo-mobile"><a class="navbar-brand visible-xs" href="http://www.eclipse.org/"><img class="logo-eclipse-default-mobile img-responsive" alt="Eclipse.org logo" width="160" src="https://eclipse.dev/eclipse.org-common/themes/solstice/public/images/logo/eclipse-ide/eclipse_logo_white.svg"/></a></div>    </div>
+  </div>
+</div>
+    </div>
+  </div>
+  </header>
+          <section class="default-breadcrumbs hidden-print breadcrumbs-default-margin" id="breadcrumb">
+      <div class="container">
+        <h3 class="sr-only">Breadcrumbs</h3>
+        <div class="row">
+          <div class="col-sm-24"><ol class="breadcrumb"><li><a href="https://eclipse.dev/">Home</a></li><li><a href="http://www.eclipse.org/projects/">Projects</a></li><li><a href="http://www.eclipse.org/nebula">nebula</a></li></ol></div>
+        </div>
+      </div>
+    </section> <!-- /#breadcrumb -->
+      <main id="content">
+        <div class="novaContent container legacy-page" id="novaContent">
+          <div class="row"><div class="col-md-18 main-col-content">
 
-        <footer style="clear:both;">
-            <p>&copy; the Nebula Project 2014</p>
-        </footer>
+    <a href="https://github.com/eclipse/nebula"><img style="position: absolute; top: 0; right: 0; border: 0;" src="../../s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
 
-    </div> <!-- /container -->
+	<div id="maincontent">
+		<div id="midcolumn">
+
+		<img class="img-responsive"  style="float:left" src="images/nebula_logo_main_300.png" border="0"
+			  alt="Nebula Project" align="left">
+			 <br><br><br><br><br>
+
+			<!-- h1>Nebula Project</h1 -->
+
+			  <p/>
+
+			<h2>Supplemental Custom Widgets</h2>
+			<p>Nebula is a place where different Eclipse-Projects and
+				Independent developers collaborate on building Custom SWT widgets
+				and reuseable UI-Components useable in UI-Applications built using
+				SWT and JFace.</p>
+
+			<p>All Nebula components are available on the navigation tree on
+				the left or from the table below. Each image links to a page that
+				will further describe the component and its function.</p>
+
+			<a name="mainComponents"></a>
+
+			<h3>Nebula Released Widgets:</h3>
+
+			<table width="100%" style="margin-top: 20px;">
+				<colgroup>
+					<col>
+					<col>
+				</colgroup>
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/cdatetime/cdatetime.html"><img class="img-responsive"
+										src="images/cdatetime.png" border="0"
+										alt="The CDateTime is a graphical and textual Date selection widget."
+										onload="startTime()"
+										title="CDateTime"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CDateTime</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/pshelf/pshelf.html"><img class="img-responsive"
+										src="images/pshelf.png" border="0"
+										alt="PShelf is a composite widget similar to a tab folder but uses an accordion-like metaphor."
+										title="PShelf"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PShelf</b></td>
+							</tr>
+						</table>
+					</td>
+
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/ganttchart/ganttchart.html"><img class="img-responsive"
+										src="images/ganttchart.png" border="0"
+										alt="GanttChart is a full featured and customizable GANTT charting component."
+										title="GanttChart" width="300"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>GanttChart</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/gallery/gallery.html"><img class="img-responsive"
+										src="images/gallery.png" border="0"
+										alt="Gallery lets you display any number of items organised in groups. Several group and item renderers are available with support for dynamic item size, drop shadows, auto margins, icon and list styles."
+										title="Gallery"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Gallery</b></td>
+							</tr>
+						</table>
+					</td>
+
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="widgets/grid/grid.html"><img class="img-responsive"
+										src="images/grid.png" border="0"
+										alt="The Grid is a table component that offers spreadsheet like features."
+										title="Grid"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Grid</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/paperclips/paperclips.html"><img class="img-responsive"
+										src="images/paperclips.jpg" width="320" height="240"
+										border="0"
+										alt="PaperClips is a simple, light weight, extensible Java printing library for SWT"
+										title="PaperClips"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PaperClips</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/oscilloscope/oscilloscope.html"><img class="img-responsive"
+										src="images/scope.gif" border="0"
+										alt="Oscilloscope is a fun and versatile widget for monitoring critical processes."
+										title="Oscilloscope"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Oscilloscope</b></td>
+							</tr>
+						</table>
+					</td>
+
+
+				<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/pgroup/pgroup.html"><img class="img-responsive"
+										src="images/pgroup.png" border="0"
+										alt="PGroup is a expandable/collapsible composite widget with attractive styling and an extensible design."
+										title="PGroup"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PGroup</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="widgets/richtext/richtext.html"><img class="img-responsive"
+										src="images/richtext.png" border="0"
+										alt="RichText - Embeddable rich text controls for editing and rendering HTML formatted text."
+										title="RichText"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>RichText</b></td>
+							</tr>
+						</table>
+					</td>
+					<td align="center" valign="bottom">&nbsp;</td>
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/geomap/geomap.html"><img class="img-responsive"
+										src="images/example_geomap.png" border="0"
+										alt="The GeoMap is a control that allows you to display data from an openstreetmap server."
+										title="Geomap"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>GeoMap</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/tablecombo/tablecombo.html"><img class="img-responsive"
+										src="images/tablecombo.png" width="320px" border="0"
+										alt="TableCombo is a composite widget similar to a CCombo but uses a table instead of a list control."
+										title="TableCombo"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>TableCombo</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/xviewer/xviewer.html"><img class="img-responsive"
+										src="images/xviewer.png" border="0"
+										alt="The purpose of the XViewer is to give the application developer a more advanced and dynamic TreeViewer that has the filtering and sorting the capabilities of a spreadsheet while providing the users the ability to customize their table to suit their current needs and save/restore these customizations for future use by individual or group."
+										title="XViewer"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>XViewer</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="widgets/stw/stw.html"><img class="img-responsive"
+										src="images/stw1.gif" border="0"
+										alt="STW - SWT Transition Widget is a widget for adding fancy transition effects."
+										title="STW - SWT Transition Widget"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>STW - SWT Transition Widget</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+					</td>
+
+				</tr>
+
+				<!-- Opal Widgets -->
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Breadcrumb"><img class="img-responsive"
+										src="images/opal/breadcrumb.png" border="0"
+										alt="The purpose of the Breadcrumb widget is to give the application developer a bread crumb like the ones present on web sites."
+										title="Breadcrumb"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Breadcrumb</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_CheckboxGroup"><img class="img-responsive"
+										src="images/opal/checkboxgroup.png" border="0"
+										alt="Checkbox group proposes a group in which elements can be easily enabled/disabled"
+										title="CheckboxGroup"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CheckboxGroup</b></td>
+							</tr>
+						</table>
+					</td>
+
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_ColumnBrowser"><img class="img-responsive"
+										src="images/opal/columnbrowser.png" border="0"
+										alt="The purpose of the ColumnBrowser widget is to present data in 'miller column' way."
+										title="ColumnBrowser"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>ColumnBrowser</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Dialog"><img class="img-responsive"
+										src="images/opal/dialog.png" border="0"
+										alt="This widget proposes new modern Dialog Boxes"
+										title="Dialog"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Dialog</b></td>
+							</tr>
+						</table>
+					</td>
+
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Duallist"><img class="img-responsive"
+										src="images/opal/duallist.jpg" border="0"
+										alt="This widget allows the user to select and order some data in a a list"
+										title="DualList"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>DualList</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Header"><img class="img-responsive"
+										src="images/opal/header.png" border="0"
+										alt="This widget makes easier the construction of headers in your application"
+										title="Header"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Header</b></td>
+							</tr>
+						</table>
+					</td>
+
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_HeapManager"><img class="img-responsive"
+										src="images/opal/heapmanager.png" border="0"
+										alt="This widget displays the state of the heap memory, and propose a button to perform a GC."
+										title="HeapManager"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>HeapManager</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_LoginDialog"><img class="img-responsive"
+										src="images/opal/login.png" border="0"
+										alt="This widget proposes a simple login/password dialog box"
+										title="Login"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>LoginDialog</b></td>
+							</tr>
+						</table>
+					</td>
+
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Multichoice"><img class="img-responsive"
+										src="images/opal/multichoice.png" border="0"
+										alt="This widget proposes a way to select multiple items in a list"
+										title="Multichoice"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Multichoice</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_Notifier"><img class="img-responsive"
+										src="images/opal/notifier.png" border="0"
+										alt="This widget allows developers to show notifications in a 'toaster'"
+										title="Notifier"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Notifier</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_PreferenceWindow"><img class="img-responsive"
+										src="images/opal/preferencewindow.png" border="0"
+										alt="This widget proposes a simple way to build a preference window."
+										title="PreferenceWindow"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PreferenceWindow</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_PromptSupport"><img class="img-responsive"
+										src="images/opal/promptsupport.png" border="0"
+										alt="This widget allows developers to add prompt texts on widgets"
+										title="PromptSupport"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PromptSupport</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_PropertyTable"><img class="img-responsive"
+										src="images/opal/propertytable.png" border="0"
+										alt="This widget proposes a simple way to build a table that presents a list of editable properties."
+										title="PropertyTable"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>PreferenceWindow</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_RangeSlider"><img class="img-responsive"
+										src="images/opal/rangeslider.png" border="0"
+										alt="This widget is an enhanced slider that handle a range of values"
+										title="RangeSlider"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>RangeSlider</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_RoundedToolbar"><img class="img-responsive"
+										src="images/opal/roundedtoolbar.png" border="0"
+										alt="This widget proposes another look for toolbar (close to the Mac OSX look)."
+										title="RoundedToolbar"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>RoundedToolbar</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_StarRating"><img class="img-responsive"
+										src="images/opal/starrating.png" border="0"
+										alt="This widget proposes a simple way to rate any data"
+										title="StarRating"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>StarRating</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_TextAssist"><img class="img-responsive"
+										src="images/opal/textassist.png" border="0"
+										alt="This widget proposes a text widget with content proposal."
+										title="TextAssist"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>TextAssist</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a href="https://wiki.eclipse.org/Nebula_TipOfTheDay"><img class="img-responsive"
+										src="images/opal/totd.png" border="0"
+										alt="This widget propose a 'Tip Of the Day' dialog box"
+										title="Tip of the day"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Tip of the day</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_TitledSeparator"><img class="img-responsive"
+										src="images/opal/titledseparator.png" border="0"
+										alt="This widget proposes an enhanced separator."
+										title="TitledSeparator"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>TitledSeparator</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Calculator"><img class="img-responsive"
+										src="images/opal/calculator.png" border="0"
+										alt="This widget proposes a calculator, that can be used in a combo."
+										title="Calculator"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Calculator</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_HorizontalSpinner"><img class="img-responsive"
+										src="images/opal/horizontalSpinner.png" border="0"
+										alt="This widget proposes an alternative to the spinner widget."
+										title="Horizontal Spinner"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Horizontal Spinner</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Launcher"><img class="img-responsive"
+										src="images/opal/launcher.png" border="0"
+										alt="This widget displays buttons. When ones click on a button, a fancy animation is shown"
+										title="Launcher"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Launcher</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Panels"><img class="img-responsive"
+										src="images/opal/darkPanel.png" border="0"
+										alt="This widget proposes an effect for dialog boxes."
+										title="Panels"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Panels</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_SwitchButton"><img class="img-responsive"
+										src="images/opal/switchbutton.jpg" border="0"
+										alt="This widget proposes a switch button."
+										title="Switch Button"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Switch Button</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_ProgressCircle"><img class="img-responsive"
+										src="images/progresscircle.png" border="0"
+										alt="This widget proposes a simple and light representation of a percentage value."
+										title="Panels"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>ProgressCircle</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_NebulaSlider"><img class="img-responsive"
+										src="images/nebulaslider.png" border="0"
+										alt="This widget proposes another look for the Slider Widget."
+										title="NebulaSlider"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>NebulaSlider</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+			<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_NebulaSplitButton"><img class="img-responsive"
+										src="images/splitbutton.png" border="0"
+										alt="This widget proposes a button with a contextual menu."
+										title="SplitButton"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>SplitButton</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_NebulaRoundedCheckBox"><img class="img-responsive"
+										src="images/roundedcheckbox.png" border="0"
+										alt="This widget proposes another look for the checkbox Widget."
+										title="NebulaRoundedCheckbox"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>NebulaRoundedCheckbox</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+
+
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula/FloatingText"><img class="img-responsive"
+										src="images/floatingtext.gif" border="0"
+										alt="Instances of this class allow the user to enter and modify text with a label floating above the input area."
+										title="FloatingText"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>FloatingText</b></td>
+							</tr>
+						</table>
+					</td>
+
+ 					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_PasswordRevealer"><img class="img-responsive"
+										src="images/passwordrevealer.png" border="0"
+										alt="This widget proposes a password field with and additional button to reveal the password."
+										title="Password Revealer"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Password Revealer</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_CTreeCombo"><img class="img-responsive"
+										src="images/ctreecombo.png" border="0"
+										alt="Instances of this class allows user to select one value like a combo, but data are displayed in a tree."
+										title="CTreeCombo"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CTreeCombo</b></td>
+							</tr>
+						</table>
+					</td>
+
+ 					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Badged_Label"><img class="img-responsive"
+										src="images/badgedlabel.png" border="0"
+										alt="This widget proposes a label that can be decorated with a badge."
+										title="Badged Label"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Badged Label</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_LED"><img class="img-responsive"
+										src="images/ledwidget.png" border="0"
+										alt="Instances of this class allows user to display a character like on a LED display."
+										title="LED Display"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>LED Display</b></td>
+							</tr>
+						</table>
+					</td>
+
+ 					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Stepbar"><img class="img-responsive"
+										src="images/stepbar.png" border="0"
+										alt="This widget proposes a progress with different steps."
+										title="Stepbar"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Step bar</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Chips"><img class="img-responsive"
+										src="images/chips.png" border="0"
+										alt="Instances of this class allows user to display a rounded-shaped button."
+										title="Chips"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Chips</b></td>
+							</tr>
+						</table>
+					</td>
+
+ 					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Carousel"><img class="img-responsive"
+										src="images/carousel.png" border="0"
+										alt="This widget shows a list of images."
+										title="Carousel"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Carousel</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_FontAwesome"><img class="img-responsive"
+										src="images/fontawesome.png" border="0"
+										alt="Utility class to use FontAwesome in SWT Widgets."
+										title="Font Awesome"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Nebula Font Awesome</b></td>
+							</tr>
+						</table>
+					</td>
+
+ 					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_RoundedSwitch"><img class="img-responsive"
+										src="images/roundedswitch.png" border="0"
+										alt="This widget is a switch checkbox."
+										title="Rounded Switch"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Rounded Switch</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_SegmentedBar"><img class="img-responsive"
+										src="images/segmentedbar.png" border="0"
+										alt="This widget proposes a bar with different segments"
+										title="Segmented bar"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>SegmentedBar</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://wiki.eclipse.org/Nebula_Tiles"><img class="img-responsive"
+										src="images/tiles.png" border="0"
+										alt="This widget proposes to display data as tiles"
+										title="Tiles"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Tiles</b></td>
+							</tr>
+						</table>
+						&nbsp;
+					</td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/treemapper/treemapper.html"><img class="img-responsive"
+										src="images/treemapper.png" width="320px"
+										alt="The TreeMapper widget is a widget that allows you to define mapping by simply drag and drop elements between 2 JFace TreeViewers"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>TreeMapper</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">&nbsp;</td>
+				</tr>
+
+
+			</table>
+
+			<a name="NatTable"></a>
+
+
+			<h3>NatTable :</h3>
+			<table width="100%" style="margin-top: 20px;">
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="https://www.eclipse.org/nattable/">
+										<img class="img-responsive" src="../nattable/images/FeatureScreenShot.html" width="600 height="600" border="0"
+										alt="NatTable is a powerful and flexible SWT table/grid widget."
+										title="NatTable">
+								</a></td>
+							</tr>
+						</table>
+				</table>
+
+			<a name="Visualization"></a>
+
+
+			<h3>Visualization :</h3>
+			<table width="100%" style="margin-top: 20px;">
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/visualization/visualization.html">
+										<img class="img-responsive" src="images/visualization.png" border="0"
+										alt="Visualization XY Graph."
+										title="Visualization">
+								</a></td>
+							</tr>
+						</table>
+			</table>
+
+			<a name="incubationComponents"></a>
+
+
+			<h3>Nebula Incubation Widgets :</h3>
+			<table width="100%" style="margin-top: 20px;">
+				<colgroup>
+					<col>
+					<col>
+				</colgroup>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/collapsiblebuttons/collapsiblebuttons.html">
+										<img class="img-responsive" src="images/collapsiblebuttons.png" border="0"
+										alt="CollapsibleButtons is a widget similar to the Microsoft Outlook button navigation bar."
+										title="CollapsibleButtons">
+								</a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CollapsibleButtons</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/compositetable/compositetable.html"><img class="img-responsive"
+										src="images/compositetable.png" border="0"
+										alt="CompositeTable gives you total flexibility to present and edit row-oriented data however you want."
+										title="CompositeTable"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>CompositeTable</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/datechooser/datechooser.html"><img class="img-responsive"
+										src="images/datechooser.png" border="0"
+										alt="DateChooser is a graphical date selection widget, with a fully customizable look & feel which is consistent between the differents platforms."
+										title="DateChooser"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>DateChooser</b></td>
+							</tr>
+						</table>
+					</td>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/datechooser/datechooser.html"><img class="img-responsive"
+										src="images/datechoosercombo.png" border="0"
+										alt="DateChooserCombo combines a FormattedText / DateFormatter with a drop down DateChooser popup."
+										title="DateChooserCombo"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>DateChooserCombo</b></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/formattedtext/formattedtext.html"><img class="img-responsive"
+										src="images/formattedtext.png" border="0"
+										alt="Decorator component adding input and display mask capabilities on a Text widget."
+										title="FormattedText"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>FormattedText</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">&nbsp;</td>
+				</tr>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/radiogroup/radiogroup.html"><img class="img-responsive"
+										src="images/radiogroup.png" border="0"
+										alt="RadioGroup presents a group of radio buttons"
+										title="RadioGroup"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>RadioGroup</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/picture/picture.html"><img class="img-responsive"
+										src="images/picture.png" border="0"
+										alt="The Picture control is a control that allows you to display an image, remove and modify it."
+										title="Picture"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Picture</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+
+				<tr>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/pagination/pagination.html"><img class="img-responsive"
+										src="images/pagination.png" border="0"
+										alt="The Pagination control is a control that allows you to display data in a table with navigation page."
+										title="Pagination"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Pagination</b></td>
+							</tr>
+						</table>
+					</td>
+
+					<td align="center" valign="bottom">
+						<table>
+							<tr>
+								<td align="center"><a
+									href="widgets/timeline/timeline.html"><img class="img-responsive"
+										src="widgets/timeline/timeline.png" border="0" width="250"
+										alt="The Timeline Picture control allows to display events on a time axis."
+										title="Timeline"></a></td>
+							</tr>
+							<tr>
+								<td align="center"><b>Timeline</b></td>
+							</tr>
+						</table>
+					</td>
+
+				</tr>
+
+				<tr>
+					<td height="25px"></td>
+				</tr>
+			</table>
+
+
+			<hr class="clearer" />
+		</div>
+
+		<div class="col-md-24">
+
+			<div class="sideitem">
+				<h6>Comments</h6>
+				<div align="center">
+					<a href="https://github.com/eclipse/nebula/issues/354">
+						<img class="img-responsive" align="center"
+						src="../../wiki.eclipse.org/images/7/7d/Bug.png" border="0"
+						alt="Report Problems with this site here" />Report page problems here.
+					</a>
+				</div>
+			</div>
+
+			<!--#include virtual="includes/sideItemsInclude.html" -->
+
+		</div>
+
+	</div>
+
+
+</div><div class="col-md-6 main-col-sidebar-nav">  <!-- nav -->
+  <aside class="main-sidebar-default-margin" id="main-sidebar">
     
-    <script>
-function m_in(x)
-{
-x.style.backgroundColor="#737db9";
-}
+    <ul class="ul-left-nav fa-ul hidden-print" id="leftnav" role="tablist" aria-multiselectable="true">
+                                    <li class="separator">
+              <a class="separator" href="http://www.eclipse.org/projects/project_summary.php?projectid=technology.nebula">
+                About this Project              </a>
+            </li>
+          
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="http://www.eclipse.org/projects/project_summary.php?projectid=technology.nebula">Project Management</a>
+              </li>
+                      
+                                            <li class="separator">
+              <a class="separator" href="http://wiki.eclipse.org/Nebula/New_Contributions">
+                Contributing              </a>
+            </li>
+          
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="http://projects.eclipse.org/projects/technology.nebula/who">Who is busy</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="contrib_process.html">Contribution Guide</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="author_tips.html">Widget Author Tips</a>
+              </li>
+                      
+                                            <li class="separator">
+              <a class="separator" href="index.html">
+                Project Home              </a>
+            </li>
+          
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://download.eclipse.org/nebula/updates/">Downloads</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="snippets.html">Snippets</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="examples.html">Examples</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="source.html">Source</a>
+              </li>
+                      
+                                            <li class="separator">
+              <a class="separator">
+                Nebula Release              </a>
+            </li>
+                                                                    <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Badged_Label">BadgedLabel</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Breadcrumb">Breadcrumb</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Calculator">Calculator</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Carousel">Carousel</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/cdatetime/cdatetime.html">CDateTime</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_CheckboxGroup">CheckboxGroup</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Chips">Chips</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_ColumnBrowser">ColumnBrowser</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_CTreeCombo">CTreeCombo</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Dialog">Dialog</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Duallist">DualList</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula/FloatingText">FloatingText</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_FontAwesome">FontAwesome</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/gallery/gallery.html">Gallery</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/ganttchart/ganttchart.html">GanttChart</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/geomap/geomap.html">GeoMap</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/grid/grid.html">Grid</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Header">Header</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_HeapManager">HeapManager</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_HorizontalSpinner">Horizontal Spinner</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Launcher">Launcher</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_LED">LED</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_LoginDialog">LoginDialog</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Multichoice">Multichoice</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_NebulaRoundedCheckBox">Nebula RoundedCheckbox</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_NebulaSlider">Nebula Slider</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_NebulaSplitButton">Nebula SplitButton</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Notifier">Notifier</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/oscilloscope/oscilloscope.html">Oscilloscope</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Panels">Panels</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/paperclips/paperclips.html">PaperClips</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_PasswordRevealer">Password revealer</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_PreferenceWindow">PreferenceWindow</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_ProgressCircle">ProgressCircle</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_PromptSupport">PromptSupport</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_PropertyTable">PropertyTable</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_RangeSlider">RangeSlider</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/pgroup/pgroup.html">PGroup</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/pshelf/pshelf.html">PShelf</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/richtext/richtext.html">RichText</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_RoundedSwitch">RoundedSwitch</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_RoundedToolbar">RoundedToolbar</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_SegmentedBar">SegmentedBar</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_StarRating">StarRating</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Stepbar">Stepbar</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_SwitchButton">SwitchButton</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/tablecombo/tablecombo.html">TableCombo</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_TextAssist">TextAssist</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_Tiles">Tiles</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_TipOfTheDay">Tip of the Day</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://wiki.eclipse.org/Nebula_TitledSeparator">TitledSeparator</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/stw/stw.html">Transition</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/treemapper/treemapper.html">TreeMapper</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/visualization/visualization.html">Visualization</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/xviewer/xviewer.html">XViewer</a>
+              </li>
+                      
+                                            <li class="separator">
+              <a class="separator">
+                Nebula NatTable              </a>
+            </li>
+                                                                    <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://eclipse.dev/nattable/index.php">NatTable</a>
+              </li>
+                      
+                                            <li class="separator">
+              <a class="separator">
+                Nebula Incubation              </a>
+            </li>
+                                                                    <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/collapsiblebuttons/collapsiblebuttons.html">CollapsibleButtons</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/compositetable/compositetable.html">CompositeTable</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/datechooser/datechooser.html">DateChooser</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/formattedtext/formattedtext.html">FormattedText</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/pagination/pagination.html">Pagination</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/picture/picture.html">Picture</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/radiogroup/radiogroup.html">RadioGroup</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="widgets/timeline/timeline.html">Timeline</a>
+              </li>
+                      
+                                            <li class="separator">
+              <a class="separator">
+                Community              </a>
+            </li>
+                                                                    <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="http://wiki.eclipse.org/Nebula">Wiki</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="http://www.eclipse.org/forums/index.php/f/64/">Newsgroup</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://dev.eclipse.org/mailman/listinfo/nebula-dev">Mailing List</a>
+              </li>
+                      
+                                                          <li>
+                <i class="fa fa-caret-right fa-fw"></i>
+                <a href="https://github.com/eclipse/nebula/issues/new">Bugs</a>
+              </li>
+                      
+                  </ul>
+      </aside>
+  </div></div>
+        </div>
+      </main><p id="back-to-top">
+  <a class="visible-xs" href="#top">Back to the top</a>
+</p>
+  <div class="eclipsefdn-featured-story featured-footer" data-publish-target="eclipse_org"><div class="container featured-container"></div></div><footer id="solstice-footer">
+    <div class="container">
+    <div class="row">
+      <section class="col-sm-6 hidden-print" id="footer-eclipse-foundation">
+            <h2 class="section-title">Eclipse Foundation</h2>
+    <ul class="nav"><li><a href="http://www.eclipse.org/org/">About Us</a></li><li><a href="http://www.eclipse.org/org/foundation/contact.php">Contact Us</a></li><li><a href="http://www.eclipse.org/sponsor">Sponsor</a></li><li><a href="http://www.eclipse.org/membership/">Members</a></li><li><a href="http://www.eclipse.org/org/documents/">Governance</a></li><li><a href="http://www.eclipse.org/org/documents/Community_Code_of_Conduct.php">Code of Conduct</a></li><li><a href="http://www.eclipse.org/artwork/">Logo and Artwork</a></li><li><a href="http://www.eclipse.org/org/foundation/directors.php">Board of Directors</a></li><li><a href="http://www.eclipse.org/careers">Careers</a></li></ul>      </section>
+      <section class="col-sm-6 hidden-print" id="footer-legal">
+            <h2 class="section-title">Legal</h2>
+    <ul class="nav"><li><a href="http://www.eclipse.org/legal/privacy.php">Privacy Policy</a></li><li><a href="http://www.eclipse.org/legal/termsofuse.php">Terms of Use</a></li><li><a href="http://www.eclipse.org/legal/compliance/">Compliance</a></li><li><a href="http://www.eclipse.org/legal/epl-2.0/">Eclipse Public License</a></li><li><a href="http://www.eclipse.org/legal/">Legal Resources</a></li></ul>      </section>
+      <section class="col-sm-6 hidden-print" id="footer-useful-links">
+            <h2 class="section-title">Useful Links</h2>
+    <ul class="nav"><li><a href="https://bugs.eclipse.org/bugs/">Report a Bug</a></li><li><a href="http://help.eclipse.org/">Documentation</a></li><li><a href="http://www.eclipse.org/contribute/">How to Contribute</a></li><li><a href="http://www.eclipse.org/mail/">Mailing Lists</a></li><li><a href="http://www.eclipse.org/forums/">Forums</a></li><li><a href="http://marketplace.eclipse.org/">Marketplace</a></li></ul>      </section>
+      <section class="col-sm-6 hidden-print" id="footer-other">
+            <h2 class="section-title">Other</h2>
+    <ul class="nav"><li><a href="http://www.eclipse.org/ide/">IDE and Tools</a></li><li><a href="http://www.eclipse.org/projects">Projects</a></li><li><a href="http://www.eclipse.org/org/workinggroups/">Working Groups</a></li><li><a href="http://www.eclipse.org/org/research/">Research@Eclipse</a></li><li><a href="http://www.eclipse.org/security/">Report a Vulnerability</a></li><li><a href="https://status.eclipse.org/">Service Status</a></li></ul>      </section>
+            <div class="col-sm-24 margin-top-20">
+        <div class="row">
+          <div id="copyright" class="col-md-16">
+            <p id="copyright-text">Copyright &copy; Eclipse Foundation AISBL. All Rights Reserved.</p>
+          </div>
+          <div class="col-md-8 social-media">
+            <ul class="list-inline">
+              <li>
+                <a class="social-media-link fa-stack fa-lg" href="https://twitter.com/EclipseFdn" aria-label="Eclipse Foundation Twitter profile">
+                  <i class="fa fa-circle-thin fa-stack-2x"></i>
+                  <i class="fa fa-twitter fa-stack-1x"></i>
+                </a>
+              </li>
+              <li>
+                <a class="social-media-link fa-stack fa-lg" href="https://www.facebook.com/eclipse.org" aria-label="Eclipse Foundation Facebook page">
+                  <i class="fa fa-circle-thin fa-stack-2x"></i>
+                  <i class="fa fa-facebook fa-stack-1x"></i>
+                </a>
+              </li>
+              <li>
+                <a class="social-media-link fa-stack fa-lg" href="https://www.youtube.com/user/EclipseFdn" aria-label="Eclipse Foundation YouTube channel">
+                  <i class="fa fa-circle-thin fa-stack-2x"></i>
+                  <i class="fa fa-youtube fa-stack-1x"></i>
+                </a>
+              </li>
+              <li>
+                <a class="social-media-link fa-stack fa-lg" href="https://www.linkedin.com/company/eclipse-foundation" aria-label="Eclipse Foundation Linkedin profile">
+                  <i class="fa fa-circle-thin fa-stack-2x"></i>
+                  <i class="fa fa-linkedin fa-stack-1x"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>      <a href="#" class="scrollup">Back to the top</a>
+    </div>
+  </div>
+</footer>
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../eclipse.org-common/themes/solstice/public/javascript/main.min79dc.js?var=0.0.272"></script>
 
-function m_out(x)
-{
-// console.log("m_out" + x);
-x.style.backgroundColor="#452b86";
-}
-
-</script>
-
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-
-    <script src="js/vendor/bootstrap.min.js"></script>
-
-    <script src="js/plugins.js"></script>
-    <script src="js/main.js"></script>
-
-    <script>
-        var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
-        (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-        g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-        s.parentNode.insertBefore(g,s)}(document,'script'));
-        
-        
-        
-    </script>
 </body>
+
+<!-- Mirrored from eclipse.dev/nebula/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Nov 2024 14:42:18 GMT -->
 </html>
